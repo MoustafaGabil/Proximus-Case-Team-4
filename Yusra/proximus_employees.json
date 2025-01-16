@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Phishing Email Prompt - Proximus Style</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .email-container {
+            width: 600px;
+            margin: 0 auto;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 10px;
+            padding: 20px;
+        }
+        .email-header {
+            background-color: #5f0f7f; /* Proximus purple */
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        .email-header img {
+            width: 100px;
+            margin-bottom: 10px;
+        }
+        .email-header h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+        .email-content {
+            font-size: 16px;
+            color: #333;
+            margin-top: 20px;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #5f0f7f; /* Proximus purple */
+            color: white;
+            text-align: center;
+            font-weight: bold;
+            border-radius: 5px;
+            text-decoration: none;
+            margin-top: 20px;
+        }
+        .cta-button:hover {
+            background-color: #4b0d66;
+        }
+        .email-footer {
+            font-size: 14px;
+            color: #777;
+            text-align: center;
+            margin-top: 20px;
+        }
+        .email-footer p {
+            margin: 5px 0;
+        }
+        .email-footer a {
+            color: #5f0f7f;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<div class="email-container">
+    <div class="email-header">
+        <img src="p_logo.jpg" alt="Proximus Logo">
+        <h1>Proximus - Security Alert</h1>
+    </div>
+
+    <div class="email-content">
+        <p>Dear John Doe,</p>
+        <p>We noticed unusual activity on your account and require you to verify your login credentials. Please follow the link below to ensure the security of your account:</p>
+        
+        <!-- Dynamic content -->
+        <p><strong>Reason:</strong> Account Suspicious Activity</p>
+        <p><strong>Created By:</strong> Sam Sussy (IT Security Officer)</p>
+        
+        <a href="https://example.com/secure-login" class="cta-button">I’m signing up!</a>
+
+        <p>For your safety, please do not ignore this urgent message. This action must be completed as soon as possible to prevent any unauthorized access to your account.</p>
+
+        <p>Thank you for your attention to this matt
