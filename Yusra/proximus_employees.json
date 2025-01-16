@@ -1,0 +1,30 @@
+[
+    {
+        "first_name": "Alice",
+        "last_name": "Dupont",
+        "role": "Network Engineer",
+        "department": "Engineering",
+        "date_of_birth": "1985-03-12"
+    },
+    {
+        "first_name": "Bob",
+        "last_name": "Vermeulen",
+        "role": "Customer Support Specialist",
+        "department": "Customer Service",
+        "date_of_birth": "1990-07-25"
+    },
+    {
+        "first_name": "Carla",
+        "last_name": "Janssens",
+        "role": "Sales Manager",
+        "department": "Sales",
+        "date_of_birth": "1982-11-03"
+    },
+    {
+        "first_name": "David",
+        "last_name": "Peeters",
+        "role": "HR Specialist",
+        "department": "Human Resources",
+        "date_of_birth": "1995-05-19"
+    }
+]
