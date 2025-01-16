@@ -13,30 +13,30 @@
         }
         .email-container {
             width: 600px;
-            margin: 0 auto;
+            margin: 20px auto;
             background-color: #fff;
             border: 1px solid #ddd;
             border-radius: 10px;
             padding: 20px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
         .email-header {
-            background-color: #5f0f7f; /* Proximus purple */
-            color: #fff;
-            padding: 20px 0;
+            background-color: #fff; /* Proximus purple */
+            color: #501879;
+            padding: 10px 0;
             text-align: center;
+            font-size: 24px;
+            font-weight: bold;
         }
         .email-header img {
-            width: 100px;
+            width: 120px;
             margin-bottom: 10px;
-        }
-        .email-header h1 {
-            font-size: 24px;
-            margin: 0;
         }
         .email-content {
             font-size: 16px;
             color: #333;
             margin-top: 20px;
+            line-height: 1.5;
         }
         .cta-button {
             display: inline-block;
@@ -71,8 +71,9 @@
 
 <div class="email-container">
     <div class="email-header">
+        <!-- Replace with the local path of your uploaded Proximus logo -->
         <img src="p_logo.jpg" alt="Proximus Logo">
-        <h1>Proximus - Security Alert</h1>
+         Proximus - Security Alert
     </div>
 
     <div class="email-content">
@@ -83,8 +84,20 @@
         <p><strong>Reason:</strong> Account Suspicious Activity</p>
         <p><strong>Created By:</strong> Sam Sussy (IT Security Officer)</p>
         
-        <a href="https://example.com/secure-login" class="cta-button">I’m signing up!</a>
+        <a href="https://example.com/secure-login" class="cta-button">Verify Account</a>
 
         <p>For your safety, please do not ignore this urgent message. This action must be completed as soon as possible to prevent any unauthorized access to your account.</p>
 
-        <p>Thank you for your attention to this matt
+        <p>Thank you for your attention to this matter.</p>
+    </div>
+
+    <div class="email-footer">
+        <p><strong>Proximus IT Security Team</strong></p>
+        <p>Email: support@proximus.be | Phone: +32 475 15 60 30</p>
+        <p>Visit our website: <a href="https://proximus.be">proximus.be</a></p>
+        <p><a href="#">Help</a> | <a href="#">My Proximus</a></p>
+    </div>
+</div>
+
+</body>
+</html>
