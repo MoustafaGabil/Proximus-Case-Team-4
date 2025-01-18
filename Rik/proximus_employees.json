@@ -1,0 +1,80 @@
+[
+    {
+        "first_name": "Guillaume",
+        "family_name": "Boutin",
+        "role": "Chief Executive Officer",
+        "department": "Executive Board"
+    },
+    {
+        "first_name": "Stefaan",
+        "family_name": "De Clerck",
+        "role": "Chairman",
+        "department": "Executive Board"
+    },
+    {
+        "first_name": "Jim",
+        "family_name": "Casteele",
+        "role": "Chief Consumer Market Officer",
+        "department": "Senior Management"
+    },
+    {
+        "first_name": "Antonietta",
+        "family_name": "Mastroianni",
+        "role": "Chief Digital and IT Officer",
+        "department": "Senior Management"
+    },
+    {
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Chief Financial Officer",
+        "department": "Leadership Squad"
+    },
+    {
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Leadership Squad"
+    },
+    {
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Leadership Squad"
+    },
+    {
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Leadership Squad"
+    },
+    {
+        "first_name": "Caroline",
+        "family_name": "Basyn",
+        "role": "Independent director",
+        "department": "Board of directors"
+    },
+    {
+        "first_name": "C\u00e9cile",
+        "family_name": "Coune",
+        "role": "Independent director",
+        "department": "Board of directors"
+    },
+    {
+        "first_name": "Karel",
+        "family_name": "De Gucht",
+        "role": "Director",
+        "department": "Board of directors"
+    },
+    {
+        "first_name": "Martin",
+        "family_name": "De Prycker",
+        "role": "Managing Partner",
+        "department": "Candidate Board Members"
+    },
+    {
+        "first_name": "Catherine",
+        "family_name": "Rutten",
+        "role": "Vice-President International, Government Affairs & Public Policy",
+        "department": "Candidate Board Members"
+    }
+]

@@ -1,0 +1,267 @@
+[
+    {
+        "provider": "Scarlet",
+        "service": "Telecommunication services",
+        "type": "Subsidiary using Proximus infrastructure"
+    },
+    {
+        "provider": "Mobile Vikings",
+        "service": "Telecommunication services",
+        "type": "Brand of Proximus"
+    },
+    {
+        "provider": "Tango",
+        "service": "Telecommunication services",
+        "type": "Brand of Proximus Luxembourg"
+    },
+    {
+        "provider": "Telindus Luxembourg",
+        "service": "Telecommunication services",
+        "type": "Brand of Proximus Luxembourg"
+    },
+    {
+        "provider": "Telindus Netherlands",
+        "service": "Telecommunication services",
+        "type": "Brand of Proximus in the Netherlands"
+    },
+    {
+        "provider": "BICS",
+        "service": "International communication services",
+        "type": "Proximus affiliate"
+    },
+    {
+        "provider": "Telesign",
+        "service": "Communication platform and digital identity services",
+        "type": "Proximus affiliate"
+    },
+    {
+        "provider": "Be-Mobile",
+        "service": "IT services",
+        "type": "Proximus IT partner"
+    },
+    {
+        "provider": "ClearMedia",
+        "service": "IT services",
+        "type": "Proximus IT partner"
+    },
+    {
+        "provider": "Codit",
+        "service": "Data-driven cloud solutions",
+        "type": "Proximus IT partner"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "service": "Cybersecurity and operational intelligence",
+        "type": "Proximus IT partner"
+    },
+    {
+        "provider": "Proximus Spearit",
+        "service": "IT services",
+        "type": "Proximus IT partner"
+    },
+    {
+        "provider": "Telindus",
+        "service": "ICT services and network integration solutions",
+        "type": "Acquired by Proximus"
+    },
+    {
+        "provider": "Euremis",
+        "service": "Mobile CRM solutions",
+        "type": "Acquired by Proximus"
+    },
+    {
+        "provider": "Apple",
+        "service": "Mobile devices",
+        "type": "Partnership for device access"
+    },
+    {
+        "provider": "Samsung",
+        "service": "Mobile devices",
+        "type": "Partnership for device access"
+    },
+    {
+        "provider": "Netflix",
+        "service": "Streaming services",
+        "type": "Partnership for content streaming"
+    },
+    {
+        "provider": "Datacenter United",
+        "service": "Datacenter services",
+        "type": "Buyer of Proximus' datacenter business"
+    },
+    {
+        "provider": "Microsoft",
+        "service": "Cloud services and AI",
+        "type": "Strategic partnership for Azure Cloud and AI"
+    },
+    {
+        "provider": "UMBRiO",
+        "service": "Cybersecurity and operational intelligence",
+        "type": "Specialist in cybersecurity"
+    },
+    {
+        "provider": "Tech Mahindra",
+        "service": "Platform development",
+        "type": "Partner for building a new innovative platform"
+    },
+    {
+        "provider": "Belcenter",
+        "service": "B2B telco services",
+        "type": "Technology partner"
+    },
+    {
+        "provider": "Citymesh",
+        "service": "Wireless network development and management",
+        "type": "B2B telecom operator"
+    },
+    {
+        "provider": "Colt Technology Services",
+        "service": "Digital infrastructure and connectivity",
+        "type": "Global digital infrastructure company"
+    },
+    {
+        "provider": "Comsave",
+        "service": "E-commerce platform for internet services",
+        "type": "Acquired by Expereo"
+    },
+    {
+        "provider": "Expereo",
+        "service": "Managed Internet and Cloud Access",
+        "type": "Acquired Comsave"
+    },
+    {
+        "provider": "Sewan",
+        "service": "Telecom carrier services",
+        "type": "International telecom carrier"
+    },
+    {
+        "provider": "3StarsNet",
+        "service": "B2B telecom services",
+        "type": "Acquired by Sewan"
+    },
+    {
+        "provider": "Yoin",
+        "service": "Mobile and internet services",
+        "type": "Independent telecom provider"
+    },
+    {
+        "provider": "Broadcom",
+        "service": "Cloud services",
+        "type": "VMware Cloud Services Provider"
+    },
+    {
+        "provider": "TMF Mobile (MTV Networks Benelux)",
+        "service": "Mobile network services",
+        "type": "Mobile Virtual Network Operator (MVNO) using Proximus network"
+    },
+    {
+        "provider": "Mobisud",
+        "service": "Mobile network services",
+        "type": "Mobile Virtual Network Operator (MVNO) using Proximus network"
+    },
+    {
+        "provider": "RSCA Mobile",
+        "service": "Mobile network services",
+        "type": "Mobile Virtual Network Operator (MVNO) using Proximus network"
+    },
+    {
+        "provider": "Dommel",
+        "service": "Mobile network services",
+        "type": "Mobile Virtual Network Operator (MVNO) using Proximus network"
+    },
+    {
+        "provider": "PostMobile (bpost)",
+        "service": "Mobile network services",
+        "type": "Mobile Virtual Network Operator (MVNO) using Proximus network"
+    },
+    {
+        "provider": "Fifthnet",
+        "service": "Fiber to the Home (FttH) implementation",
+        "type": "Fiber construction partner"
+    },
+    {
+        "provider": "Go4Fiber",
+        "service": "Fiber to the Home (FttH) implementation",
+        "type": "Fiber construction partner"
+    },
+    {
+        "provider": "Constructel",
+        "service": "Fiber to the Home (FttH) implementation",
+        "type": "Fiber construction partner"
+    },
+    {
+        "provider": "Fiberklaar",
+        "service": "Fiber network design, build, maintenance and upgrade",
+        "type": "Proximus affiliate"
+    },
+    {
+        "provider": "Unifiber",
+        "service": "Fiber network roll-out",
+        "type": "Joint venture for fiber network expansion"
+    },
+    {
+        "provider": "Glasfaser OstBelgien",
+        "service": "Fiber network deployment",
+        "type": "Joint venture for fiber network expansion"
+    },
+    {
+        "provider": "H. Essers",
+        "service": "Logistics and delivery",
+        "type": "Delivery partner"
+    },
+    {
+        "provider": "WPP group",
+        "service": "Marketing and innovation",
+        "type": "Enhanced partnership for marketing"
+    },
+    {
+        "provider": "Springbok",
+        "service": "Marketing and innovation",
+        "type": "Integrated into Proximus ecosystem"
+    },
+    {
+        "provider": "Orange",
+        "service": "Mobile network services",
+        "type": "Competitor and eSIM partner"
+    },
+    {
+        "provider": "Telenet",
+        "service": "Mobile network services",
+        "type": "Competitor and eSIM partner"
+    },
+    {
+        "provider": "Ubigi",
+        "service": "Mobile network services",
+        "type": "eSIM partner"
+    },
+    {
+        "provider": "Wister",
+        "service": "Third-party services",
+        "type": "Third-party service provider"
+    },
+    {
+        "provider": "Veedz",
+        "service": "Third-party services",
+        "type": "Third-party service provider"
+    },
+    {
+        "provider": "De Lijn",
+        "service": "Third-party services",
+        "type": "Third-party service provider"
+    },
+    {
+        "provider": "Belfius",
+        "service": "Banking services",
+        "type": "Partner for Banx digital banking app"
+    },
+    {
+        "provider": "4411",
+        "service": "Smart mobility app",
+        "type": "Mobility service provider"
+    },
+    {
+        "provider": "Flitsmeister",
+        "service": "Smart mobility app",
+        "type": "Mobility service provider"
+    }
+]

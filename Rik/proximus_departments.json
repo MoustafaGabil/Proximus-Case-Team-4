@@ -1,0 +1,68 @@
+[
+    {
+        "department": "CEO's Department",
+        "subdivision": []
+    },
+    {
+        "department": "Consumer Market",
+        "subdivision": []
+    },
+    {
+        "department": "Enterprise Market",
+        "subdivision": [
+            "Proximus NXT"
+        ]
+    },
+    {
+        "department": "Corporate Affairs",
+        "subdivision": []
+    },
+    {
+        "department": "Network & Wholesale",
+        "subdivision": []
+    },
+    {
+        "department": "Customer Operations",
+        "subdivision": []
+    },
+    {
+        "department": "Human Capital",
+        "subdivision": []
+    },
+    {
+        "department": "Digital & IT",
+        "subdivision": []
+    },
+    {
+        "department": "Finance",
+        "subdivision": []
+    },
+    {
+        "department": "Proximus Global",
+        "subdivision": [
+            "BICS",
+            "Telesign",
+            "Route Mobile"
+        ]
+    },
+    {
+        "department": "Proximus Real Estate",
+        "subdivision": [
+            "Connectimmo"
+        ]
+    },
+    {
+        "department": "Sustainability",
+        "subdivision": []
+    },
+    {
+        "department": "Corporate Prevention & Protection",
+        "subdivision": [
+            "Environmental department"
+        ]
+    },
+    {
+        "department": "Internal Audit",
+        "subdivision": []
+    }
+]
