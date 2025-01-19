@@ -46,10 +46,17 @@
         ]
     },
     {
-        "department": "Proximus Real Estate",
+        "department": "Proximus Media House",
         "subdivision": [
-            "Connectimmo"
+            "Pickx",
+            "Pickx+",
+            "Pickx+ Sports",
+            "Pickx Live"
         ]
+    },
+    {
+        "department": "Connectimmo",
+        "subdivision": []
     },
     {
         "department": "Sustainability",

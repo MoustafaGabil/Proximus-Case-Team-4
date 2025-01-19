@@ -1,6 +1,6 @@
 [
     {
-        "color_name_1": "Primary color positive",
+        "color_name_1": "Primary Purple",
         "hex_code_1": "#5C2D91",
         "rgb_code_1": [
             92,
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "color_name_2": "Primary color negative",
+        "color_name_2": "White",
         "hex_code_2": "#FFFFFF",
         "rgb_code_2": [
             255,
@@ -18,18 +18,9 @@
         ]
     },
     {
-        "color_name_3": "Pickx",
-        "hex_code_3": "#282233",
+        "color_name_3": "Black",
+        "hex_code_3": "#000000",
         "rgb_code_3": [
-            40,
-            34,
-            51
-        ]
-    },
-    {
-        "color_name_4": "Black",
-        "hex_code_4": "#000000",
-        "rgb_code_4": [
             0,
             0,
             0
