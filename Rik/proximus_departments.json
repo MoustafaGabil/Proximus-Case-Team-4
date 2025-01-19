@@ -1,6 +1,6 @@
 [
     {
-        "department": "CEO's Department",
+        "department": "Chief Executive Officer's Department",
         "subdivision": []
     },
     {
@@ -18,7 +18,7 @@
         "subdivision": []
     },
     {
-        "department": "Network & Wholesale",
+        "department": "Network and Wholesale",
         "subdivision": []
     },
     {
@@ -30,7 +30,7 @@
         "subdivision": []
     },
     {
-        "department": "Digital & IT",
+        "department": "Digital and Information Technology",
         "subdivision": []
     },
     {
@@ -47,12 +47,7 @@
     },
     {
         "department": "Proximus Media House",
-        "subdivision": [
-            "Pickx",
-            "Pickx+",
-            "Pickx+ Sports",
-            "Pickx Live"
-        ]
+        "subdivision": []
     },
     {
         "department": "Connectimmo",

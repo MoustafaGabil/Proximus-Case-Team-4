@@ -3,7 +3,7 @@
         "first_name": "Guillaume",
         "family_name": "Boutin",
         "role": "Chief Executive Officer",
-        "department": "Leadership Squad"
+        "department": "Executive Committee"
     },
     {
         "first_name": "Stefaan",
@@ -15,24 +15,18 @@
         "first_name": "Jim",
         "family_name": "Casteele",
         "role": "Chief Consumer Market Officer",
-        "department": "Leadership Squad"
+        "department": "Senior Management"
     },
     {
         "first_name": "Antonietta",
         "family_name": "Mastroianni",
-        "role": "Chief Digital & IT Officer",
-        "department": "Leadership Squad"
+        "role": "Chief Digital and IT Officer",
+        "department": "Senior Management"
     },
     {
         "first_name": "Mark",
         "family_name": "Reid",
         "role": "Finance Lead",
-        "department": "Leadership Squad"
-    },
-    {
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Network & Wholesale Lead",
         "department": "Leadership Squad"
     },
     {
@@ -42,22 +36,28 @@
         "department": "Leadership Squad"
     },
     {
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Leadership Squad"
+    },
+    {
         "first_name": "Anne-Sophie",
         "family_name": "Lotgering",
         "role": "Enterprise IT Services & Segments Lead",
         "department": "Leadership Squad"
     },
     {
-        "first_name": "Renaud",
-        "family_name": "Tilmans",
-        "role": "Enterprise Telco Services & Ops Lead",
-        "department": "Leadership Squad"
-    },
-    {
         "first_name": "Jan",
         "family_name": "Van Acoleyen",
-        "role": "Human Capital Lead",
-        "department": "Leadership Squad"
+        "role": "Chief Human Resources Officer",
+        "department": "Leadership Team"
+    },
+    {
+        "first_name": "Renaud",
+        "family_name": "Tilmans",
+        "role": "Customer Operations Lead",
+        "department": "Leadership Team"
     },
     {
         "first_name": "Caroline",
@@ -123,79 +123,73 @@
         "first_name": "Jacques",
         "family_name": "Ruckert",
         "role": "Chief Solutions & Innovation Officer",
-        "department": "Unknown"
+        "department": "Leadership Team"
     },
     {
         "first_name": "Jason",
         "family_name": "Vanherrewegge",
         "role": "Chief Editor",
-        "department": "Unknown"
+        "department": "Leadership Team"
     },
     {
         "first_name": "Geert",
         "family_name": "Kelchtermans",
-        "role": "VP Small & Medium Enterprises - Tribe Lead",
-        "department": "Unknown"
+        "role": "VP Small & Medium Enterprises",
+        "department": "Tribe Lead"
     },
     {
         "first_name": "Jan",
         "family_name": "van Oekelen",
         "role": "Lead Manager Solution Sales",
-        "department": "Unknown"
+        "department": "Sales"
     },
     {
         "first_name": "Sebastien",
         "family_name": "Evrard",
-        "role": "Center Of Excellence Lead - Pricing & Promotions",
-        "department": "Unknown"
+        "role": "Center Of Excellence Lead",
+        "department": "Pricing & Promotions"
     },
     {
         "first_name": "Thomas",
         "family_name": "Vanherk",
         "role": "Team Lead ICT Pricing & Costing",
-        "department": "Unknown"
+        "department": "Pricing"
     },
     {
         "first_name": "Annemie",
         "family_name": "Peetermans",
-        "role": "Product Owner Lead - E2e Sales Journeys Physical Channels",
-        "department": "Unknown"
+        "role": "Product Owner Lead",
+        "department": "E2e Sales Journeys Physical Channels"
     },
     {
         "first_name": "Olivier",
         "family_name": "Crucq",
         "role": "Director Commercial & Marketing Chapter Area",
-        "department": "Unknown"
+        "department": "Commercial & Marketing"
     },
     {
         "first_name": "Paul",
         "family_name": "Burch",
         "role": "Sales & Marketing Director",
-        "department": "Unknown"
+        "department": "Sales & Marketing"
     },
     {
         "first_name": "Pierre",
         "family_name": "Demoulin",
         "role": "Fiber Sales Lead",
-        "department": "Unknown"
+        "department": "Sales"
     },
     {
         "first_name": "Igor",
         "family_name": "Makedonsky",
-        "role": "Director Group Legal & Insurance - General Counsel",
-        "department": "Unknown"
+        "role": "Director Group Legal & Insurance",
+        "department": "General Counsel"
     },
     {
-        "first_name": "Nancy",
-        "family_name": "Goossens",
-        "role": "Director of Investor Relations",
-        "department": "Unknown"
-    },
-    {
-        "first_name": "Alex",
-        "family_name": "Lorette",
-        "role": "Head of Telecom Solutions Department",
-        "department": "Unknown"
+        "first_name": "Luc",
+        "family_name": "Van den hove",
+        "role": "Independent Director",
+        "department": "Board of Directors"
     },
     {
         "first_name": "Claire",
@@ -210,9 +204,15 @@
         "department": "Board of Directors"
     },
     {
-        "first_name": "Luc",
-        "family_name": "Van den hove",
-        "role": "Independent Director",
-        "department": "Board of Directors"
+        "first_name": "Alex",
+        "family_name": "Lorette",
+        "role": "Head of Telecom Solutions Department",
+        "department": "Telecom Solutions"
+    },
+    {
+        "first_name": "Nancy",
+        "family_name": "Goossens",
+        "role": "Director of Investor Relations",
+        "department": "Investor Relations"
     }
 ]
