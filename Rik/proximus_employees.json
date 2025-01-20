@@ -12,51 +12,15 @@
         "department": "Board of Directors"
     },
     {
-        "first_name": "Jim",
-        "family_name": "Casteele",
-        "role": "Chief Consumer Market Officer",
-        "department": "Consumer Market"
-    },
-    {
-        "first_name": "Antonietta",
-        "family_name": "Mastroianni",
-        "role": "Chief Digital and IT Officer",
-        "department": "Digital & IT"
-    },
-    {
-        "first_name": "Mark",
-        "family_name": "Reid",
-        "role": "Finance Lead",
-        "department": "Finance"
-    },
-    {
-        "first_name": "Ben",
-        "family_name": "Appel",
-        "role": "Corporate Affairs Lead",
-        "department": "Corporate Affairs"
-    },
-    {
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Network & Wholesale Lead",
-        "department": "Network & Wholesale"
-    },
-    {
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Enterprise IT Services & Segments Lead",
-        "department": "Enterprise Market"
-    },
-    {
         "first_name": "Caroline",
         "family_name": "Basyn",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors"
     },
     {
         "first_name": "C\u00e9cile",
         "family_name": "Coune",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors"
     },
     {
@@ -74,7 +38,7 @@
     {
         "first_name": "Martin",
         "family_name": "De Prycker",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors"
     },
     {
@@ -92,37 +56,55 @@
     {
         "first_name": "Catherine",
         "family_name": "Rutten",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors"
     },
     {
         "first_name": "Joachim",
         "family_name": "Sonne",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors"
     },
     {
-        "first_name": "Claire",
-        "family_name": "Tillekaerts",
-        "role": "Director",
-        "department": "Board of Directors"
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Corporate Affairs"
     },
     {
-        "first_name": "Luc",
-        "family_name": "Van den hove",
-        "role": "Director",
-        "department": "Board of Directors"
+        "first_name": "Jim",
+        "family_name": "Casteele",
+        "role": "Consumer Market Lead",
+        "department": "Consumer Market"
     },
     {
-        "first_name": "Catherine",
-        "family_name": "Vandenborre",
-        "role": "Independent director",
-        "department": "Board of Directors"
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Enterprise Market"
+    },
+    {
+        "first_name": "Antonietta",
+        "family_name": "Mastroianni",
+        "role": "Digital & IT Lead",
+        "department": "Digital & IT"
+    },
+    {
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Finance Lead",
+        "department": "Finance"
+    },
+    {
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Network & Wholesale"
     },
     {
         "first_name": "Jan",
         "family_name": "Van Acoleyen",
-        "role": "Chief Human Resources Officer",
+        "role": "Human Capital Lead",
         "department": "Human Capital"
     },
     {
@@ -135,7 +117,7 @@
         "first_name": "Karl",
         "family_name": "Cuveele",
         "role": "Managing Director Proximus Real Estate",
-        "department": "Connectimmo"
+        "department": null
     },
     {
         "first_name": "Jacques",
@@ -202,5 +184,23 @@
         "family_name": "Makedonsky",
         "role": "Director Group Legal & Insurance - General Counsel",
         "department": null
+    },
+    {
+        "first_name": "Claire",
+        "family_name": "Tillekaerts",
+        "role": "Director",
+        "department": "Board of Directors"
+    },
+    {
+        "first_name": "Luc",
+        "family_name": "Van den hove",
+        "role": "Independent Director",
+        "department": "Board of Directors"
+    },
+    {
+        "first_name": "Catherine",
+        "family_name": "Vandenborre",
+        "role": "Independent Director",
+        "department": "Board of Directors"
     }
 ]

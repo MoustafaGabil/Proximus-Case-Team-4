@@ -9,14 +9,16 @@
     },
     {
         "department": "Enterprise Market",
-        "subdivision": []
+        "subdivision": [
+            "Proximus NXT"
+        ]
     },
     {
         "department": "Corporate Affairs",
         "subdivision": []
     },
     {
-        "department": "Network & Wholesale",
+        "department": "Network and Wholesale",
         "subdivision": []
     },
     {
@@ -28,7 +30,7 @@
         "subdivision": []
     },
     {
-        "department": "Digital & IT",
+        "department": "Digital and Information Technology",
         "subdivision": []
     },
     {
@@ -36,15 +38,31 @@
         "subdivision": []
     },
     {
-        "department": "International Carrier Services",
-        "subdivision": []
-    },
-    {
         "department": "Proximus Global",
         "subdivision": [
             "BICS",
-            "TeleSign",
+            "Telesign",
             "Route Mobile"
         ]
+    },
+    {
+        "department": "Proximus Real Estate",
+        "subdivision": [
+            "Connectimmo"
+        ]
+    },
+    {
+        "department": "Sustainability",
+        "subdivision": []
+    },
+    {
+        "department": "Corporate Prevention & Protection",
+        "subdivision": [
+            "Environmental department"
+        ]
+    },
+    {
+        "department": "Internal Audit",
+        "subdivision": []
     }
 ]
