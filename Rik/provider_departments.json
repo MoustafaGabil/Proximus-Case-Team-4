@@ -1,20 +1,132 @@
 [
     {
-        "provider": "Ads & Data",
-        "department": "Management",
+        "provider": "Ingram Micro BVBA",
+        "department": "Executive Leadership",
         "subdivision": [
-            "Chief Executive Officer (CEO)",
-            "Chief Commercial Officer (CCO)",
-            "Chief Operating Officer (COO)"
+            "Chief Executive Officer",
+            "Chief Financial Officer",
+            "Executive Vice President, Human Resources",
+            "Executive Vice President, Secretary and General Counsel",
+            "Senior Vice President, Global Marketing",
+            "Senior Vice President and President, Latin America",
+            "Senior Vice President and President, CloudBlue",
+            "Senior Vice President, Platform Services and Support",
+            "Executive Vice President, Global Operations and Engineering",
+            "Executive Vice President and President, Global Platform Group",
+            "Executive Vice President and Group President of Europe, Middle East, and Africa"
         ]
     },
     {
-        "provider": "Ads & Data",
-        "department": "Commercial Teams",
+        "provider": "Ingram Micro BVBA",
+        "department": "Regional Leadership",
         "subdivision": [
-            "Mediahuis Commercial Teams",
-            "SBS Belgium Commercial Teams",
-            "Pebble Media Commercial Teams"
+            "President, Europe, Middle East, and Africa",
+            "President, Asia-Pacific",
+            "President, Latin America",
+            "President, North America"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Global Business Services",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Human Resources",
+        "subdivision": [
+            "Talent Acquisition"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Finance and Accounting",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Technology Solutions",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Cloud Services",
+        "subdivision": [
+            "Global Cloud Services",
+            "Global Cloud Sales"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Commerce and Lifecycle Services",
+        "subdivision": [
+            "Reverse Logistics",
+            "Returns Management",
+            "Repair & Refurbishment",
+            "Aftermarket Sales (Remarketing)",
+            "Value Added Services",
+            "Asset Management",
+            "Lifecycle Management"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Marketing and Sales",
+        "subdivision": [
+            "Global Marketing",
+            "U.S. Sales"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Engineering and Technical Development",
+        "subdivision": [
+            "Global Platform Group",
+            "Engineering"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Operations",
+        "subdivision": [
+            "Global Operations",
+            "Customer Experience"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Customer Service",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Professional Services",
+        "subdivision": [
+            "Installation & Deployment",
+            "Management",
+            "Planning & Design",
+            "Support Services"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Strategic Partner Relations and Business Intelligence",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "International Businesses",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Country Operations",
+        "subdivision": [
+            "DACHH Cluster",
+            "Southern Europe Cluster",
+            "Benelux Cluster",
+            "UK/Ireland Region",
+            "Sweden"
         ]
     }
 ]

@@ -1,71 +1,380 @@
 {
-    "Ads & Data": {
+    "Ingram Micro BVBA": {
         "general": {
-            "provider": "Ads & Data",
-            "service": "Premium media channels and data for advertisers",
-            "type": "Joint venture",
+            "provider": "Ingram Micro BVBA",
+            "service": "Third level support on request.",
+            "type": "Technology",
             "provider_homepage": null
         },
         "employee": [
             {
-                "provider": "Ads & Data",
-                "first_name": "Bart",
-                "family_name": "Decoster",
-                "role": "CEO",
-                "department": "Leadership",
-                "email_address": "bart.decoster@adsanddata.be"
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Anatoli",
+                "family_name": "Georgiev",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Anatoli.Georgiev@ingrammicro.be"
             },
             {
-                "provider": "Ads & Data",
-                "first_name": "Bart",
-                "family_name": "Demeulenaere",
-                "role": "CCO",
-                "department": "Leadership",
-                "email_address": "bart.demeulenaere@adsanddata.be"
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Christoph",
+                "family_name": "Schieb",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Christoph.Schieb@ingrammicro.be"
             },
             {
-                "provider": "Ads & Data",
-                "first_name": "Koen",
-                "family_name": "Van Rhijn",
-                "role": "COO",
-                "department": "Leadership",
-                "email_address": "koen.van rhijn@adsanddata.be"
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Cigdem",
+                "family_name": "Scharrer",
+                "role": "Senior Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Cigdem.Scharrer@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Julia",
+                "family_name": "Reiter",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Julia.Reiter@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Petja",
+                "family_name": "Sirola Harati",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Petja.SirolaHarati@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Rangel",
+                "family_name": "Milev",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Rangel.Milev@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Vasilka",
+                "family_name": "Kukusheva",
+                "role": "Business Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Vasilka.Kukusheva@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Borislav",
+                "family_name": "Mikov",
+                "role": "Associate II, Purchasing",
+                "department": "DC/POS EMEA",
+                "email_address": "Borislav.Mikov@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Boyan",
+                "family_name": "Tsakov",
+                "role": "Purchasing Administrator",
+                "department": "DC/POS EMEA",
+                "email_address": "Boyan.Tsakov@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Georgi",
+                "family_name": "Lundzhof",
+                "role": "Purchasing Administrator",
+                "department": "DC/POS EMEA",
+                "email_address": "Georgi.Lundzhov@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Rostislava",
+                "family_name": "Ivanova",
+                "role": "Purchasing Administrator",
+                "department": "DC/POS EMEA",
+                "email_address": "Rostislava.Ivanova@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Hristina",
+                "family_name": "Yancheva",
+                "role": "Supervisor Purchasing Administrator",
+                "department": "DC/POS EMEA",
+                "email_address": "Hristina.Yancheva@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Mark",
+                "family_name": "Cheetham",
+                "role": "Director",
+                "department": "DC/POS EMEA",
+                "email_address": "Mark.Cheetham@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Olaf",
+                "family_name": "Roderfeld",
+                "role": "Senior Manager",
+                "department": "DC/POS EMEA",
+                "email_address": "Olaf.Roderfeld@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Tarik",
+                "family_name": "Kekec",
+                "role": "Senior Marketing Manager EMEA",
+                "department": "DC/POS EMEA",
+                "email_address": "Tarik.Kekec@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Martin",
+                "family_name": "Georgiev",
+                "role": "Purchasing Specialist",
+                "department": "DC/POS EMEA",
+                "email_address": "Martin.Georgiev@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Daniela",
+                "family_name": "Rosa",
+                "role": "Exec Dir, Chief Country Executive",
+                "department": "Latin America & the Caribbean Miami Export Division",
+                "email_address": "Daniela.Rosa@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Miguel",
+                "family_name": "Ralat",
+                "role": "Sales Director",
+                "department": "Latin America & the Caribbean Miami Export Division",
+                "email_address": "Miguel.Ralat@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Karen",
+                "family_name": "Zabardi",
+                "role": "Mgr. Vendor Management - Cisco",
+                "department": "Cisco",
+                "email_address": "Karen.Zabardi@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Annette",
+                "family_name": "Cameron",
+                "role": "Snr. Vendor Business Manager - Cisco",
+                "department": "Cisco",
+                "email_address": "Annette.Cameron@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Gerardo",
+                "family_name": "Perera",
+                "role": "Business Development Executive",
+                "department": "Collaboration / Caribbean",
+                "email_address": "Gerardo.Perera@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Gabriela",
+                "family_name": "Fernandez",
+                "role": "Business Development Executive",
+                "department": "MSLA & CEAM (CR-NI-PA)",
+                "email_address": "Gabriela.Fernandez@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Vencent",
+                "family_name": "Martinez",
+                "role": "Sr Intl Market Development Specialist",
+                "department": "CEAM (HN-SV-GT)",
+                "email_address": "Vencent.Martinez@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Rodrigo",
+                "family_name": "Haeussler",
+                "role": "Technical Account Manager",
+                "department": "Security & Meraki",
+                "email_address": "Rodrigo.Haeussler@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Jose",
+                "family_name": "Monge",
+                "role": "Technical Account Manager",
+                "department": "Enterprise Networking & Special projects",
+                "email_address": "Jose.Monge@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Carla",
+                "family_name": "Werder",
+                "role": "Technical Support",
+                "department": "Pre Sales",
+                "email_address": "Carla.Werder@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Julian",
+                "family_name": "Popiloff",
+                "role": "Technical Support",
+                "department": "Pre Sales",
+                "email_address": "Julian.Popiloff@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Stephan",
+                "family_name": "Boutboul",
+                "role": "Dir. Global Bus Development",
+                "department": "HP Enterprise",
+                "email_address": "Stephan.Boutboul@ingrammicro.be"
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "first_name": "Sabina",
+                "family_name": "Lopez",
+                "role": "Business Unit Manager",
+                "department": "HP Enterprise",
+                "email_address": "Sabina.Lopez@ingrammicro.be"
             }
         ],
         "color": {
-            "provider": "Ads & Data",
-            "color_name_1": "Proximus Purple",
-            "hex_code_1": "#5C2D91",
-            "rgb_code_1": [
-                92,
-                45,
-                145
-            ],
-            "color_name_2": "White",
-            "hex_code_2": "#FFFFFF",
-            "rgb_code_2": [
-                255,
-                255,
-                255
-            ]
+            "provider": "Ingram Micro BVBA",
+            "color_name_1": "Blue",
+            "hex_code_1": null,
+            "rgb_code_1": null
         },
         "departments": [
             {
-                "provider": "Ads & Data",
-                "department": "Management",
+                "provider": "Ingram Micro BVBA",
+                "department": "Executive Leadership",
                 "subdivision": [
-                    "Chief Executive Officer (CEO)",
-                    "Chief Commercial Officer (CCO)",
-                    "Chief Operating Officer (COO)"
+                    "Chief Executive Officer",
+                    "Chief Financial Officer",
+                    "Executive Vice President, Human Resources",
+                    "Executive Vice President, Secretary and General Counsel",
+                    "Senior Vice President, Global Marketing",
+                    "Senior Vice President and President, Latin America",
+                    "Senior Vice President and President, CloudBlue",
+                    "Senior Vice President, Platform Services and Support",
+                    "Executive Vice President, Global Operations and Engineering",
+                    "Executive Vice President and President, Global Platform Group",
+                    "Executive Vice President and Group President of Europe, Middle East, and Africa"
                 ]
             },
             {
-                "provider": "Ads & Data",
-                "department": "Commercial Teams",
+                "provider": "Ingram Micro BVBA",
+                "department": "Regional Leadership",
                 "subdivision": [
-                    "Mediahuis Commercial Teams",
-                    "SBS Belgium Commercial Teams",
-                    "Pebble Media Commercial Teams"
+                    "President, Europe, Middle East, and Africa",
+                    "President, Asia-Pacific",
+                    "President, Latin America",
+                    "President, North America"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Global Business Services",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Human Resources",
+                "subdivision": [
+                    "Talent Acquisition"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Finance and Accounting",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Technology Solutions",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Cloud Services",
+                "subdivision": [
+                    "Global Cloud Services",
+                    "Global Cloud Sales"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Commerce and Lifecycle Services",
+                "subdivision": [
+                    "Reverse Logistics",
+                    "Returns Management",
+                    "Repair & Refurbishment",
+                    "Aftermarket Sales (Remarketing)",
+                    "Value Added Services",
+                    "Asset Management",
+                    "Lifecycle Management"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Marketing and Sales",
+                "subdivision": [
+                    "Global Marketing",
+                    "U.S. Sales"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Engineering and Technical Development",
+                "subdivision": [
+                    "Global Platform Group",
+                    "Engineering"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Operations",
+                "subdivision": [
+                    "Global Operations",
+                    "Customer Experience"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Customer Service",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Professional Services",
+                "subdivision": [
+                    "Installation & Deployment",
+                    "Management",
+                    "Planning & Design",
+                    "Support Services"
+                ]
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Strategic Partner Relations and Business Intelligence",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "International Businesses",
+                "subdivision": []
+            },
+            {
+                "provider": "Ingram Micro BVBA",
+                "department": "Country Operations",
+                "subdivision": [
+                    "DACHH Cluster",
+                    "Southern Europe Cluster",
+                    "Benelux Cluster",
+                    "UK/Ireland Region",
+                    "Sweden"
                 ]
             }
         ]

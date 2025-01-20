@@ -7,6 +7,13 @@
         "email_address": "guillaume.boutin@Proximus.be"
     },
     {
+        "first_name": "Stefaan",
+        "family_name": "De Clerck",
+        "role": "Chairman of the Board",
+        "department": "Board of Directors",
+        "email_address": "stefaan.declerck@Proximus.be"
+    },
+    {
         "first_name": "Ben",
         "family_name": "Appel",
         "role": "Corporate Affairs Lead",
@@ -61,13 +68,6 @@
         "role": "Human Capital Lead",
         "department": "Human Capital",
         "email_address": "jan.vanacoleyen@Proximus.be"
-    },
-    {
-        "first_name": "Stefaan",
-        "family_name": "De Clerck",
-        "role": "Chairman of the Proximus Board",
-        "department": "Board of Directors",
-        "email_address": "stefaan.declerck@Proximus.be"
     },
     {
         "first_name": "Caroline",
@@ -135,7 +135,7 @@
     {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate - Connectimmo",
+        "role": "Managing Director Proximus Real Estate",
         "department": "Real Estate",
         "email_address": "karl.cuveele@Proximus.be"
     },

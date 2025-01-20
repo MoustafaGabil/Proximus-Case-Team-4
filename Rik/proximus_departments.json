@@ -1,6 +1,6 @@
 [
     {
-        "department": "CEO's Department",
+        "department": "Chief Executive Officer's Department",
         "subdivision": []
     },
     {
@@ -9,9 +9,7 @@
     },
     {
         "department": "Enterprise Market",
-        "subdivision": [
-            "Proximus NXT"
-        ]
+        "subdivision": []
     },
     {
         "department": "Corporate Affairs",
@@ -52,17 +50,6 @@
     {
         "department": "Connectimmo",
         "subdivision": []
-    },
-    {
-        "department": "International Carrier Services",
-        "subdivision": []
-    },
-    {
-        "department": "Telindus",
-        "subdivision": [
-            "Telindus Netherlands",
-            "Telindus Luxembourg"
-        ]
     },
     {
         "department": "Sustainability",
