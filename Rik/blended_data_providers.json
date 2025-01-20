@@ -1,0 +1,73 @@
+{
+    "Ads & Data": {
+        "general": {
+            "provider": "Ads & Data",
+            "service": "Premium media channels and data for advertisers",
+            "type": "Joint venture",
+            "provider_homepage": null
+        },
+        "employee": [
+            {
+                "provider": "Ads & Data",
+                "first_name": "Bart",
+                "family_name": "Decoster",
+                "role": "CEO",
+                "department": "Leadership",
+                "email_address": "bart.decoster@adsanddata.be"
+            },
+            {
+                "provider": "Ads & Data",
+                "first_name": "Bart",
+                "family_name": "Demeulenaere",
+                "role": "CCO",
+                "department": "Leadership",
+                "email_address": "bart.demeulenaere@adsanddata.be"
+            },
+            {
+                "provider": "Ads & Data",
+                "first_name": "Koen",
+                "family_name": "Van Rhijn",
+                "role": "COO",
+                "department": "Leadership",
+                "email_address": "koen.van rhijn@adsanddata.be"
+            }
+        ],
+        "color": {
+            "provider": "Ads & Data",
+            "color_name_1": "Proximus Purple",
+            "hex_code_1": "#5C2D91",
+            "rgb_code_1": [
+                92,
+                45,
+                145
+            ],
+            "color_name_2": "White",
+            "hex_code_2": "#FFFFFF",
+            "rgb_code_2": [
+                255,
+                255,
+                255
+            ]
+        },
+        "departments": [
+            {
+                "provider": "Ads & Data",
+                "department": "Management",
+                "subdivision": [
+                    "Chief Executive Officer (CEO)",
+                    "Chief Commercial Officer (CCO)",
+                    "Chief Operating Officer (COO)"
+                ]
+            },
+            {
+                "provider": "Ads & Data",
+                "department": "Commercial Teams",
+                "subdivision": [
+                    "Mediahuis Commercial Teams",
+                    "SBS Belgium Commercial Teams",
+                    "Pebble Media Commercial Teams"
+                ]
+            }
+        ]
+    }
+}

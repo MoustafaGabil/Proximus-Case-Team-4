@@ -9,21 +9,21 @@
         ]
     },
     {
-        "color_name_2": "White",
-        "hex_code_2": "#FFFFFF",
+        "color_name_2": "Black",
+        "hex_code_2": "#000000",
         "rgb_code_2": [
-            255,
-            255,
-            255
-        ]
-    },
-    {
-        "color_name_3": "Black",
-        "hex_code_3": "#000000",
-        "rgb_code_3": [
             0,
             0,
             0
+        ]
+    },
+    {
+        "color_name_3": "White",
+        "hex_code_3": "#FFFFFF",
+        "rgb_code_3": [
+            255,
+            255,
+            255
         ]
     }
 ]

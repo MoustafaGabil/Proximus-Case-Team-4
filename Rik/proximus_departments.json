@@ -1,6 +1,6 @@
 [
     {
-        "department": "Chief Executive Officer's Department",
+        "department": "CEO's Department",
         "subdivision": []
     },
     {
@@ -18,7 +18,7 @@
         "subdivision": []
     },
     {
-        "department": "Network and Wholesale",
+        "department": "Network & Wholesale",
         "subdivision": []
     },
     {
@@ -30,7 +30,7 @@
         "subdivision": []
     },
     {
-        "department": "Digital and Information Technology",
+        "department": "Digital & IT",
         "subdivision": []
     },
     {
@@ -46,9 +46,22 @@
         ]
     },
     {
-        "department": "Proximus Real Estate",
+        "department": "Proximus Media House",
+        "subdivision": []
+    },
+    {
+        "department": "Connectimmo",
+        "subdivision": []
+    },
+    {
+        "department": "International Carrier Services",
+        "subdivision": []
+    },
+    {
+        "department": "Telindus",
         "subdivision": [
-            "Connectimmo"
+            "Telindus Netherlands",
+            "Telindus Luxembourg"
         ]
     },
     {

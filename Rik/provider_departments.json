@@ -1,90 +1,20 @@
 [
     {
-        "provider": "Codit",
-        "department": "Leadership",
+        "provider": "Ads & Data",
+        "department": "Management",
         "subdivision": [
-            "General Management",
-            "Lead Architecture",
-            "Operations Management",
-            "Chief Executive Officer",
-            "Chief Technology Officer",
-            "Chief Delivery Officer",
-            "Chief Innovation Officer",
-            "Chief Financial Officer"
+            "Chief Executive Officer (CEO)",
+            "Chief Commercial Officer (CCO)",
+            "Chief Operating Officer (COO)"
         ]
     },
     {
-        "provider": "Codit",
-        "department": "Consulting",
+        "provider": "Ads & Data",
+        "department": "Commercial Teams",
         "subdivision": [
-            "Cloud Strategy and Architecture",
-            "Business Process Automation",
-            "API Management"
-        ]
-    },
-    {
-        "provider": "Codit",
-        "department": "Technology",
-        "subdivision": [
-            "Microsoft Azure Cloud Native Technologies",
-            "Cloud Migration",
-            "Application Integration and Modernization",
-            "Artificial Intelligence",
-            "Internet of Things (IoT)",
-            "Data Platforms",
-            "Kubernetes",
-            "DevOps",
-            "Cloud Security"
-        ]
-    },
-    {
-        "provider": "Codit",
-        "department": "Customer Care",
-        "subdivision": [
-            "Managed Services",
-            "Customer Success Management",
-            "Service Desk",
-            "Platform Operations",
-            "Monitoring",
-            "Security",
-            "Governance",
-            "Customer Onboarding"
-        ]
-    },
-    {
-        "provider": "Codit",
-        "department": "Services",
-        "subdivision": [
-            "Custom Software Development",
-            "Talent Acquisition",
-            "Cloud Migration and Modernization",
-            "Product Engineering",
-            "Continuous Testing",
-            "Data Center Management",
-            "Access Services",
-            "Cloud and Server Solutions",
-            "Backup Management",
-            "Correct Sizing",
-            "Network Solutions",
-            "Backup and Archiving",
-            "Mail Solutions",
-            "Startup Company Solutions",
-            "Development and Testing",
-            "Onsite Support",
-            "Parts Supply",
-            "KVKK Consultancy",
-            "Cloud Services",
-            "Digital Transformation",
-            "CoditOne",
-            "HPC",
-            "Outsource IT",
-            "Private Cloud Server",
-            "Disaster Recovery and Business Continuity",
-            "Consultancy Services",
-            "Renting Hardware",
-            "Hiring Experts",
-            "CDN Services",
-            "Database Solutions"
+            "Mediahuis Commercial Teams",
+            "SBS Belgium Commercial Teams",
+            "Pebble Media Commercial Teams"
         ]
     }
 ]
