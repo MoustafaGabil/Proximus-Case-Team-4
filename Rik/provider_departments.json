@@ -1,132 +1,111 @@
 [
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Executive Leadership",
-        "subdivision": [
-            "Chief Executive Officer",
-            "Chief Financial Officer",
-            "Executive Vice President, Human Resources",
-            "Executive Vice President, Secretary and General Counsel",
-            "Senior Vice President, Global Marketing",
-            "Senior Vice President and President, Latin America",
-            "Senior Vice President and President, CloudBlue",
-            "Senior Vice President, Platform Services and Support",
-            "Executive Vice President, Global Operations and Engineering",
-            "Executive Vice President and President, Global Platform Group",
-            "Executive Vice President and Group President of Europe, Middle East, and Africa"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Regional Leadership",
-        "subdivision": [
-            "President, Europe, Middle East, and Africa",
-            "President, Asia-Pacific",
-            "President, Latin America",
-            "President, North America"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Global Business Services",
+        "provider": "Nokia",
+        "department": "Mobile Networks",
         "subdivision": []
     },
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Human Resources",
-        "subdivision": [
-            "Talent Acquisition"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Finance and Accounting",
+        "provider": "Nokia",
+        "department": "IP and Fixed Networks",
         "subdivision": []
     },
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Technology Solutions",
+        "provider": "Nokia",
+        "department": "Cloud and Network Services",
         "subdivision": []
     },
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Cloud Services",
-        "subdivision": [
-            "Global Cloud Services",
-            "Global Cloud Sales"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Commerce and Lifecycle Services",
-        "subdivision": [
-            "Reverse Logistics",
-            "Returns Management",
-            "Repair & Refurbishment",
-            "Aftermarket Sales (Remarketing)",
-            "Value Added Services",
-            "Asset Management",
-            "Lifecycle Management"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Marketing and Sales",
-        "subdivision": [
-            "Global Marketing",
-            "U.S. Sales"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Engineering and Technical Development",
-        "subdivision": [
-            "Global Platform Group",
-            "Engineering"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Operations",
-        "subdivision": [
-            "Global Operations",
-            "Customer Experience"
-        ]
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Customer Service",
+        "provider": "Nokia",
+        "department": "Nokia Technologies",
         "subdivision": []
     },
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Professional Services",
+        "provider": "Nokia",
+        "department": "Customer Experience",
         "subdivision": [
-            "Installation & Deployment",
-            "Management",
-            "Planning & Design",
-            "Support Services"
+            "Customer teams",
+            "Region and country management",
+            "Marketing"
         ]
     },
     {
-        "provider": "Ingram Micro BVBA",
-        "department": "Strategic Partner Relations and Business Intelligence",
-        "subdivision": []
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "International Businesses",
-        "subdivision": []
-    },
-    {
-        "provider": "Ingram Micro BVBA",
-        "department": "Country Operations",
+        "provider": "Nokia",
+        "department": "Devices",
         "subdivision": [
-            "DACHH Cluster",
-            "Southern Europe Cluster",
-            "Benelux Cluster",
-            "UK/Ireland Region",
-            "Sweden"
+            "Mobile Solutions",
+            "Mobile Phones"
         ]
+    },
+    {
+        "provider": "Nokia",
+        "department": "Solutions",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Services",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Markets",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Corporate Development",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "NAVTEQ",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Technology Platforms",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Customer and Market Operations",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Human Resources Management",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Finance",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Research and Development",
+        "subdivision": [
+            "Applied R&D"
+        ]
+    },
+    {
+        "provider": "Nokia",
+        "department": "Corporate Services",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Customer Services",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Information Technology",
+        "subdivision": []
+    },
+    {
+        "provider": "Nokia",
+        "department": "Sales",
+        "subdivision": []
     }
 ]

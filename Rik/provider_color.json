@@ -1,35 +1,21 @@
 [
     {
-        "provider": "Ingram Micro BVBA",
-        "color_name_1": "Blue",
-        "hex_code_1": null,
-        "rgb_code_1": null
+        "provider": "Nokia",
+        "color_name_1": "Nokia Blue",
+        "hex_code_1": "#005AFF",
+        "rgb_code_1": [
+            0,
+            90,
+            255
+        ]
     },
     {
-        "color_name_2": "Black",
-        "hex_code_2": "#000000",
+        "color_name_2": "Light Gray",
+        "hex_code_2": "#F3F3F3",
         "rgb_code_2": [
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "color_name_3": "Ingram Red",
-        "hex_code_3": "#B11116",
-        "rgb_code_3": [
-            177,
-            17,
-            22
-        ]
-    },
-    {
-        "color_name_4": "River Aged Gold",
-        "hex_code_4": "#AD9651",
-        "rgb_code_4": [
-            173,
-            150,
-            81
+            243,
+            243,
+            243
         ]
     }
 ]
