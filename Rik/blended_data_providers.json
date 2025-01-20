@@ -1,364 +1,155 @@
 {
-    "Nokia": {
+    "Citymesh": {
         "general": {
-            "provider": "Nokia",
-            "service": "Network infrastructure",
-            "type": "Vendor partner",
-            "provider_homepage": null
+            "provider": "Citymesh",
+            "service": "Wireless network solutions",
+            "type": "Partner",
+            "provider_homepage": "https://www.citymesh.com/"
         },
         "employee": [
             {
-                "provider": "Nokia",
-                "first_name": "Rajeev",
-                "family_name": "Suri",
-                "role": "CEO / President",
-                "department": "Executive Team",
-                "email_address": "rajeev.suri@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "Mitch",
+                "family_name": "De Geest",
+                "role": "CEO",
+                "department": "Leadership",
+                "email_address": "mitch.degeest@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Joe",
-                "family_name": "Price",
-                "role": "IS/IT CTO - Application Portfolio Management",
-                "department": "Information Technology",
-                "email_address": "joe.price@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "Robin",
+                "family_name": "Leblon",
+                "role": "Chief Technology Officer",
+                "department": "Leadership",
+                "email_address": "robin.leblon@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Ron",
-                "family_name": "Haberman",
-                "role": "Chief Technology Officer, Nokia Software",
-                "department": "Technology Platforms",
-                "email_address": "ron.haberman@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "Freek",
+                "family_name": "Pauwels",
+                "role": "Chief Commercial Officer",
+                "department": "Leadership",
+                "email_address": "freek.pauwels@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Deepti",
-                "family_name": "Arora",
-                "role": "Chief Quality Officer, Executive Vice President",
-                "department": "Quality",
-                "email_address": "deepti.arora@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "S.",
+                "family_name": "Van Eeckhout",
+                "role": "Chief People Officer",
+                "department": "Leadership",
+                "email_address": "s.vaneeckhout@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Tony",
-                "family_name": "Tibshirani",
-                "role": "Sr. Director Business Development",
-                "department": "Business Development",
-                "email_address": "tony.tibshirani@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "J.",
+                "family_name": "T.",
+                "role": "Chief Operating Officer",
+                "department": "Leadership",
+                "email_address": "j.t@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Brian",
-                "family_name": "McCann",
-                "role": "Chief Product Officer, Nokia Software",
-                "department": "Product",
-                "email_address": "brian.mccann@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "L.",
+                "family_name": "V.",
+                "role": "Head Admin And Finance",
+                "department": "Leadership",
+                "email_address": "l.v@citymesh.be"
             },
             {
-                "provider": "Nokia",
-                "first_name": "Andrew",
-                "family_name": "Lange",
-                "role": "CTO, VP and Head of OSS Transformation",
-                "department": "Technology Platforms",
-                "email_address": "andrew.lange@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Sean",
-                "family_name": "Hemphill",
-                "role": "Executive Director of Sales",
-                "department": "Sales",
-                "email_address": "sean.hemphill@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Mikko",
-                "family_name": "Hautala",
-                "role": "Chief Geopolitical and Government Relations Officer",
-                "department": "Geopolitics and Government Relations",
-                "email_address": "mikko.hautala@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Louise",
-                "family_name": "Fisk",
-                "role": "Chief Communications Officer",
-                "department": "Communications",
-                "email_address": "louise.fisk@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Pekka",
-                "family_name": "Lundmark",
-                "role": "President and Chief Executive Officer (CEO)",
-                "department": "Executive Team",
-                "email_address": "pekka.lundmark@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Nishant",
-                "family_name": "Batra",
-                "role": "Chief Strategy and Technology Officer (CSTO)",
-                "department": "Strategy and Technology",
-                "email_address": "nishant.batra@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Marco",
-                "family_name": "Wir\u00e9n",
-                "role": "Chief Financial Officer (CFO)",
-                "department": "Finance",
-                "email_address": "marco.wir\u00e9n@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Esa",
-                "family_name": "Niinim\u00e4ki",
-                "role": "Chief Legal Officer (CLO)",
-                "department": "Legal",
-                "email_address": "esa.niinim\u00e4ki@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Lorna",
-                "family_name": "Gibb",
-                "role": "Chief People Officer (CPO)",
-                "department": "Human Resources",
-                "email_address": "lorna.gibb@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Federico",
-                "family_name": "Guill\u00e9n",
-                "role": "President of Network Infrastructure",
-                "department": "Network Infrastructure",
-                "email_address": "federico.guill\u00e9n@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Raghav",
-                "family_name": "Sahgal",
-                "role": "President of Cloud and Network Services",
-                "department": "Cloud and Network Services",
-                "email_address": "raghav.sahgal@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Tommi",
-                "family_name": "Uitto",
-                "role": "President of Mobile Networks",
-                "department": "Mobile Networks",
-                "email_address": "tommi.uitto@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Patrik",
-                "family_name": "Hammar\u00e9n",
-                "role": "Acting President of Nokia Technologies",
-                "department": "Nokia Technologies",
-                "email_address": "patrik.hammar\u00e9n@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Frank",
-                "family_name": "Frusciante",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "frank.frusciante@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Gerson",
-                "family_name": "Garcia",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "gerson.garcia@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Hilda",
-                "family_name": "Leveto",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "hilda.leveto@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Cindy",
-                "family_name": "Hilger",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "cindy.hilger@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Linda",
-                "family_name": "Fonteneaux",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "linda.fonteneaux@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Cathy",
-                "family_name": "Carter",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "cathy.carter@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Cosmin",
-                "family_name": "Chiriac",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "cosmin.chiriac@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Jaydeen",
-                "family_name": "Zenna",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "jaydeen.zenna@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Violet",
-                "family_name": "Graber",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "violet.graber@nokia.be"
-            },
-            {
-                "provider": "Nokia",
-                "first_name": "Jorge",
-                "family_name": "Valdes",
-                "role": "Human Resources Team Member",
-                "department": "Human Resources",
-                "email_address": "jorge.valdes@nokia.be"
+                "provider": "Citymesh",
+                "first_name": "Karolien",
+                "family_name": null,
+                "role": "Marketing Manager",
+                "department": "Marketing",
+                "email_address": "karolien.null@citymesh.be"
             }
         ],
         "color": {
-            "provider": "Nokia",
-            "color_name_1": "Nokia Blue",
-            "hex_code_1": "#005AFF",
+            "provider": "Citymesh",
+            "color_name_1": "Dark Blue",
+            "hex_code_1": "#154E8F",
             "rgb_code_1": [
-                0,
-                90,
-                255
+                21,
+                78,
+                143
             ]
         },
         "departments": [
             {
-                "provider": "Nokia",
-                "department": "Mobile Networks",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "IP and Fixed Networks",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Cloud and Network Services",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Nokia Technologies",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Customer Experience",
+                "provider": "Citymesh",
+                "department": "Technology",
                 "subdivision": [
-                    "Customer teams",
-                    "Region and country management",
-                    "Marketing"
+                    "Network Planning",
+                    "Installation",
+                    "Configuration",
+                    "Maintenance",
+                    "Research and Development"
                 ]
             },
             {
-                "provider": "Nokia",
-                "department": "Devices",
+                "provider": "Citymesh",
+                "department": "Operations",
                 "subdivision": [
-                    "Mobile Solutions",
-                    "Mobile Phones"
+                    "Network Management",
+                    "Service Delivery",
+                    "Customer Support",
+                    "Project Management"
                 ]
             },
             {
-                "provider": "Nokia",
-                "department": "Solutions",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Services",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Markets",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Corporate Development",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "NAVTEQ",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Technology Platforms",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Customer and Market Operations",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Human Resources Management",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Finance",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Research and Development",
-                "subdivision": [
-                    "Applied R&D"
-                ]
-            },
-            {
-                "provider": "Nokia",
-                "department": "Corporate Services",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Customer Services",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
-                "department": "Information Technology",
-                "subdivision": []
-            },
-            {
-                "provider": "Nokia",
+                "provider": "Citymesh",
                 "department": "Sales",
-                "subdivision": []
+                "subdivision": [
+                    "Business Development",
+                    "Account Management",
+                    "Pre-sales"
+                ]
+            },
+            {
+                "provider": "Citymesh",
+                "department": "Marketing and Communication",
+                "subdivision": [
+                    "Brand Management",
+                    "Digital Marketing",
+                    "Public Relations",
+                    "Content Creation"
+                ]
+            },
+            {
+                "provider": "Citymesh",
+                "department": "Finance",
+                "subdivision": [
+                    "Accounting",
+                    "Financial Planning",
+                    "Controlling"
+                ]
+            },
+            {
+                "provider": "Citymesh",
+                "department": "Human Resources",
+                "subdivision": [
+                    "Recruitment",
+                    "Employee Relations",
+                    "Training and Development"
+                ]
+            },
+            {
+                "provider": "Citymesh",
+                "department": "Legal",
+                "subdivision": [
+                    "Compliance",
+                    "Contracts",
+                    "Regulatory Affairs"
+                ]
+            },
+            {
+                "provider": "Citymesh",
+                "department": "Security",
+                "subdivision": [
+                    "Network Security",
+                    "Data Protection",
+                    "Risk Management"
+                ]
             }
         ]
     }

@@ -1,21 +1,30 @@
 [
     {
-        "provider": "Nokia",
-        "color_name_1": "Nokia Blue",
-        "hex_code_1": "#005AFF",
+        "provider": "Citymesh",
+        "color_name_1": "Dark Blue",
+        "hex_code_1": "#154E8F",
         "rgb_code_1": [
-            0,
-            90,
-            255
+            21,
+            78,
+            143
         ]
     },
     {
-        "color_name_2": "Light Gray",
-        "hex_code_2": "#F3F3F3",
+        "color_name_2": "Light Blue",
+        "hex_code_2": "#78aee6",
         "rgb_code_2": [
-            243,
-            243,
-            243
+            120,
+            174,
+            230
+        ]
+    },
+    {
+        "color_name_3": "Orange",
+        "hex_code_3": "#f5A71E",
+        "rgb_code_3": [
+            245,
+            167,
+            30
         ]
     }
 ]

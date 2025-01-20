@@ -18,7 +18,7 @@
         "subdivision": []
     },
     {
-        "department": "Network and Wholesale",
+        "department": "Network & Wholesale",
         "subdivision": []
     },
     {
@@ -30,7 +30,7 @@
         "subdivision": []
     },
     {
-        "department": "Digital and Information Technology",
+        "department": "Digital & IT",
         "subdivision": []
     },
     {
@@ -40,15 +40,9 @@
     {
         "department": "Proximus Global",
         "subdivision": [
-            "Belgacom International Carrier Services",
+            "BICS",
             "Telesign",
             "Route Mobile"
-        ]
-    },
-    {
-        "department": "Connectimmo",
-        "subdivision": [
-            "Proximus Real Estate"
         ]
     },
     {
@@ -56,17 +50,32 @@
         "subdivision": []
     },
     {
-        "department": "Proximus Ada",
+        "department": "Connectimmo",
         "subdivision": []
     },
     {
-        "department": "Other Brands",
+        "department": "International Carrier Services",
+        "subdivision": []
+    },
+    {
+        "department": "Telindus",
         "subdivision": [
-            "Scarlet",
-            "Mobile Vikings",
-            "Tango",
-            "Telindus",
-            "Telindus Netherlands"
+            "Telindus Netherlands",
+            "Telindus Luxembourg"
         ]
+    },
+    {
+        "department": "Sustainability",
+        "subdivision": []
+    },
+    {
+        "department": "Corporate Prevention & Protection",
+        "subdivision": [
+            "Environmental department"
+        ]
+    },
+    {
+        "department": "Internal Audit",
+        "subdivision": []
     }
 ]

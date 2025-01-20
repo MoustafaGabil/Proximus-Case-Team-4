@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Nokia",
-        "service": "Network infrastructure",
-        "type": "Vendor partner",
-        "provider_homepage": null
+        "provider": "Citymesh",
+        "service": "Wireless network solutions",
+        "type": "Partner",
+        "provider_homepage": "https://www.citymesh.com/"
     }
 ]

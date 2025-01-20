@@ -1,10 +1,37 @@
 [
     {
-        "subject": "Urgent: Proximus Service Impact on Scarlet - Immediate Action Required",
-        "body": "Dear Pierre-Eric,\n\nThis email requires your immediate attention. We've identified a critical service disruption originating from Proximus that is directly impacting Scarlet's telecommunication services. This is not a minor issue; it affects our customer base significantly and requires immediate action.\n\nTo fully understand the scope of the problem and the required mitigation steps, please review the attached incident report immediately. It contains vital data about affected areas and a proposed solution framework. Time is of the essence; the longer this issue persists, the greater the impact on our operations and customer trust.\n\nClick here to download the incident report now: [LINK TO INCIDENT REPORT]\n\nYour prompt review and guidance are critical to resolving this swiftly. Let's address this with the urgency it deserves.\n\nSincerely,\n\n[Your Name/Relevant Contact Person from Proximus]\n[Your Title/Department]"
+        "subject": "URGENT: Proximus Network Solution Review Required",
+        "body": "Dear Mitch,\n\nWe've encountered a critical issue impacting our wireless network solutions for Proximus. Immediate review is required to ensure seamless service delivery. Please find the detailed incident report and action plan in the attached document. Your prompt attention to this matter is crucial.\n\nBest regards,\n\n",
+        "email_sign": "Mitch De Geest\nCEO\nCitymesh"
     },
     {
-        "subject": "Critical: Proximus Service Disruption Affecting Scarlet Customers - Immediate Review Needed",
-        "body": "Dear Sara,\n\nI'm reaching out to you with an urgent matter regarding a significant service interruption stemming from Proximus that is now directly affecting Scarlet\u2019s telecommunication services. This is a serious situation impacting our customers and needs your immediate attention.\n\nI have prepared a comprehensive document that outlines the details of the disruption, including the root cause analysis and proposed immediate actions to mitigate the impact. It\u2019s imperative that you review this document immediately to understand the severity of the issue and provide direction on our next steps.\n\nPlease click the link below to access the document immediately:\n[LINK TO DOCUMENT]\n\nYour insights and prompt action are crucial to resolving this situation as quickly as possible.\n\nBest regards,\n\n[Your Name/Relevant Contact Person from Proximus]\n[Your Title/Department]"
+        "subject": "Critical: Proximus Wireless Tech Review - Immediate Action Needed",
+        "body": "Dear Robin,\n\nThere's an urgent technical matter regarding our Proximus wireless network solutions. We need your expertise to resolve a configuration issue detailed in the attached report. Please analyze the document and provide guidance on the next steps as soon as possible. This requires immediate attention.\n\nBest regards,\n\n",
+        "email_sign": "Robin Leblon\nChief Technology Officer\nCitymesh"
+    },
+    {
+        "subject": "Action Required: Proximus Service Impact - Urgent Review",
+        "body": "Dear Freek,\n\nWe are facing an urgent situation with our wireless network solutions for Proximus. This impacts service delivery and requires immediate action. The attached document contains all details and our proposed solution. Please review this to mitigate any further impact on our Proximus partnership.\n\nBest regards,\n\n",
+        "email_sign": "Freek Pauwels\nChief Commercial Officer\nCitymesh"
+    },
+    {
+        "subject": "URGENT: Proximus Employee Impact Review",
+        "body": "Dear S.,\n\nThere is an urgent matter that affects our wireless network solutions for Proximus. It\u2019s important that we understand the impact on our team and resources. The attached report outlines the situation and required actions. Please review and advise on necessary steps to support our personnel involved with the Proximus project.\n\nBest regards,\n\n",
+        "email_sign": "S. Van Eeckhout\nChief People Officer\nCitymesh"
+    },
+    {
+        "subject": "Immediate Attention: Proximus Operational Issue",
+        "body": "Dear J.,\n\nWe need your immediate attention to an operational issue affecting our wireless network solutions for Proximus. The attached report outlines the problem and our proposed resolution. Please review the document and implement the necessary steps to restore services swiftly. Your swift action is critical.\n\nBest regards,\n\n",
+        "email_sign": "J. T.\nChief Operating Officer\nCitymesh"
+    },
+    {
+        "subject": "Urgent: Financial Review Needed for Proximus Solution",
+        "body": "Dear L.,\n\nWe've encountered an urgent financial matter related to our wireless network solutions for Proximus. The attached document details the issue and its potential impact. Please review this as soon as possible and advise on necessary financial measures to mitigate risks.\n\nBest regards,\n\n",
+        "email_sign": "L. V.\nHead Admin And Finance\nCitymesh"
+    },
+    {
+        "subject": "URGENT: Marketing Update Needed - Proximus Service Issue",
+        "body": "Dear Karolien,\n\nWe are facing an urgent service issue related to our wireless network solutions for Proximus, and it requires immediate marketing and communication adjustments. Please find attached the incident report. Can you prepare a brief update for Proximus and internal stakeholders? This is an urgent situation that needs swift action.\n\nBest regards,\n\n",
+        "email_sign": "Karolien \nMarketing Manager\nCitymesh"
     }
 ]

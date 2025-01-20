@@ -1,111 +1,78 @@
 [
     {
-        "provider": "Nokia",
-        "department": "Mobile Networks",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "IP and Fixed Networks",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Cloud and Network Services",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Nokia Technologies",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Customer Experience",
+        "provider": "Citymesh",
+        "department": "Technology",
         "subdivision": [
-            "Customer teams",
-            "Region and country management",
-            "Marketing"
+            "Network Planning",
+            "Installation",
+            "Configuration",
+            "Maintenance",
+            "Research and Development"
         ]
     },
     {
-        "provider": "Nokia",
-        "department": "Devices",
+        "provider": "Citymesh",
+        "department": "Operations",
         "subdivision": [
-            "Mobile Solutions",
-            "Mobile Phones"
+            "Network Management",
+            "Service Delivery",
+            "Customer Support",
+            "Project Management"
         ]
     },
     {
-        "provider": "Nokia",
-        "department": "Solutions",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Services",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Markets",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Corporate Development",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "NAVTEQ",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Technology Platforms",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Customer and Market Operations",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Human Resources Management",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Finance",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Research and Development",
-        "subdivision": [
-            "Applied R&D"
-        ]
-    },
-    {
-        "provider": "Nokia",
-        "department": "Corporate Services",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Customer Services",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
-        "department": "Information Technology",
-        "subdivision": []
-    },
-    {
-        "provider": "Nokia",
+        "provider": "Citymesh",
         "department": "Sales",
-        "subdivision": []
+        "subdivision": [
+            "Business Development",
+            "Account Management",
+            "Pre-sales"
+        ]
+    },
+    {
+        "provider": "Citymesh",
+        "department": "Marketing and Communication",
+        "subdivision": [
+            "Brand Management",
+            "Digital Marketing",
+            "Public Relations",
+            "Content Creation"
+        ]
+    },
+    {
+        "provider": "Citymesh",
+        "department": "Finance",
+        "subdivision": [
+            "Accounting",
+            "Financial Planning",
+            "Controlling"
+        ]
+    },
+    {
+        "provider": "Citymesh",
+        "department": "Human Resources",
+        "subdivision": [
+            "Recruitment",
+            "Employee Relations",
+            "Training and Development"
+        ]
+    },
+    {
+        "provider": "Citymesh",
+        "department": "Legal",
+        "subdivision": [
+            "Compliance",
+            "Contracts",
+            "Regulatory Affairs"
+        ]
+    },
+    {
+        "provider": "Citymesh",
+        "department": "Security",
+        "subdivision": [
+            "Network Security",
+            "Data Protection",
+            "Risk Management"
+        ]
     }
 ]
