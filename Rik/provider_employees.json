@@ -1,0 +1,114 @@
+[
+    {
+        "provider": "Codit",
+        "first_name": "Stijn",
+        "family_name": "Degrieck",
+        "role": "General Manager a.i.",
+        "department": "Management"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Matthijs",
+        "family_name": "den Haan",
+        "role": "Lead Architect",
+        "department": "Senior Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Raymond",
+        "family_name": "Aerts",
+        "role": "Operations Manager",
+        "department": "Senior Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Yashfeen",
+        "family_name": "Saiyid",
+        "role": "Chief Executive Officer a.i.",
+        "department": "Senior Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Dirk",
+        "family_name": "Luyckx",
+        "role": "Chief Technology Officer",
+        "department": "Senior Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Yashfeen",
+        "family_name": "Saiyid",
+        "role": "Managing Director",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Dirk",
+        "family_name": "Luyckx",
+        "role": "Chief Technology Officer",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Francis",
+        "family_name": "Defauw",
+        "role": "Chief Marketing Officer",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Leo",
+        "family_name": "Eelen",
+        "role": "Chief Financial Officer",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Peter",
+        "family_name": "Borremans",
+        "role": "Chief Delivery Officer",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Marijke",
+        "family_name": "Van Cauteren",
+        "role": "Chief People Officer",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Leslie",
+        "family_name": "Cottenje",
+        "role": "General Manager",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Peter",
+        "family_name": "Borremans",
+        "role": "Operations Manager",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Massimo",
+        "family_name": "Crippa",
+        "role": "Lead Architect",
+        "department": "Leadership"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Bernard",
+        "family_name": "Lenssens",
+        "role": "Founder & CIO",
+        "department": "Founders"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Stijn",
+        "family_name": "Degrieck",
+        "role": "CEO",
+        "department": "Founders"
+    }
+]
