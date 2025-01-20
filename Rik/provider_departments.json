@@ -1,90 +1,132 @@
 [
     {
-        "provider": "Codit",
-        "department": "Leadership",
+        "provider": "Ingram Micro BVBA",
+        "department": "Executive Leadership",
         "subdivision": [
-            "General Management",
-            "Lead Architecture",
-            "Operations Management",
             "Chief Executive Officer",
-            "Chief Technology Officer",
-            "Chief Delivery Officer",
-            "Chief Innovation Officer",
-            "Chief Financial Officer"
+            "Chief Financial Officer",
+            "Executive Vice President, Human Resources",
+            "Executive Vice President, Secretary and General Counsel",
+            "Senior Vice President, Global Marketing",
+            "Senior Vice President and President, Latin America",
+            "Senior Vice President and President, CloudBlue",
+            "Senior Vice President, Platform Services and Support",
+            "Executive Vice President, Global Operations and Engineering",
+            "Executive Vice President and President, Global Platform Group",
+            "Executive Vice President and Group President of Europe, Middle East, and Africa"
         ]
     },
     {
-        "provider": "Codit",
-        "department": "Consulting",
+        "provider": "Ingram Micro BVBA",
+        "department": "Regional Leadership",
         "subdivision": [
-            "Cloud Strategy and Architecture",
-            "Business Process Automation",
-            "API Management"
+            "President, Europe, Middle East, and Africa",
+            "President, Asia-Pacific",
+            "President, Latin America",
+            "President, North America"
         ]
     },
     {
-        "provider": "Codit",
-        "department": "Technology",
+        "provider": "Ingram Micro BVBA",
+        "department": "Global Business Services",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Human Resources",
         "subdivision": [
-            "Microsoft Azure Cloud Native Technologies",
-            "Cloud Migration",
-            "Application Integration and Modernization",
-            "Artificial Intelligence",
-            "Internet of Things (IoT)",
-            "Data Platforms",
-            "Kubernetes",
-            "DevOps",
-            "Cloud Security"
+            "Talent Acquisition"
         ]
     },
     {
-        "provider": "Codit",
-        "department": "Customer Care",
+        "provider": "Ingram Micro BVBA",
+        "department": "Finance and Accounting",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Technology Solutions",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Cloud Services",
         "subdivision": [
-            "Managed Services",
-            "Customer Success Management",
-            "Service Desk",
-            "Platform Operations",
-            "Monitoring",
-            "Security",
-            "Governance",
-            "Customer Onboarding"
+            "Global Cloud Services",
+            "Global Cloud Sales"
         ]
     },
     {
-        "provider": "Codit",
-        "department": "Services",
+        "provider": "Ingram Micro BVBA",
+        "department": "Commerce and Lifecycle Services",
         "subdivision": [
-            "Custom Software Development",
-            "Talent Acquisition",
-            "Cloud Migration and Modernization",
-            "Product Engineering",
-            "Continuous Testing",
-            "Data Center Management",
-            "Access Services",
-            "Cloud and Server Solutions",
-            "Backup Management",
-            "Correct Sizing",
-            "Network Solutions",
-            "Backup and Archiving",
-            "Mail Solutions",
-            "Startup Company Solutions",
-            "Development and Testing",
-            "Onsite Support",
-            "Parts Supply",
-            "KVKK Consultancy",
-            "Cloud Services",
-            "Digital Transformation",
-            "CoditOne",
-            "HPC",
-            "Outsource IT",
-            "Private Cloud Server",
-            "Disaster Recovery and Business Continuity",
-            "Consultancy Services",
-            "Renting Hardware",
-            "Hiring Experts",
-            "CDN Services",
-            "Database Solutions"
+            "Reverse Logistics",
+            "Returns Management",
+            "Repair & Refurbishment",
+            "Aftermarket Sales (Remarketing)",
+            "Value Added Services",
+            "Asset Management",
+            "Lifecycle Management"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Marketing and Sales",
+        "subdivision": [
+            "Global Marketing",
+            "U.S. Sales"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Engineering and Technical Development",
+        "subdivision": [
+            "Global Platform Group",
+            "Engineering"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Operations",
+        "subdivision": [
+            "Global Operations",
+            "Customer Experience"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Customer Service",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Professional Services",
+        "subdivision": [
+            "Installation & Deployment",
+            "Management",
+            "Planning & Design",
+            "Support Services"
+        ]
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Strategic Partner Relations and Business Intelligence",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "International Businesses",
+        "subdivision": []
+    },
+    {
+        "provider": "Ingram Micro BVBA",
+        "department": "Country Operations",
+        "subdivision": [
+            "DACHH Cluster",
+            "Southern Europe Cluster",
+            "Benelux Cluster",
+            "UK/Ireland Region",
+            "Sweden"
         ]
     }
 ]
