@@ -1,114 +1,130 @@
 [
     {
         "provider": "Codit",
-        "first_name": "Stijn",
-        "family_name": "Degrieck",
-        "role": "General Manager a.i.",
-        "department": "Management"
+        "first_name": "Leslie",
+        "family_name": "Cottenje",
+        "role": "General Manager",
+        "department": null,
+        "email_address": "leslie.cottenje@codit.be"
     },
     {
         "provider": "Codit",
-        "first_name": "Matthijs",
-        "family_name": "den Haan",
-        "role": "Lead Architect",
-        "department": "Senior Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Raymond",
-        "family_name": "Aerts",
+        "first_name": "Peter",
+        "family_name": "Borremans",
         "role": "Operations Manager",
-        "department": "Senior Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Yashfeen",
-        "family_name": "Saiyid",
-        "role": "Chief Executive Officer a.i.",
-        "department": "Senior Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Dirk",
-        "family_name": "Luyckx",
-        "role": "Chief Technology Officer",
-        "department": "Senior Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Yashfeen",
-        "family_name": "Saiyid",
-        "role": "Managing Director",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Dirk",
-        "family_name": "Luyckx",
-        "role": "Chief Technology Officer",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Francis",
-        "family_name": "Defauw",
-        "role": "Chief Marketing Officer",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Leo",
-        "family_name": "Eelen",
-        "role": "Chief Financial Officer",
-        "department": "Leadership"
+        "department": null,
+        "email_address": "peter.borremans@codit.be"
     },
     {
         "provider": "Codit",
         "first_name": "Peter",
         "family_name": "Borremans",
         "role": "Chief Delivery Officer",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Marijke",
-        "family_name": "Van Cauteren",
-        "role": "Chief People Officer",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Leslie",
-        "family_name": "Cottenje",
-        "role": "General Manager",
-        "department": "Leadership"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Peter",
-        "family_name": "Borremans",
-        "role": "Operations Manager",
-        "department": "Leadership"
+        "department": null,
+        "email_address": "peter.borremans@codit.be"
     },
     {
         "provider": "Codit",
         "first_name": "Massimo",
         "family_name": "Crippa",
         "role": "Lead Architect",
-        "department": "Leadership"
+        "department": null,
+        "email_address": "massimo.crippa@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Yashfeen",
+        "family_name": "Saiyid",
+        "role": "Managing Director",
+        "department": null,
+        "email_address": "yashfeen.saiyid@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Yashfeen",
+        "family_name": "Saiyid",
+        "role": "Chief Executive Officer a.i.",
+        "department": null,
+        "email_address": "yashfeen.saiyid@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Dirk",
+        "family_name": "Luyckx",
+        "role": "Chief Technology Officer",
+        "department": null,
+        "email_address": "dirk.luyckx@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Francis",
+        "family_name": "Defauw",
+        "role": "Chief Marketing Officer",
+        "department": null,
+        "email_address": "francis.defauw@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Leo",
+        "family_name": "Eelen",
+        "role": "Chief Financial Officer",
+        "department": null,
+        "email_address": "leo.eelen@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Marijke",
+        "family_name": "Van Cauteren",
+        "role": "Chief People Officer",
+        "department": null,
+        "email_address": "marijke.vancauteren@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Stijn",
+        "family_name": "Degrieck",
+        "role": "General Manager a.i.",
+        "department": null,
+        "email_address": "stijn.degrieck@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Matthijs",
+        "family_name": "den Haan",
+        "role": "Lead Architect",
+        "department": null,
+        "email_address": "matthijs.denhaan@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Raymond",
+        "family_name": "Aerts",
+        "role": "Operations Manager",
+        "department": null,
+        "email_address": "raymond.aerts@codit.be"
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Ang\u00e8le",
+        "family_name": null,
+        "role": "Customer Care Engineer",
+        "department": "Customer Care",
+        "email_address": null
+    },
+    {
+        "provider": "Codit",
+        "first_name": "Jef",
+        "family_name": "Cools",
+        "role": "Integration Consultant",
+        "department": null,
+        "email_address": "jef.cools@codit.be"
     },
     {
         "provider": "Codit",
         "first_name": "Bernard",
         "family_name": "Lenssens",
         "role": "Founder & CIO",
-        "department": "Founders"
-    },
-    {
-        "provider": "Codit",
-        "first_name": "Stijn",
-        "family_name": "Degrieck",
-        "role": "CEO",
-        "department": "Founders"
+        "department": null,
+        "email_address": "bernard.lenssens@codit.be"
     }
 ]
