@@ -1,41 +1,48 @@
 [
     {
         "department": "Chief Executive Officer's Department",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Consumer Market",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Enterprise Market",
-        "subdivision": [
-            "Proximus NXT"
-        ]
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Corporate Affairs",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
-        "department": "Network & Wholesale",
-        "subdivision": []
+        "department": "Network and Wholesale",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Customer Operations",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Human Capital",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
-        "department": "Digital & IT",
-        "subdivision": []
+        "department": "Digital and Information Technology",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Finance",
-        "subdivision": []
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     },
     {
         "department": "Proximus Global",
@@ -43,39 +50,7 @@
             "BICS",
             "Telesign",
             "Route Mobile"
-        ]
-    },
-    {
-        "department": "Proximus Media House",
-        "subdivision": []
-    },
-    {
-        "department": "Connectimmo",
-        "subdivision": []
-    },
-    {
-        "department": "International Carrier Services",
-        "subdivision": []
-    },
-    {
-        "department": "Telindus",
-        "subdivision": [
-            "Telindus Netherlands",
-            "Telindus Luxembourg"
-        ]
-    },
-    {
-        "department": "Sustainability",
-        "subdivision": []
-    },
-    {
-        "department": "Corporate Prevention & Protection",
-        "subdivision": [
-            "Environmental department"
-        ]
-    },
-    {
-        "department": "Internal Audit",
-        "subdivision": []
+        ],
+        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
     }
 ]

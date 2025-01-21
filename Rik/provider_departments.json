@@ -1,78 +1,141 @@
 [
     {
-        "provider": "Citymesh",
+        "provider": "SAP Ariba",
+        "department": "Engineering",
+        "subdivision": [
+            "Ariba Network"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Business Development",
+        "subdivision": [
+            "Ecosystem"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
         "department": "Technology",
-        "subdivision": [
-            "Network Planning",
-            "Installation",
-            "Configuration",
-            "Maintenance",
-            "Research and Development"
-        ]
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Operations",
-        "subdivision": [
-            "Network Management",
-            "Service Delivery",
-            "Customer Support",
-            "Project Management"
-        ]
+        "provider": "SAP Ariba",
+        "department": "Product and Engineering",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Sales",
-        "subdivision": [
-            "Business Development",
-            "Account Management",
-            "Pre-sales"
-        ]
+        "provider": "SAP Ariba",
+        "department": "Product Management and Engineering",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Marketing and Communication",
-        "subdivision": [
-            "Brand Management",
-            "Digital Marketing",
-            "Public Relations",
-            "Content Creation"
-        ]
-    },
-    {
-        "provider": "Citymesh",
+        "provider": "SAP Ariba",
         "department": "Finance",
-        "subdivision": [
-            "Accounting",
-            "Financial Planning",
-            "Controlling"
-        ]
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Human Resources",
-        "subdivision": [
-            "Recruitment",
-            "Employee Relations",
-            "Training and Development"
-        ]
+        "provider": "SAP Ariba",
+        "department": "Commercial Strategy and Operations",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Legal",
+        "provider": "SAP Ariba",
+        "department": "Customer Management",
         "subdivision": [
+            "Global Services"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Solution Optimization",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Strategy and Corporate Development",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Artificial Intelligence and Cognitive Products",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Sales",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Global Enterprise Alliances",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "North America Services",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Influencer Marketing",
+        "subdivision": [
+            "Analysts",
+            "Third-Party Communities",
+            "Brand Partners"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Portfolio Marketing",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Category Management",
+        "subdivision": [
+            "Accounting and Finance",
+            "Application Development",
             "Compliance",
-            "Contracts",
-            "Regulatory Affairs"
-        ]
+            "Human Resource Management",
+            "Information Technology Management",
+            "Information Technology Security",
+            "Legal",
+            "Marketing",
+            "Production",
+            "Purchasing",
+            "Research and Development",
+            "User Support"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     },
     {
-        "provider": "Citymesh",
-        "department": "Security",
+        "provider": "SAP Ariba",
+        "department": "Direct Spend Solutions",
+        "subdivision": [],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+    },
+    {
+        "provider": "SAP Ariba",
+        "department": "Delivery",
         "subdivision": [
-            "Network Security",
-            "Data Protection",
-            "Risk Management"
-        ]
+            "Regulated Market Unit"
+        ],
+        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
     }
 ]

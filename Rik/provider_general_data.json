@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Citymesh",
-        "service": "Wireless network solutions",
-        "type": "Partner",
-        "provider_homepage": "https://www.citymesh.com/"
+        "provider": "SAP ARIBA",
+        "service": "Supplier management platform",
+        "type": "Platform provider",
+        "provider_homepage": null
     }
 ]

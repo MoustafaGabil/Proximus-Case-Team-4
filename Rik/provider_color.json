@@ -1,30 +1,30 @@
 [
     {
-        "provider": "Citymesh",
-        "color_name_1": "Dark Blue",
-        "hex_code_1": "#154E8F",
+        "provider": "SAP ARIBA",
+        "color_name_1": "SAP Blue",
+        "hex_code_1": "#003366",
         "rgb_code_1": [
-            21,
-            78,
-            143
+            0,
+            51,
+            102
         ]
     },
     {
-        "color_name_2": "Light Blue",
-        "hex_code_2": "#78aee6",
+        "color_name_2": "SAP Grey",
+        "hex_code_2": "#999999",
         "rgb_code_2": [
-            120,
-            174,
-            230
+            153,
+            153,
+            153
         ]
     },
     {
-        "color_name_3": "Orange",
-        "hex_code_3": "#f5A71E",
+        "color_name_3": "White",
+        "hex_code_3": "#FFFFFF",
         "rgb_code_3": [
-            245,
-            167,
-            30
+            255,
+            255,
+            255
         ]
     }
 ]
