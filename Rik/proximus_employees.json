@@ -7,13 +7,6 @@
         "email_address": "guillaume.boutin@proximus.be"
     },
     {
-        "first_name": "Stefaan",
-        "family_name": "De Clerck",
-        "role": "Chairman of the Board",
-        "department": "Board of Directors",
-        "email_address": "stefaan.declerck@proximus.be"
-    },
-    {
         "first_name": "Ben",
         "family_name": "Appel",
         "role": "Corporate Affairs Lead",
@@ -56,18 +49,25 @@
         "email_address": "geert.standaert@proximus.be"
     },
     {
+        "first_name": "Jan",
+        "family_name": "Van Acoleyen",
+        "role": "Chief Human Resources Officer",
+        "department": "Human Capital",
+        "email_address": "jan.vanacoleyen@proximus.be"
+    },
+    {
         "first_name": "Renaud",
         "family_name": "Tilmans",
-        "role": "Enterprise Telco Services & Ops Lead",
+        "role": "Customer Operations Lead",
         "department": "Customer Operations",
         "email_address": "renaud.tilmans@proximus.be"
     },
     {
-        "first_name": "Jan",
-        "family_name": "Van Acoleyen",
-        "role": "Human Capital Lead",
-        "department": "Human Capital",
-        "email_address": "jan.vanacoleyen@proximus.be"
+        "first_name": "Stefaan",
+        "family_name": "De Clerck",
+        "role": "Chairman of the Board",
+        "department": "Board of Directors",
+        "email_address": "stefaan.declerk@proximus.be"
     },
     {
         "first_name": "Caroline",
@@ -135,7 +135,7 @@
     {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate",
+        "role": "Managing Director Proximus Real Estate - Connectimmo",
         "department": "Real Estate",
         "email_address": "karl.cuveele@proximus.be"
     },
@@ -185,7 +185,7 @@
         "first_name": "Annemie",
         "family_name": "Peetermans",
         "role": "Product Owner Lead - E2e Sales Journeys Physical Channels",
-        "department": "Sales",
+        "department": "Sales Journeys",
         "email_address": "annemie.peetermans@proximus.be"
     },
     {
@@ -206,7 +206,7 @@
         "first_name": "Pierre",
         "family_name": "Demoulin",
         "role": "Fiber Sales Lead",
-        "department": "Sales",
+        "department": "Fiber Sales",
         "email_address": "pierre.demoulin@proximus.be"
     },
     {

@@ -1,0 +1,26 @@
+[
+    {
+        "subject": "URGENT: Impact on Proximus International Voice Services",
+        "body": "Dear Wouters,\n\nI am writing to you today with an urgent matter that requires your immediate attention. We have identified a critical issue impacting the international voice services provided by BICS to Proximus. This issue is causing significant disruptions in call routing and quality, potentially affecting Proximus customers' experience.\n\nOur technical teams are working diligently to resolve the root cause, but we need your support from the marketing side to proactively manage customer expectations and communications. We have prepared a preliminary communication draft outlining the situation and next steps, it is available in the link below. \n\nTime is of the essence. Please review the document and let us know how we can support your team to keep Proximus customers informed during this disruption. \n\nThank you for your prompt action on this critical matter.\n\n",
+        "email_sign_fullname": "Antoine Vanderlinden",
+        "email_sign_role": "Group Commercial Officer",
+        "email_sign_company": "BICS",
+        "receiver_full_name": "Emma Wouters"
+    },
+    {
+        "subject": "CRITICAL: Mobile Data Service Disruption - Immediate Action Needed",
+        "body": "Dear Wouters,\n\nI hope this email finds you well. I'm reaching out regarding a significant disruption we've detected within BICS' mobile data services that directly affects Proximus customers. This issue is leading to intermittent connectivity problems and reduced data speeds for a portion of your user base. This is a serious issue that requires immediate attention.\n\nWe understand that such disruptions impact your customers and brand reputation. Therefore, we have prepared a brief that includes a detailed description of the situation, the affected regions, and the expected timeline for a resolution. This information is crucial for your communications strategy.\n\nKindly access the document through the link below. We request you and your team to review it at your earliest convenience to mitigate potential negative impacts. We must work together to address this with speed and transparency.\n\nThank you for your urgent cooperation.\n",
+        "email_sign_fullname": "Geert Degezelle",
+        "email_sign_role": "Chief Technology Officer",
+        "email_sign_company": "BICS",
+        "receiver_full_name": "Emma Wouters"
+    },
+    {
+        "subject": "HIGH PRIORITY: Urgent Review of International Roaming Service Issues",
+        "body": "Dear Wouters,\n\nI am writing to you today to address a high-priority issue that needs your immediate attention. We've detected a critical problem with the international roaming services provided by BICS to Proximus, which is resulting in connectivity issues and billing discrepancies for customers using roaming. This issue is affecting a significant number of Proximus customers and requires urgent action.\n\nTo address this effectively, we have compiled a detailed report outlining the problems, affected areas, and our proposed solutions. The document includes critical information that your team needs to manage customer communications and expectations. You can find the file in the link below.\n\nGiven the impact on customer experience, it's essential to review the document and get back to us with your feedback as quickly as possible. Prompt action is crucial to minimize the negative effects on your customer base.\n\nThank you for your swift attention to this matter.\n",
+        "email_sign_fullname": "Frederic Demolder",
+        "email_sign_role": "Chief Financial Officer",
+        "email_sign_company": "BICS",
+        "receiver_full_name": "Emma Wouters"
+    }
+]

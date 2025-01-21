@@ -1,18 +1,26 @@
 [
     {
-        "provider": "ClearMedia",
-        "first_name": "Tinne",
-        "family_name": "Unknown",
-        "role": "Unknown",
-        "department": "Unknown",
-        "email_address": "tinne.unknown@clearmedia.be"
+        "provider": "BICS",
+        "first_name": "Surash",
+        "family_name": "Patel",
+        "role": "Managing Director",
+        "department": "Leadership",
+        "email_address": "surash.patel@bics.be"
     },
     {
-        "provider": "ClearMedia",
-        "first_name": "Han Zi",
-        "family_name": "Jing",
-        "role": "Chief Executive Officer",
-        "department": "Executive",
-        "email_address": "han zi.jing@clearmedia.be"
+        "provider": "BICS",
+        "first_name": "C\u00e9dric",
+        "family_name": "Grandjean",
+        "role": "Chief Financial Officer",
+        "department": "Finance",
+        "email_address": "cedric.grandjean@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Yaunese",
+        "family_name": "Aazibou",
+        "role": "Chief Technology & Customer Service Officer",
+        "department": "Technology & Customer Service",
+        "email_address": "yaunese.aazibou@bics.be"
     }
 ]
