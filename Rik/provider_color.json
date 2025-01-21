@@ -1,0 +1,66 @@
+[
+    {
+        "provider": "Clerk Chat",
+        "color_name_1": "Purple",
+        "hex_code_1": "#8a0eef",
+        "rgb_code_1": [
+            138,
+            14,
+            239
+        ]
+    },
+    {
+        "color_name_2": "Orange",
+        "hex_code_2": "#fa7161",
+        "rgb_code_2": [
+            250,
+            113,
+            97
+        ]
+    },
+    {
+        "color_name_3": "Pink",
+        "hex_code_3": "#be08b1",
+        "rgb_code_3": [
+            190,
+            8,
+            177
+        ]
+    },
+    {
+        "color_name_4": "White",
+        "hex_code_4": "#FFFFFF",
+        "rgb_code_4": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "color_name_5": "Dark Blue",
+        "hex_code_5": "#394376",
+        "rgb_code_5": [
+            57,
+            67,
+            118
+        ]
+    },
+    {
+        "color_name_6": "Light Blue",
+        "hex_code_6": "#697BD7",
+        "rgb_code_6": [
+            105,
+            123,
+            215
+        ]
+    },
+    {
+        "color_name_7": "Dark Grey",
+        "hex_code_7": "#1F2936",
+        "rgb_code_7": [
+            31,
+            41,
+            54
+        ]
+    }
+]

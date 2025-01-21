@@ -1,0 +1,96 @@
+{
+    "Clerk Chat": {
+        "general": {
+            "provider": "Clerk Chat",
+            "service": "Streamlines customer communication through real-time messaging",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://clerk.chat/"
+        },
+        "employee": [
+            {
+                "provider": "Clerk Chat",
+                "first_name": "Alexander",
+                "family_name": "Haque",
+                "role": "co-founder and CEO",
+                "department": "Executive",
+                "email_address": "alexander.haque@clerk.chat.be"
+            },
+            {
+                "provider": "Clerk Chat",
+                "first_name": "Igor",
+                "family_name": "Boshoer",
+                "role": "co-founder and CTO",
+                "department": "Executive",
+                "email_address": "igor.boshoer@clerk.chat.be"
+            },
+            {
+                "provider": "Clerk Chat",
+                "first_name": "Ximena",
+                "family_name": "De Spain",
+                "role": "Employee",
+                "department": "General",
+                "email_address": "ximena.despain@clerk.chat.be"
+            }
+        ],
+        "color": {
+            "provider": "Clerk Chat",
+            "color_name_1": "Purple",
+            "hex_code_1": "#8a0eef",
+            "rgb_code_1": [
+                138,
+                14,
+                239
+            ]
+        },
+        "departments": [
+            {
+                "provider": "Clerk Chat",
+                "department": "Executive Leadership",
+                "subdivision": [
+                    "Board of Directors"
+                ],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Engineering",
+                "subdivision": [
+                    "Frontend Engineering",
+                    "Backend Engineering",
+                    "Machine Learning Engineering"
+                ],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Product",
+                "subdivision": [
+                    "Product Management"
+                ],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Sales",
+                "subdivision": [],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Support",
+                "subdivision": [],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            }
+        ]
+    }
+}

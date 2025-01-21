@@ -1,0 +1,26 @@
+[
+    {
+        "provider": "Clerk Chat",
+        "first_name": "Alexander",
+        "family_name": "Haque",
+        "role": "co-founder and CEO",
+        "department": "Executive",
+        "email_address": "alexander.haque@clerk.chat.be"
+    },
+    {
+        "provider": "Clerk Chat",
+        "first_name": "Igor",
+        "family_name": "Boshoer",
+        "role": "co-founder and CTO",
+        "department": "Executive",
+        "email_address": "igor.boshoer@clerk.chat.be"
+    },
+    {
+        "provider": "Clerk Chat",
+        "first_name": "Ximena",
+        "family_name": "De Spain",
+        "role": "Employee",
+        "department": "General",
+        "email_address": "ximena.despain@clerk.chat.be"
+    }
+]
