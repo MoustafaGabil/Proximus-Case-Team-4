@@ -1,50 +1,68 @@
 [
     {
-        "provider": "PostMobile (bpost)",
+        "provider": "Tango",
         "department": "Customer Service",
         "subdivision": [
-            "Online Support",
-            "Phone Support",
-            "Post Office, Post Point or Parcel Point Support",
-            "Postal Support"
+            "Billing",
+            "Mobile",
+            "Technical Outage",
+            "App, website & My Tango customer account",
+            "Changes to my account or subscription",
+            "Applying for a partnership"
         ],
-        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-        "phone": "+32 2 278 51 26",
-        "vat": "BE 0214.596.464"
+        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+        "phone": "+352 800 777 77",
+        "vat": "LU15605033"
     },
     {
-        "provider": "PostMobile (bpost)",
-        "department": "General Inquiries",
+        "provider": "Tango",
+        "department": "Sales",
         "subdivision": [
-            "General Information",
-            "Abusive or illegal use of the bpost network"
+            "Residential Customers",
+            "Small Businesses",
+            "Self-Employed"
         ],
-        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-        "phone": "+32 2 201 11 11",
-        "vat": "BE 0214.596.464"
+        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+        "phone": "+352 800 777 77",
+        "vat": "LU15605033"
     },
     {
-        "provider": "PostMobile (bpost)",
-        "department": "Business Customers",
-        "subdivision": [],
-        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-        "phone": "+32 2 207 57 85",
-        "vat": "BE 0214.596.464"
+        "provider": "Proximus Luxembourg SA",
+        "department": "General",
+        "subdivision": [
+            "ICT Services",
+            "Telecommunications",
+            "Fixed and Mobile Services"
+        ],
+        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 \u2013 1",
+        "vat": "LU15605033"
     },
     {
-        "provider": "PostMobile (bpost)",
-        "department": "Residential Customers",
-        "subdivision": [],
-        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-        "phone": "+32 2 278 51 27",
-        "vat": "BE 0214.596.464"
+        "provider": "Proximus Luxembourg SA",
+        "department": "Telindus",
+        "subdivision": [
+            "ICT Services",
+            "Fixed and Mobile Telecommunications",
+            "Medium and Large Companies",
+            "Public Administrations"
+        ],
+        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 \u2013 1",
+        "vat": "LU15605033"
     },
     {
-        "provider": "PostMobile (bpost)",
-        "department": "Data Protection Office",
-        "subdivision": [],
-        "address": "Munt Centrum (14B), 1000 Brussels",
-        "phone": null,
-        "vat": "BE 0214.596.464"
+        "provider": "Proximus Luxembourg SA",
+        "department": "Codit",
+        "subdivision": [
+            "Data Integration",
+            "API Management",
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Internet of Things (IoT)"
+        ],
+        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 \u2013 1",
+        "vat": "LU15605033"
     }
 ]

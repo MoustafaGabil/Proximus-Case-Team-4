@@ -1,147 +1,138 @@
 {
-    "PostMobile (bpost)": {
+    "Tango": {
         "general": {
-            "provider": "PostMobile (bpost)",
-            "service": "Mobile virtual network operator",
-            "type": "MVNO using Proximus network",
+            "provider": "Tango",
+            "service": "Fixed and mobile telephony, internet and television services",
+            "type": "Brand of Proximus Luxembourg SA",
             "provider_homepage": null
         },
         "employee": [
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Chris",
-                "family_name": "Peeters",
-                "role": "Chief Executive Officer",
-                "department": "Executive Board",
-                "email_address": "chris.peeters@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "Jean",
+                "family_name": "R. D. M.",
+                "role": "Chief Accountant",
+                "department": "Accounting",
+                "email_address": "jean.r. d. m.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Philippe",
-                "family_name": "Dartienne",
-                "role": "Chief Financial Officer",
-                "department": "Senior Management",
-                "email_address": "philippe.dartienne@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "Jean",
+                "family_name": "M.",
+                "role": "Head Of Marketing & Communications",
+                "department": "Marketing & Communications",
+                "email_address": "jean.m.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Mark",
-                "family_name": "Michiels",
-                "role": "Chief Human Resources and Organization Officer",
-                "department": "Senior Management",
-                "email_address": "mark.michiels@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "Jean",
+                "family_name": "S.",
+                "role": "Head Of Telecoms Products",
+                "department": "Telecoms Products",
+                "email_address": "jean.s.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Anette",
-                "family_name": "Bohm",
-                "role": "Chief Human Resources Officer",
-                "department": "Senior Management",
-                "email_address": "anette.bohm@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "M.",
+                "family_name": "H.",
+                "role": "Director Customer Operations",
+                "department": "Customer Operations",
+                "email_address": "m.h.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Frank",
-                "family_name": "Croket",
-                "role": "Chief Digital Officer",
-                "department": "Senior Management",
-                "email_address": "frank.croket@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "V.",
+                "family_name": "P.",
+                "role": "IT Infrastructure Manager",
+                "department": "IT",
+                "email_address": "v.p.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Jos",
-                "family_name": "Donvil",
-                "role": "CEO bpost Belgium",
-                "department": "bpost Belgium",
-                "email_address": "jos.donvil@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "D.",
+                "family_name": "D. P.",
+                "role": "Telecom Product Manager",
+                "department": "Telecom Products",
+                "email_address": "d.d.p.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Koen",
-                "family_name": "Aelterman",
-                "role": "CFO for the Belgian business unit",
-                "department": "Belgian business unit",
-                "email_address": "koen.aelterman@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "M.",
+                "family_name": "R.",
+                "role": "Logistic Manager",
+                "department": "Logistics",
+                "email_address": "m.r.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Henri",
-                "family_name": "de Romr\u00e9e",
-                "role": "CEO of bpost group's e-logistics North-America business unit",
-                "department": "e-logistics North-America",
-                "email_address": "henri.deromree@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "P.",
+                "family_name": "S.",
+                "role": "Senior Key Account Manager",
+                "department": "Sales",
+                "email_address": "p.s.@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "Thomas",
-                "family_name": "Mortier",
-                "role": "CEO 3PL Europe",
-                "department": "3PL Europe",
-                "email_address": "thomas.mortier@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "Luis",
+                "family_name": "Camara",
+                "role": "Chief Consumer Market Officer",
+                "department": "Consumer Market",
+                "email_address": "luis.camara@tango.be"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "first_name": "James",
-                "family_name": "Edge",
-                "role": "CEO Global Cross border",
-                "department": "Global Cross border",
-                "email_address": "james.edge@postmobile (bpost).be"
+                "provider": "Tango",
+                "first_name": "Myriam",
+                "family_name": "Brunel",
+                "role": "Legal",
+                "department": "Legal",
+                "email_address": "myriam.brunel@tango.be"
+            },
+            {
+                "provider": "Tango",
+                "first_name": "Maikel",
+                "family_name": "Fernandes",
+                "role": "Team Leader",
+                "department": "Customer Service",
+                "email_address": "maikel.fernandes@tango.be"
             }
         ],
         "color": {
-            "provider": "PostMobile (bpost)",
-            "color_name_1": "Red",
-            "hex_code_1": null,
-            "rgb_code_1": null
+            "provider": "Tango",
+            "color_name_1": "Orange",
+            "hex_code_1": "#ec8115",
+            "rgb_code_1": [
+                236,
+                129,
+                21
+            ]
         },
         "departments": [
             {
-                "provider": "PostMobile (bpost)",
+                "provider": "Tango",
                 "department": "Customer Service",
                 "subdivision": [
-                    "Online Support",
-                    "Phone Support",
-                    "Post Office, Post Point or Parcel Point Support",
-                    "Postal Support"
+                    "Billing",
+                    "Mobile",
+                    "Technical Outage",
+                    "App, website & My Tango customer account",
+                    "Changes to my account or subscription",
+                    "Applying for a partnership"
                 ],
-                "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-                "phone": "+32 2 278 51 26",
-                "vat": "BE 0214.596.464"
+                "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+                "phone": "+352 800 777 77",
+                "vat": "LU15605033"
             },
             {
-                "provider": "PostMobile (bpost)",
-                "department": "General Inquiries",
+                "provider": "Tango",
+                "department": "Sales",
                 "subdivision": [
-                    "General Information",
-                    "Abusive or illegal use of the bpost network"
+                    "Residential Customers",
+                    "Small Businesses",
+                    "Self-Employed"
                 ],
-                "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-                "phone": "+32 2 201 11 11",
-                "vat": "BE 0214.596.464"
-            },
-            {
-                "provider": "PostMobile (bpost)",
-                "department": "Business Customers",
-                "subdivision": [],
-                "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-                "phone": "+32 2 207 57 85",
-                "vat": "BE 0214.596.464"
-            },
-            {
-                "provider": "PostMobile (bpost)",
-                "department": "Residential Customers",
-                "subdivision": [],
-                "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
-                "phone": "+32 2 278 51 27",
-                "vat": "BE 0214.596.464"
-            },
-            {
-                "provider": "PostMobile (bpost)",
-                "department": "Data Protection Office",
-                "subdivision": [],
-                "address": "Munt Centrum (14B), 1000 Brussels",
-                "phone": null,
-                "vat": "BE 0214.596.464"
+                "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
+                "phone": "+352 800 777 77",
+                "vat": "LU15605033"
             }
         ]
     }
