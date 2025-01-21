@@ -1,26 +1,18 @@
 [
     {
-        "provider": "Proximus Spearit",
-        "first_name": "Bart",
-        "family_name": "Weemaels",
-        "role": "Head of Projects & Services",
-        "department": "Projects & Services",
-        "email_address": "bart.weemaels@proximusspearit.be"
+        "provider": "ClearMedia",
+        "first_name": "Tinne",
+        "family_name": "Unknown",
+        "role": "Unknown",
+        "department": "Unknown",
+        "email_address": "tinne.unknown@clearmedia.be"
     },
     {
-        "provider": "Proximus Spearit",
-        "first_name": "Fina",
-        "family_name": "Cammarata",
-        "role": "Head of Sourcing",
-        "department": "Sourcing",
-        "email_address": "fina.cammarata@proximusspearit.be"
-    },
-    {
-        "provider": "Proximus Spearit",
-        "first_name": "Pierre",
-        "family_name": "Demesmaeker",
-        "role": "Senior IT Manager / Program Manager / Project Manager",
-        "department": "IT",
-        "email_address": "pierre.demesmaeker@proximusspearit.be"
+        "provider": "ClearMedia",
+        "first_name": "Han Zi",
+        "family_name": "Jing",
+        "role": "Chief Executive Officer",
+        "department": "Executive",
+        "email_address": "han zi.jing@clearmedia.be"
     }
 ]

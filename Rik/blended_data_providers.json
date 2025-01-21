@@ -1,67 +1,75 @@
 {
-    "Proximus Spearit": {
+    "ClearMedia": {
         "general": {
-            "provider": "Proximus Spearit",
-            "service": "IT services",
-            "type": "IT partner within the Proximus Accelerators ecosystem.",
+            "provider": "ClearMedia",
+            "service": "Cloud, cybersecurity, and digital workplace solutions",
+            "type": "IT Services",
             "provider_homepage": null
         },
         "employee": [
             {
-                "provider": "Proximus Spearit",
-                "first_name": "Bart",
-                "family_name": "Weemaels",
-                "role": "Head of Projects & Services",
-                "department": "Projects & Services",
-                "email_address": "bart.weemaels@proximusspearit.be"
+                "provider": "ClearMedia",
+                "first_name": "Tinne",
+                "family_name": "Unknown",
+                "role": "Unknown",
+                "department": "Unknown",
+                "email_address": "tinne.unknown@clearmedia.be"
             },
             {
-                "provider": "Proximus Spearit",
-                "first_name": "Fina",
-                "family_name": "Cammarata",
-                "role": "Head of Sourcing",
-                "department": "Sourcing",
-                "email_address": "fina.cammarata@proximusspearit.be"
-            },
-            {
-                "provider": "Proximus Spearit",
-                "first_name": "Pierre",
-                "family_name": "Demesmaeker",
-                "role": "Senior IT Manager / Program Manager / Project Manager",
-                "department": "IT",
-                "email_address": "pierre.demesmaeker@proximusspearit.be"
+                "provider": "ClearMedia",
+                "first_name": "Han Zi",
+                "family_name": "Jing",
+                "role": "Chief Executive Officer",
+                "department": "Executive",
+                "email_address": "han zi.jing@clearmedia.be"
             }
         ],
         "color": {
-            "provider": "Proximus Spearit",
-            "color_name_1": "Primary color positive",
-            "hex_code_1": "#5C2D91",
+            "provider": "ClearMedia",
+            "color_name_1": "White",
+            "hex_code_1": "#FFFFFF",
             "rgb_code_1": [
-                92,
-                45,
-                145
-            ],
-            "color_name_2": "Primary color negative",
-            "hex_code_2": "#FFFFFF",
-            "rgb_code_2": [
                 255,
                 255,
                 255
-            ]
+            ],
+            "color_name_2": "Prussian Blue",
+            "hex_code_2": null,
+            "rgb_code_2": null
         },
         "departments": [
             {
-                "provider": "Proximus Spearit",
-                "department": "IT Services",
+                "provider": "ClearMedia",
+                "department": "Cloud Solutions",
                 "subdivision": [
-                    "Infrastructure projects and integrations, on-site and in the cloud",
-                    "Services related to networks, security, Skype for Business, storage, network and server maintenance, monitoring, service desk, and on-site support",
-                    "Support by IT specialists, project managers and interim managers",
-                    "Supply of servers, network equipment, smartphones, tablets, personal computers and accessories"
+                    "Infrastructure as a Service (IaaS)",
+                    "Desktop Hosting",
+                    "Application Hosting",
+                    "Website Hosting",
+                    "Online Back-up",
+                    "Software as a Service (SaaS)",
+                    "Virtual Servers",
+                    "Cloud Desktop Services"
                 ],
-                "address": "Koning Albert ll-laan 27, 1030 Brussels, Belgium",
-                "phone": "+32 2 205 4000",
-                "vat": "BE 0202.239.951"
+                "address": "Merksemsesteenweg 148, 2100 Deurne, Belgium",
+                "phone": "+32 3 658 00 36",
+                "vat": "BE 0831 425 897"
+            },
+            {
+                "provider": "ClearMedia",
+                "department": "Cybersecurity Services",
+                "subdivision": [],
+                "address": "Merksemsesteenweg 148, 2100 Deurne, Belgium",
+                "phone": "+32 3 658 00 36",
+                "vat": "BE 0831 425 897"
+            },
+            {
+                "provider": "ClearMedia",
+                "department": "Digital Workplace Solutions",
+                "subdivision": [],
+                "address": "Merksemsesteenweg 148, 2100 Deurne, Belgium",
+                "phone": "+32 3 658 00 36",
+                "vat": "BE 0831 425 897"
             }
         ]
     }

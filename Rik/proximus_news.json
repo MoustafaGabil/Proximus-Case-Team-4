@@ -1,37 +1,47 @@
 [
     {
-        "subject": "Scarlet Mobile Plan Update",
-        "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices, effective January 8, 2025.",
+        "subject": "Proximus Rebrands Global Arm as Proximus Global",
+        "overview": "Proximus has integrated its international divisions, including BICS, Telesign, and Route Mobile, under a new umbrella brand called Proximus Global. This new entity is valued at approximately \u20ac3.1 billion in equity. The move aims to streamline operations, harmonize roles, and leverage cross-selling opportunities. Clear Bridge Ventures, the investment vehicle of Route Mobile's founders, retains an 8.7% stake in Proximus Global, with Proximus owning the rest. Guillaume Boutin will serve as CEO of Proximus Global while continuing as group CEO.",
+        "source": "Light Reading, telecomtv.com"
+    },
+    {
+        "subject": "Scarlet Offers More Data at Same Price",
+        "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices. This new offer is effective as of the beginning of 2025.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Global Launch",
-        "overview": "Proximus has integrated its international operations, including BICS, Telesign, and Route Mobile, into a new entity called Proximus Global. This move aims to streamline operations and drive growth in digital communications, with an estimated equity value of \u20ac3.1 billion.",
-        "source": "mobileeurope.co.uk, techzine.eu, uctoday.com, lightreading.com"
-    },
-    {
-        "subject": "Data Center Sale",
-        "overview": "Proximus has sold its data centers to Datacenter United in a sale-leaseback deal valued at \u20ac128 million. The transaction is expected to close by Q1 2025, as part of Proximus' asset divestment plan.",
-        "source": "datacenterdynamics.com"
-    },
-    {
-        "subject": "Be-Mobile Potential Sale",
-        "overview": "Proximus is reportedly considering selling its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. Proximus owns a 93% stake in Be-Mobile.",
-        "source": "datacenterdynamics.com"
-    },
-    {
-        "subject": "Fiber Network Recognition",
-        "overview": "Proximus' fiber network has been recognized by nPerf and Ookla for its superior speed and performance compared to competitors.",
+        "subject": "Proximus Tests Cargo Sailboat in Supply Chain",
+        "overview": "Proximus is exploring sustainable transportation methods by testing the use of a cargo sailboat in its supply chain, in collaboration with Sagemcom.",
         "source": "proximus.com"
     },
     {
-        "subject": "Microsoft Strategic Partnership",
-        "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions, leveraging their respective expertise and product leadership. This partnership will also strengthen Microsoft's use of Proximus' CPaaS & DI product suites.",
+        "subject": "Proximus Shareholding Transparency Declaration",
+        "overview": "Proximus has issued multiple transparency declarations regarding its shareholding structure.",
+        "source": "proximus.com"
+    },
+    {
+        "subject": "Proximus Fiber Network Recognized for Performance",
+        "overview": "Studies by nPerf and Ookla have recognized Proximus' fiber network for its superior speed and performance compared to competitors.",
+        "source": "proximus.com"
+    },
+    {
+        "subject": "Proximus Sells Luxembourg Towers",
+        "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac108 million.",
+        "source": "datacenterdynamics.com, marketscreener.com"
+    },
+    {
+        "subject": "Proximus Reportedly Plans to Sell Be-Mobile",
+        "overview": "Proximus is reportedly planning to sell its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. Proximus owns around 93% of Be-Mobile.",
+        "source": "datacenterdynamics.com"
+    },
+    {
+        "subject": "Proximus Completes Data Center Sale",
+        "overview": "Proximus has finalized the sale of its data centers to Datacenter United in a sale-leaseback deal valued at \u20ac128 million. The transaction is expected to close by Q1 2025.",
+        "source": "datacenterdynamics.com"
+    },
+    {
+        "subject": "Microsoft and Proximus Announce Strategic Partnership",
+        "overview": "Microsoft and Proximus have entered into a 5-year strategic partnership to enhance cloud and AI solutions. This partnership will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI product suites.",
         "source": "thecyberexpress.com"
-    },
-    {
-        "subject": "Facade Box Replacement in Brussels",
-        "overview": "Proximus, along with Digi, is required to replace thousands of telecommunication boxes on building facades in Brussels to comply with new color codes. This is in response to public concerns about the aesthetics of the installations.",
-        "source": "bx1.be"
     }
 ]

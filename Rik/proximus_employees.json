@@ -14,23 +14,37 @@
         "email_address": "stefaan.declerck@proximus.be"
     },
     {
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Corporate Affairs",
+        "email_address": "ben.appel@proximus.be"
+    },
+    {
         "first_name": "Jim",
         "family_name": "Casteele",
-        "role": "Chief Consumer Market Officer",
+        "role": "Consumer Market Lead",
         "department": "Consumer Market",
         "email_address": "jim.casteele@proximus.be"
     },
     {
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Enterprise Market",
+        "email_address": "anne-sophie.lotgering@proximus.be"
+    },
+    {
         "first_name": "Antonietta",
         "family_name": "Mastroianni",
-        "role": "Chief Digital and IT Officer",
+        "role": "Digital & IT Lead",
         "department": "Digital & IT",
         "email_address": "antonietta.mastroianni@proximus.be"
     },
     {
         "first_name": "Mark",
         "family_name": "Reid",
-        "role": "Chief Financial Officer",
+        "role": "Finance Lead",
         "department": "Finance",
         "email_address": "mark.reid@proximus.be"
     },
@@ -42,37 +56,86 @@
         "email_address": "geert.standaert@proximus.be"
     },
     {
-        "first_name": "Ben",
-        "family_name": "Appel",
-        "role": "Corporate Affairs Lead",
-        "department": "Corporate Affairs",
-        "email_address": "ben.appel@proximus.be"
-    },
-    {
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Enterprise IT Services & Segments Lead",
-        "department": "Enterprise Market",
-        "email_address": "anne-sophie.lotgering@proximus.be"
-    },
-    {
-        "first_name": "Jan",
-        "family_name": "Van Acoleyen",
-        "role": "Chief Human Resources Officer",
-        "department": "Human Capital",
-        "email_address": "jan.vanacoleyen@proximus.be"
-    },
-    {
         "first_name": "Renaud",
         "family_name": "Tilmans",
-        "role": "Customer Operations Lead",
+        "role": "Enterprise Telco Services & Ops Lead",
         "department": "Customer Operations",
         "email_address": "renaud.tilmans@proximus.be"
     },
     {
+        "first_name": "Jan",
+        "family_name": "Van Acoleyen",
+        "role": "Human Capital Lead",
+        "department": "Human Capital",
+        "email_address": "jan.vanacoleyen@proximus.be"
+    },
+    {
+        "first_name": "Caroline",
+        "family_name": "Basyn",
+        "role": "Independent director",
+        "department": "Board of Directors",
+        "email_address": "caroline.basyn@proximus.be"
+    },
+    {
+        "first_name": "C\u00e9cile",
+        "family_name": "Coune",
+        "role": "Independent director",
+        "department": "Board of Directors",
+        "email_address": "cecile.coune@proximus.be"
+    },
+    {
+        "first_name": "Karel",
+        "family_name": "De Gucht",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "karel.degucht@proximus.be"
+    },
+    {
+        "first_name": "B\u00e9atrice",
+        "family_name": "de Mahieu",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "beatrice.demahieu@proximus.be"
+    },
+    {
+        "first_name": "Martin",
+        "family_name": "De Prycker",
+        "role": "Independent director",
+        "department": "Board of Directors",
+        "email_address": "martin.deprycker@proximus.be"
+    },
+    {
+        "first_name": "Audrey",
+        "family_name": "Hanard",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "audrey.hanard@proximus.be"
+    },
+    {
+        "first_name": "Ibrahim",
+        "family_name": "Ouassari",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "ibrahim.ouassari@proximus.be"
+    },
+    {
+        "first_name": "Catherine",
+        "family_name": "Rutten",
+        "role": "Independent director",
+        "department": "Board of Directors",
+        "email_address": "catherine.rutten@proximus.be"
+    },
+    {
+        "first_name": "Joachim",
+        "family_name": "Sonne",
+        "role": "Independent director",
+        "department": "Board of Directors",
+        "email_address": "joachim.sonne@proximus.be"
+    },
+    {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate - Connectimmo",
+        "role": "Managing Director Proximus Real Estate",
         "department": "Real Estate",
         "email_address": "karl.cuveele@proximus.be"
     },
@@ -152,89 +215,5 @@
         "role": "Director Group Legal & Insurance - General Counsel",
         "department": "Legal & Insurance",
         "email_address": "igor.makedonsky@proximus.be"
-    },
-    {
-        "first_name": "Caroline",
-        "family_name": "Basyn",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "caroline.basyn@proximus.be"
-    },
-    {
-        "first_name": "C\u00e9cile",
-        "family_name": "Coune",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "cecile.coune@proximus.be"
-    },
-    {
-        "first_name": "Karel",
-        "family_name": "De Gucht",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "karel.degucht@proximus.be"
-    },
-    {
-        "first_name": "B\u00e9atrice",
-        "family_name": "de Mahieu",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "beatrice.demahieu@proximus.be"
-    },
-    {
-        "first_name": "Martin",
-        "family_name": "De Prycker",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "martin.deprycker@proximus.be"
-    },
-    {
-        "first_name": "Audrey",
-        "family_name": "Hanard",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "audrey.hanard@proximus.be"
-    },
-    {
-        "first_name": "Ibrahim",
-        "family_name": "Ouassari",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "ibrahim.ouassari@proximus.be"
-    },
-    {
-        "first_name": "Catherine",
-        "family_name": "Rutten",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "catherine.rutten@proximus.be"
-    },
-    {
-        "first_name": "Joachim",
-        "family_name": "Sonne",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "joachim.sonne@proximus.be"
-    },
-    {
-        "first_name": "Claire",
-        "family_name": "Tillekaerts",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "claire.tillekaerts@proximus.be"
-    },
-    {
-        "first_name": "Luc",
-        "family_name": "Van den Hove",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "luc.vandenhove@proximus.be"
-    },
-    {
-        "first_name": "Catherine",
-        "family_name": "Vandenborre",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "catherine.vandenborre@proximus.be"
     }
 ]
