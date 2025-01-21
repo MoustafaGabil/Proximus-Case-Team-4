@@ -1,0 +1,53 @@
+[
+    {
+        "department": "Assurance",
+        "subdivision": [
+            "Audit and Assurance",
+            "Financial Accounting Advisory Services",
+            "Risk Assurance",
+            "Sustainability and Climate Change"
+        ],
+        "address": "Prins Boudewijnlaan 1, 1000 Brussels, Belgium",
+        "phone": "+32 2 710 70 00",
+        "vat": "BE 0404.878.288"
+    },
+    {
+        "department": "Tax",
+        "subdivision": [
+            "Business Tax Services",
+            "International Tax Services",
+            "Indirect Tax Services",
+            "Transfer Pricing",
+            "Tax Reporting and Strategy",
+            "Private Clients"
+        ],
+        "address": "Prins Boudewijnlaan 1, 1000 Brussels, Belgium",
+        "phone": "+32 2 710 70 00",
+        "vat": "BE 0404.878.288"
+    },
+    {
+        "department": "Advisory",
+        "subdivision": [
+            "Consulting",
+            "Deals",
+            "Risk and Regulatory"
+        ],
+        "address": "Prins Boudewijnlaan 1, 1000 Brussels, Belgium",
+        "phone": "+32 2 710 70 00",
+        "vat": "BE 0404.878.288"
+    },
+    {
+        "department": "Internal Firm Services",
+        "subdivision": [
+            "Finance",
+            "Human Resources",
+            "Information Technology",
+            "Marketing and Communications",
+            "Legal",
+            "Operations"
+        ],
+        "address": "Prins Boudewijnlaan 1, 1000 Brussels, Belgium",
+        "phone": "+32 2 710 70 00",
+        "vat": "BE 0404.878.288"
+    }
+]

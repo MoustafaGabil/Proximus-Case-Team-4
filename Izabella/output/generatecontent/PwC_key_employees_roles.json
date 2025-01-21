@@ -1,0 +1,226 @@
+[
+    {
+        "first_name": "Axel",
+        "family_name": "Smits",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "axel.smits@pwc.be"
+    },
+    {
+        "first_name": "Peter",
+        "family_name": "Van den Eynde",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "peter.vandeneynde@pwc.be"
+    },
+    {
+        "first_name": "Isabelle",
+        "family_name": "Vandenbulcke",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "isabelle.vandenbulcke@pwc.be"
+    },
+    {
+        "first_name": "Koen",
+        "family_name": "De Block",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "koen.deblock@pwc.be"
+    },
+    {
+        "first_name": "Kristof",
+        "family_name": "Stouthuysen",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "kristof.stouthuysen@pwc.be"
+    },
+    {
+        "first_name": "Filip",
+        "family_name": "De Wolf",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "filip.dewolf@pwc.be"
+    },
+    {
+        "first_name": "Ann",
+        "family_name": "Verreth",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "ann.verreth@pwc.be"
+    },
+    {
+        "first_name": "Tom",
+        "family_name": "Van de Meulebroucke",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "tom.vandemeulebroucke@pwc.be"
+    },
+    {
+        "first_name": "Frederik",
+        "family_name": "Van Remoortel",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "frederik.vanremoortel@pwc.be"
+    },
+    {
+        "first_name": "Bart",
+        "family_name": "Van den Bossche",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "bart.vandenbossche@pwc.be"
+    },
+    {
+        "first_name": "Caroline",
+        "family_name": "Verstraeten",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "caroline.verstraeten@pwc.be"
+    },
+    {
+        "first_name": "Didier",
+        "family_name": "De Jaeger",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "didier.dejaeger@pwc.be"
+    },
+    {
+        "first_name": "Geert",
+        "family_name": "Claes",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "geert.claes@pwc.be"
+    },
+    {
+        "first_name": "Hans",
+        "family_name": "De Belder",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "hans.debelder@pwc.be"
+    },
+    {
+        "first_name": "Jan",
+        "family_name": "Boon",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "jan.boon@pwc.be"
+    },
+    {
+        "first_name": "Kurt",
+        "family_name": "De Cat",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "kurt.decat@pwc.be"
+    },
+    {
+        "first_name": "Marc",
+        "family_name": "De Mulder",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "marc.demulder@pwc.be"
+    },
+    {
+        "first_name": "Nathalie",
+        "family_name": "Bollen",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "nathalie.bollen@pwc.be"
+    },
+    {
+        "first_name": "Olivier",
+        "family_name": "Van Hoey",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "olivier.vanhoey@pwc.be"
+    },
+    {
+        "first_name": "Patrick",
+        "family_name": "De Greve",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "patrick.degreve@pwc.be"
+    },
+    {
+        "first_name": "Steven",
+        "family_name": "Vermeire",
+        "role": "Partner",
+        "department": "Tax",
+        "email_address": "steven.vermeire@pwc.be"
+    },
+    {
+        "first_name": "Yves",
+        "family_name": "Van Crombrugge",
+        "role": "Partner",
+        "department": "Assurance",
+        "email_address": "yves.vancrombrugge@pwc.be"
+    },
+    {
+        "first_name": "Dirk",
+        "family_name": "Van de Walle",
+        "role": "Partner",
+        "department": "Consulting",
+        "email_address": "dirk.vandewalle@pwc.be"
+    },
+    {
+        "first_name": "Wouter",
+        "family_name": "Van Linden",
+        "role": "Partner",
+        "department": "Financial Services",
+        "email_address": "wouter.vanlinden@pwc.be"
+    },
+    {
+        "first_name": "Annelies",
+        "family_name": "Van der Gucht",
+        "role": "Director",
+        "department": "Tax",
+        "email_address": "annelies.vandergucht@pwc.be"
+    },
+    {
+        "first_name": "Bram",
+        "family_name": "Van den Broeck",
+        "role": "Director",
+        "department": "Assurance",
+        "email_address": "bram.vandenbroeck@pwc.be"
+    },
+    {
+        "first_name": "Evelien",
+        "family_name": "Van de Velde",
+        "role": "Director",
+        "department": "Consulting",
+        "email_address": "evelien.vandevelde@pwc.be"
+    },
+    {
+        "first_name": "Jeroen",
+        "family_name": "De Wit",
+        "role": "Director",
+        "department": "Financial Services",
+        "email_address": "jeroen.dewit@pwc.be"
+    },
+    {
+        "first_name": "Liesbeth",
+        "family_name": "De Backer",
+        "role": "Director",
+        "department": "Tax",
+        "email_address": "liesbeth.debacker@pwc.be"
+    },
+    {
+        "first_name": "Maarten",
+        "family_name": "Van den Broeck",
+        "role": "Director",
+        "department": "Assurance",
+        "email_address": "maarten.vandenbroeck@pwc.be"
+    },
+    {
+        "first_name": "Sofie",
+        "family_name": "Van de Velde",
+        "role": "Director",
+        "department": "Consulting",
+        "email_address": "sofie.vandevelde@pwc.be"
+    },
+    {
+        "first_name": "Tom",
+        "family_name": "Van de Velde",
+        "role": "Director",
+        "department": "Financial Services",
+        "email_address": "tom.vandevelde@pwc.be"
+    }
+]
