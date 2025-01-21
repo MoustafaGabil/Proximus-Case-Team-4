@@ -1,8 +1,8 @@
 [
     {
-        "provider": "PostMobile (bpost)",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO using Proximus network",
+        "provider": "Tango",
+        "service": "Fixed and mobile telephony, internet and television services",
+        "type": "Brand of Proximus Luxembourg SA",
         "provider_homepage": null
     }
 ]

@@ -16,14 +16,14 @@
     {
         "first_name": "Caroline",
         "family_name": "Basyn",
-        "role": "Independent Director",
+        "role": "Independent director",
         "department": "Board of Directors",
         "email_address": "caroline.basyn@proximus.be"
     },
     {
         "first_name": "C\u00e9cile",
         "family_name": "Coune",
-        "role": "Independent Director",
+        "role": "Independent director",
         "department": "Board of Directors",
         "email_address": "c\u00e9cile.coune@proximus.be"
     },
@@ -44,7 +44,7 @@
     {
         "first_name": "Martin",
         "family_name": "De Prycker",
-        "role": "Independent Director",
+        "role": "Independent director",
         "department": "Board of Directors",
         "email_address": "martin.deprycker@proximus.be"
     },
@@ -65,14 +65,14 @@
     {
         "first_name": "Catherine",
         "family_name": "Rutten",
-        "role": "Independent Director",
+        "role": "Independent director",
         "department": "Board of Directors",
         "email_address": "catherine.rutten@proximus.be"
     },
     {
         "first_name": "Joachim",
         "family_name": "Sonne",
-        "role": "Independent Director",
+        "role": "Independent director",
         "department": "Board of Directors",
         "email_address": "joachim.sonne@proximus.be"
     },
@@ -119,23 +119,23 @@
         "email_address": "geert.standaert@proximus.be"
     },
     {
-        "first_name": "Renaud",
-        "family_name": "Tilmans",
-        "role": "Enterprise Telco Services & Ops Lead",
-        "department": "Customer Operations",
-        "email_address": "renaud.tilmans@proximus.be"
-    },
-    {
         "first_name": "Jan",
         "family_name": "Van Acoleyen",
-        "role": "Human Capital Lead",
+        "role": "Chief Human Resources Officer",
         "department": "Human Capital",
         "email_address": "jan.vanacoleyen@proximus.be"
     },
     {
+        "first_name": "Renaud",
+        "family_name": "Tilmans",
+        "role": "Customer Operations Lead",
+        "department": "Customer Operations",
+        "email_address": "renaud.tilmans@proximus.be"
+    },
+    {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate",
+        "role": "Managing Director Proximus Real Estate - Connectimmo",
         "department": "Real Estate",
         "email_address": "karl.cuveele@proximus.be"
     },
