@@ -1,68 +1,15 @@
 [
     {
-        "provider": "Tango",
-        "department": "Customer Service",
+        "provider": "Proximus Spearit",
+        "department": "IT Services",
         "subdivision": [
-            "Billing",
-            "Mobile",
-            "Technical Outage",
-            "App, website & My Tango customer account",
-            "Changes to my account or subscription",
-            "Applying for a partnership"
+            "Infrastructure projects and integrations, on-site and in the cloud",
+            "Services related to networks, security, Skype for Business, storage, network and server maintenance, monitoring, service desk, and on-site support",
+            "Support by IT specialists, project managers and interim managers",
+            "Supply of servers, network equipment, smartphones, tablets, personal computers and accessories"
         ],
-        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-        "phone": "+352 800 777 77",
-        "vat": "LU15605033"
-    },
-    {
-        "provider": "Tango",
-        "department": "Sales",
-        "subdivision": [
-            "Residential Customers",
-            "Small Businesses",
-            "Self-Employed"
-        ],
-        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-        "phone": "+352 800 777 77",
-        "vat": "LU15605033"
-    },
-    {
-        "provider": "Proximus Luxembourg SA",
-        "department": "General",
-        "subdivision": [
-            "ICT Services",
-            "Telecommunications",
-            "Fixed and Mobile Services"
-        ],
-        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 \u2013 1",
-        "vat": "LU15605033"
-    },
-    {
-        "provider": "Proximus Luxembourg SA",
-        "department": "Telindus",
-        "subdivision": [
-            "ICT Services",
-            "Fixed and Mobile Telecommunications",
-            "Medium and Large Companies",
-            "Public Administrations"
-        ],
-        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 \u2013 1",
-        "vat": "LU15605033"
-    },
-    {
-        "provider": "Proximus Luxembourg SA",
-        "department": "Codit",
-        "subdivision": [
-            "Data Integration",
-            "API Management",
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Internet of Things (IoT)"
-        ],
-        "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 \u2013 1",
-        "vat": "LU15605033"
+        "address": "Koning Albert ll-laan 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     }
 ]

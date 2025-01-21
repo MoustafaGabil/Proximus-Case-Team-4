@@ -1,90 +1,26 @@
 [
     {
-        "provider": "Tango",
-        "first_name": "Jean",
-        "family_name": "R. D. M.",
-        "role": "Chief Accountant",
-        "department": "Accounting",
-        "email_address": "jean.r. d. m.@tango.be"
+        "provider": "Proximus Spearit",
+        "first_name": "Bart",
+        "family_name": "Weemaels",
+        "role": "Head of Projects & Services",
+        "department": "Projects & Services",
+        "email_address": "bart.weemaels@proximusspearit.be"
     },
     {
-        "provider": "Tango",
-        "first_name": "Jean",
-        "family_name": "M.",
-        "role": "Head Of Marketing & Communications",
-        "department": "Marketing & Communications",
-        "email_address": "jean.m.@tango.be"
+        "provider": "Proximus Spearit",
+        "first_name": "Fina",
+        "family_name": "Cammarata",
+        "role": "Head of Sourcing",
+        "department": "Sourcing",
+        "email_address": "fina.cammarata@proximusspearit.be"
     },
     {
-        "provider": "Tango",
-        "first_name": "Jean",
-        "family_name": "S.",
-        "role": "Head Of Telecoms Products",
-        "department": "Telecoms Products",
-        "email_address": "jean.s.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "M.",
-        "family_name": "H.",
-        "role": "Director Customer Operations",
-        "department": "Customer Operations",
-        "email_address": "m.h.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "V.",
-        "family_name": "P.",
-        "role": "IT Infrastructure Manager",
+        "provider": "Proximus Spearit",
+        "first_name": "Pierre",
+        "family_name": "Demesmaeker",
+        "role": "Senior IT Manager / Program Manager / Project Manager",
         "department": "IT",
-        "email_address": "v.p.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "D.",
-        "family_name": "D. P.",
-        "role": "Telecom Product Manager",
-        "department": "Telecom Products",
-        "email_address": "d.d.p.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "M.",
-        "family_name": "R.",
-        "role": "Logistic Manager",
-        "department": "Logistics",
-        "email_address": "m.r.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "P.",
-        "family_name": "S.",
-        "role": "Senior Key Account Manager",
-        "department": "Sales",
-        "email_address": "p.s.@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "Luis",
-        "family_name": "Camara",
-        "role": "Chief Consumer Market Officer",
-        "department": "Consumer Market",
-        "email_address": "luis.camara@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "Myriam",
-        "family_name": "Brunel",
-        "role": "Legal",
-        "department": "Legal",
-        "email_address": "myriam.brunel@tango.be"
-    },
-    {
-        "provider": "Tango",
-        "first_name": "Maikel",
-        "family_name": "Fernandes",
-        "role": "Team Leader",
-        "department": "Customer Service",
-        "email_address": "maikel.fernandes@tango.be"
+        "email_address": "pierre.demesmaeker@proximusspearit.be"
     }
 ]

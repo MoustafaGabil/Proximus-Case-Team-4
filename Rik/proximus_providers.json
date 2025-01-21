@@ -2,271 +2,217 @@
     {
         "provider": "Scarlet",
         "service": "Telecommunication services",
-        "type": "Subsidiary brand",
-        "provider_homepage": "https://www.scarlet.be"
+        "type": "Brand of Proximus offering fixed and mobile telephony, internet, and television services at lower prices.",
+        "provider_homepage": "https://www.scarlet.be/"
     },
     {
         "provider": "Mobile Vikings",
-        "service": "Mobile and internet services",
-        "type": "Subsidiary brand",
-        "provider_homepage": "https://mobilevikings.be"
+        "service": "Telecommunication services",
+        "type": "100% digital brand offering mobile and internet at home with a focus on user experience and customer service.",
+        "provider_homepage": "https://mobilevikings.be/"
     },
     {
         "provider": "Tango",
-        "service": "Fixed and mobile telephony, internet and television services",
-        "type": "Brand of Proximus Luxembourg SA",
+        "service": "Telecommunication services",
+        "type": "Offers fixed and mobile telephony, internet and television services to residential customers and small businesses in Luxembourg.",
         "provider_homepage": null
     },
     {
         "provider": "Telindus Luxembourg",
-        "service": "Telecommunication services, ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, managed services and training services",
-        "type": "Brand of Proximus Luxembourg SA",
+        "service": "Telecommunication and ICT services",
+        "type": "Provides telecommunication services, ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, managed services and training services to medium-sized and large companies, as well as public administrations in Luxembourg.",
         "provider_homepage": null
     },
     {
         "provider": "Telindus Netherlands",
-        "service": "Telecommunication services",
-        "type": "Subsidiary",
+        "service": "Telecommunication and ICT services",
+        "type": "Provides telecommunication and ICT services in the Netherlands.",
         "provider_homepage": null
     },
     {
         "provider": "BICS",
-        "service": "International communications enabler, global voice carrier, mobile data services",
-        "type": "Affiliate",
-        "provider_homepage": "https://www.bics.com"
+        "service": "International communication services",
+        "type": "A leading international communications enabler and provider of mobile data services worldwide.",
+        "provider_homepage": "https://www.bics.com/"
     },
     {
         "provider": "Telesign",
-        "service": "Communication platforms and digital identity",
-        "type": "Affiliate",
+        "service": "Digital identity services",
+        "type": "Specializes in communication platforms and digital identity.",
         "provider_homepage": null
     },
     {
         "provider": "Be-Mobile",
         "service": "Smart mobility solutions",
-        "type": "IT Partner",
+        "type": "Specializes in smart mobility solutions for public authorities, road operators, car manufacturers, or enterprises.",
         "provider_homepage": null
     },
     {
         "provider": "ClearMedia",
         "service": "Cloud, cybersecurity and digital workplace solutions",
-        "type": "IT Partner",
+        "type": "Provides cloud, cybersecurity and digital workplace solutions, services and products tailored to the (S)ME market through an indirect channel of local IT partners.",
         "provider_homepage": null
     },
     {
         "provider": "Codit",
-        "service": "Microsoft Azure cloud solutions",
-        "type": "IT Partner",
-        "provider_homepage": null
+        "service": "Cloud solutions",
+        "type": "Supports customers in realizing their ambitions with tailored Microsoft Azure cloud solutions.",
+        "provider_homepage": "https://www.codit.eu/"
     },
     {
         "provider": "Davinsi Labs",
         "service": "Cybersecurity and operational intelligence",
-        "type": "IT Partner",
+        "type": "Specializes in cybersecurity and operational intelligence, protecting networks and infrastructure from attacks.",
         "provider_homepage": null
     },
     {
         "provider": "Proximus Spearit",
         "service": "IT services",
-        "type": "IT Partner",
+        "type": "IT partner within the Proximus Accelerators ecosystem.",
         "provider_homepage": null
     },
     {
         "provider": "Proximus NXT IT",
-        "service": "IT solutions & services",
-        "type": "Affiliate",
-        "provider_homepage": null
+        "service": "IT solutions and services",
+        "type": "Designs, builds and delivers IT solutions & services tailored to enterprises current and future needs.",
+        "provider_homepage": "https://www.proximusnxt.be/"
     },
     {
-        "provider": "Proximus Media House (PmH)",
-        "service": "Content editing, broadcasting, (live) production and media operations",
-        "type": "Affiliate",
-        "provider_homepage": null
+        "provider": "Tech Mahindra",
+        "service": "Technology platform development",
+        "type": "Designing and building a technology platform called 'Tech Hub' for next-generation connectivity offerings.",
+        "provider_homepage": "https://www.techmahindra.com/"
     },
     {
-        "provider": "Connectimmo",
-        "service": "Real estate services",
-        "type": "Affiliate",
+        "provider": "Comviva",
+        "service": "Platform provider",
+        "type": "Provides the BlueMarble platform that powers the 'Tech Hub' platform built by Tech Mahindra for Proximus.",
         "provider_homepage": null
     },
     {
         "provider": "Citymesh",
-        "service": "Wireless network development and management",
-        "type": "Mobile partner",
-        "provider_homepage": "https://www.citymesh.com"
-    },
-    {
-        "provider": "Destiny",
-        "service": "Secure cloud communication solutions",
-        "type": "Mobile partner",
+        "service": "B2B telecom operator",
+        "type": "Specialized in the development and management of large-scale wireless networks based on WiFi, IoT, 4G, and 5G technology.",
         "provider_homepage": null
     },
     {
-        "provider": "Belcenter",
-        "service": "B2B telco services",
-        "type": "Fiber partner",
-        "provider_homepage": "https://www.belcenter.be"
+        "provider": "Destiny",
+        "service": "Cloud communication solutions",
+        "type": "Provider of secure cloud communication solutions for innovative enterprises.",
+        "provider_homepage": null
     },
     {
         "provider": "Nokia",
         "service": "Telecommunications equipment",
-        "type": "Vendor partner",
-        "provider_homepage": null
+        "type": "Vendor partner providing telecommunications equipment and infrastructure.",
+        "provider_homepage": "https://www.nokia.com/"
     },
     {
         "provider": "Ericsson",
         "service": "Telecommunications equipment",
-        "type": "Vendor partner",
-        "provider_homepage": null
+        "type": "Vendor partner providing telecommunications equipment and infrastructure.",
+        "provider_homepage": "https://www.ericsson.com/"
     },
     {
         "provider": "Unifiber",
         "service": "Fiber optic solutions",
-        "type": "Vendor partner",
+        "type": "Vendor partner providing fiber optic solutions.",
         "provider_homepage": null
     },
     {
         "provider": "Infosys",
         "service": "IT services",
-        "type": "Vendor partner",
+        "type": "Vendor partner providing IT services.",
+        "provider_homepage": "https://www.infosys.com/"
+    },
+    {
+        "provider": "MySQL AB",
+        "service": "Technology partner",
+        "type": "Largest technology partner of Proximus Group.",
         "provider_homepage": null
     },
     {
-        "provider": "Tech Mahindra",
-        "service": "Technology platform development",
-        "type": "Technology partner",
-        "provider_homepage": "https://www.techmahindra.com"
-    },
-    {
-        "provider": "Comviva",
-        "service": "Technology platform",
-        "type": "Technology provider",
+        "provider": "AUSY BELGIUM / Data Flow",
+        "service": "Datacenter Operations",
+        "type": "Provides troubleshooting, customer support & maintenance for datacenter operations.",
         "provider_homepage": null
     },
     {
-        "provider": "Sewan",
-        "service": "Fixed and mobile voice, cloud services, internet access",
-        "type": "Partner",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Yoin",
-        "service": "Mobile subscriptions and internet at home",
-        "type": "Partner",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Colt Technology Services",
-        "service": "Digital infrastructure and connectivity",
-        "type": "Partner",
-        "provider_homepage": "https://www.colt.net"
-    },
-    {
-        "provider": "Comsave",
-        "service": "E-commerce platform for internet and last-mile access services",
-        "type": "Partner",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Telenet",
-        "service": "Converged connected entertainment and business solutions",
-        "type": "Partner",
-        "provider_homepage": null
-    },
-    {
-        "provider": "TMF Mobile",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Mobisud",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO",
-        "provider_homepage": null
-    },
-    {
-        "provider": "RSCA Mobile",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Dommel",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO",
-        "provider_homepage": null
-    },
-    {
-        "provider": "PostMobile",
-        "service": "Mobile virtual network operator",
-        "type": "MVNO",
+        "provider": "H. Essers",
+        "service": "Logistics",
+        "type": "Provides logistics services for Proximus NXT.",
         "provider_homepage": null
     },
     {
         "provider": "Broadcom",
         "service": "Cloud services",
-        "type": "Technology provider",
-        "provider_homepage": "https://www.broadcom.com"
-    },
-    {
-        "provider": "Microsoft",
-        "service": "Telephony services integration with Microsoft Teams",
-        "type": "Technology provider",
-        "provider_homepage": null
+        "type": "Provides cloud services, including hosted private cloud solutions.",
+        "provider_homepage": "https://www.broadcom.com/"
     },
     {
         "provider": "Clerk Chat",
         "service": "Customer communication platform",
-        "type": "Technology provider",
-        "provider_homepage": "https://clerk.chat"
+        "type": "Provides a platform for streamlining customer communication through real-time messaging.",
+        "provider_homepage": "https://clerk.chat/"
     },
     {
-        "provider": "Granton Marketing Service (GMSF)",
+        "provider": "Orange",
+        "service": "Mobile network operator",
+        "type": "Mobile network operator that provides eSIM services for Apple devices.",
+        "provider_homepage": "https://www.orange.com/"
+    },
+    {
+        "provider": "Telenet",
+        "service": "Mobile network operator",
+        "type": "Mobile network operator that provides eSIM services for Apple devices.",
+        "provider_homepage": "https://www.telenet.be/"
+    },
+    {
+        "provider": "Ubigi",
+        "service": "Mobile network operator",
+        "type": "Mobile network operator that provides eSIM services for Apple devices.",
+        "provider_homepage": "https://www.ubigi.com/"
+    },
+    {
+        "provider": "Granton Marketing Service",
         "service": "Marketing services",
-        "type": "Partner",
-        "provider_homepage": null
+        "type": "Marketing service provider for Proximus.",
+        "provider_homepage": "https://www.gmsf.be/"
     },
     {
         "provider": "NEO GROUP",
         "service": "Telecommunication services",
-        "type": "Partner",
+        "type": "Telecommunication service provider for Proximus.",
         "provider_homepage": null
     },
     {
         "provider": "One Telecom",
         "service": "Telecommunication services",
-        "type": "Partner",
-        "provider_homepage": null
+        "type": "Telecommunication service provider for Proximus.",
+        "provider_homepage": "https://www.one-telecom.be/"
     },
     {
         "provider": "ONLYOO",
         "service": "Telecommunication services",
-        "type": "Partner",
-        "provider_homepage": null
+        "type": "Telecommunication service provider for Proximus.",
+        "provider_homepage": "https://www.onlyoo.be/"
     },
     {
         "provider": "Totaalplan",
         "service": "Telecommunication services",
-        "type": "Partner",
+        "type": "Telecommunication service provider for Proximus.",
         "provider_homepage": null
     },
     {
         "provider": "U-smile",
         "service": "Telecommunication services",
-        "type": "Partner",
+        "type": "Telecommunication service provider for Proximus.",
         "provider_homepage": null
     },
     {
         "provider": "YOUL",
         "service": "Telecommunication services",
-        "type": "Partner",
-        "provider_homepage": null
-    },
-    {
-        "provider": "AUSY BELGIUM / Data Flow",
-        "service": "Datacenter Operations, Troubleshooting, customer support & maintenance",
-        "type": "Subcontractor",
+        "type": "Telecommunication service provider for Proximus.",
         "provider_homepage": null
     }
 ]

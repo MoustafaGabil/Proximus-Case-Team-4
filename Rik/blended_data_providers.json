@@ -1,138 +1,67 @@
 {
-    "Tango": {
+    "Proximus Spearit": {
         "general": {
-            "provider": "Tango",
-            "service": "Fixed and mobile telephony, internet and television services",
-            "type": "Brand of Proximus Luxembourg SA",
+            "provider": "Proximus Spearit",
+            "service": "IT services",
+            "type": "IT partner within the Proximus Accelerators ecosystem.",
             "provider_homepage": null
         },
         "employee": [
             {
-                "provider": "Tango",
-                "first_name": "Jean",
-                "family_name": "R. D. M.",
-                "role": "Chief Accountant",
-                "department": "Accounting",
-                "email_address": "jean.r. d. m.@tango.be"
+                "provider": "Proximus Spearit",
+                "first_name": "Bart",
+                "family_name": "Weemaels",
+                "role": "Head of Projects & Services",
+                "department": "Projects & Services",
+                "email_address": "bart.weemaels@proximusspearit.be"
             },
             {
-                "provider": "Tango",
-                "first_name": "Jean",
-                "family_name": "M.",
-                "role": "Head Of Marketing & Communications",
-                "department": "Marketing & Communications",
-                "email_address": "jean.m.@tango.be"
+                "provider": "Proximus Spearit",
+                "first_name": "Fina",
+                "family_name": "Cammarata",
+                "role": "Head of Sourcing",
+                "department": "Sourcing",
+                "email_address": "fina.cammarata@proximusspearit.be"
             },
             {
-                "provider": "Tango",
-                "first_name": "Jean",
-                "family_name": "S.",
-                "role": "Head Of Telecoms Products",
-                "department": "Telecoms Products",
-                "email_address": "jean.s.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "M.",
-                "family_name": "H.",
-                "role": "Director Customer Operations",
-                "department": "Customer Operations",
-                "email_address": "m.h.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "V.",
-                "family_name": "P.",
-                "role": "IT Infrastructure Manager",
+                "provider": "Proximus Spearit",
+                "first_name": "Pierre",
+                "family_name": "Demesmaeker",
+                "role": "Senior IT Manager / Program Manager / Project Manager",
                 "department": "IT",
-                "email_address": "v.p.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "D.",
-                "family_name": "D. P.",
-                "role": "Telecom Product Manager",
-                "department": "Telecom Products",
-                "email_address": "d.d.p.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "M.",
-                "family_name": "R.",
-                "role": "Logistic Manager",
-                "department": "Logistics",
-                "email_address": "m.r.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "P.",
-                "family_name": "S.",
-                "role": "Senior Key Account Manager",
-                "department": "Sales",
-                "email_address": "p.s.@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "Luis",
-                "family_name": "Camara",
-                "role": "Chief Consumer Market Officer",
-                "department": "Consumer Market",
-                "email_address": "luis.camara@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "Myriam",
-                "family_name": "Brunel",
-                "role": "Legal",
-                "department": "Legal",
-                "email_address": "myriam.brunel@tango.be"
-            },
-            {
-                "provider": "Tango",
-                "first_name": "Maikel",
-                "family_name": "Fernandes",
-                "role": "Team Leader",
-                "department": "Customer Service",
-                "email_address": "maikel.fernandes@tango.be"
+                "email_address": "pierre.demesmaeker@proximusspearit.be"
             }
         ],
         "color": {
-            "provider": "Tango",
-            "color_name_1": "Orange",
-            "hex_code_1": "#ec8115",
+            "provider": "Proximus Spearit",
+            "color_name_1": "Primary color positive",
+            "hex_code_1": "#5C2D91",
             "rgb_code_1": [
-                236,
-                129,
-                21
+                92,
+                45,
+                145
+            ],
+            "color_name_2": "Primary color negative",
+            "hex_code_2": "#FFFFFF",
+            "rgb_code_2": [
+                255,
+                255,
+                255
             ]
         },
         "departments": [
             {
-                "provider": "Tango",
-                "department": "Customer Service",
+                "provider": "Proximus Spearit",
+                "department": "IT Services",
                 "subdivision": [
-                    "Billing",
-                    "Mobile",
-                    "Technical Outage",
-                    "App, website & My Tango customer account",
-                    "Changes to my account or subscription",
-                    "Applying for a partnership"
+                    "Infrastructure projects and integrations, on-site and in the cloud",
+                    "Services related to networks, security, Skype for Business, storage, network and server maintenance, monitoring, service desk, and on-site support",
+                    "Support by IT specialists, project managers and interim managers",
+                    "Supply of servers, network equipment, smartphones, tablets, personal computers and accessories"
                 ],
-                "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-                "phone": "+352 800 777 77",
-                "vat": "LU15605033"
-            },
-            {
-                "provider": "Tango",
-                "department": "Sales",
-                "subdivision": [
-                    "Residential Customers",
-                    "Small Businesses",
-                    "Self-Employed"
-                ],
-                "address": "18, rue du Puits Romain, Z.A. Bourmicht, L-8070 Bertrange, Luxembourg",
-                "phone": "+352 800 777 77",
-                "vat": "LU15605033"
+                "address": "Koning Albert ll-laan 27, 1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
             }
         ]
     }

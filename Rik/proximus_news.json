@@ -1,37 +1,37 @@
 [
     {
-        "subject": "Proximus Rebrands International Division as Proximus Global",
-        "overview": "Proximus has rebranded its international division under the name Proximus Global, integrating BICS, Telesign, and Route Mobile. This new entity is valued at approximately \u20ac3.1 billion and aims to streamline operations and drive global growth in digital communications. The move is a strategic shift as other incumbents focus on their home markets.",
-        "source": "lightreading.com, mobileeurope.co.uk, techzine.eu, telecomtv.com"
-    },
-    {
-        "subject": "Scarlet Offers More Data at Same Price",
-        "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans at no extra cost, starting in 2025. This initiative aims to provide more value to customers while maintaining the same price point.",
+        "subject": "Scarlet Mobile Plan Update",
+        "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices, effective January 8, 2025.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Tests Cargo Sailboat in Supply Chain",
-        "overview": "Proximus is exploring sustainable logistics by testing the use of a cargo sailboat in its supply chain, in collaboration with Sagemcom. This initiative highlights Proximus' commitment to environmentally friendly practices.",
+        "subject": "Proximus Global Launch",
+        "overview": "Proximus has integrated its international operations, including BICS, Telesign, and Route Mobile, into a new entity called Proximus Global. This move aims to streamline operations and drive growth in digital communications, with an estimated equity value of \u20ac3.1 billion.",
+        "source": "mobileeurope.co.uk, techzine.eu, uctoday.com, lightreading.com"
+    },
+    {
+        "subject": "Data Center Sale",
+        "overview": "Proximus has sold its data centers to Datacenter United in a sale-leaseback deal valued at \u20ac128 million. The transaction is expected to close by Q1 2025, as part of Proximus' asset divestment plan.",
+        "source": "datacenterdynamics.com"
+    },
+    {
+        "subject": "Be-Mobile Potential Sale",
+        "overview": "Proximus is reportedly considering selling its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. Proximus owns a 93% stake in Be-Mobile.",
+        "source": "datacenterdynamics.com"
+    },
+    {
+        "subject": "Fiber Network Recognition",
+        "overview": "Proximus' fiber network has been recognized by nPerf and Ookla for its superior speed and performance compared to competitors.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Fiber Network Outperforms Competition",
-        "overview": "Studies by nPerf and Ookla\u00ae have recognized Proximus' fiber network for its superior speed and performance compared to competitors. This recognition underscores Proximus' commitment to providing high-quality network services.",
-        "source": "proximus.com"
+        "subject": "Microsoft Strategic Partnership",
+        "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions, leveraging their respective expertise and product leadership. This partnership will also strengthen Microsoft's use of Proximus' CPaaS & DI product suites.",
+        "source": "thecyberexpress.com"
     },
     {
-        "subject": "Proximus Welcomes New Colleagues",
-        "overview": "Proximus has welcomed 47 new colleagues, marking a positive start to 2025. This indicates the company's continued growth and expansion.",
-        "source": "proximus.com"
-    },
-    {
-        "subject": "Proximus to replace thousands of boxes on facades in Brussels",
-        "overview": "Proximus, along with Digi, is required to replace thousands of telecommunication boxes on building facades in Brussels to comply with new color codes. This is in response to public concerns about the aesthetics of the installations. The boxes must now match the facade colors, with specific codes for black, light gray, or terra cotta. Failure to comply may result in fines.",
+        "subject": "Facade Box Replacement in Brussels",
+        "overview": "Proximus, along with Digi, is required to replace thousands of telecommunication boxes on building facades in Brussels to comply with new color codes. This is in response to public concerns about the aesthetics of the installations.",
         "source": "bx1.be"
-    },
-    {
-        "subject": "Proximus Sells Luxembourg Towers",
-        "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac108 million. This sale is part of Proximus' strategy to optimize its infrastructure portfolio.",
-        "source": "datacenterdynamics.com, marketscreener.com"
     }
 ]
