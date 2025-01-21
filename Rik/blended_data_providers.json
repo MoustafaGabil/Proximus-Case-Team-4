@@ -1,350 +1,128 @@
 {
-    "SAP ARIBA": {
+    "RSCA Mobile": {
         "general": {
-            "provider": "SAP ARIBA",
-            "service": "Supplier management platform",
-            "type": "Platform provider",
+            "provider": "RSCA Mobile",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
             "provider_homepage": null
         },
         "employee": [
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Jean-Philippe",
-                "family_name": "Pr\u00e9fot",
-                "role": "VP Engineering, Ariba Network",
-                "department": "Engineering",
-                "email_address": "jean-philippe.pr\u00e9fot@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "David",
+                "family_name": "Hubert",
+                "role": "Manager",
+                "department": "Coaching Staff",
+                "email_address": "david.hubert@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Kent",
-                "family_name": "Weirich",
-                "role": "Chief Operating Officer - Business Development & Ecosystem",
-                "department": "Business Development",
-                "email_address": "kent.weirich@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Roel",
+                "family_name": "Cl\u00e9ment",
+                "role": "Assistant Manager",
+                "department": "Coaching Staff",
+                "email_address": "roel.cl\u00e9ment@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Thomas",
-                "family_name": "Benjamin",
-                "role": "CTO & SVP",
-                "department": "Technology",
-                "email_address": "thomas.benjamin@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Jan",
+                "family_name": "Michaelsen",
+                "role": "Assistant Manager",
+                "department": "Coaching Staff",
+                "email_address": "jan.michaelsen@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Manav",
-                "family_name": "Sharma",
-                "role": "Vice President, Product and Engineering",
-                "department": "Product and Engineering",
-                "email_address": "manav.sharma@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Jonathan",
+                "family_name": "Alves",
+                "role": "Assistant Manager",
+                "department": "Coaching Staff",
+                "email_address": "jonathan.alves@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Jason",
-                "family_name": "Brown",
-                "role": "Vice President, Product Management and Engineering",
-                "department": "Product Management and Engineering",
-                "email_address": "jason.brown@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Justin",
+                "family_name": "Merz",
+                "role": "Goalkeeping Coach",
+                "department": "Coaching Staff",
+                "email_address": "justin.merz@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Nic",
-                "family_name": "Zagorski",
-                "role": "CFO",
-                "department": "Finance",
-                "email_address": "nic.zagorski@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Olivier",
+                "family_name": "Renard",
+                "role": "Sporting Director",
+                "department": "Management",
+                "email_address": "olivier.renard@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Moritz",
-                "family_name": "Schoenheit",
-                "role": "Vice President, Head of Commercial Strategy & Operations",
-                "department": "Commercial Strategy & Operations",
-                "email_address": "moritz.schoenheit@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Marc",
+                "family_name": "Coucke",
+                "role": "Owner",
+                "department": "Board of Directors",
+                "email_address": "marc.coucke@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Tifenn",
-                "family_name": "Kwan",
-                "role": "Chief Marketing Officer",
-                "department": "Marketing",
-                "email_address": "tifenn.kwan@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Roger",
+                "family_name": "Vanden Stock",
+                "role": "Honorary President",
+                "department": "Board of Directors",
+                "email_address": "roger.vandenstock@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Mary",
-                "family_name": "Calvert",
-                "role": "Vice President Sales",
-                "department": "Sales",
-                "email_address": "mary.calvert@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Jasper",
+                "family_name": "Wouters",
+                "role": "Scout",
+                "department": "Scouting",
+                "email_address": "jasper.wouters@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Anthony",
-                "family_name": "Dellanno",
-                "role": "COO Customer Management and VP Global Services",
-                "department": "Customer Management and Global Services",
-                "email_address": "anthony.dellanno@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Luc",
+                "family_name": "Vanden Bossche",
+                "role": "Head of Medical",
+                "department": "Medical department",
+                "email_address": "luc.vandenbossche@rscamobile.be"
             },
             {
-                "provider": "SAP ARIBA",
-                "first_name": "Jeramy",
-                "family_name": "Ivener",
-                "role": "Global Vice President, Solution Optimization",
-                "department": "Solution Optimization",
-                "email_address": "jeramy.ivener@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Nick",
-                "family_name": "Yoong",
-                "role": "Global Vice President, Strategy and Corporate Development",
-                "department": "Strategy and Corporate Development",
-                "email_address": "nick.yoong@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Shivani",
-                "family_name": "Govil",
-                "role": "Global VP, AI and Cognitive Products",
-                "department": "AI and Cognitive Products",
-                "email_address": "shivani.govil@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Patrick",
-                "family_name": "McCarthy",
-                "role": "SVP and General Manager, Global",
-                "department": "Global",
-                "email_address": "patrick.mccarthy@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Chris",
-                "family_name": "Hau",
-                "role": "Vice President of Sales",
-                "department": "Sales",
-                "email_address": "chris.hau@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Steve",
-                "family_name": "Pateuk",
-                "role": "Vice President, Global Enterprise Alliances",
-                "department": "Global Enterprise Alliances",
-                "email_address": "steve.pateuk@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Ari",
-                "family_name": "Stone",
-                "role": "Vice President, Head of North America Services",
-                "department": "North America Services",
-                "email_address": "ari.stone@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Amisha",
-                "family_name": "Gandhi",
-                "role": "Vice President, Influencer Marketing",
-                "department": "Influencer Marketing",
-                "email_address": "amisha.gandhi@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Drew",
-                "family_name": "Hofler",
-                "role": "Vice President, Portfolio Marketing",
-                "department": "Portfolio Marketing",
-                "email_address": "drew.hofler@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Jamie",
-                "family_name": "Agnew",
-                "role": "Vice President",
-                "department": "Sales",
-                "email_address": "jamie.agnew@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Bob",
-                "family_name": "Baker",
-                "role": "Vice President",
-                "department": "Sales",
-                "email_address": "bob.baker@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "John",
-                "family_name": "McGurrin",
-                "role": "Vice President - Strategic Accounts",
-                "department": "Strategic Accounts",
-                "email_address": "john.mcgurrin@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Marko",
-                "family_name": "Navala",
-                "role": "Vice President of Product Management",
-                "department": "Product Management",
-                "email_address": "marko.navala@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Dan",
-                "family_name": "Dapper",
-                "role": "SVP-SAP Ariba",
-                "department": "Executive",
-                "email_address": "dan.dapper@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Sean",
-                "family_name": "Thompson",
-                "role": "SVP, Business Network & Ecosystem",
-                "department": "Business Network & Ecosystem",
-                "email_address": "sean.thompson@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Keith",
-                "family_name": "Baranowski",
-                "role": "Global VP and GM, Direct Spend Solutions",
-                "department": "Direct Spend Solutions",
-                "email_address": "keith.baranowski@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Burt",
-                "family_name": "Anderson",
-                "role": "Regional VP, US",
-                "department": "Sales",
-                "email_address": "burt.anderson@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Aamir",
-                "family_name": "Rasheed",
-                "role": "Delivery VP for Regulated Market Unit",
-                "department": "Delivery",
-                "email_address": "aamir.rasheed@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Fatima",
-                "family_name": "Zahara",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "fatima.zahara@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Praveen",
-                "family_name": "Babu",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "praveen.babu@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Radhakrishna",
-                "family_name": "Tolety",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "radhakrishna.tolety@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Devprasad",
-                "family_name": "Kambli",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "devprasad.kambli@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Rupesh",
-                "family_name": "Bhayana",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "rupesh.bhayana@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Rehan",
-                "family_name": "Akbar",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "rehan.akbar@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Julius",
-                "family_name": "Peres",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "julius.peres@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Mamatha",
-                "family_name": "Vittalkar",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "mamatha.vittalkar@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Brent",
-                "family_name": "Putzel",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "brent.putzel@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Sunil",
-                "family_name": "Janardhanan",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "sunil.janardhanan@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Ashok Kumar",
-                "family_name": "Paulsamy",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "ashok kumar.paulsamy@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Robert",
-                "family_name": "Steinberg",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "robert.steinberg@sapariba.be"
-            },
-            {
-                "provider": "SAP ARIBA",
-                "first_name": "Anand",
-                "family_name": "Rajan",
-                "role": "Key Employee",
-                "department": "Unknown",
-                "email_address": "anand.rajan@sapariba.be"
+                "provider": "RSCA Mobile",
+                "first_name": "Henk",
+                "family_name": "Mariman",
+                "role": "Academy Manager",
+                "department": "Youth",
+                "email_address": "henk.mariman@rscamobile.be"
             }
         ],
         "color": {
-            "provider": "SAP ARIBA",
-            "color_name_1": "SAP Blue",
-            "hex_code_1": "#003366",
-            "rgb_code_1": [
-                0,
-                51,
-                102
-            ]
-        }
+            "provider": "RSCA Mobile",
+            "color_name_1": "Purple",
+            "hex_code_1": null,
+            "rgb_code_1": null
+        },
+        "departments": [
+            {
+                "provider": "RSCA Mobile",
+                "department": "Mobile Application",
+                "subdivision": [
+                    "Ticket Management",
+                    "Membership Management",
+                    "Season Ticket Management",
+                    "Match Highlights",
+                    "RSCA Futures Content",
+                    "RSCA Women Content",
+                    "Social Media Content",
+                    "Match Statistics",
+                    "Live Updates",
+                    "Mauve TV Integration",
+                    "Quizzes",
+                    "Polls",
+                    "Online Shop"
+                ],
+                "address": "Royal Sporting Club Anderlecht, Theo Verbeecklaan 2, B-1070 Brussels"
+            }
+        ]
     }
 }

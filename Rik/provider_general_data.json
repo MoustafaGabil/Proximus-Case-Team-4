@@ -1,8 +1,8 @@
 [
     {
-        "provider": "SAP ARIBA",
-        "service": "Supplier management platform",
-        "type": "Platform provider",
+        "provider": "RSCA Mobile",
+        "service": "Mobile virtual network operator",
+        "type": "MVNO",
         "provider_homepage": null
     }
 ]

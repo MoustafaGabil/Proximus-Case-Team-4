@@ -50,7 +50,7 @@
             "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
         },
         {
-            "department": "Network and Wholesale",
+            "department": "Network & Wholesale",
             "subdivision": [],
             "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
         },
@@ -65,7 +65,7 @@
             "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
         },
         {
-            "department": "Digital and Information Technology",
+            "department": "Digital & IT",
             "subdivision": [],
             "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium"
         },
@@ -98,69 +98,6 @@
             "role": "Chairman of the Board",
             "department": "Board of Directors",
             "email_address": "stefaan.declerck@proximus.be"
-        },
-        {
-            "first_name": "Caroline",
-            "family_name": "Basyn",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "caroline.basyn@proximus.be"
-        },
-        {
-            "first_name": "C\u00e9cile",
-            "family_name": "Coune",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "c\u00e9cile.coune@proximus.be"
-        },
-        {
-            "first_name": "Karel",
-            "family_name": "De Gucht",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "karel.degucht@proximus.be"
-        },
-        {
-            "first_name": "B\u00e9atrice",
-            "family_name": "de Mahieu",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "b\u00e9atrice.demahieu@proximus.be"
-        },
-        {
-            "first_name": "Martin",
-            "family_name": "De Prycker",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "martin.deprycker@proximus.be"
-        },
-        {
-            "first_name": "Audrey",
-            "family_name": "Hanard",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "audrey.hanard@proximus.be"
-        },
-        {
-            "first_name": "Ibrahim",
-            "family_name": "Ouassari",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "ibrahim.ouassari@proximus.be"
-        },
-        {
-            "first_name": "Catherine",
-            "family_name": "Rutten",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "catherine.rutten@proximus.be"
-        },
-        {
-            "first_name": "Joachim",
-            "family_name": "Sonne",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "joachim.sonne@proximus.be"
         },
         {
             "first_name": "Ben",
@@ -205,11 +142,67 @@
             "email_address": "geert.standaert@proximus.be"
         },
         {
-            "first_name": "Renaud",
-            "family_name": "Tilmans",
-            "role": "Customer Operations Lead",
-            "department": "Customer Operations",
-            "email_address": "renaud.tilmans@proximus.be"
+            "first_name": "Caroline",
+            "family_name": "Basyn",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "caroline.basyn@proximus.be"
+        },
+        {
+            "first_name": "C\u00e9cile",
+            "family_name": "Coune",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "cecile.coune@proximus.be"
+        },
+        {
+            "first_name": "Karel",
+            "family_name": "De Gucht",
+            "role": "Director appointed by the Belgian State",
+            "department": "Board of Directors",
+            "email_address": "karel.degucht@proximus.be"
+        },
+        {
+            "first_name": "B\u00e9atrice",
+            "family_name": "de Mahieu",
+            "role": "Director appointed by the Belgian State",
+            "department": "Board of Directors",
+            "email_address": "beatrice.demahieu@proximus.be"
+        },
+        {
+            "first_name": "Martin",
+            "family_name": "De Prycker",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "martin.deprycker@proximus.be"
+        },
+        {
+            "first_name": "Audrey",
+            "family_name": "Hanard",
+            "role": "Director appointed by the Belgian State",
+            "department": "Board of Directors",
+            "email_address": "audrey.hanard@proximus.be"
+        },
+        {
+            "first_name": "Ibrahim",
+            "family_name": "Ouassari",
+            "role": "Director",
+            "department": "Board of Directors",
+            "email_address": "ibrahim.ouassari@proximus.be"
+        },
+        {
+            "first_name": "Catherine",
+            "family_name": "Rutten",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "catherine.rutten@proximus.be"
+        },
+        {
+            "first_name": "Joachim",
+            "family_name": "Sonne",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "joachim.sonne@proximus.be"
         },
         {
             "first_name": "Jan",
@@ -217,6 +210,13 @@
             "role": "Chief Human Resources Officer",
             "department": "Human Capital",
             "email_address": "jan.vanacoleyen@proximus.be"
+        },
+        {
+            "first_name": "Renaud",
+            "family_name": "Tilmans",
+            "role": "Customer Operations Lead",
+            "department": "Customer Operations",
+            "email_address": "renaud.tilmans@proximus.be"
         },
         {
             "first_name": "Karl",
@@ -305,303 +305,376 @@
     ],
     "news": [
         {
-            "subject": "Proximus Rebrands International Division as Proximus Global",
-            "overview": "Proximus has integrated its international operations, including BICS, Telesign, and Route Mobile, under a new brand called Proximus Global. This new entity is valued at approximately \u20ac3.1 billion in equity. The move aims to streamline operations, leverage cross-selling opportunities, and drive growth in the international market. Clear Bridge Ventures, the investment vehicle of Route Mobile's founders, retains an 8.7% stake in Proximus Global, with Proximus owning the rest. Guillaume Boutin will serve as CEO of Proximus Global while continuing his role as group CEO.",
-            "source": "lightreading.com, telecomtv.com, mobileeurope.co.uk"
+            "subject": "Proximus Creates Proximus Global",
+            "overview": "Proximus Group has launched Proximus Global, a new entity that consolidates its international operations, including BICS, Telesign, and Route Mobile. This move aims to create a global leader in digital communications with a valuation of approximately EUR 3.1 billion. The new structure will streamline operations and governance, and facilitate commercial growth.",
+            "source": "Techzine Global, Mobile Europe, uctoday.com, lightreading.com, telecomtv.com"
         },
         {
-            "subject": "Scarlet Offers More Data at Same Price",
-            "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices. This offer is part of Scarlet's strategy to start the new year with more value for its customers.",
-            "source": "proximus.com"
+            "subject": "Strategic Shift to Global Operations",
+            "overview": "Proximus has strategically transformed in recent years to expand its international business. This includes the full acquisitions of Telesign and BICS, and the acquisition of Route Mobile in 2023. These moves have strengthened Proximus' position in Communication Platforms as a Service (CPaaS) and digital identity (DI) solutions.",
+            "source": "Techzine Global, Mobile Europe"
         },
         {
-            "subject": "Proximus Tests Cargo Sailboat in Supply Chain",
-            "overview": "Proximus is collaborating with Sagemcom to test the use of a cargo sailboat in its supply chain. This initiative highlights Proximus' commitment to exploring sustainable transportation methods.",
-            "source": "proximus.com"
-        },
-        {
-            "subject": "Proximus Fiber Network Recognized for Speed and Performance",
-            "overview": "Studies by nPerf and Ookla have recognized Proximus' fiber network for its superior speed and performance compared to competitors. These recognitions highlight the quality of Proximus' fiber infrastructure.",
-            "source": "proximus.com"
-        },
-        {
-            "subject": "Proximus Sells Luxembourg Towers",
-            "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac108 million. This sale is part of Proximus' strategy to divest non-core assets.",
-            "source": "datacenterdynamics.com, marketscreener.com"
-        },
-        {
-            "subject": "Proximus to Sell Be-Mobile",
-            "overview": "Proximus is reportedly planning to sell its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. Be-Mobile is known for its mobile parking payment system. Proximus owns a majority stake (around 93%) in Be-Mobile.",
+            "subject": "Data Center Sale",
+            "overview": "Proximus sold its data centers to Datacenter United (DC United) in a sale-leaseback deal valued at \u20ac128 million. This transaction, involving four facilities, is expected to close by Q1 2025 and is part of Proximus' asset divestment plan.",
             "source": "datacenterdynamics.com"
         },
         {
-            "subject": "Proximus Completes Data Center Sale",
-            "overview": "Proximus has finalized the sale of its data centers to Datacenter United in a sale-leaseback deal valued at \u20ac128 million. This transaction is part of Proximus' asset divestment plan.",
-            "source": "datacenterdynamics.com"
+            "subject": "Fiber Network Performance",
+            "overview": "Proximus' fiber network has been recognized for its superior speed and performance by nPerf and Ookla\u00ae, two international institutions specializing in network quality measurement.",
+            "source": "proximus.com"
         },
         {
-            "subject": "Microsoft and Proximus Announce Strategic Partnership",
-            "overview": "Microsoft and Proximus have entered into a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI product suites.",
-            "source": "thecyberexpress.com"
+            "subject": "Scarlet's New Offer",
+            "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer for 2025, providing increased data volumes on its mobile plans at no extra cost.",
+            "source": "proximus.com"
+        },
+        {
+            "subject": "Proximus and Sagemcom Test Cargo Sailboat",
+            "overview": "Proximus and Sagemcom are testing the use of cargo sailboats in their supply chain, indicating a move towards more sustainable logistics.",
+            "source": "proximus.com"
+        },
+        {
+            "subject": "Infosys and Proximus Strategic Collaboration",
+            "overview": "Infosys and Proximus Group have announced a strategic collaboration to unlock new business opportunities, further strengthening their existing partnership.",
+            "source": "infosys.com"
         }
     ],
     "providers": [
         {
             "provider": "Scarlet",
             "service": "Telecommunication services",
-            "type": "Mobile and fixed telephony, internet, and digital television services",
+            "type": "Subsidiary brand of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Mobile Vikings",
             "service": "Telecommunication services",
-            "type": "Mobile telephony services",
+            "type": "Subsidiary brand of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Tango",
             "service": "Telecommunication services",
-            "type": "Fixed and mobile telephony, internet and television services to residential customers and small businesses",
+            "type": "Brand of Proximus Luxembourg",
             "provider_homepage": null
         },
         {
             "provider": "Telindus Luxembourg",
             "service": "Telecommunication and ICT services",
-            "type": "Telecommunication services, ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, managed services and training services to medium-sized and large companies, as well as public administrations.",
+            "type": "Brand of Proximus Luxembourg",
             "provider_homepage": null
         },
         {
             "provider": "Telindus Netherlands",
             "service": "Telecommunication services",
-            "type": "Telecommunication services",
+            "type": "Subsidiary of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "BICS",
             "service": "International communication services",
-            "type": "International communications enabler, global voice carrier, and provider of mobile data services.",
+            "type": "Affiliate of Proximus",
             "provider_homepage": "www.bics.com"
         },
         {
             "provider": "Telesign",
-            "service": "Digital identity services",
-            "type": "Authentication and digital identity services",
+            "service": "Digital identity and communication platforms",
+            "type": "Affiliate of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Be-Mobile",
             "service": "Smart mobility solutions",
-            "type": "Smart mobility solutions for public authorities, road operators, car manufacturers, or enterprises.",
+            "type": "IT partner of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "ClearMedia",
             "service": "Cloud, cybersecurity and digital workplace solutions",
-            "type": "Cloud, cybersecurity and digital workplace solutions, services and products tailored to the (S)ME market through an indirect channel of local IT partners.",
+            "type": "IT partner of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Codit",
-            "service": "Cloud solutions",
-            "type": "Microsoft Azure cloud solutions.",
+            "service": "Microsoft Azure cloud solutions",
+            "type": "IT partner of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Davinsi Labs",
             "service": "Cybersecurity and operational intelligence",
-            "type": "Cybersecurity and operational intelligence solutions.",
+            "type": "IT partner of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Proximus Spearit",
             "service": "IT services",
-            "type": "IT services",
+            "type": "IT partner of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Proximus NXT IT",
             "service": "IT solutions and services",
-            "type": "IT solutions & services tailored to enterprises current and future needs.",
+            "type": "IT affiliate of Proximus",
             "provider_homepage": null
         },
         {
             "provider": "Proximus Media House (PmH)",
-            "service": "Content and media services",
-            "type": "Content editing, broadcasting, (live) production and media operations.",
+            "service": "Content editing, broadcasting, and media operations",
+            "type": "Affiliate of Proximus",
             "provider_homepage": null
         },
         {
-            "provider": "Ads & Data",
-            "service": "Advertising and data services",
-            "type": "Premium media channels and qualitative data for advertisers.",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Granton Marketing Service (GMSF)",
-            "service": "Marketing services",
-            "type": "Marketing services",
-            "provider_homepage": "www.gmsf.be"
-        },
-        {
-            "provider": "NEO GROUP",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
-            "provider_homepage": null
-        },
-        {
-            "provider": "One Telecom",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
-            "provider_homepage": "www.one-telecom.be"
-        },
-        {
-            "provider": "ONLYOO",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
-            "provider_homepage": "www.onlyoo.be"
-        },
-        {
-            "provider": "Totaalplan",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
-            "provider_homepage": null
-        },
-        {
-            "provider": "U-smile",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
-            "provider_homepage": null
-        },
-        {
-            "provider": "YOUL",
-            "service": "Telecommunication services",
-            "type": "Telecommunication services",
+            "provider": "Connectimmo",
+            "service": "Real estate services",
+            "type": "Real estate company of the Proximus Group",
             "provider_homepage": null
         },
         {
             "provider": "Citymesh",
-            "service": "Wireless network services",
-            "type": "Development and management of large-scale wireless networks based on WiFi, IoT, 4G, and 5G technology.",
+            "service": "Wireless network solutions",
+            "type": "Mobile virtual network operator (MVNO) and B2B telecom operator",
             "provider_homepage": "www.citymesh.com"
         },
         {
             "provider": "Destiny",
-            "service": "Cloud communication solutions",
-            "type": "Secure cloud communication solutions for innovative enterprises.",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Nokia",
-            "service": "Telecommunication equipment",
-            "type": "Telecommunication equipment vendor",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Ericsson",
-            "service": "Telecommunication equipment",
-            "type": "Telecommunication equipment vendor",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Unifiber",
-            "service": "Fiber optic solutions",
-            "type": "Fiber optic solutions vendor",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Infosys",
-            "service": "IT services",
-            "type": "IT services vendor",
-            "provider_homepage": null
-        },
-        {
-            "provider": "AUSY BELGIUM / Data Flow",
-            "service": "Datacenter operations",
-            "type": "Datacenter Operations, Troubleshooting, customer support & maintenance.",
-            "provider_homepage": null
-        },
-        {
-            "provider": "MySQL AB",
-            "service": "Technology partner",
-            "type": "Technology partner",
+            "service": "Secure cloud communication solutions",
+            "type": "Mobile partner",
             "provider_homepage": null
         },
         {
             "provider": "Tech Mahindra",
             "service": "Technology platform development",
-            "type": "Design and build a technology platform, 'Tech Hub' that will provide next-generation connectivity offerings.",
+            "type": "Technology partner",
+            "provider_homepage": "www.techmahindra.com"
+        },
+        {
+            "provider": "Comviva",
+            "service": "Platform for Tech Hub",
+            "type": "Technology provider",
             "provider_homepage": null
-        },
-        {
-            "provider": "TMF Mobile (MTV Networks Benelux)",
-            "service": "Mobile virtual network operator",
-            "type": "Mobile virtual network operator using Proximus network",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Mobisud",
-            "service": "Mobile virtual network operator",
-            "type": "Mobile virtual network operator using Proximus network",
-            "provider_homepage": null
-        },
-        {
-            "provider": "RSCA Mobile",
-            "service": "Mobile virtual network operator",
-            "type": "Mobile virtual network operator using Proximus network",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Dommel",
-            "service": "Mobile virtual network operator",
-            "type": "Mobile virtual network operator using Proximus network",
-            "provider_homepage": null
-        },
-        {
-            "provider": "PostMobile (bpost)",
-            "service": "Mobile virtual network operator",
-            "type": "Mobile virtual network operator using Proximus network",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Accenture",
-            "service": "Digital TV platform development",
-            "type": "Development of the next generation digital TV platform, Proximus Pickx.",
-            "provider_homepage": "www.accenture.com"
-        },
-        {
-            "provider": "Clerk Chat",
-            "service": "Customer communication platform",
-            "type": "Customer communication platform integration for enhanced engagement and support.",
-            "provider_homepage": "clerk.chat"
         },
         {
             "provider": "Belcenter",
-            "service": "B2B telco services",
-            "type": "B2B telco player operating an IP based network.",
+            "service": "B2B telecommunication services",
+            "type": "Telecom partner",
             "provider_homepage": "www.belcenter.be"
         },
         {
             "provider": "Colt Technology Services",
-            "service": "Digital infrastructure services",
-            "type": "Global digital infrastructure company offering digital connectivity.",
+            "service": "Digital infrastructure and connectivity",
+            "type": "Technology partner",
             "provider_homepage": "www.colt.net"
         },
         {
             "provider": "Comsave",
-            "service": "E-commerce platform",
-            "type": "E-commerce platform for sourcing and provisioning Internet and last-mile access services.",
+            "service": "E-commerce platform for internet and last-mile access services",
+            "type": "Technology partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Sewan",
+            "service": "Fixed and mobile voice, cloud services, and internet access",
+            "type": "Telecom partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Yoin",
+            "service": "Mobile and internet services",
+            "type": "Telecom partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Telenet",
+            "service": "Converged connected entertainment and business solutions",
+            "type": "Telecom partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Granton Marketing Service (GMSF)",
+            "service": "Marketing services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "NEO GROUP",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "One Telecom",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "ONLYOO",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Totaalplan",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "U-smile",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "YOUL",
+            "service": "Telecommunication services",
+            "type": "Partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "AUSY BELGIUM / Data Flow",
+            "service": "Datacenter operations, customer support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Citrix Systems BVBA",
+            "service": "Virtual desktop software support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Cisco International Limited",
+            "service": "Service delivery - Cisco Cloud WebEx",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "CommVault Systems (Belgium) BVBA",
+            "service": "Customer support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Dell Software International Limited",
+            "service": "Storage vendor, troubleshooting, remote support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Harvey Nash",
+            "service": "Datacenter operations, troubleshooting, maintenance, onsite installation & support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Infosys",
+            "service": "Datacenter operations, troubleshooting, customer support & maintenance",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Ingram Micro BVBA",
+            "service": "Customer support",
+            "type": "Subcontractor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Nokia",
+            "service": "Network infrastructure",
+            "type": "Vendor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Ericsson",
+            "service": "Network infrastructure",
+            "type": "Vendor",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Unifiber",
+            "service": "Fiber optic network solutions",
+            "type": "Vendor",
             "provider_homepage": null
         },
         {
             "provider": "Broadcom",
             "service": "Cloud services",
-            "type": "Provider of cloud services.",
+            "type": "Technology provider",
             "provider_homepage": "www.broadcom.com"
         },
         {
+            "provider": "VMware",
+            "service": "Hosted Private Cloud services",
+            "type": "Technology provider",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Microsoft",
+            "service": "Cloud solutions",
+            "type": "Technology provider",
+            "provider_homepage": null
+        },
+        {
+            "provider": "MySQL AB",
+            "service": "Database solutions",
+            "type": "Technology partner",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Clerk Chat",
+            "service": "Customer communication platform",
+            "type": "Technology provider",
+            "provider_homepage": "clerk.chat"
+        },
+        {
+            "provider": "SAP ARIBA",
+            "service": "Supplier management platform",
+            "type": "Platform provider",
+            "provider_homepage": null
+        },
+        {
+            "provider": "FLECS",
+            "service": "Supplier management platform",
+            "type": "Platform provider",
+            "provider_homepage": null
+        },
+        {
             "provider": "H. Essers",
-            "service": "Logistics",
-            "type": "Logistics services for Proximus NXT",
+            "service": "Logistics and delivery services",
+            "type": "Logistics provider",
+            "provider_homepage": null
+        },
+        {
+            "provider": "MTV Networks Benelux",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Mobisud",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
+            "provider_homepage": null
+        },
+        {
+            "provider": "RSCA Mobile",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Dommel",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
+            "provider_homepage": null
+        },
+        {
+            "provider": "PostMobile (bpost)",
+            "service": "Mobile virtual network operator",
+            "type": "MVNO",
             "provider_homepage": null
         }
     ]

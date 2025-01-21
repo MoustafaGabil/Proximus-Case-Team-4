@@ -1,141 +1,22 @@
 [
     {
-        "provider": "SAP Ariba",
-        "department": "Engineering",
+        "provider": "RSCA Mobile",
+        "department": "Mobile Application",
         "subdivision": [
-            "Ariba Network"
+            "Ticket Management",
+            "Membership Management",
+            "Season Ticket Management",
+            "Match Highlights",
+            "RSCA Futures Content",
+            "RSCA Women Content",
+            "Social Media Content",
+            "Match Statistics",
+            "Live Updates",
+            "Mauve TV Integration",
+            "Quizzes",
+            "Polls",
+            "Online Shop"
         ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Business Development",
-        "subdivision": [
-            "Ecosystem"
-        ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Technology",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Product and Engineering",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Product Management and Engineering",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Finance",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Commercial Strategy and Operations",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Customer Management",
-        "subdivision": [
-            "Global Services"
-        ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Solution Optimization",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Strategy and Corporate Development",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Artificial Intelligence and Cognitive Products",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Sales",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Global Enterprise Alliances",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "North America Services",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Influencer Marketing",
-        "subdivision": [
-            "Analysts",
-            "Third-Party Communities",
-            "Brand Partners"
-        ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Portfolio Marketing",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Category Management",
-        "subdivision": [
-            "Accounting and Finance",
-            "Application Development",
-            "Compliance",
-            "Human Resource Management",
-            "Information Technology Management",
-            "Information Technology Security",
-            "Legal",
-            "Marketing",
-            "Production",
-            "Purchasing",
-            "Research and Development",
-            "User Support"
-        ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Direct Spend Solutions",
-        "subdivision": [],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
-    },
-    {
-        "provider": "SAP Ariba",
-        "department": "Delivery",
-        "subdivision": [
-            "Regulated Market Unit"
-        ],
-        "address": "3420 Hillview Ave. Palo Alto, CA 94304. USA"
+        "address": "Royal Sporting Club Anderlecht, Theo Verbeecklaan 2, B-1070 Brussels"
     }
 ]

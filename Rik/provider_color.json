@@ -1,30 +1,13 @@
 [
     {
-        "provider": "SAP ARIBA",
-        "color_name_1": "SAP Blue",
-        "hex_code_1": "#003366",
-        "rgb_code_1": [
-            0,
-            51,
-            102
-        ]
+        "provider": "RSCA Mobile",
+        "color_name_1": "Purple",
+        "hex_code_1": null,
+        "rgb_code_1": null
     },
     {
-        "color_name_2": "SAP Grey",
-        "hex_code_2": "#999999",
-        "rgb_code_2": [
-            153,
-            153,
-            153
-        ]
-    },
-    {
-        "color_name_3": "White",
-        "hex_code_3": "#FFFFFF",
-        "rgb_code_3": [
-            255,
-            255,
-            255
-        ]
+        "color_name_2": "White",
+        "hex_code_2": null,
+        "rgb_code_2": null
     }
 ]
