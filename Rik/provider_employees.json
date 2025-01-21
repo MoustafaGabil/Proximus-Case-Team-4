@@ -1,90 +1,82 @@
 [
     {
-        "provider": "RSCA Mobile",
-        "first_name": "David",
-        "family_name": "Hubert",
-        "role": "Manager",
-        "department": "Coaching Staff",
-        "email_address": "david.hubert@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Chris",
+        "family_name": "Peeters",
+        "role": "Chief Executive Officer",
+        "department": "Executive Board",
+        "email_address": "chris.peeters@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Roel",
-        "family_name": "Cl\u00e9ment",
-        "role": "Assistant Manager",
-        "department": "Coaching Staff",
-        "email_address": "roel.cl\u00e9ment@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Philippe",
+        "family_name": "Dartienne",
+        "role": "Chief Financial Officer",
+        "department": "Senior Management",
+        "email_address": "philippe.dartienne@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Jan",
-        "family_name": "Michaelsen",
-        "role": "Assistant Manager",
-        "department": "Coaching Staff",
-        "email_address": "jan.michaelsen@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Mark",
+        "family_name": "Michiels",
+        "role": "Chief Human Resources and Organization Officer",
+        "department": "Senior Management",
+        "email_address": "mark.michiels@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Jonathan",
-        "family_name": "Alves",
-        "role": "Assistant Manager",
-        "department": "Coaching Staff",
-        "email_address": "jonathan.alves@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Anette",
+        "family_name": "Bohm",
+        "role": "Chief Human Resources Officer",
+        "department": "Senior Management",
+        "email_address": "anette.bohm@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Justin",
-        "family_name": "Merz",
-        "role": "Goalkeeping Coach",
-        "department": "Coaching Staff",
-        "email_address": "justin.merz@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Frank",
+        "family_name": "Croket",
+        "role": "Chief Digital Officer",
+        "department": "Senior Management",
+        "email_address": "frank.croket@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Olivier",
-        "family_name": "Renard",
-        "role": "Sporting Director",
-        "department": "Management",
-        "email_address": "olivier.renard@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Jos",
+        "family_name": "Donvil",
+        "role": "CEO bpost Belgium",
+        "department": "bpost Belgium",
+        "email_address": "jos.donvil@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Marc",
-        "family_name": "Coucke",
-        "role": "Owner",
-        "department": "Board of Directors",
-        "email_address": "marc.coucke@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Koen",
+        "family_name": "Aelterman",
+        "role": "CFO for the Belgian business unit",
+        "department": "Belgian business unit",
+        "email_address": "koen.aelterman@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Roger",
-        "family_name": "Vanden Stock",
-        "role": "Honorary President",
-        "department": "Board of Directors",
-        "email_address": "roger.vandenstock@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Henri",
+        "family_name": "de Romr\u00e9e",
+        "role": "CEO of bpost group's e-logistics North-America business unit",
+        "department": "e-logistics North-America",
+        "email_address": "henri.deromree@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Jasper",
-        "family_name": "Wouters",
-        "role": "Scout",
-        "department": "Scouting",
-        "email_address": "jasper.wouters@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "Thomas",
+        "family_name": "Mortier",
+        "role": "CEO 3PL Europe",
+        "department": "3PL Europe",
+        "email_address": "thomas.mortier@postmobile (bpost).be"
     },
     {
-        "provider": "RSCA Mobile",
-        "first_name": "Luc",
-        "family_name": "Vanden Bossche",
-        "role": "Head of Medical",
-        "department": "Medical department",
-        "email_address": "luc.vandenbossche@rscamobile.be"
-    },
-    {
-        "provider": "RSCA Mobile",
-        "first_name": "Henk",
-        "family_name": "Mariman",
-        "role": "Academy Manager",
-        "department": "Youth",
-        "email_address": "henk.mariman@rscamobile.be"
+        "provider": "PostMobile (bpost)",
+        "first_name": "James",
+        "family_name": "Edge",
+        "role": "CEO Global Cross border",
+        "department": "Global Cross border",
+        "email_address": "james.edge@postmobile (bpost).be"
     }
 ]

@@ -1,22 +1,50 @@
 [
     {
-        "provider": "RSCA Mobile",
-        "department": "Mobile Application",
+        "provider": "PostMobile (bpost)",
+        "department": "Customer Service",
         "subdivision": [
-            "Ticket Management",
-            "Membership Management",
-            "Season Ticket Management",
-            "Match Highlights",
-            "RSCA Futures Content",
-            "RSCA Women Content",
-            "Social Media Content",
-            "Match Statistics",
-            "Live Updates",
-            "Mauve TV Integration",
-            "Quizzes",
-            "Polls",
-            "Online Shop"
+            "Online Support",
+            "Phone Support",
+            "Post Office, Post Point or Parcel Point Support",
+            "Postal Support"
         ],
-        "address": "Royal Sporting Club Anderlecht, Theo Verbeecklaan 2, B-1070 Brussels"
+        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
+        "phone": "+32 2 278 51 26",
+        "vat": "BE 0214.596.464"
+    },
+    {
+        "provider": "PostMobile (bpost)",
+        "department": "General Inquiries",
+        "subdivision": [
+            "General Information",
+            "Abusive or illegal use of the bpost network"
+        ],
+        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
+        "phone": "+32 2 201 11 11",
+        "vat": "BE 0214.596.464"
+    },
+    {
+        "provider": "PostMobile (bpost)",
+        "department": "Business Customers",
+        "subdivision": [],
+        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
+        "phone": "+32 2 207 57 85",
+        "vat": "BE 0214.596.464"
+    },
+    {
+        "provider": "PostMobile (bpost)",
+        "department": "Residential Customers",
+        "subdivision": [],
+        "address": "Boulevard Anspachlaan 1/1, 1000 Brussels",
+        "phone": "+32 2 278 51 27",
+        "vat": "BE 0214.596.464"
+    },
+    {
+        "provider": "PostMobile (bpost)",
+        "department": "Data Protection Office",
+        "subdivision": [],
+        "address": "Munt Centrum (14B), 1000 Brussels",
+        "phone": null,
+        "vat": "BE 0214.596.464"
     }
 ]
