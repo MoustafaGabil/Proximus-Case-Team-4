@@ -10,21 +10,21 @@
             ]
         },
         {
-            "color_name_2": "Black",
-            "hex_code_2": "#000000",
+            "color_name_2": "White",
+            "hex_code_2": "#FFFFFF",
             "rgb_code_2": [
-                0,
-                0,
-                0
-            ]
-        },
-        {
-            "color_name_3": "White",
-            "hex_code_3": "#FFFFFF",
-            "rgb_code_3": [
                 255,
                 255,
                 255
+            ]
+        },
+        {
+            "color_name_3": "Black",
+            "hex_code_3": "#000000",
+            "rgb_code_3": [
+                0,
+                0,
+                0
             ]
         }
     ],
@@ -32,76 +32,65 @@
         {
             "department": "Chief Executive Officer's Department",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Consumer Market",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Enterprise Market",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Corporate Affairs",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Network & Wholesale",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Customer Operations",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Human Capital",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Digital & IT",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         },
         {
             "department": "Finance",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
-        },
-        {
-            "department": "Proximus Global",
-            "subdivision": [
-                "BICS",
-                "Telesign",
-                "Route Mobile"
-            ],
-            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Brussels, Belgium",
-            "phone": "+32 2 202 8241",
-            "vat": "BE0202239951"
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202239951"
         }
     ],
     "employees": [
@@ -155,23 +144,9 @@
             "email_address": "geert.standaert@proximus.be"
         },
         {
-            "first_name": "Renaud",
-            "family_name": "Tilmans",
-            "role": "Customer Operations Lead",
-            "department": "Customer Operations",
-            "email_address": "renaud.tilmans@proximus.be"
-        },
-        {
-            "first_name": "Jan",
-            "family_name": "Van Acoleyen",
-            "role": "Chief Human Resources Officer",
-            "department": "Human Capital",
-            "email_address": "jan.vanacoleyen@proximus.be"
-        },
-        {
             "first_name": "Stefaan",
             "family_name": "De Clerck",
-            "role": "Chairman of the Proximus Board",
+            "role": "Chairman of the Board",
             "department": "Board of Directors",
             "email_address": "stefaan.declerck@proximus.be"
         },
@@ -192,14 +167,14 @@
         {
             "first_name": "Karel",
             "family_name": "De Gucht",
-            "role": "Director appointed by the Belgian State",
+            "role": "Director",
             "department": "Board of Directors",
             "email_address": "karel.degucht@proximus.be"
         },
         {
             "first_name": "B\u00e9atrice",
             "family_name": "de Mahieu",
-            "role": "Director appointed by the Belgian State",
+            "role": "Director",
             "department": "Board of Directors",
             "email_address": "beatrice.demahieu@proximus.be"
         },
@@ -213,7 +188,7 @@
         {
             "first_name": "Audrey",
             "family_name": "Hanard",
-            "role": "Director appointed by the Belgian State",
+            "role": "Director",
             "department": "Board of Directors",
             "email_address": "audrey.hanard@proximus.be"
         },
@@ -239,9 +214,23 @@
             "email_address": "joachim.sonne@proximus.be"
         },
         {
+            "first_name": "Jan",
+            "family_name": "Van Acoleyen",
+            "role": "Chief Human Resources Officer",
+            "department": "Human Capital",
+            "email_address": "jan.vanacoleyen@proximus.be"
+        },
+        {
+            "first_name": "Renaud",
+            "family_name": "Tilmans",
+            "role": "Customer Operations Lead",
+            "department": "Customer Operations",
+            "email_address": "renaud.tilmans@proximus.be"
+        },
+        {
             "first_name": "Karl",
             "family_name": "Cuveele",
-            "role": "Managing Director Proximus Real Estate - Connectimmo",
+            "role": "Managing Director Proximus Real Estate",
             "department": "Real Estate",
             "email_address": "karl.cuveele@proximus.be"
         },
@@ -249,21 +238,21 @@
             "first_name": "Jacques",
             "family_name": "Ruckert",
             "role": "Chief Solutions & Innovation Officer",
-            "department": "Solutions & Innovation",
+            "department": "Innovation",
             "email_address": "jacques.ruckert@proximus.be"
         },
         {
             "first_name": "Jason",
             "family_name": "Vanherrewegge",
             "role": "Chief Editor",
-            "department": "Communications",
+            "department": "Editorial",
             "email_address": "jason.vanherrewegge@proximus.be"
         },
         {
             "first_name": "Geert",
             "family_name": "Kelchtermans",
             "role": "VP Small & Medium Enterprises - Tribe Lead",
-            "department": "Small & Medium Enterprises",
+            "department": "Sales",
             "email_address": "geert.kelchtermans@proximus.be"
         },
         {
@@ -277,14 +266,14 @@
             "first_name": "Sebastien",
             "family_name": "Evrard",
             "role": "Center Of Excellence Lead - Pricing & Promotions",
-            "department": "Pricing & Promotions",
+            "department": "Pricing",
             "email_address": "sebastien.evrard@proximus.be"
         },
         {
             "first_name": "Thomas",
             "family_name": "Vanherk",
             "role": "Team Lead ICT Pricing & Costing",
-            "department": "ICT Pricing & Costing",
+            "department": "Pricing",
             "email_address": "thomas.vanherk@proximus.be"
         },
         {
@@ -298,7 +287,7 @@
             "first_name": "Olivier",
             "family_name": "Crucq",
             "role": "Director Commercial & Marketing Chapter Area",
-            "department": "Commercial & Marketing",
+            "department": "Marketing",
             "email_address": "olivier.crucq@proximus.be"
         },
         {
@@ -319,89 +308,107 @@
             "first_name": "Igor",
             "family_name": "Makedonsky",
             "role": "Director Group Legal & Insurance - General Counsel",
-            "department": "Legal & Insurance",
+            "department": "Legal",
             "email_address": "igor.makedonsky@proximus.be"
         }
     ],
     "news": [
         {
-            "subject": "Proximus Selects Nextensa for New Headquarters",
-            "overview": "Proximus has chosen Nextensa to develop its new headquarters in Brussels, relocating from its current towers at the Brussels North Station to the Tour & Taxis site. This move comes after a previous sale-leaseback deal fell through. Proximus aims to reduce its office space due to increased remote work and will use the proceeds from the sale to fund its fiber rollout. The companies are aiming for a final agreement in Q2 2025, with the move expected in the first half of 2027 and new offices ready by the first half of 2029. Proximus staff are currently in temporary accommodation.",
-            "source": "Telecompaper, TipRanks, globenewswire.com, BRUZZ"
+            "subject": "Proximus Refinances Credit Facility",
+            "overview": "Proximus has refinanced its EUR 700 million credit facility with a group of Belgian and international banks. This new 5-year loan replaces a previous credit line from 2020 that was never used. The new facility provides financial flexibility and ensures a stable liquidity position for the company. There is also an option to link the interest rate to ESG targets. This refinancing comes amid a possible downgrade in Proximus' credit ratings by Standard & Poor's.",
+            "source": "Telecompaper"
         },
         {
-            "subject": "Proximus Refinances Revolving Credit Facility",
-            "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility with a group of Belgian and international banks. The renewed facility has a 5-year term with two 1-year extension options and will serve as a liquidity reserve. The credit margin is linked to the achievement of ESG targets, which will be agreed by the end of 2025.",
-            "source": "marketscreener.com"
-        },
-        {
-            "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-            "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain, demonstrating a commitment to sustainable practices.",
-            "source": "proximus.com"
-        },
-        {
-            "subject": "Proximus Global Created",
-            "overview": "Proximus Group continues its journey to become a global digital communications leader by creating Proximus Global, which will oversee its international activities. This includes the transfer of BICS shares to Proximus Opal, which will be renamed Proximus Global by the end of 2024. Proximus Global encompasses the entire value chain of digital communications, with a global presence and significant revenue.",
-            "source": "proximus.com, telecomtv.com"
-        },
-        {
-            "subject": "Scarlet Offers More Data",
-            "overview": "Scarlet, a brand of Proximus, is offering increased data volumes on its mobile plans at no extra cost, starting in 2025.",
-            "source": "proximus.com"
-        },
-        {
-            "subject": "Microsoft and Proximus Strategic Partnership",
-            "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI product suites.",
-            "source": "thecyberexpress.com"
+            "subject": "Proximus Negotiates New HQ Building",
+            "overview": "Proximus has entered into exclusive negotiations with Nextensa for the sale of its current headquarters in Brussels and the development of a new office at the Tour & Taxis site. This follows a failed sale-leaseback deal with Immobel. Proximus aims to reduce its office footprint due to more staff working remotely. The move to the new location is expected in the first half of 2027, with the new offices ready by the first half of 2029. Proximus will likely need interim office space.",
+            "source": "Telecompaper, tipranks.com, globenewswire.com, bx1.be"
         },
         {
             "subject": "Proximus Fiber Network Recognition",
             "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its speed and performance, outperforming the competition.",
             "source": "proximus.com"
+        },
+        {
+            "subject": "Scarlet New Year Offer",
+            "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer for 2025, providing increased data volumes on its mobile plans at no extra cost.",
+            "source": "proximus.com"
+        },
+        {
+            "subject": "Proximus Global Creation",
+            "overview": "Proximus has created Proximus Global, an entity that will encompass its international activities, including BICS, Telesign, and Route Mobile. This new unit is valued at around \u20ac3.1 billion in equity.",
+            "source": "lightreading.com, proximus.com"
+        },
+        {
+            "subject": "Microsoft and Proximus Strategic Partnership",
+            "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This partnership will allow both companies to leverage their expertise and product leadership, and will strengthen Microsoft's use of Proximus' CPaaS & DI product suites.",
+            "source": "thecyberexpress.com"
+        },
+        {
+            "subject": "Infosys and Proximus Strategic Collaboration",
+            "overview": "Infosys and Proximus Group have strengthened their strategic collaboration to help unlock new business opportunities.",
+            "source": "infosys.com"
         }
     ],
     "providers": [
         {
-            "provider": "Proximus Counsel",
-            "service": "Legal advice and consulting for law firms",
-            "type": "Consulting",
-            "provider_homepage": "proximuscounsel.com"
-        },
-        {
-            "provider": "PROXIMUS Consultant LLC",
-            "service": "Market analysis, strategic planning, legal and regulatory compliance, and partnership development for international market expansion",
-            "type": "Consulting",
-            "provider_homepage": "proxymususa.com"
-        },
-        {
             "provider": "Tech Mahindra",
-            "service": "Design and build a technology platform for next-generation connectivity offerings",
-            "type": "Consulting",
-            "provider_homepage": "techmahindra.com"
+            "service": "Strategic partnership to design and build a technology platform ('Tech Hub') for next-generation connectivity offerings.",
+            "type": "Consulting and Technology Services",
+            "provider_homepage": "https://www.techmahindra.com/"
+        },
+        {
+            "provider": "Proximus NXT",
+            "service": "IT solutions & services tailored to enterprises, focusing on designing, building and delivering exceptional IT solutions & services.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://thinknxt.be/"
+        },
+        {
+            "provider": "Agile Partner",
+            "service": "IT development, agile assistance and innovation, supporting companies in their adaptation to the cloud at all levels: strategy, change and project management, software and infrastructure.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Codit",
+            "service": "Supports customers in realizing their ambitions with tailored Microsoft Azure cloud solutions.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://www.codit.eu/"
+        },
+        {
+            "provider": "Proximus Counsel",
+            "service": "Provides highly specialised legal advice, consulting for fundamental decisions and strategic management tasks in a law firm, and personal coaching.",
+            "type": "Legal and Management Consulting",
+            "provider_homepage": "https://proximuscounsel.com/"
+        },
+        {
+            "provider": "ClearMedia",
+            "service": "Provides cloud, cybersecurity and digital workplace solutions, services and products tailored to the (S)ME market through an indirect channel of local IT partners.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": null
         },
         {
             "provider": "Infosys",
-            "service": "IT transformation and re-engineering services",
-            "type": "Consulting",
-            "provider_homepage": "infosys.com"
+            "service": "Vendor partnership for IT and telecommunications services.",
+            "type": "Technology Services",
+            "provider_homepage": "https://www.infosys.com/"
+        },
+        {
+            "provider": "Telindus",
+            "service": "Provides information and communications technology services, offering telecom and ICT solutions including consulting, integration, management and outsourcing.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": null
+        },
+        {
+            "provider": "Proximus Business Partners",
+            "service": "Certified local experts in ICT and telecom, offering tailored solutions for SMEs, including analysis of needs and development of personalized solutions for internet, telephony, mobile, and cybersecurity.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://www.proximus.be/"
         },
         {
             "provider": "Proximus HR",
-            "service": "HR Consulting",
-            "type": "Consulting",
-            "provider_homepage": "proximushr.com"
-        },
-        {
-            "provider": "Proximus Group",
-            "service": "Career Consulting",
-            "type": "Consulting",
-            "provider_homepage": "proximusgroupllc.com"
-        },
-        {
-            "provider": "Orange Business",
-            "service": "Consulting and digital transformation",
-            "type": "Consulting",
-            "provider_homepage": "orange-business.com"
+            "service": "Provides HR Consulting services.",
+            "type": "HR Consulting",
+            "provider_homepage": "https://proximushr.com/"
         }
     ]
 }

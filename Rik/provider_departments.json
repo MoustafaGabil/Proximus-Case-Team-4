@@ -1,40 +1,74 @@
 [
     {
-        "provider": "Orange Business",
-        "department": "Digital Services",
-        "subdivision": [
-            "Cloud",
-            "Customer Experience",
-            "Digital Workspace",
-            "Data & AI"
-        ],
-        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
-        "phone": "+33 1 53 90 85 00",
-        "vat": "BE0440232718"
+        "provider": "Proximus Business Partners",
+        "department": "CEO's Department",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     },
     {
-        "provider": "Orange Business",
-        "department": "Consulting Services",
-        "subdivision": [
-            "Business advisory",
-            "Business case identification",
-            "Technology assessment",
-            "Pilot execution"
-        ],
-        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
-        "phone": "+33 1 53 90 85 00",
-        "vat": "BE0440232718"
+        "provider": "Proximus Business Partners",
+        "department": "Consumer Market",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     },
     {
-        "provider": "Orange Business",
-        "department": "Network and Digital Integration",
-        "subdivision": [
-            "Connectivity solutions",
-            "Cloud",
-            "Cybersecurity"
-        ],
-        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
-        "phone": "+33 1 53 90 85 00",
-        "vat": "BE0440232718"
+        "provider": "Proximus Business Partners",
+        "department": "Enterprise Market",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Corporate Affairs",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Network & Wholesale",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Customer Operations",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Human Capital",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Digital & IT",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Finance",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     }
 ]

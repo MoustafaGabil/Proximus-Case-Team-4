@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Invitation exclusive: Sessions d'Exp\u00e9rience Client pour Dirigeants",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Nous sommes ravis de vous inviter \u00e0 nos Sessions d'Exp\u00e9rience Client, un \u00e9v\u00e9nement exclusif con\u00e7u sp\u00e9cifiquement pour les Chefs de la Direction. Cet \u00e9v\u00e9nement est une opportunit\u00e9 unique d'explorer les derni\u00e8res tendances et strat\u00e9gies pour am\u00e9liorer l'exp\u00e9rience client, un facteur cl\u00e9 de succ\u00e8s dans le paysage commercial actuel. Les places \u00e9tant limit\u00e9es, nous vous encourageons \u00e0 consulter le lien ci-dessous pour plus d'informations et pour r\u00e9server votre place d\u00e8s maintenant.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Consultante en Transformation Digitale",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "R\u00e9servez maintenant"
+        "subject": "Exclusive Presentation for Marketing Specialists",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "We're excited to invite you to a special presentation tailored specifically for Marketing Specialists. Join us on Monday, January 27th, at 3 PM for insights and strategies that can elevate your marketing efforts. Given the limited spots available, we encourage you to secure your place now by clicking the link below. We look forward to seeing you there!",
+        "email_sign_fullname": "Alex Dubois",
+        "email_sign_role": "ICT Consultant",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Register Now"
     },
     {
-        "subject": "Opportunit\u00e9 strat\u00e9gique: Sessions d'Exp\u00e9rience Client pour CEO",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Nous avons le plaisir de vous pr\u00e9senter les Sessions d'Exp\u00e9rience Client, un \u00e9v\u00e9nement cibl\u00e9 pour les Chefs de la Direction. Cet \u00e9v\u00e9nement a \u00e9t\u00e9 con\u00e7u pour fournir des perspectives uniques sur la mani\u00e8re d'optimiser l'engagement client et stimuler la croissance de votre entreprise. \u00c9tant donn\u00e9 le nombre limit\u00e9 de places disponibles, nous vous recommandons vivement de consulter le lien ci-dessous afin d'en savoir plus et de vous inscrire rapidement.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Consultante en Transformation Digitale",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "Inscrivez-vous vite"
+        "subject": "Don't Miss: Marketing Presentation on January 27th",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": " A focused presentation for Marketing Specialists is coming up on Monday, January 27th, at 3 PM. This is a unique opportunity to gain new perspectives and tactics to drive your marketing initiatives forward. Given the limited spots, please click the link below to ensure your participation. We anticipate a highly engaging session!",
+        "email_sign_fullname": "Alex Dubois",
+        "email_sign_role": "ICT Consultant",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Join Event"
     },
     {
-        "subject": "\u00c9v\u00e9nement exclusif pour CEO: Sessions d'Exp\u00e9rience Client",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Nous vous invitons cordialement \u00e0 nos Sessions d'Exp\u00e9rience Client, un \u00e9v\u00e9nement sur mesure pour les Chefs de la Direction. Cette session exclusive est une occasion id\u00e9ale pour d\u00e9couvrir comment les meilleures pratiques en mati\u00e8re d'exp\u00e9rience client peuvent transformer votre entreprise. Les places sont limit\u00e9es, nous vous encourageons donc \u00e0 consulter le lien ci-dessous pour confirmer votre participation sans tarder.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Consultante en Transformation Digitale",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "Confirmez votre pr\u00e9sence"
+        "subject": "Marketing Specialist Presentation: Limited Seats Available",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "We have organized an exclusive presentation for Marketing Specialists on Monday, January 27th at 3 PM. This session is designed to provide valuable insights to help you in your role. Given that seats are limited, we urge you to act quickly and click the link below to confirm your spot. We're confident this presentation will be beneficial to you.",
+        "email_sign_fullname": "Alex Dubois",
+        "email_sign_role": "ICT Consultant",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Claim Spot"
     }
 ]

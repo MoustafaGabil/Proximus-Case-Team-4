@@ -1,154 +1,186 @@
 [
     {
-        "provider": "Orange Business",
-        "first_name": "Aliette",
-        "family_name": "Mousnier-Lompr\u00e9",
+        "provider": "Proximus Business Partners",
+        "first_name": "Guillaume",
+        "family_name": "Boutin",
         "role": "Chief Executive Officer",
-        "department": "Executive Management",
-        "email_address": "aliette.mousnier-lompr\u00e9@orange-business.be"
+        "department": "Leadership",
+        "email_address": "guillaume.boutin@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Christophe",
-        "family_name": "Eouzan",
-        "role": "Chief Financial Officer and Senior Vice President, Strategy and General Services",
-        "department": "Finance and Strategy",
-        "email_address": "christophe.eouzan@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Finance Lead",
+        "department": "Finance",
+        "email_address": "mark.reid@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Franck",
-        "family_name": "Chretien",
-        "role": "Chief Information Officer",
-        "department": "Information Technology",
-        "email_address": "franck.chretien@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Enterprise IT",
+        "email_address": "anne-sophie.lotgering@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Natasha",
-        "family_name": "Pearson",
-        "role": "Chief Marketing and Communications Officer",
-        "department": "Marketing and Communications",
-        "email_address": "natasha.pearson@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Antonietta",
+        "family_name": "Mastroianni",
+        "role": "Digital & IT Lead",
+        "department": "Digital & IT",
+        "email_address": "antonietta.mastroianni@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Francois",
-        "family_name": "van Praagh",
-        "role": "Chief Transformation Officer",
-        "department": "Transformation",
-        "email_address": "francois.van praagh@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Network & Wholesale",
+        "email_address": "geert.standaert@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Laurent",
-        "family_name": "Aufils",
-        "role": "Chief People Officer",
+        "provider": "Proximus Business Partners",
+        "first_name": "Dirk",
+        "family_name": "Lybaert",
+        "role": "Secretary General",
+        "department": "General Management",
+        "email_address": "dirk.lybaert@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Stefaan",
+        "family_name": "De Clerck",
+        "role": "Chairman of the Board",
+        "department": "Board of Directors",
+        "email_address": "stefaan.declerck@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Catherine",
+        "family_name": "Rutten",
+        "role": "Independent Director",
+        "department": "Board of Directors",
+        "email_address": "catherine.rutten@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Joachim",
+        "family_name": "Sonne",
+        "role": "Independent Director",
+        "department": "Board of Directors",
+        "email_address": "joachim.sonne@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Martin",
+        "family_name": "De Prycker",
+        "role": "Independent Director",
+        "department": "Board of Directors",
+        "email_address": "martin.deprycker@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Catherine",
+        "family_name": "Vandenborre",
+        "role": "Independent Director",
+        "department": "Board of Directors",
+        "email_address": "catherine.vandenborre@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "C\u00e9cile",
+        "family_name": "Coune",
+        "role": "Independent Director",
+        "department": "Board of Directors",
+        "email_address": "cecile.coune@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "B\u00e9atrice",
+        "family_name": "De Mahieu",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "beatrice.demahieu@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Audrey",
+        "family_name": "Hanard",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "audrey.hanard@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Claire",
+        "family_name": "Tillekaerts",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "claire.tillekaerts@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Ibrahim",
+        "family_name": "Ouassari",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "ibrahim.ouassari@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Karel",
+        "family_name": "De Gucht",
+        "role": "Director",
+        "department": "Board of Directors",
+        "email_address": "karel.degucht@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Renaud",
+        "family_name": "Tilmans",
+        "role": "Chief Customer Operations Officer",
+        "department": "Customer Operations",
+        "email_address": "renaud.tilmans@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Nancy",
+        "family_name": "Goossens",
+        "role": "Director of Investor Relations",
+        "department": "Investor Relations",
+        "email_address": "nancy.goossens@proximusbusinesspartners.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "first_name": "Jan",
+        "family_name": "Van Acoleyen",
+        "role": "Human Capital Lead",
         "department": "Human Resources",
-        "email_address": "laurent.aufils@orange-business.be"
+        "email_address": "jan.vanacoleyen@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Laurent",
-        "family_name": "Godicheau",
-        "role": "Chief Strategy, Partner & Sustainability Officer, Member of the Executive Management Board",
-        "department": "Strategy and Sustainability",
-        "email_address": "laurent.godicheau@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Alex",
+        "family_name": "Lorette",
+        "role": "Head of Telecom Solutions Department",
+        "department": "Telecom Solutions",
+        "email_address": "alex.lorette@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Val\u00e9rie",
-        "family_name": "Cussac",
-        "role": "Executive Vice President, Smart Mobility Services",
-        "department": "Smart Mobility Services",
-        "email_address": "val\u00e9rie.cussac@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Peter",
+        "family_name": "Van den broeck",
+        "role": "Account Manager",
+        "department": "Sales",
+        "email_address": "peter.vandenbroeck@proximusbusinesspartners.be"
     },
     {
-        "provider": "Orange Business",
-        "first_name": "Wassila",
-        "family_name": "Zitoune-Dumontet",
-        "role": "Chief Operating Officer",
-        "department": "Operations",
-        "email_address": "wassila.zitoune-dumontet@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Thierry",
-        "family_name": "Bonhomme",
-        "role": "CEO / President",
-        "department": "Executive",
-        "email_address": "thierry.bonhomme@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Cindy",
-        "family_name": "Owens",
-        "role": "Vendor & Executive Escalation Management - NAM",
-        "department": "Management",
-        "email_address": "cindy.owens@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Dina",
-        "family_name": "Unknown",
-        "role": "Sr. Manager Big Data & CVM Analytics",
-        "department": "Big Data & CVM Analytics",
-        "email_address": "dina.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Christine",
-        "family_name": "Unknown",
-        "role": "Head of Unified Communications Global Operations",
-        "department": "Unified Communications Global Operations",
-        "email_address": "christine.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Anupama",
-        "family_name": "Unknown",
-        "role": "Head Audits & Program Governance",
-        "department": "Audits & Program Governance",
-        "email_address": "anupama.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Nimisha",
-        "family_name": "Unknown",
-        "role": "Senior Project Manager",
-        "department": "Project Management",
-        "email_address": "nimisha.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Dina",
-        "family_name": "Unknown",
-        "role": "Director of IMEAR Region - Network Infrastructure & Access",
-        "department": "Network Infrastructure & Access",
-        "email_address": "dina.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Emmanuel",
-        "family_name": "Unknown",
-        "role": "Data Engineer",
-        "department": "Data Engineering",
-        "email_address": "emmanuel.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Jigyasa",
-        "family_name": "Unknown",
-        "role": "Senior Network and Services Planning Manager",
-        "department": "Network and Services Planning",
-        "email_address": "jigyasa.unknown@orange-business.be"
-    },
-    {
-        "provider": "Orange Business",
-        "first_name": "Reham",
-        "family_name": "Unknown",
-        "role": "Head of Business Operations and Service Transition",
-        "department": "Business Operations and Service Transition",
-        "email_address": "reham.unknown@orange-business.be"
+        "provider": "Proximus Business Partners",
+        "first_name": "Stijn",
+        "family_name": "Bogaerts",
+        "role": "Smart Building & Retail Expert",
+        "department": "Smart Building & Retail",
+        "email_address": "stijn.bogaerts@proximusbusinesspartners.be"
     }
 ]

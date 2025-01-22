@@ -1,39 +1,37 @@
 [
     {
-        "provider": "Orange Business",
-        "color_name_1": "Brand orange",
-        "hex_code_1": "#FF7900",
+        "provider": "Proximus Business Partners",
+        "color_name_1": "Primary Purple",
+        "hex_code_1": "#5C2D91",
         "rgb_code_1": [
-            255,
-            121,
-            0
-        ]
-    },
-    {
-        "color_name_2": "Accessible orange",
-        "hex_code_2": "#F16E00",
+            92,
+            45,
+            145
+        ],
+        "color_name_2": "White",
+        "hex_code_2": "#FFFFFF",
         "rgb_code_2": [
-            241,
-            110,
-            0
-        ]
-    },
-    {
-        "color_name_3": "Core black",
-        "hex_code_3": "#000000",
-        "rgb_code_3": [
-            0,
-            0,
-            0
-        ]
-    },
-    {
-        "color_name_4": "Core white",
-        "hex_code_4": "#FFFFFF",
-        "rgb_code_4": [
             255,
             255,
             255
+        ]
+    },
+    {
+        "color_name_1": "Secondary Purple",
+        "hex_code_1": "#7D57A7",
+        "rgb_code_1": [
+            125,
+            87,
+            167
+        ]
+    },
+    {
+        "color_name_1": "Black",
+        "hex_code_1": "#000000",
+        "rgb_code_1": [
+            0,
+            0,
+            0
         ]
     }
 ]

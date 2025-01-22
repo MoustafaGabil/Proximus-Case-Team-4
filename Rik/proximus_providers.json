@@ -1,44 +1,62 @@
 [
     {
-        "provider": "Proximus Counsel",
-        "service": "Legal advice and consulting for law firms",
-        "type": "Consulting",
-        "provider_homepage": "proximuscounsel.com"
-    },
-    {
-        "provider": "PROXIMUS Consultant LLC",
-        "service": "Market analysis, strategic planning, legal and regulatory compliance, and partnership development for international market expansion",
-        "type": "Consulting",
-        "provider_homepage": "proxymususa.com"
-    },
-    {
         "provider": "Tech Mahindra",
-        "service": "Design and build a technology platform for next-generation connectivity offerings",
-        "type": "Consulting",
-        "provider_homepage": "techmahindra.com"
+        "service": "Strategic partnership to design and build a technology platform ('Tech Hub') for next-generation connectivity offerings.",
+        "type": "Consulting and Technology Services",
+        "provider_homepage": "https://www.techmahindra.com/"
+    },
+    {
+        "provider": "Proximus NXT",
+        "service": "IT solutions & services tailored to enterprises, focusing on designing, building and delivering exceptional IT solutions & services.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": "https://thinknxt.be/"
+    },
+    {
+        "provider": "Agile Partner",
+        "service": "IT development, agile assistance and innovation, supporting companies in their adaptation to the cloud at all levels: strategy, change and project management, software and infrastructure.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Codit",
+        "service": "Supports customers in realizing their ambitions with tailored Microsoft Azure cloud solutions.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": "https://www.codit.eu/"
+    },
+    {
+        "provider": "Proximus Counsel",
+        "service": "Provides highly specialised legal advice, consulting for fundamental decisions and strategic management tasks in a law firm, and personal coaching.",
+        "type": "Legal and Management Consulting",
+        "provider_homepage": "https://proximuscounsel.com/"
+    },
+    {
+        "provider": "ClearMedia",
+        "service": "Provides cloud, cybersecurity and digital workplace solutions, services and products tailored to the (S)ME market through an indirect channel of local IT partners.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": null
     },
     {
         "provider": "Infosys",
-        "service": "IT transformation and re-engineering services",
-        "type": "Consulting",
-        "provider_homepage": "infosys.com"
+        "service": "Vendor partnership for IT and telecommunications services.",
+        "type": "Technology Services",
+        "provider_homepage": "https://www.infosys.com/"
+    },
+    {
+        "provider": "Telindus",
+        "service": "Provides information and communications technology services, offering telecom and ICT solutions including consulting, integration, management and outsourcing.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "service": "Certified local experts in ICT and telecom, offering tailored solutions for SMEs, including analysis of needs and development of personalized solutions for internet, telephony, mobile, and cybersecurity.",
+        "type": "Consulting and IT Services",
+        "provider_homepage": "https://www.proximus.be/"
     },
     {
         "provider": "Proximus HR",
-        "service": "HR Consulting",
-        "type": "Consulting",
-        "provider_homepage": "proximushr.com"
-    },
-    {
-        "provider": "Proximus Group",
-        "service": "Career Consulting",
-        "type": "Consulting",
-        "provider_homepage": "proximusgroupllc.com"
-    },
-    {
-        "provider": "Orange Business",
-        "service": "Consulting and digital transformation",
-        "type": "Consulting",
-        "provider_homepage": "orange-business.com"
+        "service": "Provides HR Consulting services.",
+        "type": "HR Consulting",
+        "provider_homepage": "https://proximushr.com/"
     }
 ]

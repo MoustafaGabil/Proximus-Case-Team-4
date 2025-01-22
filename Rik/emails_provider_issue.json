@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Alerte Qualit\u00e9_Impact sur la Transformation Digitale",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Nous avons constat\u00e9 des \u00e9carts de qualit\u00e9 significatifs dans la r\u00e9cente phase de consultation et transformation digitale que nous menons ensemble. Ces probl\u00e8mes impactent directement les objectifs que nous nous sommes fix\u00e9s et n\u00e9cessitent une action imm\u00e9diate. Veuillez trouver les d\u00e9tails dans le lien ci-dessous afin que nous puissions discuter des solutions \u00e0 mettre en \u0153uvre.",
-        "email_sign_fullname": "Jean-Pierre LaCroix",
-        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "Consulter le lien"
+        "subject": "Immediate Action Required: Security Risk Assessment for Marketing Campaigns",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "It has come to our attention that there's a potential security vulnerability affecting some of our marketing campaign materials. This could expose sensitive data and compromise our communication efforts. We need your immediate attention to address this issue and ensure the security of our marketing assets. Please access the link below to review the details of the risk and the recommended actions. We must resolve this before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "John Doe",
+        "email_sign_role": "Consultant",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Review Now"
     },
     {
-        "subject": "Probl\u00e8mes de Qualit\u00e9_Transformation Digitale en cours",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Je me permets de vous alerter sur des probl\u00e8mes de qualit\u00e9 qui affectent notre collaboration en mati\u00e8re de transformation digitale. Les anomalies constat\u00e9es risquent de compromettre l'atteinte de nos objectifs communs. Il est imp\u00e9ratif que nous analysions rapidement la situation et prenions les mesures correctives ad\u00e9quates. Je vous prie de consulter le lien ci-dessous pour plus d'informations.",
-        "email_sign_fullname": "Jean-Pierre LaCroix",
-        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "Voir d\u00e9tails"
+        "subject": "Urgent: Marketing Security Protocol Update Needed",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "We've identified a gap in our current marketing security protocols that requires your immediate review. This issue, if not addressed quickly, could pose a significant risk to our campaign integrity and data protection. Please follow the link below for detailed instructions and updated guidelines. Your prompt action is crucial to safeguard our marketing activities, and we need this resolved before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "Jane Smith",
+        "email_sign_role": "IT Security Analyst",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Check Details"
     },
     {
-        "subject": "Urgent_Anomalies Qualit\u00e9_Impacts Transformation Digitale",
-        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
-        "body": "Nous vous contactons en urgence suite \u00e0 de s\u00e9rieuses anomalies de qualit\u00e9 constat\u00e9es dans nos projets de transformation digitale. Ces incidents n\u00e9cessitent une attention imm\u00e9diate de votre part afin de minimiser l'impact sur nos engagements. Veuillez consulter le lien ci-dessous pour une analyse compl\u00e8te et les actions recommand\u00e9es.",
-        "email_sign_fullname": "Jean-Pierre LaCroix",
-        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
-        "email_sign_company": "Orange Business",
-        "call_to_action_text": "Agir vite"
+        "subject": "Critical: Marketing Campaign Security Alert",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "There's an urgent security matter concerning our marketing campaigns that requires your immediate attention. A potential breach could lead to unauthorized access to sensitive campaign information. To understand the scope of the problem and the necessary steps to mitigate it, please use the link provided. Your swift action is vital to prevent any further damage. This needs to be addressed before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "Peter Jones",
+        "email_sign_role": "Cybersecurity Expert",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Act Fast"
     }
 ]
