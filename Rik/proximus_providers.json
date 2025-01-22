@@ -1,44 +1,44 @@
 [
     {
+        "provider": "Proximus Counsel",
+        "service": "Legal advice and consulting for law firms",
+        "type": "Consulting",
+        "provider_homepage": "proximuscounsel.com"
+    },
+    {
+        "provider": "PROXIMUS Consultant LLC",
+        "service": "Market analysis, strategic planning, legal and regulatory compliance, and partnership development for international market expansion",
+        "type": "Consulting",
+        "provider_homepage": "proxymususa.com"
+    },
+    {
         "provider": "Tech Mahindra",
-        "service": "Technology platform design and build",
-        "type": "Consulting and Technology Services",
-        "provider_homepage": "https://www.techmahindra.com/"
+        "service": "Design and build a technology platform for next-generation connectivity offerings",
+        "type": "Consulting",
+        "provider_homepage": "techmahindra.com"
     },
     {
-        "provider": "Telindus SA",
-        "service": "Telecom and ICT solutions including consulting, integration, management and outsourcing",
-        "type": "Consulting and Technology Services",
-        "provider_homepage": null
+        "provider": "Infosys",
+        "service": "IT transformation and re-engineering services",
+        "type": "Consulting",
+        "provider_homepage": "infosys.com"
     },
     {
-        "provider": "Proximus Opal SA",
-        "service": "Telecommunications and information technology services",
-        "type": "Consulting and Technology Services",
-        "provider_homepage": null
+        "provider": "Proximus HR",
+        "service": "HR Consulting",
+        "type": "Consulting",
+        "provider_homepage": "proximushr.com"
     },
     {
-        "provider": "Codit",
-        "service": "Designs, builds and manages data-driven cloud solutions",
-        "type": "IT Consulting",
-        "provider_homepage": null
+        "provider": "Proximus Group",
+        "service": "Career Consulting",
+        "type": "Consulting",
+        "provider_homepage": "proximusgroupllc.com"
     },
     {
-        "provider": "Davinsi Labs",
-        "service": "Cybersecurity and operational intelligence",
-        "type": "IT Consulting",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "service": "Customer communication streamlining",
-        "type": "Consulting and Technology Services",
-        "provider_homepage": "https://clerk.chat/"
-    },
-    {
-        "provider": "H. Essers",
-        "service": "Logistics and delivery services",
-        "type": "Consulting and Logistics",
-        "provider_homepage": null
+        "provider": "Orange Business",
+        "service": "Consulting and digital transformation",
+        "type": "Consulting",
+        "provider_homepage": "orange-business.com"
     }
 ]

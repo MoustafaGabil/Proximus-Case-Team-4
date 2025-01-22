@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Dringend: Potentieel beveiligingsrisico vereist onmiddellijke actie",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "We hebben een potentieel beveiligingsrisico ontdekt dat onmiddellijke aandacht vereist. Onze recente analyses van uw cybersecurity infrastructuur hebben een kwetsbaarheid aan het licht gebracht die, indien niet snel aangepakt, ernstige gevolgen kan hebben voor de operationele stabiliteit en de gegevensbeveiliging van Proximus. Het is essentieel dat we deze kwestie zo snel mogelijk aanpakken om mogelijke schade te voorkomen. Hieronder vindt u een link naar een gedetailleerd rapport waarin de bevindingen worden beschreven, evenals aanbevolen stappen voor onmiddellijke mitigatie. Uw actie is nu cruciaal om de integriteit van uw systemen te waarborgen. We verzoeken u vriendelijk het rapport onmiddellijk te raadplegen.",
-        "email_sign_fullname": "Wouter De Smet",
-        "email_sign_role": "Cybersecurity Specialist",
-        "email_sign_company": "Davinsi Labs",
-        "call_to_action_text": "Bekijk rapport"
+        "subject": "Urgent_Proximus_Digital_Transformation_Analysis",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Nous avons identifi\u00e9 un \u00e9cart critique dans votre strat\u00e9gie de transformation digitale qui n\u00e9cessite une attention imm\u00e9diate. Notre r\u00e9cente analyse r\u00e9v\u00e8le des points de blocage qui, s'ils ne sont pas adress\u00e9s rapidement, pourraient impacter significativement la performance et la comp\u00e9titivit\u00e9 de Proximus. Veuillez consulter le rapport d\u00e9taill\u00e9 disponible via le lien ci-dessous pour une compr\u00e9hension compl\u00e8te des enjeux et des recommandations d'actions prioritaires.",
+        "email_sign_fullname": "Sophie Dubois",
+        "email_sign_role": "Consultant Senior",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Consulter_Ici"
     },
     {
-        "subject": "Belangrijk: Onmiddellijke actie vereist ivm cyberbeveiligingslek",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "Er is een kritiek cyberbeveiligingslek ge\u00efdentificeerd dat een onmiddellijke reactie van uw kant vereist. Onze monitoring systemen hebben een anomalie gedetecteerd die wijst op een mogelijke inbraakpoging die misbruik maakt van een recente kwetsbaarheid in uw netwerk. Deze situatie is van het hoogste belang en vereist directe actie om de blootstelling te minimaliseren en de veiligheid van Proximus te waarborgen. In de volgende link vindt u een gedetailleerde analyse van het beveiligingslek en de aanbevolen stappen om dit onmiddellijk op te lossen. Het is van essentieel belang dat u deze informatie onmiddellijk bekijkt.",
-        "email_sign_fullname": "Wouter De Smet",
-        "email_sign_role": "Cybersecurity Specialist",
-        "email_sign_company": "Davinsi Labs",
-        "call_to_action_text": "Analyse Bekijken"
+        "subject": "Alerte_Impact_Potentiel_Strat\u00e9gie_Digitale",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Nos experts ont d\u00e9tect\u00e9 une faille potentielle dans l'ex\u00e9cution de votre transformation digitale. Cette situation pourrait entra\u00eener des retards et des co\u00fbts suppl\u00e9mentaires si elle n'est pas corrig\u00e9e dans les plus brefs d\u00e9lais. Une \u00e9valuation approfondie de la situation et des mesures correctives sont d\u00e9taill\u00e9es dans le document accessible via le lien ci-dessous. Il est crucial d'agir rapidement pour minimiser les risques.",
+        "email_sign_fullname": "Sophie Dubois",
+        "email_sign_role": "Consultant Senior",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Agir_Vite"
     },
     {
-        "subject": "Urgent: Beveiligingsincident_Reactie vereist",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "We hebben een beveiligingsincident gedetecteerd dat een onmiddellijke respons vereist. Onze geavanceerde dreigingsanalyse heeft een afwijking in uw systeemverkeer vastgesteld, wat wijst op een mogelijke actieve cyberaanval. Het is van cruciaal belang dat we dit incident direct aanpakken om verdere schade en gegevensverlies te voorkomen. U kunt via de link een volledige analyse van het incident en de vereiste acties vinden. We dringen er bij u op aan om deze informatie direct te bekijken en de voorgestelde stappen uit te voeren.",
-        "email_sign_fullname": "Wouter De Smet",
-        "email_sign_role": "Cybersecurity Specialist",
-        "email_sign_company": "Davinsi Labs",
-        "call_to_action_text": "Bekijk Analyse"
+        "subject": "Rapport_Urgent_Evaluation_Technologique",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Notre \u00e9quipe a finalis\u00e9 une \u00e9valuation technologique critique qui r\u00e9v\u00e8le des vuln\u00e9rabilit\u00e9s dans votre infrastructure digitale. Ces vuln\u00e9rabilit\u00e9s pourraient compromettre la s\u00e9curit\u00e9 et la fiabilit\u00e9 de vos services. Nous vous recommandons vivement de consulter le rapport complet accessible via le lien ci-dessous afin de prendre connaissance des points n\u00e9cessitant une intervention imm\u00e9diate et des actions correctives propos\u00e9es.",
+        "email_sign_fullname": "Sophie Dubois",
+        "email_sign_role": "Consultant Senior",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Voir_Maintenant"
     }
 ]

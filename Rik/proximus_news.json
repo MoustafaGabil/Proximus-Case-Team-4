@@ -1,32 +1,37 @@
 [
     {
         "subject": "Proximus Selects Nextensa for New Headquarters",
-        "overview": "Proximus has chosen Nextensa to negotiate the development of its new headquarters in Brussels at the Tour & Taxis site. This involves the sale of Proximus' current towers at the Brussels North Station to Nextensa. The move is driven by a need to reduce office space due to increased remote work and to finance the company's fiber rollout. Proximus aims to finalize the agreement in Q2 2025, with the move to the new location expected in the first half of 2027, and the new offices ready by the first half of 2029. Proximus staff are currently in temporary accommodation with a lease expiring in 2027.",
-        "source": "Telecompaper, tipranks.com, bruzz.be"
+        "overview": "Proximus has chosen Nextensa to develop its new headquarters in Brussels, relocating from its current towers at the Brussels North Station to the Tour & Taxis site. This move comes after a previous sale-leaseback deal fell through. Proximus aims to reduce its office space due to increased remote work and will use the proceeds from the sale to fund its fiber rollout. The companies are aiming for a final agreement in Q2 2025, with the move expected in the first half of 2027 and new offices ready by the first half of 2029. Proximus staff are currently in temporary accommodation.",
+        "source": "Telecompaper, TipRanks, globenewswire.com, BRUZZ"
     },
     {
         "subject": "Proximus Refinances Revolving Credit Facility",
-        "overview": "Proximus has proactively refinanced its EUR 700 million Revolving Credit Facility with a group of Belgian and international banks. The renewed facility has a 5-year term with two 1-year extension options and will serve as a liquidity reserve. The facility includes a framework to link credit margin to the achievement of ESG targets, which will be agreed by December 31, 2025.",
+        "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility with a group of Belgian and international banks. The renewed facility has a 5-year term with two 1-year extension options and will serve as a liquidity reserve. The credit margin is linked to the achievement of ESG targets, which will be agreed by the end of 2025.",
         "source": "marketscreener.com"
     },
     {
-        "subject": "Scarlet Offers More Data",
-        "overview": "Proximus's brand, Scarlet, is starting the new year with increased data volumes on its mobile plans at no extra cost, maintaining the same advantageous prices.",
-        "source": "proximus.com"
-    },
-    {
         "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain, highlighting a commitment to sustainable practices.",
+        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain, demonstrating a commitment to sustainable practices.",
         "source": "proximus.com"
     },
     {
         "subject": "Proximus Global Created",
-        "overview": "Proximus has created Proximus Global, an entity that consolidates its international activities, including BICS, Telesign, and Route Mobile. This move aims to establish Proximus as a global digital communications leader. The new unit is valued at approximately \u20ac3.1 billion.",
-        "source": "proximus.com, lightreading.com"
+        "overview": "Proximus Group continues its journey to become a global digital communications leader by creating Proximus Global, which will oversee its international activities. This includes the transfer of BICS shares to Proximus Opal, which will be renamed Proximus Global by the end of 2024. Proximus Global encompasses the entire value chain of digital communications, with a global presence and significant revenue.",
+        "source": "proximus.com, telecomtv.com"
+    },
+    {
+        "subject": "Scarlet Offers More Data",
+        "overview": "Scarlet, a brand of Proximus, is offering increased data volumes on its mobile plans at no extra cost, starting in 2025.",
+        "source": "proximus.com"
     },
     {
         "subject": "Microsoft and Proximus Strategic Partnership",
         "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI product suites.",
         "source": "thecyberexpress.com"
+    },
+    {
+        "subject": "Proximus Fiber Network Recognition",
+        "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its speed and performance, outperforming the competition.",
+        "source": "proximus.com"
     }
 ]

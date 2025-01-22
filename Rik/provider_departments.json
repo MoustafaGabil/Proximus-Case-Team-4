@@ -1,14 +1,40 @@
 [
     {
-        "provider": "Davinsi Labs",
-        "department": "Digital Service Intelligence",
+        "provider": "Orange Business",
+        "department": "Digital Services",
         "subdivision": [
-            "Security Intelligence",
-            "Operational Intelligence",
-            "Digital Business Intelligence"
+            "Cloud",
+            "Customer Experience",
+            "Digital Workspace",
+            "Data & AI"
         ],
-        "address": "Borsbeeksebrug 28 - 2nd floor 2600 Berchem (Antwerp) - Belgium",
-        "phone": "+32 3 3049512",
-        "vat": "BE0550853793"
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
+    },
+    {
+        "provider": "Orange Business",
+        "department": "Consulting Services",
+        "subdivision": [
+            "Business advisory",
+            "Business case identification",
+            "Technology assessment",
+            "Pilot execution"
+        ],
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
+    },
+    {
+        "provider": "Orange Business",
+        "department": "Network and Digital Integration",
+        "subdivision": [
+            "Connectivity solutions",
+            "Cloud",
+            "Cybersecurity"
+        ],
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
     }
 ]

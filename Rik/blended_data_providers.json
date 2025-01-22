@@ -1,163 +1,213 @@
 {
-    "Davinsi Labs": {
+    "Orange Business": {
         "general": {
-            "provider": "Davinsi Labs",
-            "service": "Cybersecurity and operational intelligence",
-            "type": "IT Consulting",
-            "provider_homepage": null
+            "provider": "Orange Business",
+            "service": "Consulting and digital transformation",
+            "type": "Consulting",
+            "provider_homepage": "orange-business.com"
         },
         "employee": [
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Roger",
-                "family_name": "Kendall",
-                "role": "Pioneer in Research and Development",
-                "department": "Research and Development",
-                "email_address": "roger.kendall@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Aliette",
+                "family_name": "Mousnier-Lompr\u00e9",
+                "role": "Chief Executive Officer",
+                "department": "Executive Management",
+                "email_address": "aliette.mousnier-lompr\u00e9@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Adena",
-                "family_name": "Mock",
-                "role": "Product Development Specialist",
-                "department": "Product Development",
-                "email_address": "adena.mock@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Christophe",
+                "family_name": "Eouzan",
+                "role": "Chief Financial Officer and Senior Vice President, Strategy and General Services",
+                "department": "Finance and Strategy",
+                "email_address": "christophe.eouzan@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Kyle",
-                "family_name": "Donovan",
-                "role": "New Product Development Manager",
-                "department": "New Product Development",
-                "email_address": "kyle.donovan@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Franck",
+                "family_name": "Chretien",
+                "role": "Chief Information Officer",
+                "department": "Information Technology",
+                "email_address": "franck.chretien@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Tammy",
-                "family_name": "Johnson",
-                "role": "Vice President, Human Division",
-                "department": "Human Division",
-                "email_address": "tammy.johnson@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Natasha",
+                "family_name": "Pearson",
+                "role": "Chief Marketing and Communications Officer",
+                "department": "Marketing and Communications",
+                "email_address": "natasha.pearson@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Melinda",
-                "family_name": "Elmadjian",
-                "role": "Business Leader Contract Manufacturing",
-                "department": "Contract Manufacturing",
-                "email_address": "melinda.elmadjian@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Francois",
+                "family_name": "van Praagh",
+                "role": "Chief Transformation Officer",
+                "department": "Transformation",
+                "email_address": "francois.van praagh@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Cathy",
-                "family_name": "Valley",
-                "role": "Customer Manager, International",
-                "department": "International",
-                "email_address": "cathy.valley@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Laurent",
+                "family_name": "Aufils",
+                "role": "Chief People Officer",
+                "department": "Human Resources",
+                "email_address": "laurent.aufils@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Hollis",
-                "family_name": "Bedell",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "hollis.bedell@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Laurent",
+                "family_name": "Godicheau",
+                "role": "Chief Strategy, Partner & Sustainability Officer, Member of the Executive Management Board",
+                "department": "Strategy and Sustainability",
+                "email_address": "laurent.godicheau@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Art",
-                "family_name": "Monaghan",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "art.monaghan@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Val\u00e9rie",
+                "family_name": "Cussac",
+                "role": "Executive Vice President, Smart Mobility Services",
+                "department": "Smart Mobility Services",
+                "email_address": "val\u00e9rie.cussac@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Aryel",
-                "family_name": "Wilbur",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "aryel.wilbur@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Wassila",
+                "family_name": "Zitoune-Dumontet",
+                "role": "Chief Operating Officer",
+                "department": "Operations",
+                "email_address": "wassila.zitoune-dumontet@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Bryce",
-                "family_name": "Logan",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "bryce.logan@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Thierry",
+                "family_name": "Bonhomme",
+                "role": "CEO / President",
+                "department": "Executive",
+                "email_address": "thierry.bonhomme@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Lindsey",
-                "family_name": "Schencker-Carroll",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "lindsey.schencker-carroll@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Cindy",
+                "family_name": "Owens",
+                "role": "Vendor & Executive Escalation Management - NAM",
+                "department": "Management",
+                "email_address": "cindy.owens@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Jack",
-                "family_name": "Schencker",
-                "role": "Inside Sales Consultant",
-                "department": "Sales",
-                "email_address": "jack.schencker@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Dina",
+                "family_name": "Unknown",
+                "role": "Sr. Manager Big Data & CVM Analytics",
+                "department": "Big Data & CVM Analytics",
+                "email_address": "dina.unknown@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Beth",
-                "family_name": "Bartlett",
-                "role": "Customer Care Manager",
-                "department": "Customer Care",
-                "email_address": "beth.bartlett@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Christine",
+                "family_name": "Unknown",
+                "role": "Head of Unified Communications Global Operations",
+                "department": "Unified Communications Global Operations",
+                "email_address": "christine.unknown@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Danielle",
-                "family_name": "Bremner",
-                "role": "Customer Care Representative",
-                "department": "Customer Care",
-                "email_address": "danielle.bremner@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Anupama",
+                "family_name": "Unknown",
+                "role": "Head Audits & Program Governance",
+                "department": "Audits & Program Governance",
+                "email_address": "anupama.unknown@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Leah",
-                "family_name": "Rupracht",
-                "role": "Customer Care Representative",
-                "department": "Customer Care",
-                "email_address": "leah.rupracht@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Nimisha",
+                "family_name": "Unknown",
+                "role": "Senior Project Manager",
+                "department": "Project Management",
+                "email_address": "nimisha.unknown@orange-business.be"
             },
             {
-                "provider": "Davinsi Labs",
-                "first_name": "Laurie",
-                "family_name": "Dellapi",
-                "role": "Customer Care Representative",
-                "department": "Customer Care",
-                "email_address": "laurie.dellapi@davinsilabs.be"
+                "provider": "Orange Business",
+                "first_name": "Dina",
+                "family_name": "Unknown",
+                "role": "Director of IMEAR Region - Network Infrastructure & Access",
+                "department": "Network Infrastructure & Access",
+                "email_address": "dina.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Emmanuel",
+                "family_name": "Unknown",
+                "role": "Data Engineer",
+                "department": "Data Engineering",
+                "email_address": "emmanuel.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Jigyasa",
+                "family_name": "Unknown",
+                "role": "Senior Network and Services Planning Manager",
+                "department": "Network and Services Planning",
+                "email_address": "jigyasa.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Reham",
+                "family_name": "Unknown",
+                "role": "Head of Business Operations and Service Transition",
+                "department": "Business Operations and Service Transition",
+                "email_address": "reham.unknown@orange-business.be"
             }
         ],
         "color": {
-            "provider": "Davinsi Labs",
-            "color_name_1": "Dark Blue",
-            "hex_code_1": "#002642",
+            "provider": "Orange Business",
+            "color_name_1": "Brand orange",
+            "hex_code_1": "#FF7900",
             "rgb_code_1": [
-                0,
-                38,
-                66
+                255,
+                121,
+                0
             ]
         },
         "departments": [
             {
-                "provider": "Davinsi Labs",
-                "department": "Digital Service Intelligence",
+                "provider": "Orange Business",
+                "department": "Digital Services",
                 "subdivision": [
-                    "Security Intelligence",
-                    "Operational Intelligence",
-                    "Digital Business Intelligence"
+                    "Cloud",
+                    "Customer Experience",
+                    "Digital Workspace",
+                    "Data & AI"
                 ],
-                "address": "Borsbeeksebrug 28 - 2nd floor 2600 Berchem (Antwerp) - Belgium",
-                "phone": "+32 3 3049512",
-                "vat": "BE0550853793"
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
+            },
+            {
+                "provider": "Orange Business",
+                "department": "Consulting Services",
+                "subdivision": [
+                    "Business advisory",
+                    "Business case identification",
+                    "Technology assessment",
+                    "Pilot execution"
+                ],
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
+            },
+            {
+                "provider": "Orange Business",
+                "department": "Network and Digital Integration",
+                "subdivision": [
+                    "Connectivity solutions",
+                    "Cloud",
+                    "Cybersecurity"
+                ],
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
             }
         ]
     }
