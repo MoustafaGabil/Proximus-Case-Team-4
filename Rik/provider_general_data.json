@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Telindus",
-        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.telindus.lu/"
+        "provider": "Orange Business",
+        "service": "Consulting and digital transformation",
+        "type": "Consulting",
+        "provider_homepage": "orange-business.com"
     }
 ]

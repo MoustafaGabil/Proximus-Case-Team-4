@@ -1,50 +1,44 @@
 [
     {
-        "provider": "Fiberklaar",
-        "service": "Design, build, maintain, and upgrade the fiber network in Flanders",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.fiberklaar.be/"
+        "provider": "Proximus Counsel",
+        "service": "Legal advice and consulting for law firms",
+        "type": "Consulting",
+        "provider_homepage": "proximuscounsel.com"
     },
     {
-        "provider": "Unifiber",
-        "service": "Roll-out of the fiber network in Wallonia",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.unifiber.be/"
+        "provider": "PROXIMUS Consultant LLC",
+        "service": "Market analysis, strategic planning, legal and regulatory compliance, and partnership development for international market expansion",
+        "type": "Consulting",
+        "provider_homepage": "proxymususa.com"
     },
     {
-        "provider": "Glasfaser Ostbelgien (GO Fiber)",
-        "service": "Fiber network deployment in the German-speaking Community of Belgium",
-        "type": "Infrastructure",
-        "provider_homepage": null
+        "provider": "Tech Mahindra",
+        "service": "Design and build a technology platform for next-generation connectivity offerings",
+        "type": "Consulting",
+        "provider_homepage": "techmahindra.com"
     },
     {
-        "provider": "Constructel Belgium",
-        "service": "Installation of optical fiber",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.constructelvisabeira.com/"
+        "provider": "Infosys",
+        "service": "IT transformation and re-engineering services",
+        "type": "Consulting",
+        "provider_homepage": "infosys.com"
     },
     {
-        "provider": "Telindus",
-        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.telindus.lu/"
+        "provider": "Proximus HR",
+        "service": "HR Consulting",
+        "type": "Consulting",
+        "provider_homepage": "proximushr.com"
     },
     {
-        "provider": "H. Essers",
-        "service": "Logistics and delivery services",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.essers.com/"
+        "provider": "Proximus Group",
+        "service": "Career Consulting",
+        "type": "Consulting",
+        "provider_homepage": "proximusgroupllc.com"
     },
     {
-        "provider": "Nokia",
-        "service": "Vendor partnership for network infrastructure",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.nokia.com/"
-    },
-    {
-        "provider": "Ericsson",
-        "service": "Vendor partnership for network infrastructure",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.ericsson.com/"
+        "provider": "Orange Business",
+        "service": "Consulting and digital transformation",
+        "type": "Consulting",
+        "provider_homepage": "orange-business.com"
     }
 ]

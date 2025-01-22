@@ -1,48 +1,40 @@
 [
     {
-        "provider": "Telindus",
-        "department": "General",
+        "provider": "Orange Business",
+        "department": "Digital Services",
         "subdivision": [
-            "Fixed and Mobile Telecommunications",
-            "Information and Communication Technology Infrastructures",
-            "Multi-Cloud",
-            "Fintech solutions",
-            "Cybersecurity",
-            "Managed Services"
+            "Cloud",
+            "Customer Experience",
+            "Digital Workspace",
+            "Data & AI"
         ],
-        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 1",
-        "vat": "LU15605033"
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
     },
     {
-        "provider": "Telindus",
-        "department": "Training Institute",
+        "provider": "Orange Business",
+        "department": "Consulting Services",
         "subdivision": [
-            "Professional training on Information and Communication Technology best practices and latest technologies"
+            "Business advisory",
+            "Business case identification",
+            "Technology assessment",
+            "Pilot execution"
         ],
-        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 1",
-        "vat": "LU15605033"
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
     },
     {
-        "provider": "Telindus",
-        "department": "Telindus CyberSecurity Incident Response Team",
+        "provider": "Orange Business",
+        "department": "Network and Digital Integration",
         "subdivision": [
-            "Security architecture design",
-            "Implementation of security infrastructures and security devices",
-            "Expertise, engineering, installation, configuration and maintenance of security solutions",
-            "Maintenance of security solutions",
-            "Security audits and review of security solutions",
-            "Logs analysis",
-            "Vulnerability assessment and evaluation",
-            "Penetration testing",
-            "Adversary Simulation",
-            "Source code review",
-            "Social engineering",
-            "Adversary Emulation"
+            "Connectivity solutions",
+            "Cloud",
+            "Cybersecurity"
         ],
-        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-        "phone": "+352 45 09 15 1",
-        "vat": "LU15605033"
+        "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+        "phone": "+33 1 53 90 85 00",
+        "vat": "BE0440232718"
     }
 ]

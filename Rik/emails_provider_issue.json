@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Critical_Network_Outage_Impact_on_Proximus_Operations",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "I am writing to you today with an urgent update regarding the recent network outages that have been impacting Proximus's operations. As CEO, I understand the critical nature of these disruptions and their potential impact on our overall business performance and reputation. Our team at Telindus is working tirelessly to resolve this issue, focusing on the IT infrastructure that supports your crucial services. We've identified some key areas for immediate improvement and believe that the measures outlined below will help mitigate future incidents. It's imperative that we address these issues promptly to maintain the stability of your network. Please review the detailed action plan and our recommendations in the document available at the link provided below, we believe it is crucial that you take action as soon as possible. ",
-        "email_sign_fullname": "Marc Nilles",
-        "email_sign_role": "Chief Executive Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "Review Now"
+        "subject": "Alerte Qualit\u00e9_Impact sur la Transformation Digitale",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Nous avons constat\u00e9 des \u00e9carts de qualit\u00e9 significatifs dans la r\u00e9cente phase de consultation et transformation digitale que nous menons ensemble. Ces probl\u00e8mes impactent directement les objectifs que nous nous sommes fix\u00e9s et n\u00e9cessitent une action imm\u00e9diate. Veuillez trouver les d\u00e9tails dans le lien ci-dessous afin que nous puissions discuter des solutions \u00e0 mettre en \u0153uvre.",
+        "email_sign_fullname": "Jean-Pierre LaCroix",
+        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Consulter le lien"
     },
     {
-        "subject": "Urgent_Action_Required_Network_Stability_Report",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "Following the recent network instability issues, I'm reaching out to provide you with a comprehensive report detailing the causes and our recommended solutions. We understand the urgency of this matter and how critical it is for Proximus\u2019s operations. Our analysis indicates several key vulnerabilities that must be addressed to prevent further disruptions. As CEO, your focus on ensuring a stable operational environment is essential, and this report provides the necessary steps to achieve that goal. We urge you to review the document carefully, available at the link below, as your immediate attention to these recommendations is vital for our next steps. Let's work together to strengthen the infrastructure and ensure uninterrupted service for Proximus. ",
-        "email_sign_fullname": "Marc Nilles",
-        "email_sign_role": "Chief Executive Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "View Report"
+        "subject": "Probl\u00e8mes de Qualit\u00e9_Transformation Digitale en cours",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Je me permets de vous alerter sur des probl\u00e8mes de qualit\u00e9 qui affectent notre collaboration en mati\u00e8re de transformation digitale. Les anomalies constat\u00e9es risquent de compromettre l'atteinte de nos objectifs communs. Il est imp\u00e9ratif que nous analysions rapidement la situation et prenions les mesures correctives ad\u00e9quates. Je vous prie de consulter le lien ci-dessous pour plus d'informations.",
+        "email_sign_fullname": "Jean-Pierre LaCroix",
+        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Voir d\u00e9tails"
     },
     {
-        "subject": "Immediate_Attention_Network_Outage_Resolution_Plan",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "I am contacting you directly to discuss the ongoing network outages that are affecting Proximus. As you are aware, these outages have considerable implications for our services and your customer experience. As CEO of Telindus, I assure you that we are treating this matter with the utmost urgency. Our team has developed a resolution plan, which requires immediate attention to ensure we get back on track. The details of our proposed strategy are outlined in the attached document. Please take some time to review the plan. We need your prompt approval so we can implement the necessary changes as soon as possible. This is critical to maintaining Proximus's reliability. ",
-        "email_sign_fullname": "Marc Nilles",
-        "email_sign_role": "Chief Executive Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "Check Details"
+        "subject": "Urgent_Anomalies Qualit\u00e9_Impacts Transformation Digitale",
+        "addressing_the_receiver": "Cher Monsieur Guillaume Boutin,",
+        "body": "Nous vous contactons en urgence suite \u00e0 de s\u00e9rieuses anomalies de qualit\u00e9 constat\u00e9es dans nos projets de transformation digitale. Ces incidents n\u00e9cessitent une attention imm\u00e9diate de votre part afin de minimiser l'impact sur nos engagements. Veuillez consulter le lien ci-dessous pour une analyse compl\u00e8te et les actions recommand\u00e9es.",
+        "email_sign_fullname": "Jean-Pierre LaCroix",
+        "email_sign_role": "Directeur des Solutions Num\u00e9riques",
+        "email_sign_company": "Orange Business",
+        "call_to_action_text": "Agir vite"
     }
 ]

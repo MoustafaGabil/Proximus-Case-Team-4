@@ -1,85 +1,213 @@
 {
-    "Telindus": {
+    "Orange Business": {
         "general": {
-            "provider": "Telindus",
-            "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
-            "type": "Infrastructure",
-            "provider_homepage": "https://www.telindus.lu/"
+            "provider": "Orange Business",
+            "service": "Consulting and digital transformation",
+            "type": "Consulting",
+            "provider_homepage": "orange-business.com"
         },
         "employee": [
             {
-                "provider": "Telindus",
-                "first_name": "G\u00e9rard",
-                "family_name": "Hoffmann",
-                "role": "CEO & Managing Director",
-                "department": "Management",
-                "email_address": "gerard.hoffmann@telindus.be"
+                "provider": "Orange Business",
+                "first_name": "Aliette",
+                "family_name": "Mousnier-Lompr\u00e9",
+                "role": "Chief Executive Officer",
+                "department": "Executive Management",
+                "email_address": "aliette.mousnier-lompr\u00e9@orange-business.be"
             },
             {
-                "provider": "Telindus",
-                "first_name": "Frank",
-                "family_name": "Weiler",
-                "role": "Engineer",
-                "department": "Networks and Communications Department",
-                "email_address": "frank.weiler@telindus.be"
+                "provider": "Orange Business",
+                "first_name": "Christophe",
+                "family_name": "Eouzan",
+                "role": "Chief Financial Officer and Senior Vice President, Strategy and General Services",
+                "department": "Finance and Strategy",
+                "email_address": "christophe.eouzan@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Franck",
+                "family_name": "Chretien",
+                "role": "Chief Information Officer",
+                "department": "Information Technology",
+                "email_address": "franck.chretien@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Natasha",
+                "family_name": "Pearson",
+                "role": "Chief Marketing and Communications Officer",
+                "department": "Marketing and Communications",
+                "email_address": "natasha.pearson@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Francois",
+                "family_name": "van Praagh",
+                "role": "Chief Transformation Officer",
+                "department": "Transformation",
+                "email_address": "francois.van praagh@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Laurent",
+                "family_name": "Aufils",
+                "role": "Chief People Officer",
+                "department": "Human Resources",
+                "email_address": "laurent.aufils@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Laurent",
+                "family_name": "Godicheau",
+                "role": "Chief Strategy, Partner & Sustainability Officer, Member of the Executive Management Board",
+                "department": "Strategy and Sustainability",
+                "email_address": "laurent.godicheau@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Val\u00e9rie",
+                "family_name": "Cussac",
+                "role": "Executive Vice President, Smart Mobility Services",
+                "department": "Smart Mobility Services",
+                "email_address": "val\u00e9rie.cussac@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Wassila",
+                "family_name": "Zitoune-Dumontet",
+                "role": "Chief Operating Officer",
+                "department": "Operations",
+                "email_address": "wassila.zitoune-dumontet@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Thierry",
+                "family_name": "Bonhomme",
+                "role": "CEO / President",
+                "department": "Executive",
+                "email_address": "thierry.bonhomme@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Cindy",
+                "family_name": "Owens",
+                "role": "Vendor & Executive Escalation Management - NAM",
+                "department": "Management",
+                "email_address": "cindy.owens@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Dina",
+                "family_name": "Unknown",
+                "role": "Sr. Manager Big Data & CVM Analytics",
+                "department": "Big Data & CVM Analytics",
+                "email_address": "dina.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Christine",
+                "family_name": "Unknown",
+                "role": "Head of Unified Communications Global Operations",
+                "department": "Unified Communications Global Operations",
+                "email_address": "christine.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Anupama",
+                "family_name": "Unknown",
+                "role": "Head Audits & Program Governance",
+                "department": "Audits & Program Governance",
+                "email_address": "anupama.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Nimisha",
+                "family_name": "Unknown",
+                "role": "Senior Project Manager",
+                "department": "Project Management",
+                "email_address": "nimisha.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Dina",
+                "family_name": "Unknown",
+                "role": "Director of IMEAR Region - Network Infrastructure & Access",
+                "department": "Network Infrastructure & Access",
+                "email_address": "dina.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Emmanuel",
+                "family_name": "Unknown",
+                "role": "Data Engineer",
+                "department": "Data Engineering",
+                "email_address": "emmanuel.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Jigyasa",
+                "family_name": "Unknown",
+                "role": "Senior Network and Services Planning Manager",
+                "department": "Network and Services Planning",
+                "email_address": "jigyasa.unknown@orange-business.be"
+            },
+            {
+                "provider": "Orange Business",
+                "first_name": "Reham",
+                "family_name": "Unknown",
+                "role": "Head of Business Operations and Service Transition",
+                "department": "Business Operations and Service Transition",
+                "email_address": "reham.unknown@orange-business.be"
             }
         ],
         "color": {
-            "provider": "Telindus",
-            "color_name_1": "Blue",
-            "hex_code_1": "#0078D4",
+            "provider": "Orange Business",
+            "color_name_1": "Brand orange",
+            "hex_code_1": "#FF7900",
             "rgb_code_1": [
-                0,
-                120,
-                212
+                255,
+                121,
+                0
             ]
         },
         "departments": [
             {
-                "provider": "Telindus",
-                "department": "General",
+                "provider": "Orange Business",
+                "department": "Digital Services",
                 "subdivision": [
-                    "Fixed and Mobile Telecommunications",
-                    "Information and Communication Technology Infrastructures",
-                    "Multi-Cloud",
-                    "Fintech solutions",
-                    "Cybersecurity",
-                    "Managed Services"
+                    "Cloud",
+                    "Customer Experience",
+                    "Digital Workspace",
+                    "Data & AI"
                 ],
-                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-                "phone": "+352 45 09 15 1",
-                "vat": "LU15605033"
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
             },
             {
-                "provider": "Telindus",
-                "department": "Training Institute",
+                "provider": "Orange Business",
+                "department": "Consulting Services",
                 "subdivision": [
-                    "Professional training on Information and Communication Technology best practices and latest technologies"
+                    "Business advisory",
+                    "Business case identification",
+                    "Technology assessment",
+                    "Pilot execution"
                 ],
-                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-                "phone": "+352 45 09 15 1",
-                "vat": "LU15605033"
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
             },
             {
-                "provider": "Telindus",
-                "department": "Telindus CyberSecurity Incident Response Team",
+                "provider": "Orange Business",
+                "department": "Network and Digital Integration",
                 "subdivision": [
-                    "Security architecture design",
-                    "Implementation of security infrastructures and security devices",
-                    "Expertise, engineering, installation, configuration and maintenance of security solutions",
-                    "Maintenance of security solutions",
-                    "Security audits and review of security solutions",
-                    "Logs analysis",
-                    "Vulnerability assessment and evaluation",
-                    "Penetration testing",
-                    "Adversary Simulation",
-                    "Source code review",
-                    "Social engineering",
-                    "Adversary Emulation"
+                    "Connectivity solutions",
+                    "Cloud",
+                    "Cybersecurity"
                 ],
-                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
-                "phone": "+352 45 09 15 1",
-                "vat": "LU15605033"
+                "address": "Avenue du Bourget 3, 1140 Evere, Belgium",
+                "phone": "+33 1 53 90 85 00",
+                "vat": "BE0440232718"
             }
         ]
     }

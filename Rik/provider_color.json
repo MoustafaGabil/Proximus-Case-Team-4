@@ -1,30 +1,39 @@
 [
     {
-        "provider": "Telindus",
-        "color_name_1": "Blue",
-        "hex_code_1": "#0078D4",
+        "provider": "Orange Business",
+        "color_name_1": "Brand orange",
+        "hex_code_1": "#FF7900",
         "rgb_code_1": [
-            0,
-            120,
-            212
+            255,
+            121,
+            0
         ]
     },
     {
-        "color_name_2": "White",
-        "hex_code_2": "#FFFFFF",
+        "color_name_2": "Accessible orange",
+        "hex_code_2": "#F16E00",
         "rgb_code_2": [
-            255,
-            255,
-            255
+            241,
+            110,
+            0
         ]
     },
     {
-        "color_name_3": "Black",
+        "color_name_3": "Core black",
         "hex_code_3": "#000000",
         "rgb_code_3": [
             0,
             0,
             0
+        ]
+    },
+    {
+        "color_name_4": "Core white",
+        "hex_code_4": "#FFFFFF",
+        "rgb_code_4": [
+            255,
+            255,
+            255
         ]
     }
 ]

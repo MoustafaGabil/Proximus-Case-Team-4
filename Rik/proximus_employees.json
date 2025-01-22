@@ -51,91 +51,91 @@
     {
         "first_name": "Renaud",
         "family_name": "Tilmans",
-        "role": "Enterprise Telco Services & Ops Lead",
+        "role": "Customer Operations Lead",
         "department": "Customer Operations",
         "email_address": "renaud.tilmans@proximus.be"
     },
     {
         "first_name": "Jan",
         "family_name": "Van Acoleyen",
-        "role": "Human Capital Lead",
+        "role": "Chief Human Resources Officer",
         "department": "Human Capital",
         "email_address": "jan.vanacoleyen@proximus.be"
     },
     {
         "first_name": "Stefaan",
         "family_name": "De Clerck",
-        "role": "Chairman of the Board",
-        "department": "Board of directors",
+        "role": "Chairman of the Proximus Board",
+        "department": "Board of Directors",
         "email_address": "stefaan.declerck@proximus.be"
     },
     {
         "first_name": "Caroline",
         "family_name": "Basyn",
         "role": "Independent director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "caroline.basyn@proximus.be"
     },
     {
         "first_name": "C\u00e9cile",
         "family_name": "Coune",
         "role": "Independent director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "cecile.coune@proximus.be"
     },
     {
         "first_name": "Karel",
         "family_name": "De Gucht",
-        "role": "Director",
-        "department": "Board of directors",
+        "role": "Director appointed by the Belgian State",
+        "department": "Board of Directors",
         "email_address": "karel.degucht@proximus.be"
     },
     {
         "first_name": "B\u00e9atrice",
         "family_name": "de Mahieu",
-        "role": "Director",
-        "department": "Board of directors",
+        "role": "Director appointed by the Belgian State",
+        "department": "Board of Directors",
         "email_address": "beatrice.demahieu@proximus.be"
     },
     {
         "first_name": "Martin",
         "family_name": "De Prycker",
         "role": "Independent director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "martin.deprycker@proximus.be"
     },
     {
         "first_name": "Audrey",
         "family_name": "Hanard",
-        "role": "Director",
-        "department": "Board of directors",
+        "role": "Director appointed by the Belgian State",
+        "department": "Board of Directors",
         "email_address": "audrey.hanard@proximus.be"
     },
     {
         "first_name": "Ibrahim",
         "family_name": "Ouassari",
         "role": "Director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "ibrahim.ouassari@proximus.be"
     },
     {
         "first_name": "Catherine",
         "family_name": "Rutten",
         "role": "Independent director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "catherine.rutten@proximus.be"
     },
     {
         "first_name": "Joachim",
         "family_name": "Sonne",
         "role": "Independent director",
-        "department": "Board of directors",
+        "department": "Board of Directors",
         "email_address": "joachim.sonne@proximus.be"
     },
     {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate",
+        "role": "Managing Director Proximus Real Estate - Connectimmo",
         "department": "Real Estate",
         "email_address": "karl.cuveele@proximus.be"
     },
@@ -157,7 +157,7 @@
         "first_name": "Geert",
         "family_name": "Kelchtermans",
         "role": "VP Small & Medium Enterprises - Tribe Lead",
-        "department": "Sales",
+        "department": "Small & Medium Enterprises",
         "email_address": "geert.kelchtermans@proximus.be"
     },
     {
@@ -178,7 +178,7 @@
         "first_name": "Thomas",
         "family_name": "Vanherk",
         "role": "Team Lead ICT Pricing & Costing",
-        "department": "ICT",
+        "department": "ICT Pricing & Costing",
         "email_address": "thomas.vanherk@proximus.be"
     },
     {
