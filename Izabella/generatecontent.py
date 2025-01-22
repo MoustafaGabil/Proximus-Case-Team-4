@@ -1,4 +1,3 @@
-# Updated generatecontent.py
 import os
 import json
 import re
@@ -123,16 +122,6 @@ class GenerateContent:
     def generate_prompt(self, template, schema, company_name):
         """Helper to generate prompt based on template."""
         return template.format(company_name=company_name, schema=json.dumps(schema))
-
-    def generate_main_report(self, company_name):
-        """Create a company main report"""
-        schema = self.config["schemas"]["main_company"]
-        prompt = self.generate_prompt(
-            """Write a report about {company_name}. The report should contain an extensive overview of the most important news facts of the last 2 weeks. Use this JSON schema: {schema} Return: list[main_company_report_items]""",
-            schema,
-            company_name
-        )
-        return self.generate(prompt)
 
     def generate_main_report(self, company_name):
         """Create a company main report"""
@@ -356,7 +345,6 @@ class ProviderManager:
                 JSONHandler.save_json_from_string(report, output_path)
                 print(f"Main colors report saved to {output_path}")
 
-            
                 # Generating a report on the providers departments
                 print(f"Generating a report on the providers departments: {provider_name}")
                 report = self.generate_departments_provider(provider_name, company_name)
