@@ -1,170 +1,50 @@
 [
     {
-        "provider": "Tech Mahindra",
-        "service": "Design and build a technology platform called 'Tech Hub'",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.techmahindra.com/"
+        "provider": "Fiberklaar",
+        "service": "Design, build, maintain, and upgrade the fiber network in Flanders",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.fiberklaar.be/"
     },
     {
-        "provider": "Comviva",
-        "service": "Provides the BlueMarble platform for the 'Tech Hub'",
-        "type": "Technology Service Provider",
+        "provider": "Unifiber",
+        "service": "Roll-out of the fiber network in Wallonia",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.unifiber.be/"
+    },
+    {
+        "provider": "Glasfaser Ostbelgien (GO Fiber)",
+        "service": "Fiber network deployment in the German-speaking Community of Belgium",
+        "type": "Infrastructure",
         "provider_homepage": null
     },
     {
-        "provider": "BICS",
-        "service": "International communications enabler, global voice carrier, and provider of mobile data services",
-        "type": "Telecommunications",
-        "provider_homepage": "https://www.bics.com/"
-    },
-    {
-        "provider": "Telesign",
-        "service": "Specializes in communication platforms and digital identity",
-        "type": "Telecommunications",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Be-Mobile",
-        "service": "Smart mobility solutions",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "ClearMedia",
-        "service": "Cloud, cybersecurity, and digital workplace solutions",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Codit",
-        "service": "Microsoft Azure cloud solutions",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Davinsi Labs",
-        "service": "Cybersecurity and operational intelligence",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Proximus Spearit",
-        "service": "IT partner",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
+        "provider": "Constructel Belgium",
+        "service": "Installation of optical fiber",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.constructelvisabeira.com/"
     },
     {
         "provider": "Telindus",
-        "service": "Telecommunication services, ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, managed services and training services",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
+        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.telindus.lu/"
+    },
+    {
+        "provider": "H. Essers",
+        "service": "Logistics and delivery services",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.essers.com/"
     },
     {
         "provider": "Nokia",
-        "service": "Vendor partnership",
-        "type": "Technology Service Provider",
+        "service": "Vendor partnership for network infrastructure",
+        "type": "Infrastructure",
         "provider_homepage": "https://www.nokia.com/"
     },
     {
         "provider": "Ericsson",
-        "service": "Vendor partnership",
-        "type": "Technology Service Provider",
+        "service": "Vendor partnership for network infrastructure",
+        "type": "Infrastructure",
         "provider_homepage": "https://www.ericsson.com/"
-    },
-    {
-        "provider": "Unifiber",
-        "service": "Vendor partnership",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Infosys",
-        "service": "Vendor partnership",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.infosys.com/"
-    },
-    {
-        "provider": "Citymesh",
-        "service": "B2B telecom operator specializing in wireless networks",
-        "type": "Telecommunications",
-        "provider_homepage": "https://www.citymesh.com/"
-    },
-    {
-        "provider": "Destiny",
-        "service": "Secure cloud communication solutions",
-        "type": "Telecommunications",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Sewan",
-        "service": "International telecom carrier offering fixed and mobile voice, cloud services, and internet access",
-        "type": "Telecommunications",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Belcenter",
-        "service": "B2B telco player operating an IP based network",
-        "type": "Telecommunications",
-        "provider_homepage": "https://www.belcenter.be/"
-    },
-    {
-        "provider": "Colt Technology Services",
-        "service": "Global digital infrastructure company offering digital connectivity",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.colt.net/"
-    },
-    {
-        "provider": "Comsave",
-        "service": "E-commerce platform for internet and last-mile access services",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Scarlet",
-        "service": "Subsidiary company using Proximus' infrastructure for services",
-        "type": "Telecommunications",
-        "provider_homepage": "https://www.scarlet.be/"
-    },
-    {
-        "provider": "Telenet",
-        "service": "Provider of converged connected entertainment and business solutions",
-        "type": "Telecommunications",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Yoin",
-        "service": "Independent telecom provider specializing in mobile and internet",
-        "type": "Telecommunications",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Broadcom",
-        "service": "Provides cloud services",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.broadcom.com/"
-    },
-    {
-        "provider": "Clerk Chat",
-        "service": "Streamlines customer communication through real-time messaging",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://clerk.chat/"
-    },
-    {
-        "provider": "VMware",
-        "service": "Provides Hosted Private Cloud services",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "MySQL AB",
-        "service": "Technology partner",
-        "type": "Technology Service Provider",
-        "provider_homepage": null
-    },
-    {
-        "provider": "AUSY BELGIUM / Data Flow",
-        "service": "Datacenter Operations, Troubleshooting, customer support & maintenance",
-        "type": "Contractor",
-        "provider_homepage": null
     }
 ]

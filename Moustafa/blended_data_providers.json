@@ -1,127 +1,95 @@
 {
-    "RSCA Mobile": {
+    "Clerk Chat": {
         "general": {
-            "provider": "RSCA Mobile",
-            "service": "Mobile virtual network operator",
-            "type": "MVNO",
-            "provider_homepage": null
+            "provider": "Clerk Chat",
+            "service": "Streamlines customer communication through real-time messaging",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://clerk.chat/"
         },
         "employee": [
             {
-                "provider": "RSCA Mobile",
-                "first_name": "David",
-                "family_name": "Hubert",
-                "role": "Manager",
-                "department": "Coaching Staff",
-                "email_address": "david.hubert@rscamobile.be"
+                "provider": "Clerk Chat",
+                "first_name": "Alexander",
+                "family_name": "Haque",
+                "role": "co-founder and CEO",
+                "department": "Executive",
+                "email_address": "alexander.haque@clerk.chat.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Roel",
-                "family_name": "Cl\u00e9ment",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "roel.cl\u00e9ment@rscamobile.be"
+                "provider": "Clerk Chat",
+                "first_name": "Igor",
+                "family_name": "Boshoer",
+                "role": "co-founder and CTO",
+                "department": "Executive",
+                "email_address": "igor.boshoer@clerk.chat.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Jan",
-                "family_name": "Michaelsen",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "jan.michaelsen@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Jonathan",
-                "family_name": "Alves",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "jonathan.alves@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Justin",
-                "family_name": "Merz",
-                "role": "Goalkeeping Coach",
-                "department": "Coaching Staff",
-                "email_address": "justin.merz@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Olivier",
-                "family_name": "Renard",
-                "role": "Sporting Director",
-                "department": "Management",
-                "email_address": "olivier.renard@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Marc",
-                "family_name": "Coucke",
-                "role": "Owner",
-                "department": "Board of Directors",
-                "email_address": "marc.coucke@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Roger",
-                "family_name": "Vanden Stock",
-                "role": "Honorary President",
-                "department": "Board of Directors",
-                "email_address": "roger.vandenstock@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Jasper",
-                "family_name": "Wouters",
-                "role": "Scout",
-                "department": "Scouting",
-                "email_address": "jasper.wouters@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Luc",
-                "family_name": "Vanden Bossche",
-                "role": "Head of Medical",
-                "department": "Medical department",
-                "email_address": "luc.vandenbossche@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Henk",
-                "family_name": "Mariman",
-                "role": "Academy Manager",
-                "department": "Youth",
-                "email_address": "henk.mariman@rscamobile.be"
+                "provider": "Clerk Chat",
+                "first_name": "Ximena",
+                "family_name": "De Spain",
+                "role": "Employee",
+                "department": "General",
+                "email_address": "ximena.despain@clerk.chat.be"
             }
         ],
         "color": {
-            "provider": "RSCA Mobile",
+            "provider": "Clerk Chat",
             "color_name_1": "Purple",
-            "hex_code_1": null,
-            "rgb_code_1": null
+            "hex_code_1": "#8a0eef",
+            "rgb_code_1": [
+                138,
+                14,
+                239
+            ]
         },
         "departments": [
             {
-                "provider": "RSCA Mobile",
-                "department": "Mobile Application",
+                "provider": "Clerk Chat",
+                "department": "Executive Leadership",
                 "subdivision": [
-                    "Ticket Management",
-                    "Membership Management",
-                    "Season Ticket Management",
-                    "Match Highlights",
-                    "RSCA Futures Content",
-                    "RSCA Women Content",
-                    "Social Media Content",
-                    "Match Statistics",
-                    "Live Updates",
-                    "Mauve TV Integration",
-                    "Quizzes",
-                    "Polls",
-                    "Online Shop"
+                    "Board of Directors"
                 ],
-                "address": "Royal Sporting Club Anderlecht, Theo Verbeecklaan 2, B-1070 Brussels"
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Engineering",
+                "subdivision": [
+                    "Frontend Engineering",
+                    "Backend Engineering",
+                    "Machine Learning Engineering"
+                ],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Product",
+                "subdivision": [
+                    "Product Management"
+                ],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Sales",
+                "subdivision": [],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
+            },
+            {
+                "provider": "Clerk Chat",
+                "department": "Support",
+                "subdivision": [],
+                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
+                "phone": null,
+                "vat": null
             }
         ]
     }

@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Belangrijke contractbreukmelding met betrekking tot Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een kritiek probleem aan het licht gekomen met betrekking tot de contractuele overeenkomst tussen Proximus en Clerk Chat, specifiek op het gebied van data-analyse. De details van deze schending zijn gedocumenteerd in het bijgevoegde document. Het is van cruciaal belang dat u dit onmiddellijk onderzoekt.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Critical_Network_Outage_Impact_on_Proximus_Operations",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I am writing to you today with an urgent update regarding the recent network outages that have been impacting Proximus's operations. As CEO, I understand the critical nature of these disruptions and their potential impact on our overall business performance and reputation. Our team at Telindus is working tirelessly to resolve this issue, focusing on the IT infrastructure that supports your crucial services. We've identified some key areas for immediate improvement and believe that the measures outlined below will help mitigate future incidents. It's imperative that we address these issues promptly to maintain the stability of your network. Please review the detailed action plan and our recommendations in the document available at the link provided below, we believe it is crucial that you take action as soon as possible. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Review Now"
     },
     {
-        "subject": "Onmiddellijke actie vereist: Contractbreuk in Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een ernstige contractbreuk vastgesteld die uw aandacht vereist. Dit heeft directe gevolgen voor onze data-analyse processen. We vragen u dringend het bijgevoegde document te bekijken voor alle details en de volgende stappen. \n\nHoogachtend,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Urgent_Action_Required_Network_Stability_Report",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "Following the recent network instability issues, I'm reaching out to provide you with a comprehensive report detailing the causes and our recommended solutions. We understand the urgency of this matter and how critical it is for Proximus\u2019s operations. Our analysis indicates several key vulnerabilities that must be addressed to prevent further disruptions. As CEO, your focus on ensuring a stable operational environment is essential, and this report provides the necessary steps to achieve that goal. We urge you to review the document carefully, available at the link below, as your immediate attention to these recommendations is vital for our next steps. Let's work together to strengthen the infrastructure and ensure uninterrupted service for Proximus. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "View Report"
     },
     {
-        "subject": "Data Analyse Contractbreuk: Uw onmiddellijke aandacht is vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een contractbreuk met betrekking tot data-analyse ontdekt. Het document dat hieronder is bijgevoegd, bevat alle details. We vragen u dit zo snel mogelijk te bekijken.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Immediate_Attention_Network_Outage_Resolution_Plan",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I am contacting you directly to discuss the ongoing network outages that are affecting Proximus. As you are aware, these outages have considerable implications for our services and your customer experience. As CEO of Telindus, I assure you that we are treating this matter with the utmost urgency. Our team has developed a resolution plan, which requires immediate attention to ensure we get back on track. The details of our proposed strategy are outlined in the attached document. Please take some time to review the plan. We need your prompt approval so we can implement the necessary changes as soon as possible. This is critical to maintaining Proximus's reliability. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Check Details"
     }
 ]

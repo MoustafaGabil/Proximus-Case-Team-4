@@ -1,50 +1,48 @@
 [
     {
-        "provider": "Clerk Chat",
-        "department": "Executive Leadership",
+        "provider": "Telindus",
+        "department": "General",
         "subdivision": [
-            "Board of Directors"
+            "Fixed and Mobile Telecommunications",
+            "Information and Communication Technology Infrastructures",
+            "Multi-Cloud",
+            "Fintech solutions",
+            "Cybersecurity",
+            "Managed Services"
         ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
     },
     {
-        "provider": "Clerk Chat",
-        "department": "Engineering",
+        "provider": "Telindus",
+        "department": "Training Institute",
         "subdivision": [
-            "Frontend Engineering",
-            "Backend Engineering",
-            "Machine Learning Engineering"
+            "Professional training on Information and Communication Technology best practices and latest technologies"
         ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
     },
     {
-        "provider": "Clerk Chat",
-        "department": "Product",
+        "provider": "Telindus",
+        "department": "Telindus CyberSecurity Incident Response Team",
         "subdivision": [
-            "Product Management"
+            "Security architecture design",
+            "Implementation of security infrastructures and security devices",
+            "Expertise, engineering, installation, configuration and maintenance of security solutions",
+            "Maintenance of security solutions",
+            "Security audits and review of security solutions",
+            "Logs analysis",
+            "Vulnerability assessment and evaluation",
+            "Penetration testing",
+            "Adversary Simulation",
+            "Source code review",
+            "Social engineering",
+            "Adversary Emulation"
         ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Sales",
-        "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Support",
-        "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
     }
 ]

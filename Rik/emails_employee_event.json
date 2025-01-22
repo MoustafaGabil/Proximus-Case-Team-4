@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Exclusieve Uitnodiging: Clerk Chat Data Analyse Conferentie",
-        "body": "Geachte Mevrouw Declercq,\n\nNamens Clerk Chat nodigen we u van harte uit voor onze aankomende conferentie, specifiek gericht op data-analisten. Deze unieke gelegenheid biedt diepgaande inzichten in de nieuwste trends en technieken op het gebied van data-analyse binnen de context van real-time communicatie. \n\nWe hebben een reeks van boeiende presentaties en workshops samengesteld, ontworpen om uw vaardigheden te verrijken en uw perspectief te verbreden. Gezien de exclusiviteit van het evenement en de beperkte beschikbaarheid van plaatsen, raden we u aan om onmiddellijk actie te ondernemen en uw plek te reserveren via de onderstaande link. We kijken ernaar uit u daar te verwelkomen.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Amelia Chen",
-        "email_sign_role": "Product Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Exclusive Invitation: Industry Roundtables for CEOs",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope this email finds you well.\n\nAs a key leader at Proximus, your insights are invaluable, and we at Telindus would be honored to have you join our upcoming Industry Roundtables event, specifically curated for Chief Executive Officers.\n\nThis is an exclusive opportunity to engage with peers, discuss the latest trends, and share perspectives on the evolving landscape of IT infrastructure. We'll be focusing on strategic topics crucial to driving innovation and growth within our respective sectors.\n\nDue to the limited seating for this event, we encourage you to secure your spot as soon as possible via the link below. This is a unique opportunity, and we anticipate high demand.",
+        "email_sign_fullname": "Gilles Walens",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Secure Spot"
     },
     {
-        "subject": "Belangrijke Uitnodiging: Data Conferentie van Clerk Chat",
-        "body": "Geachte Mevrouw Declercq,\n\nWe zijn verheugd om u uit te nodigen voor onze aankomende conferentie gericht op data-analyse, georganiseerd door Clerk Chat. Deze conferentie is speciaal ontworpen voor data-analisten zoals u, met een focus op de laatste ontwikkelingen in data-gedreven communicatie.\n\nDeze exclusieve conferentie biedt een unieke kans om te netwerken met experts en collega's, en om praktische kennis op te doen die direct toepasbaar is in uw werk. De beschikbare plaatsen zijn beperkt, dus we vragen u vriendelijk om uw interesse kenbaar te maken door op de link hieronder te klikken om u te registreren. Uw snelle actie is essentieel om een plaats te garanderen.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "John Smith",
-        "email_sign_role": "Sales Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "CEO Roundtable: Strategic Insights for IT Infrastructure",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I trust you're having a productive week.\n\nI'm reaching out from Telindus with a special invitation to our Industry Roundtables event, designed exclusively for CEOs like yourself. This is not just another industry gathering; it's a focused discussion platform where we'll be delving into the key challenges and opportunities facing leaders in IT infrastructure.\n\nYour participation would greatly enrich the conversation as we collectively explore strategic solutions and innovative approaches. Given the limited capacity, we kindly request you to register your interest promptly via the link provided below to avoid missing out on this unique opportunity.\n\nWe look forward to your participation.",
+        "email_sign_fullname": "Gilles Walens",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Register Now"
     },
     {
-        "subject": "Niet te Missen: Clerk Chat Conferentie voor Data Analisten",
-        "body": "Geachte Mevrouw Declercq,\n\nWe hebben het genoegen om u uit te nodigen voor de exclusieve conferentie van Clerk Chat, speciaal gericht op data-analisten. Deze conferentie is ontworpen om u de nieuwste inzichten en strategie\u00ebn te bieden op het gebied van data-analyse in real-time communicatie.\n\nDeze conferentie biedt een unieke kans om te leren van experts, te netwerken met collega's, en waardevolle kennis op te doen die direct van toepassing is op uw werk. Het aantal plaatsen is beperkt, dus we moedigen u aan om snel te handelen en uzelf te registreren via de link die hieronder is geplaatst. We hopen u daar te zien.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Emily Johnson",
-        "email_sign_role": "Support Specialist",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Don't Miss Out: CEO Industry Roundtables on IT Infrastructure",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope this email finds you in good spirits.\n\nI'm excited to share an exclusive invitation from Telindus for an Industry Roundtables event, tailored specifically for Chief Executive Officers. This event presents a prime opportunity to connect with fellow leaders, exchange ideas, and gain critical insights into the future of IT infrastructure.\n\nWe are confident that your expertise and perspectives would significantly contribute to the high-level discussions. Given the limited availability, we urge you to confirm your attendance by clicking the link below as soon as possible.\n\nWe look forward to your presence and valuable contribution.",
+        "email_sign_fullname": "Gilles Walens",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Join Us"
     }
 ]

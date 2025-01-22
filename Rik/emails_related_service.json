@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Dringend: Analyse van Clerk Chat-gegevens vereist onmiddellijke actie",
-        "body": "Geachte mevrouw Declercq,\n\nUit recente analyses is gebleken dat er een kritieke discrepantie is in de datastromen van Clerk Chat, onze real-time messaging service. Dit heeft directe gevolgen voor onze klantcommunicatie en kan leiden tot een vertekend beeld van de interacties met onze klanten. De nauwkeurigheid van de rapporten die hierdoor gegenereerd worden, wordt ernstig in twijfel getrokken.\n\nUw expertise als Data Analyst is nu cruciaal. Wij vragen u om zo spoedig mogelijk de bijgevoegde dataset te analyseren en de oorzaak van deze afwijkingen te achterhalen. De resultaten van deze analyse zijn van groot belang voor onze operationele besluitvorming. \n\nWe rekenen op uw snelle actie.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Jane Doe",
-        "email_sign_role": "Product Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Urgent_Action_Required_Proximus_Infrastructure_Security",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope this email finds you well. I'm reaching out to you today with an urgent matter concerning our IT infrastructure security. We've detected a potential vulnerability in one of our critical systems that requires immediate attention. This vulnerability could expose sensitive data and disrupt our services if not addressed swiftly. To mitigate any risks we have prepared a document outlining the issue and the recommended next steps, please find the document below. Your prompt action is crucial to ensure the integrity and security of our systems.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "View Now"
     },
     {
-        "subject": "Kritieke data-afwijking in Clerk Chat: Onmiddellijke analyse vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben zojuist een significante data-afwijking ontdekt in de rapportages van Clerk Chat. Deze afwijking be\u00efnvloedt direct de nauwkeurigheid van onze klantcommunicatiegegevens, wat potentieel leidt tot onjuiste conclusies en beslissingen. Het is essentieel dat dit probleem onmiddellijk wordt aangepakt om verdere onnauwkeurigheden te voorkomen.\n\nWij verzoeken u om direct de bijgevoegde data-export te onderzoeken. Uw analyse van de onderliggende oorzaken is van het grootste belang voor ons. Uw snelle reactie is nu cruciaal om de data-integriteit te herstellen.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "John Smith",
-        "email_sign_role": "Backend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Critical_System_Alert_Immediate_Review_Needed",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I trust this email reaches you in good health. We have identified a critical issue with one of our core infrastructure components that requires your immediate attention. This issue has the potential to severely impact our operational efficiency and data availability. We have attached a report detailing the technical findings and proposed solutions. Please review the report without delay to help us minimize the impact of this event. Your immediate engagement is vital for our team to quickly resolve the situation and ensure business continuity.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Check Now"
     },
     {
-        "subject": "Dringende data-analyse: Problemen met Clerk Chat rapportage",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een urgent probleem met de datanauwkeurigheid in de rapportage van Clerk Chat vastgesteld. Deze onnauwkeurigheden kunnen van invloed zijn op de klanttevredenheid en onze operationele effici\u00ebntie. We hebben onmiddellijk uw expertise nodig om dit probleem op te lossen.\n\nWij vragen u vriendelijk doch dringend om de bijgevoegde data te analyseren. Uw inzicht is essentieel om de oorzaak te identificeren en ons te helpen dit zo snel mogelijk te corrigeren. Een spoedige reactie wordt ten zeerste op prijs gesteld.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Alice Brown",
-        "email_sign_role": "Frontend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "High_Priority_Network_Infrastructure_Issue",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope you are doing well. We are facing a high priority issue that needs your urgent attention. It concerns our network infrastructure. This issue is not only affecting performance, but also carries a potential risk for data security. To understand the issue we have put together a detailed analysis and our plan to remediate. The document is attached below for your review. Immediate action is required to prevent further complications and maintain our operational standards.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Act Now"
     }
 ]

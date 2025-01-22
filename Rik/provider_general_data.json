@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Clerk Chat",
-        "service": "Streamlines customer communication through real-time messaging",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://clerk.chat/"
+        "provider": "Telindus",
+        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.telindus.lu/"
     }
 ]
