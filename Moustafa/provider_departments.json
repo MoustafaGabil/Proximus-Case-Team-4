@@ -1,0 +1,95 @@
+[
+    {
+        "provider": "BICS",
+        "department": "Executive Management",
+        "subdivision": [
+            "Chief Executive Officer",
+            "Chief Financial Officer",
+            "Chief Strategy & Business Development Officer"
+        ],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Finance",
+        "subdivision": [
+            "Finance Transformation",
+            "Revenue Enterprise Sales",
+            "Revenue Telco Sales"
+        ],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Technology and Information",
+        "subdivision": [
+            "Architecture & IT Solution Development",
+            "Architecture & Solution Development"
+        ],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Customer Service Operations",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Legal Affairs",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Regional Operations",
+        "subdivision": [
+            "Middle East & Africa"
+        ],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Business Operations",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Enterprise Business & Market Development",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Human Resources & Transformation",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    },
+    {
+        "provider": "BICS",
+        "department": "Products & Solutions",
+        "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 547 52 10",
+        "vat": "BE 0866 977 981"
+    }
+]
