@@ -1,0 +1,17 @@
+[
+    {
+        "email_subject": "Invitation to Proximus Panel Discussions for System Administrators",
+        "email_body": "Dear Mr. Mehta,\n\nProximus is pleased to invite you to an exclusive panel discussion event tailored specifically for System Administrators. This event will feature industry experts discussing the latest trends, challenges, and solutions in IT infrastructure.\n\nGiven the limited spots available, we encourage you to register as soon as possible. Please find the registration link below.\n\nSincerely,\n\nJohn Doe\nIT Solutions Manager\nProximus",
+        "email_recipient": "Jai Mehta"
+    },
+    {
+        "email_subject": "Proximus Panel Discussions: System Administrator Event",
+        "email_body": "Dear Mr. Mehta,\n\nWe are excited to announce an upcoming panel discussion event hosted by Proximus, designed for System Administrators like yourself. This is a unique opportunity to engage with thought leaders and peers in the field.\n\nDue to limited seating, we recommend prompt registration. The registration link is provided below.\n\nBest regards,\n\nJohn Doe\nIT Solutions Manager\nProximus",
+        "email_recipient": "Jai Mehta"
+    },
+    {
+        "email_subject": "Exclusive Panel Discussions for System Administrators by Proximus",
+        "email_body": "Dear Mr. Mehta,\n\nProximus cordially invites you to attend our upcoming panel discussions, specifically curated for System Administrators. This event will provide valuable insights and networking opportunities within the IT infrastructure domain.\n\nSpaces are limited, so we advise you to register without delay. The registration link is available below.\n\nKind regards,\n\nJohn Doe\nIT Solutions Manager\nProximus",
+        "email_recipient": "Jai Mehta"
+    }
+]
