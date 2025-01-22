@@ -30,78 +30,67 @@
     ],
     "departments": [
         {
-            "department": "CEO's Department",
+            "department": "Chief Executive Officer's Department",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Consumer Market",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Enterprise Market",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Corporate Affairs",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
-            "department": "Network & Wholesale",
+            "department": "Network and Wholesale",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Customer Operations",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Human Capital",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
-            "department": "Digital & IT",
+            "department": "Digital and Information Technology",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         },
         {
             "department": "Finance",
             "subdivision": [],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
-        },
-        {
-            "department": "Proximus Global",
-            "subdivision": [
-                "BICS",
-                "Telesign",
-                "Route Mobile"
-            ],
-            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 205 40 00",
-            "vat": "BE 0202239951"
+            "address": "Boulevard du Roi Albert II 27, 1030 Schaerbeek, Belgium",
+            "phone": "+32 2 202 8241",
+            "vat": "BE0202239951"
         }
     ],
     "employees": [
@@ -111,76 +100,6 @@
             "role": "Chief Executive Officer",
             "department": "CEO's department",
             "email_address": "guillaume.boutin@proximus.be"
-        },
-        {
-            "first_name": "Stefaan",
-            "family_name": "De Clerck",
-            "role": "Chairman of the Board",
-            "department": "Board of Directors",
-            "email_address": "stefaan.declerck@proximus.be"
-        },
-        {
-            "first_name": "Caroline",
-            "family_name": "Basyn",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "caroline.basyn@proximus.be"
-        },
-        {
-            "first_name": "C\u00e9cile",
-            "family_name": "Coune",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "cecile.coune@proximus.be"
-        },
-        {
-            "first_name": "Karel",
-            "family_name": "De Gucht",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "karel.degucht@proximus.be"
-        },
-        {
-            "first_name": "B\u00e9atrice",
-            "family_name": "de Mahieu",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "beatrice.demahieu@proximus.be"
-        },
-        {
-            "first_name": "Martin",
-            "family_name": "De Prycker",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "martin.deprycker@proximus.be"
-        },
-        {
-            "first_name": "Audrey",
-            "family_name": "Hanard",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "audrey.hanard@proximus.be"
-        },
-        {
-            "first_name": "Ibrahim",
-            "family_name": "Ouassari",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "ibrahim.ouassari@proximus.be"
-        },
-        {
-            "first_name": "Catherine",
-            "family_name": "Rutten",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "catherine.rutten@proximus.be"
-        },
-        {
-            "first_name": "Joachim",
-            "family_name": "Sonne",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "joachim.sonne@proximus.be"
         },
         {
             "first_name": "Ben",
@@ -227,21 +146,91 @@
         {
             "first_name": "Renaud",
             "family_name": "Tilmans",
-            "role": "Customer Operations Lead",
+            "role": "Enterprise Telco Services & Ops Lead",
             "department": "Customer Operations",
             "email_address": "renaud.tilmans@proximus.be"
         },
         {
             "first_name": "Jan",
             "family_name": "Van Acoleyen",
-            "role": "Chief Human Resources Officer",
+            "role": "Human Capital Lead",
             "department": "Human Capital",
             "email_address": "jan.vanacoleyen@proximus.be"
         },
         {
+            "first_name": "Stefaan",
+            "family_name": "De Clerck",
+            "role": "Chairman of the Board",
+            "department": "Board of directors",
+            "email_address": "stefaan.declerck@proximus.be"
+        },
+        {
+            "first_name": "Caroline",
+            "family_name": "Basyn",
+            "role": "Independent director",
+            "department": "Board of directors",
+            "email_address": "caroline.basyn@proximus.be"
+        },
+        {
+            "first_name": "C\u00e9cile",
+            "family_name": "Coune",
+            "role": "Independent director",
+            "department": "Board of directors",
+            "email_address": "cecile.coune@proximus.be"
+        },
+        {
+            "first_name": "Karel",
+            "family_name": "De Gucht",
+            "role": "Director",
+            "department": "Board of directors",
+            "email_address": "karel.degucht@proximus.be"
+        },
+        {
+            "first_name": "B\u00e9atrice",
+            "family_name": "de Mahieu",
+            "role": "Director",
+            "department": "Board of directors",
+            "email_address": "beatrice.demahieu@proximus.be"
+        },
+        {
+            "first_name": "Martin",
+            "family_name": "De Prycker",
+            "role": "Independent director",
+            "department": "Board of directors",
+            "email_address": "martin.deprycker@proximus.be"
+        },
+        {
+            "first_name": "Audrey",
+            "family_name": "Hanard",
+            "role": "Director",
+            "department": "Board of directors",
+            "email_address": "audrey.hanard@proximus.be"
+        },
+        {
+            "first_name": "Ibrahim",
+            "family_name": "Ouassari",
+            "role": "Director",
+            "department": "Board of directors",
+            "email_address": "ibrahim.ouassari@proximus.be"
+        },
+        {
+            "first_name": "Catherine",
+            "family_name": "Rutten",
+            "role": "Independent director",
+            "department": "Board of directors",
+            "email_address": "catherine.rutten@proximus.be"
+        },
+        {
+            "first_name": "Joachim",
+            "family_name": "Sonne",
+            "role": "Independent director",
+            "department": "Board of directors",
+            "email_address": "joachim.sonne@proximus.be"
+        },
+        {
             "first_name": "Karl",
             "family_name": "Cuveele",
-            "role": "Managing Director Proximus Real Estate - Connectimmo",
+            "role": "Managing Director Proximus Real Estate",
             "department": "Real Estate",
             "email_address": "karl.cuveele@proximus.be"
         },
@@ -263,7 +252,7 @@
             "first_name": "Geert",
             "family_name": "Kelchtermans",
             "role": "VP Small & Medium Enterprises - Tribe Lead",
-            "department": "Small & Medium Enterprises",
+            "department": "Sales",
             "email_address": "geert.kelchtermans@proximus.be"
         },
         {
@@ -284,7 +273,7 @@
             "first_name": "Thomas",
             "family_name": "Vanherk",
             "role": "Team Lead ICT Pricing & Costing",
-            "department": "ICT Pricing & Costing",
+            "department": "ICT",
             "email_address": "thomas.vanherk@proximus.be"
         },
         {
@@ -326,101 +315,83 @@
     "news": [
         {
             "subject": "Proximus to Negotiate New HQ Building with Nextensa",
-            "overview": "Proximus has entered into exclusive negotiations with Nextensa for the sale of its current headquarters in Brussels and the potential development of a new office at the Tour & Taxis site. This move comes after a previous deal with Immobel fell through. Proximus aims to reduce its office space due to increased remote work and will use the sale proceeds to fund its fiber optic network rollout. The company anticipates finalizing the agreement in Q2 2025, with a move to the new location expected in the first half of 2027.",
-            "source": "Telecompaper, tipranks.com, BX1"
+            "overview": "Proximus has entered into exclusive negotiations with Nextensa for the sale of its current headquarters in Brussels and the potential development of a new office at the Tour & Taxis site. This move comes after a previous deal with Immobel fell through. Proximus aims to reduce its office space due to increased remote work and will use the sale proceeds to fund its fiber rollout. The company anticipates moving to the new location in the first half of 2027, with the new offices ready by the first half of 2029. An agreement is expected in Q2 of 2025.",
+            "source": "Telecompaper, TipRanks, BRUZZ"
+        },
+        {
+            "subject": "Proximus Extends Maturity of EUR 700 Million Revolving Credit Facility",
+            "overview": "Proximus has successfully refinanced its EUR 700 million revolving credit facility with a group of Belgian and international banks. The renewed facility has a 5-year term with two 1-year extension options and will serve as a liquidity reserve. The credit margin is linked to the achievement of ESG targets, which will be agreed by the end of 2025.",
+            "source": "marketscreener.com"
+        },
+        {
+            "subject": "Scarlet Offers More Data at Same Price",
+            "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices, starting in 2025.",
+            "source": "proximus.com"
         },
         {
             "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-            "overview": "Proximus and Sagemcom are exploring sustainable transportation methods by testing the use of a cargo sailboat in their supply chain. This initiative highlights Proximus' commitment to environmental responsibility.",
+            "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain, demonstrating a commitment to sustainable practices.",
             "source": "proximus.com"
         },
         {
             "subject": "Proximus Creates Proximus Global",
-            "overview": "Proximus has consolidated its international activities under a new entity called Proximus Global. This division includes BICS, Telesign, and Route Mobile, and is valued at approximately \u20ac3.1 billion. This move aims to strengthen Proximus' position as a global digital communications leader.",
-            "source": "proximus.com, lightreading.com"
+            "overview": "Proximus has created Proximus Global, an entity that consolidates its international activities, including BICS, Telesign, and Route Mobile. This new unit is valued at approximately \u20ac3.1 billion.",
+            "source": "lightreading.com, proximus.com"
         },
         {
-            "subject": "Scarlet Offers More Data at Same Price",
-            "overview": "Scarlet, a brand of Proximus, has increased the data volumes on its mobile plans without raising prices. This new offer is part of Scarlet's strategy to provide more value to its customers.",
+            "subject": "Proximus Fiber Network Receives Recognition",
+            "overview": "Proximus' fiber network has been recognized for its speed and performance by nPerf and Ookla\u00ae, two international institutions specializing in network quality measurement.",
             "source": "proximus.com"
-        },
-        {
-            "subject": "Proximus Fiber Network Recognized for Performance",
-            "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its superior speed and performance compared to competitors. This highlights the company's success in providing high-quality internet services.",
-            "source": "proximus.com"
-        },
-        {
-            "subject": "Proximus Extends Maturity of Revolving Credit Facility",
-            "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This financial move provides the company with continued financial flexibility.",
-            "source": "marketscreener.com"
         }
     ],
     "providers": [
         {
-            "provider": "WPP Group",
-            "service": "Performance marketing of paid advertising",
-            "type": "Advertising and Marketing",
-            "provider_homepage": "www.wpp.com"
+            "provider": "Fiberklaar",
+            "service": "Design, build, maintain, and upgrade the fiber network in Flanders",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.fiberklaar.be/"
         },
         {
-            "provider": "Springbok",
-            "service": "Management of unpaid advertising, direct marketing campaigns (e-mail, push notifications), and delivery of data-driven strategies.",
-            "type": "Digital & Creative Agency",
+            "provider": "Unifiber",
+            "service": "Roll-out of the fiber network in Wallonia",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.unifiber.be/"
+        },
+        {
+            "provider": "Glasfaser Ostbelgien (GO Fiber)",
+            "service": "Fiber network deployment in the German-speaking Community of Belgium",
+            "type": "Infrastructure",
             "provider_homepage": null
         },
         {
-            "provider": "FamousGrey",
-            "service": "Strategic, creative partner and ecosystem leader within the SILK ecosystem.",
-            "type": "Advertising Agency",
-            "provider_homepage": "https://famousgrey.com/"
+            "provider": "Constructel Belgium",
+            "service": "Installation of optical fiber",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.constructelvisabeira.com/"
         },
         {
-            "provider": "Hogarth",
-            "service": "Future-proof production solution within the SILK ecosystem.",
-            "type": "Production Agency",
-            "provider_homepage": null
+            "provider": "Telindus",
+            "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.telindus.lu/"
         },
         {
-            "provider": "Essence Mediacom",
-            "service": "Part of the WPP group, working with Proximus within the SILK ecosystem.",
-            "type": "Media Agency",
-            "provider_homepage": null
+            "provider": "H. Essers",
+            "service": "Logistics and delivery services",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.essers.com/"
         },
         {
-            "provider": "Prophets",
-            "service": "Digital creative agency within the SILK ecosystem.",
-            "type": "Digital Agency",
-            "provider_homepage": null
+            "provider": "Nokia",
+            "service": "Vendor partnership for network infrastructure",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.nokia.com/"
         },
         {
-            "provider": "Altavia Act",
-            "service": "Responsible for points of sale and packaging within the SILK ecosystem.",
-            "type": "Marketing Agency",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Czar",
-            "service": "Advertising agency that created the 'VAN' film for Proximus.",
-            "type": "Advertising Agency",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Coast",
-            "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
-            "type": "Branding Agency",
-            "provider_homepage": "https://coast-agency.com/"
-        },
-        {
-            "provider": "Propaganda",
-            "service": "Communication and consultancy agency that creates stories for brands, including Proximus.",
-            "type": "Communication Agency",
-            "provider_homepage": "https://propaganda.be/"
-        },
-        {
-            "provider": "Strobus InfoSoft",
-            "service": "Provides the Proximus Digital AdBoard APP-on-Cloud for displaying commercials and promotions.",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://strobusinfosoft.com/"
+            "provider": "Ericsson",
+            "service": "Vendor partnership for network infrastructure",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.ericsson.com/"
         }
     ]
 }

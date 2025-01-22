@@ -1,68 +1,50 @@
 [
     {
-        "provider": "WPP Group",
-        "service": "Performance marketing of paid advertising",
-        "type": "Advertising and Marketing",
-        "provider_homepage": "www.wpp.com"
+        "provider": "Fiberklaar",
+        "service": "Design, build, maintain, and upgrade the fiber network in Flanders",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.fiberklaar.be/"
     },
     {
-        "provider": "Springbok",
-        "service": "Management of unpaid advertising, direct marketing campaigns (e-mail, push notifications), and delivery of data-driven strategies.",
-        "type": "Digital & Creative Agency",
+        "provider": "Unifiber",
+        "service": "Roll-out of the fiber network in Wallonia",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.unifiber.be/"
+    },
+    {
+        "provider": "Glasfaser Ostbelgien (GO Fiber)",
+        "service": "Fiber network deployment in the German-speaking Community of Belgium",
+        "type": "Infrastructure",
         "provider_homepage": null
     },
     {
-        "provider": "FamousGrey",
-        "service": "Strategic, creative partner and ecosystem leader within the SILK ecosystem.",
-        "type": "Advertising Agency",
-        "provider_homepage": "https://famousgrey.com/"
+        "provider": "Constructel Belgium",
+        "service": "Installation of optical fiber",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.constructelvisabeira.com/"
     },
     {
-        "provider": "Hogarth",
-        "service": "Future-proof production solution within the SILK ecosystem.",
-        "type": "Production Agency",
-        "provider_homepage": null
+        "provider": "Telindus",
+        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.telindus.lu/"
     },
     {
-        "provider": "Essence Mediacom",
-        "service": "Part of the WPP group, working with Proximus within the SILK ecosystem.",
-        "type": "Media Agency",
-        "provider_homepage": null
+        "provider": "H. Essers",
+        "service": "Logistics and delivery services",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.essers.com/"
     },
     {
-        "provider": "Prophets",
-        "service": "Digital creative agency within the SILK ecosystem.",
-        "type": "Digital Agency",
-        "provider_homepage": null
+        "provider": "Nokia",
+        "service": "Vendor partnership for network infrastructure",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.nokia.com/"
     },
     {
-        "provider": "Altavia Act",
-        "service": "Responsible for points of sale and packaging within the SILK ecosystem.",
-        "type": "Marketing Agency",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Czar",
-        "service": "Advertising agency that created the 'VAN' film for Proximus.",
-        "type": "Advertising Agency",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Coast",
-        "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
-        "type": "Branding Agency",
-        "provider_homepage": "https://coast-agency.com/"
-    },
-    {
-        "provider": "Propaganda",
-        "service": "Communication and consultancy agency that creates stories for brands, including Proximus.",
-        "type": "Communication Agency",
-        "provider_homepage": "https://propaganda.be/"
-    },
-    {
-        "provider": "Strobus InfoSoft",
-        "service": "Provides the Proximus Digital AdBoard APP-on-Cloud for displaying commercials and promotions.",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://strobusinfosoft.com/"
+        "provider": "Ericsson",
+        "service": "Vendor partnership for network infrastructure",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.ericsson.com/"
     }
 ]

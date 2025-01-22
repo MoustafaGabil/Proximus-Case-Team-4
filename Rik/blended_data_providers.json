@@ -1,47 +1,85 @@
 {
-    "Coast": {
+    "Telindus": {
         "general": {
-            "provider": "Coast",
-            "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
-            "type": "Branding Agency",
-            "provider_homepage": "https://coast-agency.com/"
+            "provider": "Telindus",
+            "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+            "type": "Infrastructure",
+            "provider_homepage": "https://www.telindus.lu/"
         },
         "employee": [
             {
-                "provider": "Coast",
-                "first_name": "Phil",
-                "family_name": null,
-                "role": "Client Relations & Operations",
-                "department": null,
-                "email_address": "phil.null@coast-agency.be"
+                "provider": "Telindus",
+                "first_name": "G\u00e9rard",
+                "family_name": "Hoffmann",
+                "role": "CEO & Managing Director",
+                "department": "Management",
+                "email_address": "gerard.hoffmann@telindus.be"
             },
             {
-                "provider": "Coast",
-                "first_name": "Kelsey",
-                "family_name": null,
-                "role": null,
-                "department": null,
-                "email_address": "kelsey.null@coast-agency.be"
+                "provider": "Telindus",
+                "first_name": "Frank",
+                "family_name": "Weiler",
+                "role": "Engineer",
+                "department": "Networks and Communications Department",
+                "email_address": "frank.weiler@telindus.be"
             }
         ],
         "color": {
-            "provider": "Coast",
-            "color_name_1": "Black",
-            "hex_code_1": "#000000",
+            "provider": "Telindus",
+            "color_name_1": "Blue",
+            "hex_code_1": "#0078D4",
             "rgb_code_1": [
                 0,
-                0,
-                0
+                120,
+                212
             ]
         },
         "departments": [
             {
-                "provider": "Coast",
-                "department": "Not available",
-                "subdivision": [],
-                "address": "Not available",
-                "phone": "Not available",
-                "vat": "Not available"
+                "provider": "Telindus",
+                "department": "General",
+                "subdivision": [
+                    "Fixed and Mobile Telecommunications",
+                    "Information and Communication Technology Infrastructures",
+                    "Multi-Cloud",
+                    "Fintech solutions",
+                    "Cybersecurity",
+                    "Managed Services"
+                ],
+                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+                "phone": "+352 45 09 15 1",
+                "vat": "LU15605033"
+            },
+            {
+                "provider": "Telindus",
+                "department": "Training Institute",
+                "subdivision": [
+                    "Professional training on Information and Communication Technology best practices and latest technologies"
+                ],
+                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+                "phone": "+352 45 09 15 1",
+                "vat": "LU15605033"
+            },
+            {
+                "provider": "Telindus",
+                "department": "Telindus CyberSecurity Incident Response Team",
+                "subdivision": [
+                    "Security architecture design",
+                    "Implementation of security infrastructures and security devices",
+                    "Expertise, engineering, installation, configuration and maintenance of security solutions",
+                    "Maintenance of security solutions",
+                    "Security audits and review of security solutions",
+                    "Logs analysis",
+                    "Vulnerability assessment and evaluation",
+                    "Penetration testing",
+                    "Adversary Simulation",
+                    "Source code review",
+                    "Social engineering",
+                    "Adversary Emulation"
+                ],
+                "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+                "phone": "+352 45 09 15 1",
+                "vat": "LU15605033"
             }
         ]
     }

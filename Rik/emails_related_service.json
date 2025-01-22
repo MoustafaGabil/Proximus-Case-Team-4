@@ -1,26 +1,29 @@
 [
     {
-        "subject": "URGENT: Proximus Branding Guidelines Update_ Immediate Action Required",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "Our team has identified a critical discrepancy in the application of the new branding guidelines across Proximus' communication channels. This inconsistency poses a significant risk to brand integrity and customer perception. It is imperative that all departments adhere strictly to the updated guidelines to ensure a unified and professional brand image. Please review the attached document immediately and ensure all your team are aligned. Your prompt attention to this matter is vital to avoid further brand dilution.",
-        "email_sign_fullname": "Jonas De Wilde",
-        "email_sign_role": "Creative Director",
-        "email_sign_company": "Coast"
+        "subject": "Urgent_Action_Required_Proximus_Infrastructure_Security",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope this email finds you well. I'm reaching out to you today with an urgent matter concerning our IT infrastructure security. We've detected a potential vulnerability in one of our critical systems that requires immediate attention. This vulnerability could expose sensitive data and disrupt our services if not addressed swiftly. To mitigate any risks we have prepared a document outlining the issue and the recommended next steps, please find the document below. Your prompt action is crucial to ensure the integrity and security of our systems.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "View Now"
     },
     {
-        "subject": "CRITICAL: New Naming Strategy Implementation_ Proximus",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "It has come to our attention that the newly implemented naming strategy for Proximus is not being consistently applied across all platforms. This lack of uniformity creates confusion and undermines the efforts of the rebranding initiative. This needs to be addressed immediately. You are requested to access the guidelines below and implement them with urgency. Your swift action is crucial to maintain clarity and cohesion across all Proximus communications.",
-        "email_sign_fullname": "Jonas De Wilde",
-        "email_sign_role": "Creative Director",
-        "email_sign_company": "Coast"
+        "subject": "Critical_System_Alert_Immediate_Review_Needed",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I trust this email reaches you in good health. We have identified a critical issue with one of our core infrastructure components that requires your immediate attention. This issue has the potential to severely impact our operational efficiency and data availability. We have attached a report detailing the technical findings and proposed solutions. Please review the report without delay to help us minimize the impact of this event. Your immediate engagement is vital for our team to quickly resolve the situation and ensure business continuity.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Check Now"
     },
     {
-        "subject": "IMMEDIATE ATTENTION: Convergent Design Strategy Non_Compliance",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We have detected a serious issue of non-compliance with the convergent design strategy across several Proximus projects. This is severely impacting the overall user experience and brand consistency. All teams need to familiarize themselves with the correct procedures and apply the necessary changes to ensure a seamless user experience. The full guideline is available by clicking the link below. Your urgent action is required to mitigate further damage.",
-        "email_sign_fullname": "Jonas De Wilde",
-        "email_sign_role": "Creative Director",
-        "email_sign_company": "Coast"
+        "subject": "High_Priority_Network_Infrastructure_Issue",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I hope you are doing well. We are facing a high priority issue that needs your urgent attention. It concerns our network infrastructure. This issue is not only affecting performance, but also carries a potential risk for data security. To understand the issue we have put together a detailed analysis and our plan to remediate. The document is attached below for your review. Immediate action is required to prevent further complications and maintain our operational standards.",
+        "email_sign_fullname": "Alexandre_De_Saedeleer",
+        "email_sign_role": "Chief_Technology_Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Act Now"
     }
 ]

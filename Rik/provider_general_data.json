@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Coast",
-        "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
-        "type": "Branding Agency",
-        "provider_homepage": "https://coast-agency.com/"
+        "provider": "Telindus",
+        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
+        "type": "Infrastructure",
+        "provider_homepage": "https://www.telindus.lu/"
     }
 ]

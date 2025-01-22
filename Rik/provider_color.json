@@ -1,12 +1,12 @@
 [
     {
-        "provider": "Coast",
-        "color_name_1": "Black",
-        "hex_code_1": "#000000",
+        "provider": "Telindus",
+        "color_name_1": "Blue",
+        "hex_code_1": "#0078D4",
         "rgb_code_1": [
             0,
-            0,
-            0
+            120,
+            212
         ]
     },
     {
@@ -16,6 +16,15 @@
             255,
             255,
             255
+        ]
+    },
+    {
+        "color_name_3": "Black",
+        "hex_code_3": "#000000",
+        "rgb_code_3": [
+            0,
+            0,
+            0
         ]
     }
 ]

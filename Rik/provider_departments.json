@@ -1,10 +1,48 @@
 [
     {
-        "provider": "Coast",
-        "department": "Not available",
-        "subdivision": [],
-        "address": "Not available",
-        "phone": "Not available",
-        "vat": "Not available"
+        "provider": "Telindus",
+        "department": "General",
+        "subdivision": [
+            "Fixed and Mobile Telecommunications",
+            "Information and Communication Technology Infrastructures",
+            "Multi-Cloud",
+            "Fintech solutions",
+            "Cybersecurity",
+            "Managed Services"
+        ],
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
+    },
+    {
+        "provider": "Telindus",
+        "department": "Training Institute",
+        "subdivision": [
+            "Professional training on Information and Communication Technology best practices and latest technologies"
+        ],
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
+    },
+    {
+        "provider": "Telindus",
+        "department": "Telindus CyberSecurity Incident Response Team",
+        "subdivision": [
+            "Security architecture design",
+            "Implementation of security infrastructures and security devices",
+            "Expertise, engineering, installation, configuration and maintenance of security solutions",
+            "Maintenance of security solutions",
+            "Security audits and review of security solutions",
+            "Logs analysis",
+            "Vulnerability assessment and evaluation",
+            "Penetration testing",
+            "Adversary Simulation",
+            "Source code review",
+            "Social engineering",
+            "Adversary Emulation"
+        ],
+        "address": "18, rue du Puits Romain Z.A. Bourmicht 8070 Bertrange, Luxembourg",
+        "phone": "+352 45 09 15 1",
+        "vat": "LU15605033"
     }
 ]

@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Urgent_Action_Required: Proximus Network Outage Analysis",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We've identified a critical network outage that demands your immediate attention. As a Cybersecurity Specialist, your expertise is crucial in understanding the potential security implications. This outage may stem from a vulnerability we need to address swiftly. Please review the attached analysis immediately to understand the situation fully. Your prompt action is vital to ensure minimal disruption and maintain network integrity.",
-        "email_sign_fullname": "Isabelle Dubois",
-        "email_sign_role": "Project Lead",
-        "email_sign_company": "Coast"
+        "subject": "Critical_Network_Outage_Impact_on_Proximus_Operations",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I am writing to you today with an urgent update regarding the recent network outages that have been impacting Proximus's operations. As CEO, I understand the critical nature of these disruptions and their potential impact on our overall business performance and reputation. Our team at Telindus is working tirelessly to resolve this issue, focusing on the IT infrastructure that supports your crucial services. We've identified some key areas for immediate improvement and believe that the measures outlined below will help mitigate future incidents. It's imperative that we address these issues promptly to maintain the stability of your network. Please review the detailed action plan and our recommendations in the document available at the link provided below, we believe it is crucial that you take action as soon as possible. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Review Now"
     },
     {
-        "subject": "Immediate_Review: Cybersecurity Implications of Network Instability",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "Recent network instability at Proximus requires your immediate review. Given your role as a Cybersecurity Specialist, we need your insights into any potential vulnerabilities this may expose. It is imperative that you click on the link below and download the report outlining the issue and provide an assessment. Your swift action is essential for mitigating risks and ensuring the security of our network.",
-        "email_sign_fullname": "Isabelle Dubois",
-        "email_sign_role": "Project Lead",
-        "email_sign_company": "Coast"
+        "subject": "Urgent_Action_Required_Network_Stability_Report",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "Following the recent network instability issues, I'm reaching out to provide you with a comprehensive report detailing the causes and our recommended solutions. We understand the urgency of this matter and how critical it is for Proximus\u2019s operations. Our analysis indicates several key vulnerabilities that must be addressed to prevent further disruptions. As CEO, your focus on ensuring a stable operational environment is essential, and this report provides the necessary steps to achieve that goal. We urge you to review the document carefully, available at the link below, as your immediate attention to these recommendations is vital for our next steps. Let's work together to strengthen the infrastructure and ensure uninterrupted service for Proximus. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "View Report"
     },
     {
-        "subject": "Critical_Update: Network Security Review Following Outage",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "Following the recent network outage, we require a detailed security assessment from your team. As a Cybersecurity Specialist, your expertise is crucial in identifying any security gaps. Please download the attached briefing and provide your findings promptly. This is a critical step in ensuring that similar incidents are prevented in the future.",
-        "email_sign_fullname": "Isabelle Dubois",
-        "email_sign_role": "Project Lead",
-        "email_sign_company": "Coast"
+        "subject": "Immediate_Attention_Network_Outage_Resolution_Plan",
+        "addressing_the_receiver": "Dear Jai Mehta,",
+        "body": "I am contacting you directly to discuss the ongoing network outages that are affecting Proximus. As you are aware, these outages have considerable implications for our services and your customer experience. As CEO of Telindus, I assure you that we are treating this matter with the utmost urgency. Our team has developed a resolution plan, which requires immediate attention to ensure we get back on track. The details of our proposed strategy are outlined in the attached document. Please take some time to review the plan. We need your prompt approval so we can implement the necessary changes as soon as possible. This is critical to maintaining Proximus's reliability. ",
+        "email_sign_fullname": "Marc Nilles",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "Telindus",
+        "call_to_action_text": "Check Details"
     }
 ]
