@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Exclusieve Uitnodiging: Clerk Chat Data Analyse Conferentie",
-        "body": "Geachte Mevrouw Declercq,\n\nNamens Clerk Chat nodigen we u van harte uit voor onze aankomende conferentie, specifiek gericht op data-analisten. Deze unieke gelegenheid biedt diepgaande inzichten in de nieuwste trends en technieken op het gebied van data-analyse binnen de context van real-time communicatie. \n\nWe hebben een reeks van boeiende presentaties en workshops samengesteld, ontworpen om uw vaardigheden te verrijken en uw perspectief te verbreden. Gezien de exclusiviteit van het evenement en de beperkte beschikbaarheid van plaatsen, raden we u aan om onmiddellijk actie te ondernemen en uw plek te reserveren via de onderstaande link. We kijken ernaar uit u daar te verwelkomen.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Amelia Chen",
-        "email_sign_role": "Product Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Training Sessies voor Data Analisten_Beperkte Plaatsen",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "We nodigen u graag uit voor onze exclusieve trainingssessies, speciaal ontworpen voor data-analisten. Deze sessies bieden waardevolle inzichten en praktische vaardigheden om uw analytische capaciteiten te verbeteren. De plaatsen zijn beperkt, dus wees er snel bij om uw plek te reserveren. Bekijk de details en schrijf u in via de link hieronder.",
+        "email_sign_fullname": "Jan Van Den Berg",
+        "email_sign_role": "Chief Executive Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Schrijf nu in"
     },
     {
-        "subject": "Belangrijke Uitnodiging: Data Conferentie van Clerk Chat",
-        "body": "Geachte Mevrouw Declercq,\n\nWe zijn verheugd om u uit te nodigen voor onze aankomende conferentie gericht op data-analyse, georganiseerd door Clerk Chat. Deze conferentie is speciaal ontworpen voor data-analisten zoals u, met een focus op de laatste ontwikkelingen in data-gedreven communicatie.\n\nDeze exclusieve conferentie biedt een unieke kans om te netwerken met experts en collega's, en om praktische kennis op te doen die direct toepasbaar is in uw werk. De beschikbare plaatsen zijn beperkt, dus we vragen u vriendelijk om uw interesse kenbaar te maken door op de link hieronder te klikken om u te registreren. Uw snelle actie is essentieel om een plaats te garanderen.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "John Smith",
-        "email_sign_role": "Sales Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Versterk uw vaardigheden_Data Analyse Training",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "Verbeter uw expertise met onze data-analyse trainingssessies. Deze training is een must voor elke data-analist die voorop wil lopen. Er zijn beperkte plaatsen beschikbaar. Handel snel om uw plek te verzekeren. Meer informatie en inschrijven is mogelijk via de link hieronder.",
+        "email_sign_fullname": "Sophie Dubois",
+        "email_sign_role": "Chief Financial Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Registreer vandaag"
     },
     {
-        "subject": "Niet te Missen: Clerk Chat Conferentie voor Data Analisten",
-        "body": "Geachte Mevrouw Declercq,\n\nWe hebben het genoegen om u uit te nodigen voor de exclusieve conferentie van Clerk Chat, speciaal gericht op data-analisten. Deze conferentie is ontworpen om u de nieuwste inzichten en strategie\u00ebn te bieden op het gebied van data-analyse in real-time communicatie.\n\nDeze conferentie biedt een unieke kans om te leren van experts, te netwerken met collega's, en waardevolle kennis op te doen die direct van toepassing is op uw werk. Het aantal plaatsen is beperkt, dus we moedigen u aan om snel te handelen en uzelf te registreren via de link die hieronder is geplaatst. We hopen u daar te zien.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Emily Johnson",
-        "email_sign_role": "Support Specialist",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Exclusieve Training voor Data Analisten_Mis het niet",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "Mis onze exclusieve trainingssessies voor data-analisten niet! Deze sessies zijn ontworpen om uw vaardigheden naar een hoger niveau te tillen. De beschikbaarheid is beperkt, dus handel nu. Alle details en de inschrijflink vindt u hieronder.",
+        "email_sign_fullname": "Thomas De Smet",
+        "email_sign_role": "Chief Strategy & Business Development Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Klik hier"
     }
 ]

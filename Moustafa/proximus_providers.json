@@ -1,0 +1,116 @@
+[
+    {
+        "provider": "Tech Mahindra",
+        "service": "Technology platform development",
+        "type": "Technology service provider",
+        "provider_homepage": "techmahindra.com"
+    },
+    {
+        "provider": "Belcenter",
+        "service": "IP based network services",
+        "type": "Technology service provider",
+        "provider_homepage": "www.belcenter.be"
+    },
+    {
+        "provider": "BICS",
+        "service": "International communications enabler, global voice carrier, mobile data services",
+        "type": "Technology service provider",
+        "provider_homepage": "www.bics.com"
+    },
+    {
+        "provider": "Citymesh",
+        "service": "Development and management of large-scale wireless networks (WiFi, IoT, 4G, 5G)",
+        "type": "Technology service provider",
+        "provider_homepage": "www.citymesh.com"
+    },
+    {
+        "provider": "Colt Technology Services",
+        "service": "Digital infrastructure and network services",
+        "type": "Technology service provider",
+        "provider_homepage": "www.colt.net"
+    },
+    {
+        "provider": "Cybernet",
+        "service": "Internet connections and services, VoIP telephony, hosting, computer equipment",
+        "type": "Technology and equipment supplier",
+        "provider_homepage": "www.cybernet.be"
+    },
+    {
+        "provider": "Codit",
+        "service": "Data-driven cloud solutions",
+        "type": "Technology service provider",
+        "provider_homepage": null
+    },
+    {
+        "provider": "ClearMedia",
+        "service": "Cloud, cybersecurity and digital workplace solutions",
+        "type": "Technology service provider",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Davinsi Labs",
+        "service": "Cybersecurity and operational intelligence",
+        "type": "Technology service provider",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Constructel Belgium",
+        "service": "Installation of optical fiber",
+        "type": "Contractor",
+        "provider_homepage": "constructelvisabeira.com"
+    },
+    {
+        "provider": "H. Essers",
+        "service": "Logistics and delivery services",
+        "type": "Contractor",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Nokia",
+        "service": "Network equipment",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Ericsson",
+        "service": "Network equipment",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Unifiber",
+        "service": "Fiber optic solutions",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Broadcom",
+        "service": "Cloud and network solutions",
+        "type": "Technology service provider",
+        "provider_homepage": "broadcom.com"
+    },
+    {
+        "provider": "Source Ray",
+        "service": "Portable X-Ray machine manufacturer",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Sedecal/TXR",
+        "service": "Portable X-Ray machine manufacturer",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "MinXRay",
+        "service": "Portable X-Ray machine manufacturer",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Poskom",
+        "service": "Portable X-Ray machine manufacturer",
+        "type": "Equipment supplier",
+        "provider_homepage": null
+    }
+]
