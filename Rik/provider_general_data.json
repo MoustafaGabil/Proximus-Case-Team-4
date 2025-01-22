@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Clerk Chat",
-        "service": "Streamlines customer communication through real-time messaging",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://clerk.chat/"
+        "provider": "LuxConnect",
+        "service": "Data Center Services",
+        "type": "Data Center Operator",
+        "provider_homepage": "https://www.luxconnect.lu/"
     }
 ]

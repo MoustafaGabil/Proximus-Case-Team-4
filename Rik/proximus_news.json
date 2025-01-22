@@ -1,42 +1,42 @@
 [
     {
-        "subject": "Proximus Creates Proximus Global",
-        "overview": "Proximus Group is consolidating its international activities by creating Proximus Global. This new entity will integrate BICS, Telesign, and Route Mobile under a single umbrella, aiming to streamline operations and drive global growth. Proximus Global is valued at approximately \u20ac3.1 billion in equity.",
-        "source": "Mobile Europe, Light Reading, Route Mobile, TelecomTV"
+        "subject": "Proximus Extends Revolving Credit Facility",
+        "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility with a pool of Belgian and international banks. The renewed facility has a 5-year tenor with two 1-year extension options and will be used as a liquidity reserve.",
+        "source": "marketscreener.com, globalcapital.com"
     },
     {
-        "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain. This initiative highlights Proximus' commitment to sustainable practices.",
+        "subject": "Proximus to Move Brussels Headquarters to Tour & Taxis",
+        "overview": "Proximus has selected Nextensa as the preferred bidder for the development of its new Brussels campus at the Tour & Taxis site. This includes the acquisition of Proximus' current towers at the Brussels North Station by Nextensa. Final contracts are expected to be signed by Q2 2025.",
+        "source": "globenewswire.com"
+    },
+    {
+        "subject": "Proximus Refinances Loan with Sustainability Features",
+        "overview": "Proximus has refinanced its \u20ac700 million loan, with plans to add sustainability features. The loan has a five-year term with options for two one-year extensions. The sustainability goals are still to be agreed upon with lenders.",
+        "source": "globalcapital.com"
+    },
+    {
+        "subject": "Proximus Global Created",
+        "overview": "Proximus Group has created Proximus Global, integrating BICS, Telesign, and Route Mobile under one umbrella. This new organization is valued at approximately EUR 3.1 billion in equity value and aims to streamline operations and governance.",
+        "source": "proximus.com, telecomtv.com, lightreading.com"
+    },
+    {
+        "subject": "Scarlet Offers More Data",
+        "overview": "Scarlet, a Proximus brand, has launched a new offer for 2025, providing increased data volumes on its mobile plans at no extra cost.",
         "source": "proximus.com"
     },
     {
-        "subject": "Scarlet Offers More Data at Same Price",
-        "overview": "Scarlet, a subsidiary of Proximus, is offering increased data volumes on its mobile plans without raising prices. This new offer is part of Scarlet's strategy to provide more value to its customers.",
+        "subject": "Proximus and Sagemcom Test Cargo Sailboat",
+        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain, highlighting a commitment to sustainable practices.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Fiber Network Recognized for Performance",
-        "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its superior speed and performance compared to competitors. This highlights the company's investment in high-quality network infrastructure.",
+        "subject": "Proximus Fiber Network Recognized",
+        "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its speed and performance, outperforming competitors.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Extends Maturity of Revolving Credit Facility",
-        "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This move provides the company with continued financial flexibility.",
-        "source": "marketscreener.com"
-    },
-    {
-        "subject": "Proximus Sells Luxembourg Towers",
-        "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac110 million. This sale is part of Proximus' asset divestment plan.",
-        "source": "marketscreener.com, Data Center Dynamics"
-    },
-    {
-        "subject": "Proximus to Sell Be-Mobile",
-        "overview": "Proximus is reportedly planning to sell its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. This move is part of a broader plan to free up \u20ac500 million for investments in fiber optics.",
-        "source": "Data Center Dynamics"
-    },
-    {
-        "subject": "Proximus and Microsoft Announce Strategic Partnership",
-        "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership.",
-        "source": "The Cyber Express"
+        "subject": "Microsoft and Proximus Strategic Partnership",
+        "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions, leveraging their respective expertise and product leadership.",
+        "source": "thecyberexpress.com"
     }
 ]

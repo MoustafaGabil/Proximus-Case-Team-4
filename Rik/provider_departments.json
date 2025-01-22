@@ -1,50 +1,41 @@
 [
     {
-        "provider": "Clerk Chat",
-        "department": "Executive Leadership",
+        "provider": "LuxConnect",
+        "department": "Management",
         "subdivision": [
-            "Board of Directors"
+            "Chief Executive Officer",
+            "Chief Technical Officer"
         ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
+        "phone": "+352 276168 1",
+        "vat": "LU 21543858"
     },
     {
-        "provider": "Clerk Chat",
-        "department": "Engineering",
-        "subdivision": [
-            "Frontend Engineering",
-            "Backend Engineering",
-            "Machine Learning Engineering"
-        ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Product",
-        "subdivision": [
-            "Product Management"
-        ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
+        "provider": "LuxConnect",
         "department": "Sales",
-        "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "subdivision": [
+            "Account Manager Data Center",
+            "Customer Service Officer",
+            "Account Manager Dark Fiber"
+        ],
+        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
+        "phone": "+352 276168 1",
+        "vat": "LU 21543858"
     },
     {
-        "provider": "Clerk Chat",
-        "department": "Support",
-        "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "provider": "LuxConnect",
+        "department": "Board of Directors",
+        "subdivision": [
+            "Chairman",
+            "Director",
+            "Director",
+            "Director",
+            "Director",
+            "Director",
+            "Director"
+        ],
+        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
+        "phone": "+352 276168 1",
+        "vat": "LU 21543858"
     }
 ]

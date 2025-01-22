@@ -1,26 +1,26 @@
 [
     {
-        "subject": "Dringend: Analyse van Clerk Chat-gegevens vereist onmiddellijke actie",
-        "body": "Geachte mevrouw Declercq,\n\nUit recente analyses is gebleken dat er een kritieke discrepantie is in de datastromen van Clerk Chat, onze real-time messaging service. Dit heeft directe gevolgen voor onze klantcommunicatie en kan leiden tot een vertekend beeld van de interacties met onze klanten. De nauwkeurigheid van de rapporten die hierdoor gegenereerd worden, wordt ernstig in twijfel getrokken.\n\nUw expertise als Data Analyst is nu cruciaal. Wij vragen u om zo spoedig mogelijk de bijgevoegde dataset te analyseren en de oorzaak van deze afwijkingen te achterhalen. De resultaten van deze analyse zijn van groot belang voor onze operationele besluitvorming. \n\nWe rekenen op uw snelle actie.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Jane Doe",
-        "email_sign_role": "Product Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Dringende beveiligingsupdate: Potentieel datalek bij LuxConnect",
+        "body": "Geachte mijnheer Vandenberg,\n\nWe hebben een potentieel beveiligingslek ontdekt in de datacenterdiensten van LuxConnect die Proximus gebruikt. Dit vereist onmiddellijke aandacht van uw team. Er is een mogelijk risico op ongeautoriseerde toegang tot gevoelige gegevens. We hebben een gedetailleerd rapport samengesteld met alle bevindingen en de nodige stappen die moeten worden ondernomen. U kunt het rapport hieronder vinden. Gelieve dit zo snel mogelijk te bekijken en de nodige acties te ondernemen om de beveiliging te waarborgen.\n\nMet vriendelijke groet,\n",
+        "email_sign_fullname": "Jean Muller",
+        "email_sign_role": "Chief Technical Officer",
+        "email_sign_company": "LuxConnect",
+        "receiver_full_name": "Luc Vandenberg"
     },
     {
-        "subject": "Kritieke data-afwijking in Clerk Chat: Onmiddellijke analyse vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben zojuist een significante data-afwijking ontdekt in de rapportages van Clerk Chat. Deze afwijking be\u00efnvloedt direct de nauwkeurigheid van onze klantcommunicatiegegevens, wat potentieel leidt tot onjuiste conclusies en beslissingen. Het is essentieel dat dit probleem onmiddellijk wordt aangepakt om verdere onnauwkeurigheden te voorkomen.\n\nWij verzoeken u om direct de bijgevoegde data-export te onderzoeken. Uw analyse van de onderliggende oorzaken is van het grootste belang voor ons. Uw snelle reactie is nu cruciaal om de data-integriteit te herstellen.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "John Smith",
-        "email_sign_role": "Backend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Onmiddellijke actie vereist: Beveiligingsprobleem met LuxConnect-datacenters",
+        "body": "Geachte mijnheer Vandenberg,\n\nWe hebben een kritiek beveiligingsprobleem vastgesteld dat van invloed kan zijn op de datacenterdiensten die door LuxConnect worden geleverd aan Proximus. Er is een verhoogd risico op een cyberaanval en een mogelijke compromittering van de gegevens. De volledige details van het probleem, samen met de aanbevolen stappen om het probleem onmiddellijk aan te pakken, vindt u in het document hieronder. We verzoeken u dringend om dit document te bekijken en de nodige maatregelen te nemen om verdere schade te voorkomen.\n\nMet vriendelijke groet,\n",
+        "email_sign_fullname": "Marc Schneider",
+        "email_sign_role": "Account Manager Data Center",
+        "email_sign_company": "LuxConnect",
+        "receiver_full_name": "Luc Vandenberg"
     },
     {
-        "subject": "Dringende data-analyse: Problemen met Clerk Chat rapportage",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een urgent probleem met de datanauwkeurigheid in de rapportage van Clerk Chat vastgesteld. Deze onnauwkeurigheden kunnen van invloed zijn op de klanttevredenheid en onze operationele effici\u00ebntie. We hebben onmiddellijk uw expertise nodig om dit probleem op te lossen.\n\nWij vragen u vriendelijk doch dringend om de bijgevoegde data te analyseren. Uw inzicht is essentieel om de oorzaak te identificeren en ons te helpen dit zo snel mogelijk te corrigeren. Een spoedige reactie wordt ten zeerste op prijs gesteld.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Alice Brown",
-        "email_sign_role": "Frontend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Kritieke waarschuwing: Potenti\u00eble kwetsbaarheid in LuxConnect-infrastructuur",
+        "body": "Geachte mijnheer Vandenberg,\n\nEr is een ernstige kwetsbaarheid ontdekt in de LuxConnect-infrastructuur die de datacenters voor Proximus levert. Dit kan leiden tot een aanzienlijk risico op verstoring van de dienstverlening en/of een datalek. Om de risico's te minimaliseren, is het belangrijk dat u zo snel mogelijk de volledige details van deze kwetsbaarheid, alsook de aanbevolen acties om deze te mitigeren, via de link hieronder bekijkt. Neem onmiddellijk actie om de nodige beveiligingsmaatregelen te treffen.\n\nMet vriendelijke groet,\n",
+        "email_sign_fullname": "Pierre Dubois",
+        "email_sign_role": "Customer Service Officer",
+        "email_sign_company": "LuxConnect",
+        "receiver_full_name": "Luc Vandenberg"
     }
 ]
