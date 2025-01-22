@@ -1,4 +1,5 @@
 import os
+import json
 from generatecontent import ReportManager, ProviderManager, GeminiConnector
 from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider 
 
@@ -26,6 +27,14 @@ def main():
     provider_manager.execute(company_name)
     print("Provider selection process completed.")
 
+    # Read the provider from the provider.json file
+    provider_file_path = os.path.join(output_directory, "provider.json")
+    with open(provider_file_path, "r") as f:
+        provider_data = json.load(f)
+
+    # Extract provider from the first item in the list
+    provider = provider_data[0].get("provider", "DefaultProvider")  # Default value in case 'provider' is not found
+
     # Initialize EmailGenerator
     email_output_file = os.path.join(output_directory, "generated_emails.json")
     gemini_connector = GeminiConnector()  # Initialize Gemini client
@@ -38,7 +47,6 @@ def main():
     )
 
     # Generate emails
-    provider = "Proximus"
     provider_departments = ["Consumer Market", "IT Infrastructure", "Enterprise Market"]  # List departments as needed
     random_employee = data_provider.get_random_employee()
 
@@ -51,7 +59,7 @@ def main():
         company_name=company_name,
         random_employee=random_employee
     )
-    email_generator.save_emails_to_file(service_emails, output_dir=output_directory, email_type="services_emails")  # Only output_dir is needed
+    email_generator.save_emails_to_file(service_emails, output_dir=output_directory, email_type="services_emails")
 
     # Generate events emails
     random_event = data_provider.get_random_events()  
@@ -62,7 +70,7 @@ def main():
         random_employee=random_employee,
         random_event=random_event
     )
-    email_generator.save_emails_to_file(events_emails, output_dir=output_directory, email_type="events_emails")  # Only output_dir is needed
+    email_generator.save_emails_to_file(events_emails, output_dir=output_directory, email_type="events_emails")
 
     # Generate issue emails
     random_issue = data_provider.get_random_issues() 
@@ -73,7 +81,7 @@ def main():
         random_employee=random_employee,
         random_issue=random_issue
     )
-    email_generator.save_emails_to_file(issues_emails, output_dir=output_directory, email_type="issues_emails")  # Only output_dir is needed
+    email_generator.save_emails_to_file(issues_emails, output_dir=output_directory, email_type="issues_emails")
 
     print("Emails have been successfully generated and saved.")
 
