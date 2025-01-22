@@ -101,3 +101,4 @@ class GophishCampaignManager:
         print(f"Campaign created with ID: {self.campaign.id}")
         return self.campaign
 
+xyz

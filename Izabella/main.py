@@ -134,7 +134,7 @@ def main():
                 # 
                 # print(f"Campaign created for {email_type} - {idx+1}/{len(emails)}")
 
-        # print("All Gophish campaigns have been created successfully.")
+        # print("All Gophish campaigns have been created successfully.") xyz
 
 if __name__ == "__main__":
     main()
