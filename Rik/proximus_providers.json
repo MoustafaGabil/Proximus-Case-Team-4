@@ -1,56 +1,68 @@
 [
     {
-        "provider": "Microsoft Azure",
-        "service": "Public Cloud",
-        "type": "Cloud services",
-        "provider_homepage": "https://azure.microsoft.com/"
+        "provider": "WPP Group",
+        "service": "Performance marketing of paid advertising",
+        "type": "Advertising and Marketing",
+        "provider_homepage": "www.wpp.com"
     },
     {
-        "provider": "Amazon Web Services (AWS)",
-        "service": "Public Cloud",
-        "type": "Cloud services",
-        "provider_homepage": "https://aws.amazon.com/"
+        "provider": "Springbok",
+        "service": "Management of unpaid advertising, direct marketing campaigns (e-mail, push notifications), and delivery of data-driven strategies.",
+        "type": "Digital & Creative Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "Google Cloud Platform",
-        "service": "Public Cloud",
-        "type": "Cloud services",
-        "provider_homepage": "https://cloud.google.com/"
+        "provider": "FamousGrey",
+        "service": "Strategic, creative partner and ecosystem leader within the SILK ecosystem.",
+        "type": "Advertising Agency",
+        "provider_homepage": "https://famousgrey.com/"
     },
     {
-        "provider": "HCL Technologies",
-        "service": "Private Cloud Infrastructure Management",
-        "type": "IT services",
-        "provider_homepage": "https://www.hcltech.com/"
+        "provider": "Hogarth",
+        "service": "Future-proof production solution within the SILK ecosystem.",
+        "type": "Production Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "VMware",
-        "service": "Hosted Private Cloud",
-        "type": "Cloud services",
-        "provider_homepage": "https://www.vmware.com/"
+        "provider": "Essence Mediacom",
+        "service": "Part of the WPP group, working with Proximus within the SILK ecosystem.",
+        "type": "Media Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "LuxConnect",
-        "service": "Data Center Services",
-        "type": "Data Center Operator",
-        "provider_homepage": "https://www.luxconnect.lu/"
+        "provider": "Prophets",
+        "service": "Digital creative agency within the SILK ecosystem.",
+        "type": "Digital Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "Datacenter United",
-        "service": "Data Center Services",
-        "type": "Data Center Operator",
-        "provider_homepage": "https://datacenterunited.com/"
+        "provider": "Altavia Act",
+        "service": "Responsible for points of sale and packaging within the SILK ecosystem.",
+        "type": "Marketing Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "Tech Mahindra",
-        "service": "Technology Platform Development",
-        "type": "IT services",
-        "provider_homepage": "https://www.techmahindra.com/"
+        "provider": "Czar",
+        "service": "Advertising agency that created the 'VAN' film for Proximus.",
+        "type": "Advertising Agency",
+        "provider_homepage": null
     },
     {
-        "provider": "Codit",
-        "service": "Data-driven cloud solutions",
-        "type": "IT services",
-        "provider_homepage": "https://www.codit.eu/"
+        "provider": "Coast",
+        "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
+        "type": "Branding Agency",
+        "provider_homepage": "https://coast-agency.com/"
+    },
+    {
+        "provider": "Propaganda",
+        "service": "Communication and consultancy agency that creates stories for brands, including Proximus.",
+        "type": "Communication Agency",
+        "provider_homepage": "https://propaganda.be/"
+    },
+    {
+        "provider": "Strobus InfoSoft",
+        "service": "Provides the Proximus Digital AdBoard APP-on-Cloud for displaying commercials and promotions.",
+        "type": "Technology Service Provider",
+        "provider_homepage": "https://strobusinfosoft.com/"
     }
 ]

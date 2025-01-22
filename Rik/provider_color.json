@@ -1,13 +1,21 @@
 [
     {
-        "provider": "LuxConnect",
-        "color_name_1": "Green",
-        "hex_code_1": null,
-        "rgb_code_1": null
+        "provider": "Coast",
+        "color_name_1": "Black",
+        "hex_code_1": "#000000",
+        "rgb_code_1": [
+            0,
+            0,
+            0
+        ]
     },
     {
-        "color_name_2": "Dark Gray",
-        "hex_code_2": null,
-        "rgb_code_2": null
+        "color_name_2": "White",
+        "hex_code_2": "#FFFFFF",
+        "rgb_code_2": [
+            255,
+            255,
+            255
+        ]
     }
 ]

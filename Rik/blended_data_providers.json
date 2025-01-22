@@ -1,154 +1,47 @@
 {
-    "LuxConnect": {
+    "Coast": {
         "general": {
-            "provider": "LuxConnect",
-            "service": "Data Center Services",
-            "type": "Data Center Operator",
-            "provider_homepage": "https://www.luxconnect.lu/"
+            "provider": "Coast",
+            "service": "Branding agency for Belgacom, Proximus and Telindus, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers.",
+            "type": "Branding Agency",
+            "provider_homepage": "https://coast-agency.com/"
         },
         "employee": [
             {
-                "provider": "LuxConnect",
-                "first_name": "Paul",
-                "family_name": "Konsbruck",
-                "role": "Chief Executive Officer",
-                "department": "Management",
-                "email_address": "paul.konsbruck@luxconnect.be"
+                "provider": "Coast",
+                "first_name": "Phil",
+                "family_name": null,
+                "role": "Client Relations & Operations",
+                "department": null,
+                "email_address": "phil.null@coast-agency.be"
             },
             {
-                "provider": "LuxConnect",
-                "first_name": "Vincent",
-                "family_name": "Weynandt",
-                "role": "Chief Technical Officer",
-                "department": "Management",
-                "email_address": "vincent.weynandt@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Ben",
-                "family_name": "Funck",
-                "role": "Account Manager Data Center",
-                "department": "Sales",
-                "email_address": "ben.funck@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Candice",
-                "family_name": "Lignon",
-                "role": "Customer Service Officer",
-                "department": "Sales",
-                "email_address": "candice.lignon@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Christopher",
-                "family_name": "Boulinguez",
-                "role": "Account Manager Dark Fiber",
-                "department": "Sales",
-                "email_address": "christopher.boulinguez@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Jacques",
-                "family_name": "Thill",
-                "role": "Chairman",
-                "department": "Board of Directors",
-                "email_address": "jacques.thill@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Carole",
-                "family_name": "Muller",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "carole.muller@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Gaston",
-                "family_name": "Schmit",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "gaston.schmit@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Laure",
-                "family_name": "Bourguignon",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "laure.bourguignon@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Michel",
-                "family_name": "Asorne",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "michel.asorne@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Michel",
-                "family_name": "Scholer",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "michel.scholer@luxconnect.be"
-            },
-            {
-                "provider": "LuxConnect",
-                "first_name": "Patrick",
-                "family_name": "Houtsch",
-                "role": "Director",
-                "department": "Board of Directors",
-                "email_address": "patrick.houtsch@luxconnect.be"
+                "provider": "Coast",
+                "first_name": "Kelsey",
+                "family_name": null,
+                "role": null,
+                "department": null,
+                "email_address": "kelsey.null@coast-agency.be"
             }
         ],
         "color": {
-            "provider": "LuxConnect",
-            "color_name_1": "Green",
-            "hex_code_1": null,
-            "rgb_code_1": null
+            "provider": "Coast",
+            "color_name_1": "Black",
+            "hex_code_1": "#000000",
+            "rgb_code_1": [
+                0,
+                0,
+                0
+            ]
         },
         "departments": [
             {
-                "provider": "LuxConnect",
-                "department": "Management",
-                "subdivision": [
-                    "Chief Executive Officer",
-                    "Chief Technical Officer"
-                ],
-                "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-                "phone": "+352 276168 1",
-                "vat": "LU 21543858"
-            },
-            {
-                "provider": "LuxConnect",
-                "department": "Sales",
-                "subdivision": [
-                    "Account Manager Data Center",
-                    "Customer Service Officer",
-                    "Account Manager Dark Fiber"
-                ],
-                "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-                "phone": "+352 276168 1",
-                "vat": "LU 21543858"
-            },
-            {
-                "provider": "LuxConnect",
-                "department": "Board of Directors",
-                "subdivision": [
-                    "Chairman",
-                    "Director",
-                    "Director",
-                    "Director",
-                    "Director",
-                    "Director",
-                    "Director"
-                ],
-                "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-                "phone": "+352 276168 1",
-                "vat": "LU 21543858"
+                "provider": "Coast",
+                "department": "Not available",
+                "subdivision": [],
+                "address": "Not available",
+                "phone": "Not available",
+                "vat": "Not available"
             }
         ]
     }

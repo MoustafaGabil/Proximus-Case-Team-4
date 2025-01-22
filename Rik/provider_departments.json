@@ -1,41 +1,10 @@
 [
     {
-        "provider": "LuxConnect",
-        "department": "Management",
-        "subdivision": [
-            "Chief Executive Officer",
-            "Chief Technical Officer"
-        ],
-        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-        "phone": "+352 276168 1",
-        "vat": "LU 21543858"
-    },
-    {
-        "provider": "LuxConnect",
-        "department": "Sales",
-        "subdivision": [
-            "Account Manager Data Center",
-            "Customer Service Officer",
-            "Account Manager Dark Fiber"
-        ],
-        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-        "phone": "+352 276168 1",
-        "vat": "LU 21543858"
-    },
-    {
-        "provider": "LuxConnect",
-        "department": "Board of Directors",
-        "subdivision": [
-            "Chairman",
-            "Director",
-            "Director",
-            "Director",
-            "Director",
-            "Director",
-            "Director"
-        ],
-        "address": "202, Z.A.E. Wolser F, L-3290 Bettembourg, Luxembourg",
-        "phone": "+352 276168 1",
-        "vat": "LU 21543858"
+        "provider": "Coast",
+        "department": "Not available",
+        "subdivision": [],
+        "address": "Not available",
+        "phone": "Not available",
+        "vat": "Not available"
     }
 ]

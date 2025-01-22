@@ -1,26 +1,26 @@
 [
     {
-        "subject": "Dringende beveiligingsupdate: Potentieel datalek bij LuxConnect",
-        "body": "Geachte mijnheer Vandenberg,\n\nWe hebben een potentieel beveiligingslek ontdekt in de datacenterdiensten van LuxConnect die Proximus gebruikt. Dit vereist onmiddellijke aandacht van uw team. Er is een mogelijk risico op ongeautoriseerde toegang tot gevoelige gegevens. We hebben een gedetailleerd rapport samengesteld met alle bevindingen en de nodige stappen die moeten worden ondernomen. U kunt het rapport hieronder vinden. Gelieve dit zo snel mogelijk te bekijken en de nodige acties te ondernemen om de beveiliging te waarborgen.\n\nMet vriendelijke groet,\n",
-        "email_sign_fullname": "Jean Muller",
-        "email_sign_role": "Chief Technical Officer",
-        "email_sign_company": "LuxConnect",
-        "receiver_full_name": "Luc Vandenberg"
+        "subject": "URGENT: Proximus Branding Guidelines Update_ Immediate Action Required",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "Our team has identified a critical discrepancy in the application of the new branding guidelines across Proximus' communication channels. This inconsistency poses a significant risk to brand integrity and customer perception. It is imperative that all departments adhere strictly to the updated guidelines to ensure a unified and professional brand image. Please review the attached document immediately and ensure all your team are aligned. Your prompt attention to this matter is vital to avoid further brand dilution.",
+        "email_sign_fullname": "Jonas De Wilde",
+        "email_sign_role": "Creative Director",
+        "email_sign_company": "Coast"
     },
     {
-        "subject": "Onmiddellijke actie vereist: Beveiligingsprobleem met LuxConnect-datacenters",
-        "body": "Geachte mijnheer Vandenberg,\n\nWe hebben een kritiek beveiligingsprobleem vastgesteld dat van invloed kan zijn op de datacenterdiensten die door LuxConnect worden geleverd aan Proximus. Er is een verhoogd risico op een cyberaanval en een mogelijke compromittering van de gegevens. De volledige details van het probleem, samen met de aanbevolen stappen om het probleem onmiddellijk aan te pakken, vindt u in het document hieronder. We verzoeken u dringend om dit document te bekijken en de nodige maatregelen te nemen om verdere schade te voorkomen.\n\nMet vriendelijke groet,\n",
-        "email_sign_fullname": "Marc Schneider",
-        "email_sign_role": "Account Manager Data Center",
-        "email_sign_company": "LuxConnect",
-        "receiver_full_name": "Luc Vandenberg"
+        "subject": "CRITICAL: New Naming Strategy Implementation_ Proximus",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "It has come to our attention that the newly implemented naming strategy for Proximus is not being consistently applied across all platforms. This lack of uniformity creates confusion and undermines the efforts of the rebranding initiative. This needs to be addressed immediately. You are requested to access the guidelines below and implement them with urgency. Your swift action is crucial to maintain clarity and cohesion across all Proximus communications.",
+        "email_sign_fullname": "Jonas De Wilde",
+        "email_sign_role": "Creative Director",
+        "email_sign_company": "Coast"
     },
     {
-        "subject": "Kritieke waarschuwing: Potenti\u00eble kwetsbaarheid in LuxConnect-infrastructuur",
-        "body": "Geachte mijnheer Vandenberg,\n\nEr is een ernstige kwetsbaarheid ontdekt in de LuxConnect-infrastructuur die de datacenters voor Proximus levert. Dit kan leiden tot een aanzienlijk risico op verstoring van de dienstverlening en/of een datalek. Om de risico's te minimaliseren, is het belangrijk dat u zo snel mogelijk de volledige details van deze kwetsbaarheid, alsook de aanbevolen acties om deze te mitigeren, via de link hieronder bekijkt. Neem onmiddellijk actie om de nodige beveiligingsmaatregelen te treffen.\n\nMet vriendelijke groet,\n",
-        "email_sign_fullname": "Pierre Dubois",
-        "email_sign_role": "Customer Service Officer",
-        "email_sign_company": "LuxConnect",
-        "receiver_full_name": "Luc Vandenberg"
+        "subject": "IMMEDIATE ATTENTION: Convergent Design Strategy Non_Compliance",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "We have detected a serious issue of non-compliance with the convergent design strategy across several Proximus projects. This is severely impacting the overall user experience and brand consistency. All teams need to familiarize themselves with the correct procedures and apply the necessary changes to ensure a seamless user experience. The full guideline is available by clicking the link below. Your urgent action is required to mitigate further damage.",
+        "email_sign_fullname": "Jonas De Wilde",
+        "email_sign_role": "Creative Director",
+        "email_sign_company": "Coast"
     }
 ]
