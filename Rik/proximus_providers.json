@@ -1,50 +1,44 @@
 [
     {
-        "provider": "Fiberklaar",
-        "service": "Design, build, maintain, and upgrade the fiber network in Flanders",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.fiberklaar.be/"
+        "provider": "Tech Mahindra",
+        "service": "Technology platform design and build",
+        "type": "Consulting and Technology Services",
+        "provider_homepage": "https://www.techmahindra.com/"
     },
     {
-        "provider": "Unifiber",
-        "service": "Roll-out of the fiber network in Wallonia",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.unifiber.be/"
-    },
-    {
-        "provider": "Glasfaser Ostbelgien (GO Fiber)",
-        "service": "Fiber network deployment in the German-speaking Community of Belgium",
-        "type": "Infrastructure",
+        "provider": "Telindus SA",
+        "service": "Telecom and ICT solutions including consulting, integration, management and outsourcing",
+        "type": "Consulting and Technology Services",
         "provider_homepage": null
     },
     {
-        "provider": "Constructel Belgium",
-        "service": "Installation of optical fiber",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.constructelvisabeira.com/"
+        "provider": "Proximus Opal SA",
+        "service": "Telecommunications and information technology services",
+        "type": "Consulting and Technology Services",
+        "provider_homepage": null
     },
     {
-        "provider": "Telindus",
-        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.telindus.lu/"
+        "provider": "Codit",
+        "service": "Designs, builds and manages data-driven cloud solutions",
+        "type": "IT Consulting",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Davinsi Labs",
+        "service": "Cybersecurity and operational intelligence",
+        "type": "IT Consulting",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Clerk Chat",
+        "service": "Customer communication streamlining",
+        "type": "Consulting and Technology Services",
+        "provider_homepage": "https://clerk.chat/"
     },
     {
         "provider": "H. Essers",
         "service": "Logistics and delivery services",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.essers.com/"
-    },
-    {
-        "provider": "Nokia",
-        "service": "Vendor partnership for network infrastructure",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.nokia.com/"
-    },
-    {
-        "provider": "Ericsson",
-        "service": "Vendor partnership for network infrastructure",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.ericsson.com/"
+        "type": "Consulting and Logistics",
+        "provider_homepage": null
     }
 ]

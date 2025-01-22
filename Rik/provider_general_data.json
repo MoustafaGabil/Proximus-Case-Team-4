@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Telindus",
-        "service": "IT infrastructure solutions, including security, network, server infrastructure, storage, archiving, and backup. Maintenance of installed solutions.",
-        "type": "Infrastructure",
-        "provider_homepage": "https://www.telindus.lu/"
+        "provider": "Davinsi Labs",
+        "service": "Cybersecurity and operational intelligence",
+        "type": "IT Consulting",
+        "provider_homepage": null
     }
 ]

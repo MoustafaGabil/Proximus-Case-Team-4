@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Urgent_Action_Required_Proximus_Infrastructure_Security",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "I hope this email finds you well. I'm reaching out to you today with an urgent matter concerning our IT infrastructure security. We've detected a potential vulnerability in one of our critical systems that requires immediate attention. This vulnerability could expose sensitive data and disrupt our services if not addressed swiftly. To mitigate any risks we have prepared a document outlining the issue and the recommended next steps, please find the document below. Your prompt action is crucial to ensure the integrity and security of our systems.",
-        "email_sign_fullname": "Alexandre_De_Saedeleer",
-        "email_sign_role": "Chief_Technology_Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "View Now"
+        "subject": "Dringend: Potentieel beveiligingsrisico vereist onmiddellijke actie",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "We hebben een potentieel beveiligingsrisico ontdekt dat onmiddellijke aandacht vereist. Onze recente analyses van uw cybersecurity infrastructuur hebben een kwetsbaarheid aan het licht gebracht die, indien niet snel aangepakt, ernstige gevolgen kan hebben voor de operationele stabiliteit en de gegevensbeveiliging van Proximus. Het is essentieel dat we deze kwestie zo snel mogelijk aanpakken om mogelijke schade te voorkomen. Hieronder vindt u een link naar een gedetailleerd rapport waarin de bevindingen worden beschreven, evenals aanbevolen stappen voor onmiddellijke mitigatie. Uw actie is nu cruciaal om de integriteit van uw systemen te waarborgen. We verzoeken u vriendelijk het rapport onmiddellijk te raadplegen.",
+        "email_sign_fullname": "Wouter De Smet",
+        "email_sign_role": "Cybersecurity Specialist",
+        "email_sign_company": "Davinsi Labs",
+        "call_to_action_text": "Bekijk rapport"
     },
     {
-        "subject": "Critical_System_Alert_Immediate_Review_Needed",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "I trust this email reaches you in good health. We have identified a critical issue with one of our core infrastructure components that requires your immediate attention. This issue has the potential to severely impact our operational efficiency and data availability. We have attached a report detailing the technical findings and proposed solutions. Please review the report without delay to help us minimize the impact of this event. Your immediate engagement is vital for our team to quickly resolve the situation and ensure business continuity.",
-        "email_sign_fullname": "Alexandre_De_Saedeleer",
-        "email_sign_role": "Chief_Technology_Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "Check Now"
+        "subject": "Belangrijk: Onmiddellijke actie vereist ivm cyberbeveiligingslek",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Er is een kritiek cyberbeveiligingslek ge\u00efdentificeerd dat een onmiddellijke reactie van uw kant vereist. Onze monitoring systemen hebben een anomalie gedetecteerd die wijst op een mogelijke inbraakpoging die misbruik maakt van een recente kwetsbaarheid in uw netwerk. Deze situatie is van het hoogste belang en vereist directe actie om de blootstelling te minimaliseren en de veiligheid van Proximus te waarborgen. In de volgende link vindt u een gedetailleerde analyse van het beveiligingslek en de aanbevolen stappen om dit onmiddellijk op te lossen. Het is van essentieel belang dat u deze informatie onmiddellijk bekijkt.",
+        "email_sign_fullname": "Wouter De Smet",
+        "email_sign_role": "Cybersecurity Specialist",
+        "email_sign_company": "Davinsi Labs",
+        "call_to_action_text": "Analyse Bekijken"
     },
     {
-        "subject": "High_Priority_Network_Infrastructure_Issue",
-        "addressing_the_receiver": "Dear Jai Mehta,",
-        "body": "I hope you are doing well. We are facing a high priority issue that needs your urgent attention. It concerns our network infrastructure. This issue is not only affecting performance, but also carries a potential risk for data security. To understand the issue we have put together a detailed analysis and our plan to remediate. The document is attached below for your review. Immediate action is required to prevent further complications and maintain our operational standards.",
-        "email_sign_fullname": "Alexandre_De_Saedeleer",
-        "email_sign_role": "Chief_Technology_Officer",
-        "email_sign_company": "Telindus",
-        "call_to_action_text": "Act Now"
+        "subject": "Urgent: Beveiligingsincident_Reactie vereist",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "We hebben een beveiligingsincident gedetecteerd dat een onmiddellijke respons vereist. Onze geavanceerde dreigingsanalyse heeft een afwijking in uw systeemverkeer vastgesteld, wat wijst op een mogelijke actieve cyberaanval. Het is van cruciaal belang dat we dit incident direct aanpakken om verdere schade en gegevensverlies te voorkomen. U kunt via de link een volledige analyse van het incident en de vereiste acties vinden. We dringen er bij u op aan om deze informatie direct te bekijken en de voorgestelde stappen uit te voeren.",
+        "email_sign_fullname": "Wouter De Smet",
+        "email_sign_role": "Cybersecurity Specialist",
+        "email_sign_company": "Davinsi Labs",
+        "call_to_action_text": "Bekijk Analyse"
     }
 ]

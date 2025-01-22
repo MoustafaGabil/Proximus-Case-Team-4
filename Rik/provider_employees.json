@@ -1,18 +1,130 @@
 [
     {
-        "provider": "Telindus",
-        "first_name": "G\u00e9rard",
-        "family_name": "Hoffmann",
-        "role": "CEO & Managing Director",
-        "department": "Management",
-        "email_address": "gerard.hoffmann@telindus.be"
+        "provider": "Davinsi Labs",
+        "first_name": "Roger",
+        "family_name": "Kendall",
+        "role": "Pioneer in Research and Development",
+        "department": "Research and Development",
+        "email_address": "roger.kendall@davinsilabs.be"
     },
     {
-        "provider": "Telindus",
-        "first_name": "Frank",
-        "family_name": "Weiler",
-        "role": "Engineer",
-        "department": "Networks and Communications Department",
-        "email_address": "frank.weiler@telindus.be"
+        "provider": "Davinsi Labs",
+        "first_name": "Adena",
+        "family_name": "Mock",
+        "role": "Product Development Specialist",
+        "department": "Product Development",
+        "email_address": "adena.mock@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Kyle",
+        "family_name": "Donovan",
+        "role": "New Product Development Manager",
+        "department": "New Product Development",
+        "email_address": "kyle.donovan@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Tammy",
+        "family_name": "Johnson",
+        "role": "Vice President, Human Division",
+        "department": "Human Division",
+        "email_address": "tammy.johnson@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Melinda",
+        "family_name": "Elmadjian",
+        "role": "Business Leader Contract Manufacturing",
+        "department": "Contract Manufacturing",
+        "email_address": "melinda.elmadjian@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Cathy",
+        "family_name": "Valley",
+        "role": "Customer Manager, International",
+        "department": "International",
+        "email_address": "cathy.valley@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Hollis",
+        "family_name": "Bedell",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "hollis.bedell@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Art",
+        "family_name": "Monaghan",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "art.monaghan@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Aryel",
+        "family_name": "Wilbur",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "aryel.wilbur@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Bryce",
+        "family_name": "Logan",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "bryce.logan@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Lindsey",
+        "family_name": "Schencker-Carroll",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "lindsey.schencker-carroll@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Jack",
+        "family_name": "Schencker",
+        "role": "Inside Sales Consultant",
+        "department": "Sales",
+        "email_address": "jack.schencker@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Beth",
+        "family_name": "Bartlett",
+        "role": "Customer Care Manager",
+        "department": "Customer Care",
+        "email_address": "beth.bartlett@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Danielle",
+        "family_name": "Bremner",
+        "role": "Customer Care Representative",
+        "department": "Customer Care",
+        "email_address": "danielle.bremner@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Leah",
+        "family_name": "Rupracht",
+        "role": "Customer Care Representative",
+        "department": "Customer Care",
+        "email_address": "leah.rupracht@davinsilabs.be"
+    },
+    {
+        "provider": "Davinsi Labs",
+        "first_name": "Laurie",
+        "family_name": "Dellapi",
+        "role": "Customer Care Representative",
+        "department": "Customer Care",
+        "email_address": "laurie.dellapi@davinsilabs.be"
     }
 ]
