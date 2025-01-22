@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Belangrijke contractbreukmelding met betrekking tot Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een kritiek probleem aan het licht gekomen met betrekking tot de contractuele overeenkomst tussen Proximus en Clerk Chat, specifiek op het gebied van data-analyse. De details van deze schending zijn gedocumenteerd in het bijgevoegde document. Het is van cruciaal belang dat u dit onmiddellijk onderzoekt.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Dringend_Contractbreuk_Analyse_Vereist",
+        "addressing_the_receiver": "Geachte mevrouw Declercq,",
+        "body": "We hebben een contractbreuk vastgesteld die onmiddellijke aandacht vereist. Uit een recente analyse blijkt dat er discrepanties zijn in de data-uitwisseling tussen Proximus en BICS. Dit kan aanzienlijke gevolgen hebben voor onze operationele effici\u00ebntie en contractuele verplichtingen.\n\nWe verzoeken u dringend om de details te bekijken via de link hieronder. Uw expertise als data-analist is cruciaal om deze kwestie snel op te lossen.\n\n",
+        "email_sign_fullname": "Joris Van Damme",
+        "email_sign_role": "Chief Financial Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Bekijk Nu"
     },
     {
-        "subject": "Onmiddellijke actie vereist: Contractbreuk in Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een ernstige contractbreuk vastgesteld die uw aandacht vereist. Dit heeft directe gevolgen voor onze data-analyse processen. We vragen u dringend het bijgevoegde document te bekijken voor alle details en de volgende stappen. \n\nHoogachtend,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Belangrijk_Data_Discrepantie_Contract",
+        "addressing_the_receiver": "Geachte mevrouw Declercq,",
+        "body": "Er is een belangrijk probleem vastgesteld met betrekking tot een contractbreuk. We hebben significante afwijkingen opgemerkt in de datastromen tussen onze systemen en die van Proximus. Dit is een kritieke situatie die onmiddellijke analyse vereist om de impact en oorzaak te bepalen.\n\nKlik op de onderstaande link om toegang te krijgen tot de benodigde informatie. Uw snelle actie is van essentieel belang.\n\n",
+        "email_sign_fullname": "Joris Van Damme",
+        "email_sign_role": "Chief Financial Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Analyseer Direct"
     },
     {
-        "subject": "Data Analyse Contractbreuk: Uw onmiddellijke aandacht is vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een contractbreuk met betrekking tot data-analyse ontdekt. Het document dat hieronder is bijgevoegd, bevat alle details. We vragen u dit zo snel mogelijk te bekijken.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Actie_Vereist_Contractbreuk_Data",
+        "addressing_the_receiver": "Geachte mevrouw Declercq,",
+        "body": "We hebben een duidelijke contractbreuk vastgesteld die direct moet worden onderzocht. Er zijn aanzienlijke inconsistenties in de data-uitwisseling met Proximus die wijzen op een potenti\u00eble schending van onze overeenkomst. Het is essentieel dat we deze situatie onmiddellijk aanpakken.\n\nDe details zijn beschikbaar via de link hieronder. We rekenen op uw expertise om deze zaak zo snel mogelijk op te helderen.\n\n",
+        "email_sign_fullname": "Joris Van Damme",
+        "email_sign_role": "Chief Financial Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Onderzoek Nu"
     }
 ]

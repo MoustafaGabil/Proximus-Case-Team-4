@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Dringend: Analyse van Clerk Chat-gegevens vereist onmiddellijke actie",
-        "body": "Geachte mevrouw Declercq,\n\nUit recente analyses is gebleken dat er een kritieke discrepantie is in de datastromen van Clerk Chat, onze real-time messaging service. Dit heeft directe gevolgen voor onze klantcommunicatie en kan leiden tot een vertekend beeld van de interacties met onze klanten. De nauwkeurigheid van de rapporten die hierdoor gegenereerd worden, wordt ernstig in twijfel getrokken.\n\nUw expertise als Data Analyst is nu cruciaal. Wij vragen u om zo spoedig mogelijk de bijgevoegde dataset te analyseren en de oorzaak van deze afwijkingen te achterhalen. De resultaten van deze analyse zijn van groot belang voor onze operationele besluitvorming. \n\nWe rekenen op uw snelle actie.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Jane Doe",
-        "email_sign_role": "Product Manager",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Dringend_Actie_vereist: Onderzoek naar afwijkingen in internationale gespreksgegevens",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "We hebben onlangs aanzienlijke afwijkingen vastgesteld in de internationale gespreksgegevens die door BICS worden geleverd. Deze discrepanties kunnen een impact hebben op de nauwkeurigheid van onze facturatie en rapportage. Uw expertise als Data Analist is cruciaal om de oorzaak van deze problemen te achterhalen en een snelle oplossing te bieden. Wij verzoeken u vriendelijk om zo spoedig mogelijk de details te onderzoeken die beschikbaar zijn via de onderstaande link. Het is van het grootste belang dat dit probleem snel wordt opgelost om verdere financi\u00eble gevolgen te voorkomen.",
+        "email_sign_fullname": "Michael De Bruyne",
+        "email_sign_role": "Chief Strategy & Business Development Officer",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Bekijk Nu"
     },
     {
-        "subject": "Kritieke data-afwijking in Clerk Chat: Onmiddellijke analyse vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben zojuist een significante data-afwijking ontdekt in de rapportages van Clerk Chat. Deze afwijking be\u00efnvloedt direct de nauwkeurigheid van onze klantcommunicatiegegevens, wat potentieel leidt tot onjuiste conclusies en beslissingen. Het is essentieel dat dit probleem onmiddellijk wordt aangepakt om verdere onnauwkeurigheden te voorkomen.\n\nWij verzoeken u om direct de bijgevoegde data-export te onderzoeken. Uw analyse van de onderliggende oorzaken is van het grootste belang voor ons. Uw snelle reactie is nu cruciaal om de data-integriteit te herstellen.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "John Smith",
-        "email_sign_role": "Backend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Belangrijk: Data-analyse nodig voor BICS internationale gesprekken",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "Er is een onmiddellijk onderzoek nodig naar een ernstige inconsistentie in de data van BICS\u2019 internationale gesprekken. Deze inconsistenties hebben mogelijk verreikende gevolgen voor de operationele effici\u00ebntie en de financi\u00eble integriteit. Uw expertise in data-analyse is van essentieel belang om de bron van deze problemen te identificeren en te verhelpen. We vragen u dringend om de volgende stappen te ondernemen, die u kunt vinden via de link hieronder. Een spoedige reactie is essentieel om mogelijke schade te minimaliseren.",
+        "email_sign_fullname": "Sarah Dubois",
+        "email_sign_role": "Finance Transformation",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Analyseer Nu"
     },
     {
-        "subject": "Dringende data-analyse: Problemen met Clerk Chat rapportage",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een urgent probleem met de datanauwkeurigheid in de rapportage van Clerk Chat vastgesteld. Deze onnauwkeurigheden kunnen van invloed zijn op de klanttevredenheid en onze operationele effici\u00ebntie. We hebben onmiddellijk uw expertise nodig om dit probleem op te lossen.\n\nWij vragen u vriendelijk doch dringend om de bijgevoegde data te analyseren. Uw inzicht is essentieel om de oorzaak te identificeren en ons te helpen dit zo snel mogelijk te corrigeren. Een spoedige reactie wordt ten zeerste op prijs gesteld.\n\nMet vriendelijke groet,\n\n",
-        "email_sign_fullname": "Alice Brown",
-        "email_sign_role": "Frontend Engineer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Onmiddellijke_Data_Analyse_Vereist: BICS Internationale Communicatie",
+        "addressing_the_receiver": "Geachte Mevrouw Declercq,",
+        "body": "We hebben een significant probleem ontdekt met de data van internationale communicatiediensten geleverd door BICS. Er is een kritieke noodzaak om de onderliggende oorzaken van deze onregelmatigheden te onderzoeken om ervoor te zorgen dat onze diensten naar behoren functioneren en dat onze gegevens betrouwbaar zijn. Uw rol als Data Analist is hierbij essentieel. We verzoeken u dringend om de details, te vinden in de onderstaande link, te bekijken en actie te ondernemen. De timing van dit onderzoek is essentieel om verdere verstoringen te voorkomen.",
+        "email_sign_fullname": "Thomas Van Der Elst",
+        "email_sign_role": "Architecture & IT Solution Development",
+        "email_sign_company": "BICS",
+        "call_to_action_text": "Start Analyse"
     }
 ]

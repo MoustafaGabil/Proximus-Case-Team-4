@@ -1,0 +1,82 @@
+[
+    {
+        "provider": "BICS",
+        "first_name": "Surash",
+        "family_name": "Patel",
+        "role": "Managing Director",
+        "department": "Leadership",
+        "email_address": "surash.patel@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "C\u00e9dric",
+        "family_name": "Grandjean",
+        "role": "Chief Financial Officer",
+        "department": "Finance",
+        "email_address": "cedric.grandjean@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Divya",
+        "family_name": "Ghai Wakankar",
+        "role": "VP Strategy and Corporate Development",
+        "department": "Strategy",
+        "email_address": "divya.ghaiwakankar@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Joeri",
+        "family_name": "Veldeman",
+        "role": "VP People & Transformation",
+        "department": "Human Resources",
+        "email_address": "joeri.veldeman@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Jorn",
+        "family_name": "Vercamert",
+        "role": "VP Customer Solutions & Products",
+        "department": "Customer Solutions",
+        "email_address": "jorn.vercamert@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Mika\u00ebl",
+        "family_name": "Schachne",
+        "role": "Chief Revenue Officer Enterprise Sales",
+        "department": "Sales",
+        "email_address": "mikael.schachne@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Sophie",
+        "family_name": "Greffier",
+        "role": "Chief Revenue Officer Telco Sales",
+        "department": "Sales",
+        "email_address": "sophie.greffier@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Talia",
+        "family_name": "Goldstein",
+        "role": "VP Business Operations",
+        "department": "Operations",
+        "email_address": "talia.goldstein@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Yaunese",
+        "family_name": "Aazibou",
+        "role": "Chief Technology & Customer Service",
+        "department": "Technology",
+        "email_address": "yaunese.aazibou@bics.be"
+    },
+    {
+        "provider": "BICS",
+        "first_name": "Matteo",
+        "family_name": "Gatta",
+        "role": "CEO",
+        "department": "Leadership",
+        "email_address": "matteo.gatta@bics.be"
+    }
+]
