@@ -2,6 +2,8 @@ import os
 import json
 from generatecontent import ReportManager, ProviderManager, GeminiConnector
 from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider 
+from gophish_manager import GophishCampaignManager
+
 
 def main():
     company_name = "Proximus"
@@ -84,6 +86,55 @@ def main():
     email_generator.save_emails_to_file(issues_emails, output_dir=output_directory, email_type="issues_emails")
 
     print("Emails have been successfully generated and saved.")
+
+
+#    Initialize Gophish campaign manager
+    # print("\nInitializing Gophish campaign...")
+    # gophish_manager = GophishCampaignManager()
+    # 
+    # if gophish_manager.test_connection():
+        # Process each generated email type
+        # for email_type in ["services_emails", "events_emails", "issues_emails"]:
+            # email_file = os.path.join(output_directory, f"{email_type}.json")
+            # 
+            # with open(email_file, 'r') as f:
+                # emails = json.load(f)
+                # 
+            # for idx, email in enumerate(emails):
+                # Create template for each email
+                # template = gophish_manager.create_email_template(
+                    # name=f"{email_type}_template_{idx}",
+                    # subject=email.get('subject', 'Important Update'),
+                    # text=email.get('content', ''),
+                    # html=f"<p>{email.get('content', '')}</p>"
+                # )
+                # 
+                # Create landing page
+                # gophish_manager.create_landing_page(
+                    # name=f"{email_type}_page_{idx}",
+                    # html='<html><body>Click <a href="{{.URL}}">here</a></body></html>'
+                # )
+                # 
+                # Create SMTP profile if not exists
+                # if not gophish_manager.smtp_profile:
+                    # gophish_manager.create_smtp_profile(f"{email_type}_smtp_{idx}")
+                # 
+                # Create target group
+                # targets = [
+                    # {
+                        # 'first_name': random_employee.get('first_name', ''),
+                        # 'last_name': random_employee.get('last_name', ''),
+                        # 'email': random_employee.get('email', '')
+                    # }
+                # ]
+                # gophish_manager.create_target_group(f"{email_type}_group_{idx}", targets)
+                # 
+                # Create campaign
+                # gophish_manager.create_campaign(f"{email_type}_campaign_{idx}")
+                # 
+                # print(f"Campaign created for {email_type} - {idx+1}/{len(emails)}")
+
+        # print("All Gophish campaigns have been created successfully.")
 
 if __name__ == "__main__":
     main()
