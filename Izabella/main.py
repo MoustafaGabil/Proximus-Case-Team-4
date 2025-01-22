@@ -1,8 +1,8 @@
 import os
 import json
-from generatecontent import ReportManager, ProviderManager, GeminiConnector
+from generatecontent import ReportManager, ProviderManager, GeminiConnector, DataBlender
 from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider 
-from gophish_manager import GophishCampaignManager
+#from gophish_manager import GophishCampaignManager
 
 
 def main():
@@ -36,6 +36,16 @@ def main():
 
     # Extract provider from the first item in the list
     provider = provider_data[0].get("provider", "DefaultProvider")  # Default value in case 'provider' is not found
+
+    # Blend data for company and provider
+    blender = DataBlender(output_directory)
+    blender.blend_company_data(company_name)
+
+    # Get provider name from provider.json
+    with open(provider_file_path, "r") as f:
+        provider_data = json.load(f)
+    provider = provider_data[0].get("provider", "DefaultProvider")
+    blender.blend_provider_data(provider)
 
     # Initialize EmailGenerator
     email_output_file = os.path.join(output_directory, "generated_emails.json")

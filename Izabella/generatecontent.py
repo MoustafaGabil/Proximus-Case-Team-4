@@ -351,3 +351,62 @@ class ProviderManager:
                 output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name}_departments.json")
                 JSONHandler.save_json_from_string(report, output_path)
                 print(f"Main colors report saved to {output_path}")
+
+class DataBlender:
+    def __init__(self, output_dir="output"):
+        self.output_dir = output_dir
+
+    def read_json_file(self, file_path):
+        try:
+            with open(file_path, 'r') as file:
+                data = json.load(file)
+                if not isinstance(data, list):
+                    raise ValueError(f"Data in {file_path} is not a list as expected.")
+                return data
+        except (json.JSONDecodeError, FileNotFoundError) as e:
+            print(f"Error reading {file_path}: {e}")
+            return []
+
+    def blend_company_data(self, company_name):
+        file_types = {
+            'main_company_report': 'general',
+            'key_employees_roles_report': 'employees',
+            'company_colors': 'colors',
+            'departments': 'departments',
+            'providers': 'providers'
+        }
+        
+        blended_data = {}
+        
+        for file_type, data_key in file_types.items():
+            file_path = os.path.join(self.output_dir, f"{company_name.lower()}_{file_type}.json")
+            data = self.read_json_file(file_path)
+            if data:
+                blended_data[data_key] = data
+
+        output_file = os.path.join(self.output_dir, f"{company_name.lower()}_blended_data.json")
+        with open(output_file, 'w') as f:
+            json.dump(blended_data, f, indent=4)
+        
+        return blended_data
+
+    def blend_provider_data(self, provider_name):
+        file_types = {
+            'key_employees_roles': 'employees',
+            'main_colors': 'colors',
+            'departments': 'departments'
+        }
+        
+        blended_data = {}
+        
+        for file_type, data_key in file_types.items():
+            file_path = os.path.join(self.output_dir, f"{provider_name}_{file_type}.json")
+            data = self.read_json_file(file_path)
+            if data:
+                blended_data[data_key] = data
+
+        output_file = os.path.join(self.output_dir, f"{provider_name}_blended_data.json")
+        with open(output_file, 'w') as f:
+            json.dump(blended_data, f, indent=4)
+        
+        return blended_data
