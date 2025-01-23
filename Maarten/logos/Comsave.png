@@ -1,0 +1,76 @@
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><title>
+	Error | Commsave
+</title>
+
+	<style>
+		body {
+			margin: 0;
+			height: 100vh;
+			background: #EEE;
+			font-family: Arial, sans-serif;
+			text-align: center;
+			display: flex;
+			justify-content: center;
+			justify-items: center;
+			align-items: center;
+			align-content: center;
+		}
+
+		h1 {
+			font-size: 4rem;
+			line-height: 1rem;
+		}
+
+		p {
+			line-height: 1.5;
+		}
+
+		img.logo {
+			max-width: 280px;
+		}
+
+		.button {
+			background: #222;
+			color: #FFF;
+			line-height: 42px;
+			padding: 0 15px;
+			display: inline-block;
+			margin: 15px auto;
+			text-decoration: none;
+			border-radius: 3px;
+		}
+	</style>
+
+</head>
+<body>
+	<form method="post" action="./logo.png?code=404&amp;404%3bhttps%3a%2f%2fwww.commsave.co.uk%3a443%2fimages%2flogo.png" id="form1">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="ZmZc/wfu5r7jYqPXLxKUP9JxNQf+2lsJbYvGiQTRC/13fuLiIL9OVNG8jBxzCAta5L+OLvInXb2mHHaOHCptTRdJCr6YabibfTUqnkn3Z5eNnqQMXetuJuYJ+CF/fxR5E3I0DlgruPHGdX4blIH6DjR8IB7LzRGDoC7OeUSVrnUI2qCQurCluPom8u1w1h6h/7Pgsqk9naljTHhL3m46800xt1LCVs6B+/MeIyxT2dacMsGP4W4bSs0Vq/A3BJAxziPQVgsgFNjGPLuZlyzLQibHi5oUsusYBQYcw+7mrtH86NjF07YWKku06pza2V9t" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="AB827D4F" />
+
+		<main>
+			
+			<img src="/Content/Images/logo.png" alt="Commsave" class="logo" />
+			
+			<h1>404</h1>
+
+			<h2>
+				Page Not Found
+			</h2>
+
+			<p>
+				The page or resource you've requested couldn't be found.<br/>Please check the URL you've entered/followed is correct.
+			</p>
+			
+			<a href="/" class="button">Back to Home</a>
+
+		</main>
+
+	</form>
+</body>
+</html>

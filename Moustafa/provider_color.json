@@ -1,57 +1,13 @@
 [
     {
-        "provider": "BICS",
+        "provider": "Coast",
         "color_name_1": "Blue",
-        "hex_code_1": "#1C97D4",
-        "rgb_code_1": [
-            28,
-            151,
-            212
-        ]
+        "hex_code_1": null,
+        "rgb_code_1": null
     },
     {
-        "color_name_2": "Green",
-        "hex_code_2": "#36B556",
-        "rgb_code_2": [
-            54,
-            181,
-            86
-        ]
-    },
-    {
-        "color_name_3": "Orange",
-        "hex_code_3": "#F58224",
-        "rgb_code_3": [
-            245,
-            130,
-            36
-        ]
-    },
-    {
-        "color_name_4": "Red",
-        "hex_code_4": "#E8242D",
-        "rgb_code_4": [
-            232,
-            36,
-            45
-        ]
-    },
-    {
-        "color_name_5": "Yellow",
-        "hex_code_5": "#FDB717",
-        "rgb_code_5": [
-            253,
-            183,
-            23
-        ]
-    },
-    {
-        "color_name_6": "Black",
-        "hex_code_6": "#050708",
-        "rgb_code_6": [
-            5,
-            7,
-            8
-        ]
+        "color_name_2": "Gray",
+        "hex_code_2": null,
+        "rgb_code_2": null
     }
 ]

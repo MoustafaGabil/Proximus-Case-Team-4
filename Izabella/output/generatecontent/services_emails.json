@@ -1,0 +1,23 @@
+[
+    {
+        "service_emails_template": {
+            "email_subject": "Dringende kwestie: Beveiligingsrisico in Proximus IT-infrastructuur",
+            "email_body": "Geachte heer Vandenberg,\n\nIk schrijf u vandaag met een dringende kwestie die onmiddellijke aandacht vereist. Ons team heeft een significant beveiligingsrisico ontdekt binnen de IT-infrastructuur van Proximus, specifiek met betrekking tot de diensten die wij leveren. Dit risico kan leiden tot een datalek en de integriteit van de systemen van Proximus in gevaar brengen.\n\nDe details van dit beveiligingsrisico zijn te vinden in de bijgevoegde link. Het is van cruciaal belang dat we dit probleem zo snel mogelijk aanpakken om mogelijke schade te voorkomen. We verzoeken u dan ook om dit met de hoogste prioriteit te behandelen.\n\nWe staan klaar om samen met uw team te werken aan een snelle en effectieve oplossing. We kijken uit naar uw spoedige reactie.\n\nMet vriendelijke groet,\n\n[Link]",
+            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
+        }
+    },
+    {
+        "service_emails_template": {
+            "email_subject": "Dringende kwestie: Kwetsbaarheid in Proximus Enterprise Market",
+            "email_body": "Geachte heer Vandenberg,\n\nIk neem contact met u op in verband met een kritieke beveiligingskwetsbaarheid die we hebben ge\u00efdentificeerd in de Enterprise Market-diensten van Proximus, die door Deloitte worden geleverd. Deze kwetsbaarheid vormt een ernstig risico voor de gegevensbeveiliging en de continu\u00efteit van de dienstverlening.\n\nDe volledige details van deze kwetsbaarheid, inclusief de mogelijke impact en de aanbevolen stappen, zijn te vinden in de link hieronder. Het is van het grootste belang dat we onmiddellijk actie ondernemen om dit risico te minimaliseren en de veiligheid van de systemen van Proximus te waarborgen.\n\nWe zijn bereid om nauw met u samen te werken om dit probleem zo snel mogelijk op te lossen. We verzoeken u om dit met de hoogste prioriteit te behandelen.\n\nMet vriendelijke groet,\n\n[Link]",
+            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
+        }
+    },
+    {
+        "service_emails_template": {
+            "email_subject": "Dringende kwestie: Beveiligingslek in Proximus Consumer Market",
+            "email_body": "Geachte heer Vandenberg,\n\nIk schrijf u vandaag met een dringende kwestie die onmiddellijke aandacht vereist. Ons team heeft een significant beveiligingslek ontdekt binnen de Consumer Market-diensten van Proximus, die door Deloitte worden geleverd. Dit lek kan leiden tot een datalek en de integriteit van de systemen van Proximus in gevaar brengen.\n\nDe details van dit beveiligingslek zijn te vinden in de bijgevoegde link. Het is van cruciaal belang dat we dit probleem zo snel mogelijk aanpakken om mogelijke schade te voorkomen. We verzoeken u dan ook om dit met de hoogste prioriteit te behandelen.\n\nWe staan klaar om samen met uw team te werken aan een snelle en effectieve oplossing. We kijken uit naar uw spoedige reactie.\n\nMet vriendelijke groet,\n\n[Link]",
+            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
+        }
+    }
+]

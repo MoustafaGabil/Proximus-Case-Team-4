@@ -1,7 +1,7 @@
 import os
 import json
 from generatecontent import ReportManager, ProviderManager, GeminiConnector, DataBlender
-from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider 
+from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider, LogoFetcher
 #from gophish_manager import GophishCampaignManager
 
 
@@ -96,6 +96,25 @@ def main():
     email_generator.save_emails_to_file(issues_emails, output_dir=output_directory, email_type="issues_emails")
 
     print("Emails have been successfully generated and saved.")
+
+    # Initialize LogoFetcher
+    logo_fetcher = LogoFetcher(output_dir=output_directory)
+
+    # Fetch company logo
+    company_logo = logo_fetcher.get_company_logo(company_name)
+    print(f"Company logo for {company_name}: {company_logo}")
+
+    # Fetch provider logo
+    with open(provider_file_path, "r") as f:
+        provider_data = json.load(f)
+    provider = provider_data[0].get("provider", "DefaultProvider")
+    provider_logo = logo_fetcher.get_provider_logo(provider)
+    print(f"Provider logo for {provider}: {provider_logo}")
+
+    # Optionally, save logos from the provider JSON file
+    provider_logos = logo_fetcher.save_logos(provider_file_path)
+    print("Additional logos saved:", provider_logos)
+
 
 
 #    Initialize Gophish campaign manager

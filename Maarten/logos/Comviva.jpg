@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<head>
+    <base href="//error.c.cdn77.org/" target="_blank">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="author" content="(c) 2023 CDN77">
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="robots" content="nofollow" />
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="shortcut icon" href="img/favicon.ico" />
+
+    <title>Website is offline – Suspended CDN resource</title>
+</head>
+<body>
+    <header class="Header">
+        <div class="Header-wrap">
+            <span class="Header-errorNumber">Error 477</span>
+                        <h1 class="Header-title">Suspended CDN resource</h1>
+            <div class="Header-description">Unfortunately, this CDN resource has been suspended.</div>
+        
+        </div>
+    </header>
+    <section class="Section Section--errorBottom">
+        <div class="Section-wrap">
+                        <div class="WhatToDo">
+                <div class="WhatToDo-column">
+                    <h3 class="WhatToDo-title">If you're a <strong>Visitor...</strong></h3>
+                    <div class="WhatToDo-description">
+                        <p>Please try again later. If the problem persists, try contacting website owner via a different channel.</p>
+                    </div>
+                </div>
+            </div>
+        
+        </div>
+    </section>
+</body>

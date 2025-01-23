@@ -1,0 +1,115 @@
+[
+    {
+        "department": "Consumer Business Unit",
+        "subdivision": [
+            "Residential",
+            "Small and Medium Businesses"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Enterprise Business Unit",
+        "subdivision": [
+            "Large Enterprises",
+            "Public Sector",
+            "Wholesale"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Technology",
+        "subdivision": [
+            "Network Engineering",
+            "Information Technology",
+            "Innovation and Research"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Finance",
+        "subdivision": [
+            "Accounting",
+            "Controlling",
+            "Treasury",
+            "Investor Relations"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Human Resources",
+        "subdivision": [
+            "Talent Acquisition",
+            "Learning and Development",
+            "Compensation and Benefits",
+            "Employee Relations"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Legal and Regulatory Affairs",
+        "subdivision": [
+            "Legal Counsel",
+            "Regulatory Compliance",
+            "Data Protection"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Corporate Affairs",
+        "subdivision": [
+            "Communications",
+            "Public Relations",
+            "Sustainability",
+            "Corporate Social Responsibility"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Procurement",
+        "subdivision": [
+            "Sourcing",
+            "Supplier Management",
+            "Logistics"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Customer Operations",
+        "subdivision": [
+            "Customer Service",
+            "Order Management",
+            "Technical Support"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Marketing",
+        "subdivision": [
+            "Brand Management",
+            "Product Marketing",
+            "Digital Marketing",
+            "Market Research"
+        ],
+        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
+    }
+]
