@@ -2,64 +2,75 @@
     {
         "department": "Chief Executive Officer's Department",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Consumer Market",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Enterprise Market",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Corporate Affairs",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Network & Wholesale",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Customer Operations",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Human Capital",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Digital & IT",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
     },
     {
         "department": "Finance",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
-        "vat": "BE 0202239951"
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "department": "Proximus Global",
+        "subdivision": [
+            "BICS",
+            "Telesign",
+            "Route Mobile"
+        ],
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202.239.951"
     }
 ]

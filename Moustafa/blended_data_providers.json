@@ -1,104 +1,88 @@
 {
-    "Coast": {
+    "K-Force": {
         "general": {
-            "provider": "Coast",
-            "service": "Branding agency, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers",
-            "type": "Branding Agency",
-            "provider_homepage": "coast-agency.com"
+            "provider": "K-Force",
+            "service": "Telephony and internet services, assisting in making the right choices for business customers.",
+            "type": "Proximus Business Partner",
+            "provider_homepage": "https://k-force.be/"
         },
         "employee": [
             {
-                "provider": "Coast",
-                "first_name": "Celia",
-                "family_name": "Gillet",
-                "role": "Contact Person",
-                "department": "Unknown",
-                "email_address": "celia.gillet@coast-agency.be"
+                "provider": "K-Force",
+                "first_name": "Kurt",
+                "family_name": "Everaerts",
+                "role": "Owner",
+                "department": "Management",
+                "email_address": "kurt.everaerts@k-force.be"
             },
             {
-                "provider": "Coast",
-                "first_name": "Phil",
-                "family_name": "Unknown",
-                "role": "Client Relations & Operations",
-                "department": "Unknown",
-                "email_address": "phil.unknown@coast-agency.be"
+                "provider": "K-Force",
+                "first_name": "Fabien",
+                "family_name": "Meersman",
+                "role": "Technical Manager",
+                "department": "Technical",
+                "email_address": "fabien.meersman@k-force.be"
             },
             {
-                "provider": "Coast",
-                "first_name": "Kelsey",
-                "family_name": "Unknown",
-                "role": "Unknown",
-                "department": "Unknown",
-                "email_address": "kelsey.unknown@coast-agency.be"
+                "provider": "K-Force",
+                "first_name": "Kaj",
+                "family_name": "Van Langendonck",
+                "role": "Sales Manager",
+                "department": "Sales",
+                "email_address": "kaj.vanlangendonck@k-force.be"
             }
         ],
         "color": {
-            "provider": "Coast",
-            "color_name_1": "Blue",
+            "provider": "K-Force",
+            "color_name_1": "Orange",
             "hex_code_1": null,
             "rgb_code_1": null
         },
         "departments": [
             {
-                "provider": "Coast",
-                "department": "Brand Strategy",
+                "provider": "K-Force",
+                "department": "Information and Communication Technology Services",
                 "subdivision": [
-                    "Research & Analysis",
-                    "Stakeholder interviews",
-                    "On-site visits",
-                    "Customer interviews",
-                    "Competition Benchmark & Trend analysis",
-                    "Communication SWOT analysis",
-                    "Brand strategy workshop",
-                    "Vision, Mission & Value",
-                    "Brand positioning & Brand activation plan"
+                    "Cloud Solutions",
+                    "IT Security",
+                    "Networking and Hardware",
+                    "Microsoft 365 Development",
+                    "Web Design and Marketing"
                 ],
-                "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
-                "phone": "+32 2 340 27 60",
-                "vat": null
+                "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
+                "phone": "+32 2 380 23 32",
+                "vat": "BE 0831.425.897"
             },
             {
-                "provider": "Coast",
-                "department": "Brand Identity",
+                "provider": "K-Force",
+                "department": "Telephony and Internet Services",
                 "subdivision": [
-                    "Naming, brand nomenclature & architecture",
-                    "Brand identity concepts",
-                    "Graphic and visual system",
-                    "Logotype development or refresh",
-                    "Font design",
-                    "Visual and imagery style",
-                    "Brand book - guidelines",
-                    "Verbal system",
-                    "Tone of voice",
-                    "Copywriting",
-                    "Tagline",
-                    "Motion design",
-                    "Website strategy & design",
-                    "Social Media playbook"
+                    "Mobile Telephony",
+                    "Cloud Telephony",
+                    "Fiber Internet"
                 ],
-                "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
-                "phone": "+32 2 340 27 60",
-                "vat": null
+                "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
+                "phone": "+32 2 380 23 32",
+                "vat": "BE 0831.425.897"
             },
             {
-                "provider": "Coast",
-                "department": "Brand Activation",
+                "provider": "K-Force",
+                "department": "Training",
                 "subdivision": [
-                    "Print Design",
-                    "Stationary",
-                    "Brochures & Books",
-                    "Packaging design",
-                    "Digital design",
-                    "Social Media campaigns",
-                    "Website design",
-                    "Campaigns",
-                    "Retail design & flow",
-                    "Hospitality design & flow",
-                    "Signage design & flow"
+                    "Training Sessions",
+                    "Knowledge Base"
                 ],
-                "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
-                "phone": "+32 2 340 27 60",
-                "vat": null
+                "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
+                "phone": "+32 2 380 23 32",
+                "vat": "BE 0831.425.897"
+            },
+            {
+                "provider": "K-Force",
+                "department": "Helpdesk",
+                "subdivision": [],
+                "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
+                "phone": "+32 2 380 23 32",
+                "vat": "BE 0831.425.897"
             }
         ]
     }

@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Immediate Action Required: Proximus Brand Guidelines Update",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "Our team at Coast has identified a critical discrepancy in the current Proximus brand guidelines that requires your immediate attention. The inconsistency in visual assets across recent campaigns is impacting brand recognition and potentially diluting our message. It's crucial that we address this promptly to ensure a unified brand representation. Please review the updated guidelines immediately by clicking the link below. This is urgent, as ongoing campaigns risk further misrepresentation if not aligned with the new standards.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Brand Strategist",
-        "email_sign_company": "Coast",
-        "call_to_action_text": "Review Now"
+        "subject": "Dringende update: Beveiligingsrisico in Proximus telefonie",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "We hebben een kritiek beveiligingsrisico ontdekt in de telefonie-infrastructuur van Proximus die onmiddellijke aandacht vereist. Deze kwestie kan de integriteit en de veiligheid van uw communicatiekanalen in gevaar brengen. \n\nHet is van groot belang dat we dit probleem zo snel mogelijk aanpakken. Daarom vragen we u vriendelijk om de details van het risico en de benodigde acties te bekijken via de onderstaande link. De link leidt u naar een document waarin alles wordt uitgelegd. We verzoeken u om dit document te bekijken voor <strong>Vrijdag 26 Januari om 17:00</strong>. \n\nUw snelle reactie is cruciaal om verdere risico's te voorkomen. Als u vragen heeft of hulp nodig heeft, aarzel dan niet om contact met ons op te nemen.",
+        "email_sign_fullname": "Thomas De Bruyne",
+        "email_sign_role": "IT Consultant",
+        "email_sign_company": "K-Force",
+        "call_to_action_text": "Bekijk direct"
     },
     {
-        "subject": "Urgent: Proximus Naming Strategy Revision Needed",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We've detected an issue with the application of the new Proximus naming strategy across several product lines. This misalignment is creating confusion for our customers and needs to be corrected as soon as possible.  We've prepared a revised naming architecture document. It is imperative that you download and implement these changes to avoid any further inconsistencies. Your swift action is critical to avoid long term brand confusion. The document is available for download below.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Brand Strategist",
-        "email_sign_company": "Coast",
-        "call_to_action_text": "Download Now"
+        "subject": "Belangrijke beveiligingswaarschuwing: Proximus telefonie",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "We hebben vastgesteld dat er een potentieel beveiligingslek is in het Proximus telefoniesysteem. Dit lek kan leiden tot ongewenste toegang en mogelijk gevoelige data in gevaar brengen. We willen u er dringend van op de hoogte brengen om de nodige voorzorgsmaatregelen te treffen. \n\nOm de impact te minimaliseren en uw systemen te beschermen, hebben we een gedetailleerde risicoanalyse en actieplan opgesteld. Dit document is beschikbaar via de onderstaande link. We adviseren u ten zeerste om deze informatie voor <strong>Dinsdag 30 Januari om 12:00</strong> te bekijken. \n\nUw medewerking is essentieel voor de beveiliging van uw communicatie infrastructuur. Neem contact met ons op als u nog vragen of opmerkingen heeft.",
+        "email_sign_fullname": "Thomas De Bruyne",
+        "email_sign_role": "IT Consultant",
+        "email_sign_company": "K-Force",
+        "call_to_action_text": "Lees nu"
     },
     {
-        "subject": "Critical: Communication Offer Alignment for Proximus",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "There's an urgent need to address inconsistencies in the current communication offers for Proximus. Our analysis reveals that different offers are not clearly aligned with the overall brand strategy. This could lead to a loss of potential customers and reduced brand effectiveness. Please access the link below to find updated communication guidelines that will help resolve this issue. It is important to act swiftly to maintain a cohesive and impactful brand message.",
-        "email_sign_fullname": "Sophie Dubois",
-        "email_sign_role": "Brand Strategist",
-        "email_sign_company": "Coast",
-        "call_to_action_text": "Access Here"
+        "subject": "Onmiddellijke actie vereist: Beveiligingslek in Proximus telefonie",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Er is een urgent beveiligingslek ontdekt in het Proximus telefonie systeem dat onmiddellijke actie vereist. Dit lek kan aanzienlijke gevolgen hebben voor de veiligheid van uw bedrijf en de communicatie van uw organisatie. \n\nWe hebben een uitgebreid overzicht van het probleem en de noodzakelijke stappen die moeten worden genomen voorbereid. Deze informatie is essentieel om de situatie zo snel mogelijk onder controle te krijgen. Het document is toegankelijk via de onderstaande link. We verzoeken u vriendelijk om dit document te bekijken voor <strong>Maandag 29 Januari om 16:00</strong>. \n\nUw prompt handelen is van cruciaal belang om de veiligheid van uw Proximus-telefonie te waarborgen. Als u vragen heeft, neem dan onmiddellijk contact met ons op.",
+        "email_sign_fullname": "Thomas De Bruyne",
+        "email_sign_role": "IT Consultant",
+        "email_sign_company": "K-Force",
+        "call_to_action_text": "Handel snel"
     }
 ]

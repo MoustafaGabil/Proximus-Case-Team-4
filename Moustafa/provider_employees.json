@@ -1,26 +1,26 @@
 [
     {
-        "provider": "Coast",
-        "first_name": "Celia",
-        "family_name": "Gillet",
-        "role": "Contact Person",
-        "department": "Unknown",
-        "email_address": "celia.gillet@coast-agency.be"
+        "provider": "K-Force",
+        "first_name": "Kurt",
+        "family_name": "Everaerts",
+        "role": "Owner",
+        "department": "Management",
+        "email_address": "kurt.everaerts@k-force.be"
     },
     {
-        "provider": "Coast",
-        "first_name": "Phil",
-        "family_name": "Unknown",
-        "role": "Client Relations & Operations",
-        "department": "Unknown",
-        "email_address": "phil.unknown@coast-agency.be"
+        "provider": "K-Force",
+        "first_name": "Fabien",
+        "family_name": "Meersman",
+        "role": "Technical Manager",
+        "department": "Technical",
+        "email_address": "fabien.meersman@k-force.be"
     },
     {
-        "provider": "Coast",
-        "first_name": "Kelsey",
-        "family_name": "Unknown",
-        "role": "Unknown",
-        "department": "Unknown",
-        "email_address": "kelsey.unknown@coast-agency.be"
+        "provider": "K-Force",
+        "first_name": "Kaj",
+        "family_name": "Van Langendonck",
+        "role": "Sales Manager",
+        "department": "Sales",
+        "email_address": "kaj.vanlangendonck@k-force.be"
     }
 ]

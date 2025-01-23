@@ -1,68 +1,38 @@
 [
     {
-        "provider": "WPP Group",
-        "service": "Advertising, marketing, and communication services",
-        "type": "Marketing and Advertising Agency",
-        "provider_homepage": "www.wpp.com"
-    },
-    {
-        "provider": "Springbok",
-        "service": "Performance marketing initiatives",
-        "type": "Marketing Agency",
+        "provider": "AUSY BELGIUM / Data Flow",
+        "service": "Troubleshooting, customer support & maintenance",
+        "type": "Datacenter Operations",
         "provider_homepage": null
     },
     {
-        "provider": "FamousGrey",
-        "service": "Strategic and creative partner, ecosystem leader",
-        "type": "Advertising Agency",
-        "provider_homepage": "famousgrey.com"
-    },
-    {
-        "provider": "Maxus (Group M)",
-        "service": "Media partner",
-        "type": "Media Agency",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Prophets",
-        "service": "Digital creative agency",
-        "type": "Digital Agency",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Altavia Act",
-        "service": "Responsible for points of sale and packaging",
-        "type": "Marketing Agency",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Coast",
-        "service": "Branding agency, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers",
-        "type": "Branding Agency",
-        "provider_homepage": "coast-agency.com"
-    },
-    {
-        "provider": "desiRED",
-        "service": "Training for professional video creation on smartphones, coaching and training for internal communication and branding teams on TikTok",
-        "type": "Digital Strategy & Communication Agency",
-        "provider_homepage": "desired.be"
-    },
-    {
-        "provider": "Franke Media",
-        "service": "Closed User Group for Proximus+ app users, offering discounts and promotions",
-        "type": "Affiliate Marketing",
-        "provider_homepage": "frankemedia.nl"
-    },
-    {
-        "provider": "Strobus Infosoft",
-        "service": "Digital AdBoard APP-on-Cloud for displaying commercials, promotions, and offers",
+        "provider": "Infosys",
+        "service": "Standardizing processes on the ServiceNow platform and transforming customer service management (CSM) operations.",
         "type": "Technology Service Provider",
-        "provider_homepage": "strobusinfosoft.com"
+        "provider_homepage": "https://www.infosys.com/"
     },
     {
-        "provider": "Digipolitans",
-        "service": "Consultancy for data-driven, automated, always-on, and end-to-end digital marketing",
-        "type": "Consultancy",
-        "provider_homepage": null
+        "provider": "Anywhere365",
+        "service": "Provides solutions for managing customer interactions, including contact center solutions.",
+        "type": "Technology Service Provider",
+        "provider_homepage": "https://anywhere365.io/"
+    },
+    {
+        "provider": "Tech Mahindra",
+        "service": "Designing and building a technology platform for next-generation connectivity offerings.",
+        "type": "Technology Service Provider",
+        "provider_homepage": "https://www.techmahindra.com/"
+    },
+    {
+        "provider": "Accenture",
+        "service": "Development of a next-generation digital TV platform.",
+        "type": "Technology Service Provider",
+        "provider_homepage": "https://www.accenture.com/"
+    },
+    {
+        "provider": "K-Force",
+        "service": "Telephony and internet services, assisting in making the right choices for business customers.",
+        "type": "Proximus Business Partner",
+        "provider_homepage": "https://k-force.be/"
     }
 ]

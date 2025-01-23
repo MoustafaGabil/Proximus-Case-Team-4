@@ -1,11 +1,11 @@
 [
     {
-        "subject": "URGENT: Regulatory Compliance Issue Impacting Brand Activation",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We've identified a critical regulatory compliance issue directly impacting our brand activation strategies for Proximus. This requires your immediate attention as Marketing Specialist. The issue involves the latest advertising guidelines released by the Belgian authorities and how some of our current campaigns might be perceived. We've prepared a detailed briefing outlining the specific areas of concern and recommended adjustments. It is imperative that you review it urgently and provide feedback so we can maintain compliance. Failure to address this could lead to legal repercussions and brand damage. The briefing is available via the link below, you need to review it before Wednesday 29 January at 10 hour. Your swift action is essential.",
-        "email_sign_fullname": "Liam Dubois",
-        "email_sign_role": "Brand Strategist",
-        "email_sign_company": "Coast",
-        "call_to_action_text": "Review Now"
+        "subject": "Dringend: Netwerkonderbrekingen vereisen onmiddellijke aandacht",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "We hebben recentelijk een toename van netwerkonderbrekingen vastgesteld die mogelijk een impact hebben op de beveiliging van onze systemen. Deze onderbrekingen vereisen onmiddellijke aandacht van uw kant als Cybersecurity Specialist. Het is cruciaal dat we dit probleem oplossen v\u00f3\u00f3r <strong>vrijdag 24 januari om 13:00 uur</strong>. Gelieve de link hieronder te raadplegen voor meer details en de nodige acties. Uw snelle reactie is van essentieel belang om de continu\u00efteit en veiligheid van onze diensten te waarborgen.",
+        "email_sign_fullname": "Thomas De Wilde",
+        "email_sign_role": "Business Partner",
+        "email_sign_company": "K-Force",
+        "call_to_action_text": "Bekijk direct"
     }
 ]

@@ -26,71 +26,87 @@
                 0,
                 0
             ]
+        },
+        {
+            "color_name_4": "Proximus Red",
+            "hex_code_4": null,
+            "rgb_code_4": null
         }
     ],
     "departments": [
         {
             "department": "Chief Executive Officer's Department",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Consumer Market",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Enterprise Market",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Corporate Affairs",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Network & Wholesale",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Customer Operations",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Human Capital",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Digital & IT",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
         },
         {
             "department": "Finance",
             "subdivision": [],
-            "address": "Koning Albert II-laan 27, 1030 Brussels, Belgium",
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202239951"
+            "vat": "BE 0202.239.951"
+        },
+        {
+            "department": "Proximus Global",
+            "subdivision": [
+                "BICS",
+                "Telesign",
+                "Route Mobile"
+            ],
+            "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202.239.951"
         }
     ],
     "employees": [
@@ -102,51 +118,9 @@
             "email_address": "guillaume.boutin@proximus.be"
         },
         {
-            "first_name": "Ben",
-            "family_name": "Appel",
-            "role": "Corporate Affairs Lead",
-            "department": "Corporate Affairs",
-            "email_address": "ben.appel@proximus.be"
-        },
-        {
-            "first_name": "Jim",
-            "family_name": "Casteele",
-            "role": "Consumer Market Lead",
-            "department": "Consumer Market",
-            "email_address": "jim.casteele@proximus.be"
-        },
-        {
-            "first_name": "Anne-Sophie",
-            "family_name": "Lotgering",
-            "role": "Enterprise IT Services & Segments Lead",
-            "department": "Enterprise Market",
-            "email_address": "anne-sophie.lotgering@proximus.be"
-        },
-        {
-            "first_name": "Antonietta",
-            "family_name": "Mastroianni",
-            "role": "Digital & IT Lead",
-            "department": "Digital & IT",
-            "email_address": "antonietta.mastroianni@proximus.be"
-        },
-        {
-            "first_name": "Mark",
-            "family_name": "Reid",
-            "role": "Finance Lead",
-            "department": "Finance",
-            "email_address": "mark.reid@proximus.be"
-        },
-        {
-            "first_name": "Geert",
-            "family_name": "Standaert",
-            "role": "Network & Wholesale Lead",
-            "department": "Network & Wholesale",
-            "email_address": "geert.standaert@proximus.be"
-        },
-        {
             "first_name": "Stefaan",
             "family_name": "De Clerck",
-            "role": "Chairman of the Proximus Board",
+            "role": "Chairman of the Board",
             "department": "Board of Directors",
             "email_address": "stefaan.declerck@proximus.be"
         },
@@ -214,6 +188,48 @@
             "email_address": "joachim.sonne@proximus.be"
         },
         {
+            "first_name": "Mark",
+            "family_name": "Reid",
+            "role": "Finance Lead",
+            "department": "Finance",
+            "email_address": "mark.reid@proximus.be"
+        },
+        {
+            "first_name": "Jim",
+            "family_name": "Casteele",
+            "role": "Consumer Market Lead",
+            "department": "Consumer Market",
+            "email_address": "jim.casteele@proximus.be"
+        },
+        {
+            "first_name": "Anne-Sophie",
+            "family_name": "Lotgering",
+            "role": "Enterprise IT Services & Segments Lead",
+            "department": "Enterprise Market",
+            "email_address": "anne-sophie.lotgering@proximus.be"
+        },
+        {
+            "first_name": "Antonietta",
+            "family_name": "Mastroianni",
+            "role": "Digital & IT Lead",
+            "department": "Digital & IT",
+            "email_address": "antonietta.mastroianni@proximus.be"
+        },
+        {
+            "first_name": "Geert",
+            "family_name": "Standaert",
+            "role": "Network & Wholesale Lead",
+            "department": "Network & Wholesale",
+            "email_address": "geert.standaert@proximus.be"
+        },
+        {
+            "first_name": "Ben",
+            "family_name": "Appel",
+            "role": "Corporate Affairs Lead",
+            "department": "Corporate Affairs",
+            "email_address": "ben.appel@proximus.be"
+        },
+        {
             "first_name": "Renaud",
             "family_name": "Tilmans",
             "role": "Customer Operations Lead",
@@ -230,7 +246,7 @@
         {
             "first_name": "Karl",
             "family_name": "Cuveele",
-            "role": "Managing Director Proximus Real Estate - Connectimmo",
+            "role": "Managing Director Proximus Real Estate",
             "department": "Real Estate",
             "email_address": "karl.cuveele@proximus.be"
         },
@@ -252,7 +268,7 @@
             "first_name": "Geert",
             "family_name": "Kelchtermans",
             "role": "VP Small & Medium Enterprises - Tribe Lead",
-            "department": "Sales",
+            "department": "Small & Medium Enterprises",
             "email_address": "geert.kelchtermans@proximus.be"
         },
         {
@@ -273,7 +289,7 @@
             "first_name": "Thomas",
             "family_name": "Vanherk",
             "role": "Team Lead ICT Pricing & Costing",
-            "department": "ICT",
+            "department": "ICT Pricing & Costing",
             "email_address": "thomas.vanherk@proximus.be"
         },
         {
@@ -314,107 +330,72 @@
     ],
     "news": [
         {
-            "subject": "Proximus to Relocate Headquarters to Tour & Taxis",
-            "overview": "Proximus has selected Nextensa to develop its new headquarters at the Tour & Taxis site in Brussels. This move includes the sale of Proximus' current towers at the Brussels North Station to Nextensa. The final contracts are expected to be signed by the second quarter of 2025, with the relocation of employees scheduled for the first half of 2027 and the full campus operational by the end of the first half of 2029. This move is part of Proximus's strategy to enhance digital ecosystems and create a sustainable work environment.",
-            "source": "Tipranks.com, GlobeNewswire, BX1"
+            "subject": "Proximus to relocate headquarters to Tour & Taxis",
+            "overview": "Proximus has selected Nextensa to develop its new Brussels headquarters at the Tour & Taxis site. The move is scheduled for the first half of 2027, with all services and workplaces in place by the end of the first half of 2029. As part of the deal, Proximus will sell its current towers at the Brussels North Station to Nextensa. The new campus will be located in the Lake Side project and is designed to promote collaboration, innovation, and sustainability.",
+            "source": "TipRanks, GlobeNewswire, BX1"
         },
         {
-            "subject": "Proximus Creates Proximus Global",
-            "overview": "Proximus is integrating its international divisions under a single umbrella called Proximus Global. This new unit, valued at approximately \u20ac3.1 billion, will include BICS, Telesign, and Route Mobile. The move aims to consolidate Proximus' international activities and strengthen its position as a global digital communications leader.",
-            "source": "lightreading.com, Proximus.com"
+            "subject": "Proximus creates Proximus Global",
+            "overview": "Proximus has integrated its international division under a new umbrella called Proximus Global. This new entity combines BICS, Telesign, and Route Mobile, and is valued at approximately \u20ac3.1 billion in equity. The move aims to streamline operations and create a unified global leadership team.",
+            "source": "lightreading.com, telecomtv.com"
         },
         {
-            "subject": "Proximus Extends Revolving Credit Facility",
+            "subject": "Proximus extends Revolving Credit Facility",
             "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This renewal provides the company with financial flexibility and ensures a solid liquidity position.",
-            "source": "Proximus.com"
+            "source": "proximus.com"
         },
         {
             "subject": "Proximus Fiber Network Outperforms Competition",
-            "overview": "Studies by nPerf and Ookla have shown that Proximus' fiber network outperforms its competitors in terms of speed and performance. This recognition highlights the quality and reliability of Proximus' fiber infrastructure.",
-            "source": "Proximus.com, MarketScreener"
+            "overview": "Studies by nPerf and Ookla\u00ae have shown that Proximus' fiber network outperforms the competition in terms of speed and performance.",
+            "source": "proximus.com"
         },
         {
             "subject": "New Offer at Scarlet",
-            "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer providing more data at the same price. This initiative aims to provide customers with more value and enhance their mobile experience.",
-            "source": "Proximus.com"
-        },
-        {
-            "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-            "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain. This initiative is part of Proximus' commitment to sustainability and exploring eco-friendly transportation options.",
-            "source": "Proximus.com, MarketScreener"
+            "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer with more data at the same price.",
+            "source": "proximus.com"
         },
         {
             "subject": "Microsoft and Proximus Announce Strategic Partnership",
-            "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI products.",
-            "source": "thecyberexpress.com"
+            "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This partnership will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI products.",
+            "source": "The Cyber Express"
         }
     ],
     "providers": [
         {
-            "provider": "WPP Group",
-            "service": "Advertising, marketing, and communication services",
-            "type": "Marketing and Advertising Agency",
-            "provider_homepage": "www.wpp.com"
-        },
-        {
-            "provider": "Springbok",
-            "service": "Performance marketing initiatives",
-            "type": "Marketing Agency",
+            "provider": "AUSY BELGIUM / Data Flow",
+            "service": "Troubleshooting, customer support & maintenance",
+            "type": "Datacenter Operations",
             "provider_homepage": null
         },
         {
-            "provider": "FamousGrey",
-            "service": "Strategic and creative partner, ecosystem leader",
-            "type": "Advertising Agency",
-            "provider_homepage": "famousgrey.com"
-        },
-        {
-            "provider": "Maxus (Group M)",
-            "service": "Media partner",
-            "type": "Media Agency",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Prophets",
-            "service": "Digital creative agency",
-            "type": "Digital Agency",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Altavia Act",
-            "service": "Responsible for points of sale and packaging",
-            "type": "Marketing Agency",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Coast",
-            "service": "Branding agency, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers",
-            "type": "Branding Agency",
-            "provider_homepage": "coast-agency.com"
-        },
-        {
-            "provider": "desiRED",
-            "service": "Training for professional video creation on smartphones, coaching and training for internal communication and branding teams on TikTok",
-            "type": "Digital Strategy & Communication Agency",
-            "provider_homepage": "desired.be"
-        },
-        {
-            "provider": "Franke Media",
-            "service": "Closed User Group for Proximus+ app users, offering discounts and promotions",
-            "type": "Affiliate Marketing",
-            "provider_homepage": "frankemedia.nl"
-        },
-        {
-            "provider": "Strobus Infosoft",
-            "service": "Digital AdBoard APP-on-Cloud for displaying commercials, promotions, and offers",
+            "provider": "Infosys",
+            "service": "Standardizing processes on the ServiceNow platform and transforming customer service management (CSM) operations.",
             "type": "Technology Service Provider",
-            "provider_homepage": "strobusinfosoft.com"
+            "provider_homepage": "https://www.infosys.com/"
         },
         {
-            "provider": "Digipolitans",
-            "service": "Consultancy for data-driven, automated, always-on, and end-to-end digital marketing",
-            "type": "Consultancy",
-            "provider_homepage": null
+            "provider": "Anywhere365",
+            "service": "Provides solutions for managing customer interactions, including contact center solutions.",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://anywhere365.io/"
+        },
+        {
+            "provider": "Tech Mahindra",
+            "service": "Designing and building a technology platform for next-generation connectivity offerings.",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://www.techmahindra.com/"
+        },
+        {
+            "provider": "Accenture",
+            "service": "Development of a next-generation digital TV platform.",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://www.accenture.com/"
+        },
+        {
+            "provider": "K-Force",
+            "service": "Telephony and internet services, assisting in making the right choices for business customers.",
+            "type": "Proximus Business Partner",
+            "provider_homepage": "https://k-force.be/"
         }
     ]
 }
