@@ -1,74 +1,73 @@
 [
     {
-        "provider": "Proximus Business Partners",
-        "department": "CEO's Department",
-        "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "provider": "Apple",
+        "department": "Retail",
+        "subdivision": [
+            "Technical Support",
+            "Sales",
+            "Customer Service"
+        ],
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Consumer Market",
-        "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "provider": "Apple",
+        "department": "Hardware Engineering",
+        "subdivision": [
+            "Mac Hardware Engineering",
+            "iPhone/iPad Hardware Engineering"
+        ],
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Enterprise Market",
+        "provider": "Apple",
+        "department": "Software Engineering",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Corporate Affairs",
+        "provider": "Apple",
+        "department": "Design",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Network & Wholesale",
+        "provider": "Apple",
+        "department": "Marketing",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Customer Operations",
+        "provider": "Apple",
+        "department": "Operations",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Human Capital",
+        "provider": "Apple",
+        "department": "Internet Software and Services",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     },
     {
-        "provider": "Proximus Business Partners",
-        "department": "Digital & IT",
+        "provider": "Apple",
+        "department": "Machine Learning",
         "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "department": "Finance",
-        "subdivision": [],
-        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 205 4000",
-        "vat": "BE 0202.239.951"
+        "address": "Havenlaan 86 Box C/20, 1000 BRUSSEL",
+        "phone": "0800 998 46",
+        "vat": "BE 0836.157.420"
     }
 ]

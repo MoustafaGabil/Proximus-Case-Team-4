@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Proximus Business Partners",
-        "service": "Certified local experts in ICT and telecom, offering tailored solutions for SMEs, including analysis of needs and development of personalized solutions for internet, telephony, mobile, and cybersecurity.",
-        "type": "Consulting and IT Services",
-        "provider_homepage": "https://www.proximus.be/"
+        "provider": "Apple",
+        "service": "Mobile phone billing for Apple services",
+        "type": "Payment Services",
+        "provider_homepage": "apple.com"
     }
 ]

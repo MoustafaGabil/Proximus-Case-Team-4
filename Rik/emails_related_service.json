@@ -1,29 +1,11 @@
 [
     {
-        "subject": "Immediate Action Required: Cybersecurity Vulnerability",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "Our team has identified a critical vulnerability in our current cybersecurity protocols that could potentially impact our network and data. It's imperative that we address this immediately to safeguard our systems and maintain the trust of our clients. We urge you to review the attached report to understand the scope and implications. This is a time-sensitive issue requiring your prompt attention.",
-        "email_sign_fullname": "John Doe",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "View Now"
-    },
-    {
-        "subject": "Urgent: Internet Service Performance Degradation",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We've detected a significant performance drop in our internet services that is affecting multiple users and could disrupt essential business operations. To mitigate this, we need to investigate the root cause without delay. Please download the analysis document for details on the issue and follow the recommended steps for assessment. This requires your urgent attention.",
-        "email_sign_fullname": "John Doe",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Download Now"
-    },
-    {
-        "subject": "Critical Alert: Mobile Network Instability",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We have noticed a concerning instability within our mobile network that needs immediate action. This issue is impacting several key areas and requires a thorough assessment to restore optimal performance. Please find the detailed breakdown of the network instability in the document provided via the link. Your swift response is crucial to resolve this matter.",
-        "email_sign_fullname": "John Doe",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Access Here"
+        "subject": "Dringend: Beveiligingslek in Apple Mobiele Facturering",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Er is een kritiek beveiligingslek ontdekt in de mobiele factureringsdienst van Apple. Dit lek kan mogelijk ongeautoriseerde toegang tot gebruikersgegevens en onrechtmatige facturering via Proximus-accounts tot gevolg hebben. Het is van het grootste belang dat we dit probleem onmiddellijk aanpakken om de integriteit van onze systemen en de privacy van onze klanten te beschermen. Bekijk de details en neem de nodige maatregelen via de onderstaande link. De tijd dringt, dus we vragen om uw onmiddellijke actie.",
+        "email_sign_fullname": "Tim Cook",
+        "email_sign_role": "Cybersecurity Specialist",
+        "email_sign_company": "Apple",
+        "call_to_action_text": "Bekijk nu"
     }
 ]

@@ -28,7 +28,7 @@
         "vat": "BE 0202239951"
     },
     {
-        "department": "Network & Wholesale",
+        "department": "Network and Wholesale",
         "subdivision": [],
         "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
@@ -49,7 +49,7 @@
         "vat": "BE 0202239951"
     },
     {
-        "department": "Digital & IT",
+        "department": "Digital and Information Technology",
         "subdivision": [],
         "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
@@ -58,6 +58,17 @@
     {
         "department": "Finance",
         "subdivision": [],
+        "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
+        "phone": "+32 2 202 41 11",
+        "vat": "BE 0202239951"
+    },
+    {
+        "department": "Proximus Global",
+        "subdivision": [
+            "BICS",
+            "Telesign",
+            "Route Mobile"
+        ],
         "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
         "vat": "BE 0202239951"

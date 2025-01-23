@@ -1,29 +1,11 @@
 [
     {
-        "subject": "Immediate Action Required: Security Risk Assessment for Marketing Campaigns",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "It has come to our attention that there's a potential security vulnerability affecting some of our marketing campaign materials. This could expose sensitive data and compromise our communication efforts. We need your immediate attention to address this issue and ensure the security of our marketing assets. Please access the link below to review the details of the risk and the recommended actions. We must resolve this before Monday, January 27th at 15:00.",
-        "email_sign_fullname": "John Doe",
-        "email_sign_role": "Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Review Now"
-    },
-    {
-        "subject": "Urgent: Marketing Security Protocol Update Needed",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We've identified a gap in our current marketing security protocols that requires your immediate review. This issue, if not addressed quickly, could pose a significant risk to our campaign integrity and data protection. Please follow the link below for detailed instructions and updated guidelines. Your prompt action is crucial to safeguard our marketing activities, and we need this resolved before Monday, January 27th at 15:00.",
-        "email_sign_fullname": "Jane Smith",
-        "email_sign_role": "IT Security Analyst",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Check Details"
-    },
-    {
-        "subject": "Critical: Marketing Campaign Security Alert",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "There's an urgent security matter concerning our marketing campaigns that requires your immediate attention. A potential breach could lead to unauthorized access to sensitive campaign information. To understand the scope of the problem and the necessary steps to mitigate it, please use the link provided. Your swift action is vital to prevent any further damage. This needs to be addressed before Monday, January 27th at 15:00.",
-        "email_sign_fullname": "Peter Jones",
-        "email_sign_role": "Cybersecurity Expert",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Act Fast"
+        "subject": "Dringend: Contractbreuk Apple Services Vereist Onmiddellijke Aandacht",
+        "addressing_the_receiver": "Geachte Luc Vandenberg,",
+        "body": "Er is een kritieke contractbreuk vastgesteld met betrekking tot de mobiele facturatiediensten van Apple. Deze kwestie heeft directe gevolgen voor onze cybersecurityprotocollen en vereist uw onmiddellijke actie. Het is essentieel dat we dit probleem oplossen v\u00f3\u00f3r donderdag 23 januari om 11.00 uur. Bekijk de details via de link hieronder.",
+        "email_sign_fullname": "Tim Cook",
+        "email_sign_role": "Cybersecurity Specialist",
+        "email_sign_company": "Apple",
+        "call_to_action_text": "Bekijk Nu"
     }
 ]

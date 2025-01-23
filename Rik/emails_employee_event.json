@@ -1,29 +1,29 @@
 [
     {
-        "subject": "Exclusive Presentation for Marketing Specialists",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We're excited to invite you to a special presentation tailored specifically for Marketing Specialists. Join us on Monday, January 27th, at 3 PM for insights and strategies that can elevate your marketing efforts. Given the limited spots available, we encourage you to secure your place now by clicking the link below. We look forward to seeing you there!",
-        "email_sign_fullname": "Alex Dubois",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Register Now"
+        "subject": "Exclusieve Apple Training Sessie voor Cybersecurity Specialisten",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Apple nodigt u uit voor een exclusieve training sessie, speciaal ontworpen voor cybersecurity specialisten zoals u. Deze sessie biedt diepgaande inzichten in de beveiligingsaspecten van onze diensten, met name de mobiele facturatie voor Apple services. Wees er snel bij, want de plaatsen zijn beperkt. Klik op de link hieronder om uw plaats te reserveren voor donderdag 23 januari om 11:00 uur.",
+        "email_sign_fullname": "Sofie Janssens",
+        "email_sign_role": "Customer Service",
+        "email_sign_company": "Apple",
+        "call_to_action_text": "Reserveer Nu"
     },
     {
-        "subject": "Don't Miss: Marketing Presentation on January 27th",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": " A focused presentation for Marketing Specialists is coming up on Monday, January 27th, at 3 PM. This is a unique opportunity to gain new perspectives and tactics to drive your marketing initiatives forward. Given the limited spots, please click the link below to ensure your participation. We anticipate a highly engaging session!",
-        "email_sign_fullname": "Alex Dubois",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Join Event"
+        "subject": "Beperkte plaatsen: Apple Training over Mobiele Beveiliging",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Er zijn nog enkele plaatsen beschikbaar voor de Apple training sessie voor cybersecurity specialisten. Deze unieke sessie behandelt de beveiliging van mobiele facturatie voor Apple diensten. Grijp deze kans om uw kennis te verdiepen. De sessie vindt plaats op donderdag 23 januari om 11:00 uur. Klik op de onderstaande link om uw deelname te bevestigen voordat alle plaatsen volzet zijn.",
+        "email_sign_fullname": "Sofie Janssens",
+        "email_sign_role": "Customer Service",
+        "email_sign_company": "Apple",
+        "call_to_action_text": "Boek Snel"
     },
     {
-        "subject": "Marketing Specialist Presentation: Limited Seats Available",
-        "addressing_the_receiver": "Dear Emma Wouters,",
-        "body": "We have organized an exclusive presentation for Marketing Specialists on Monday, January 27th at 3 PM. This session is designed to provide valuable insights to help you in your role. Given that seats are limited, we urge you to act quickly and click the link below to confirm your spot. We're confident this presentation will be beneficial to you.",
-        "email_sign_fullname": "Alex Dubois",
-        "email_sign_role": "ICT Consultant",
-        "email_sign_company": "Proximus Business Partners",
-        "call_to_action_text": "Claim Spot"
+        "subject": "Laatste kans: Apple Cybersecurity Training 23 januari",
+        "addressing_the_receiver": "Geachte heer Vandenberg,",
+        "body": "Mis de kans niet om deel te nemen aan de Apple training sessie voor cybersecurity specialisten. Deze sessie is specifiek gericht op de beveiliging van mobiele facturatie. De sessie vindt plaats op donderdag 23 januari om 11:00 uur en de plaatsen zijn bijna vol. Reageer nu door op de onderstaande link te klikken om uw plaats te garanderen.",
+        "email_sign_fullname": "Sofie Janssens",
+        "email_sign_role": "Customer Service",
+        "email_sign_company": "Apple",
+        "call_to_action_text": "Meld Aan"
     }
 ]

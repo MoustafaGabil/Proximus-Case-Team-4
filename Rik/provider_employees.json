@@ -1,186 +1,34 @@
 [
     {
-        "provider": "Proximus Business Partners",
-        "first_name": "Guillaume",
-        "family_name": "Boutin",
-        "role": "Chief Executive Officer",
-        "department": "Leadership",
-        "email_address": "guillaume.boutin@proximusbusinesspartners.be"
+        "provider": "Apple",
+        "first_name": "Tim",
+        "family_name": "Cook",
+        "role": "CEO",
+        "department": "Executive",
+        "email_address": "tim.cook@apple.be"
     },
     {
-        "provider": "Proximus Business Partners",
-        "first_name": "Mark",
-        "family_name": "Reid",
-        "role": "Finance Lead",
-        "department": "Finance",
-        "email_address": "mark.reid@proximusbusinesspartners.be"
+        "provider": "Apple",
+        "first_name": "Deirdre",
+        "family_name": "O'Brien",
+        "role": "Senior Vice President of Retail",
+        "department": "Retail",
+        "email_address": "deirdre.o'brien@apple.be"
     },
     {
-        "provider": "Proximus Business Partners",
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Enterprise IT Services & Segments Lead",
-        "department": "Enterprise IT",
-        "email_address": "anne-sophie.lotgering@proximusbusinesspartners.be"
+        "provider": "Apple",
+        "first_name": "Olivier",
+        "family_name": "Guersent",
+        "role": "Director-General",
+        "department": "Financial Stability, Financial Services and Capital Markets Union",
+        "email_address": "olivier.guersent@apple.be"
     },
     {
-        "provider": "Proximus Business Partners",
-        "first_name": "Antonietta",
-        "family_name": "Mastroianni",
-        "role": "Digital & IT Lead",
-        "department": "Digital & IT",
-        "email_address": "antonietta.mastroianni@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Network & Wholesale Lead",
-        "department": "Network & Wholesale",
-        "email_address": "geert.standaert@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Dirk",
-        "family_name": "Lybaert",
-        "role": "Secretary General",
-        "department": "General Management",
-        "email_address": "dirk.lybaert@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Stefaan",
-        "family_name": "De Clerck",
-        "role": "Chairman of the Board",
-        "department": "Board of Directors",
-        "email_address": "stefaan.declerck@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Catherine",
-        "family_name": "Rutten",
-        "role": "Independent Director",
-        "department": "Board of Directors",
-        "email_address": "catherine.rutten@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Joachim",
-        "family_name": "Sonne",
-        "role": "Independent Director",
-        "department": "Board of Directors",
-        "email_address": "joachim.sonne@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Martin",
-        "family_name": "De Prycker",
-        "role": "Independent Director",
-        "department": "Board of Directors",
-        "email_address": "martin.deprycker@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Catherine",
-        "family_name": "Vandenborre",
-        "role": "Independent Director",
-        "department": "Board of Directors",
-        "email_address": "catherine.vandenborre@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "C\u00e9cile",
-        "family_name": "Coune",
-        "role": "Independent Director",
-        "department": "Board of Directors",
-        "email_address": "cecile.coune@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "B\u00e9atrice",
-        "family_name": "De Mahieu",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "beatrice.demahieu@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Audrey",
-        "family_name": "Hanard",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "audrey.hanard@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Claire",
-        "family_name": "Tillekaerts",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "claire.tillekaerts@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Ibrahim",
-        "family_name": "Ouassari",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "ibrahim.ouassari@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Karel",
-        "family_name": "De Gucht",
-        "role": "Director",
-        "department": "Board of Directors",
-        "email_address": "karel.degucht@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Renaud",
-        "family_name": "Tilmans",
-        "role": "Chief Customer Operations Officer",
-        "department": "Customer Operations",
-        "email_address": "renaud.tilmans@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Nancy",
-        "family_name": "Goossens",
-        "role": "Director of Investor Relations",
-        "department": "Investor Relations",
-        "email_address": "nancy.goossens@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Jan",
-        "family_name": "Van Acoleyen",
-        "role": "Human Capital Lead",
-        "department": "Human Resources",
-        "email_address": "jan.vanacoleyen@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Alex",
-        "family_name": "Lorette",
-        "role": "Head of Telecom Solutions Department",
-        "department": "Telecom Solutions",
-        "email_address": "alex.lorette@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Peter",
-        "family_name": "Van den broeck",
-        "role": "Account Manager",
-        "department": "Sales",
-        "email_address": "peter.vandenbroeck@proximusbusinesspartners.be"
-    },
-    {
-        "provider": "Proximus Business Partners",
-        "first_name": "Stijn",
-        "family_name": "Bogaerts",
-        "role": "Smart Building & Retail Expert",
-        "department": "Smart Building & Retail",
-        "email_address": "stijn.bogaerts@proximusbusinesspartners.be"
+        "provider": "Apple",
+        "first_name": "Daniel",
+        "family_name": "Calleja Crespo",
+        "role": "Director-General",
+        "department": "Environment",
+        "email_address": "daniel.callejacrespo@apple.be"
     }
 ]
