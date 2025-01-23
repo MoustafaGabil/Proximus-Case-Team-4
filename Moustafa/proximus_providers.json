@@ -1,116 +1,68 @@
 [
     {
-        "provider": "Tech Mahindra",
-        "service": "Technology platform development",
-        "type": "Technology service provider",
-        "provider_homepage": "techmahindra.com"
+        "provider": "WPP Group",
+        "service": "Advertising, marketing, and communication services",
+        "type": "Marketing and Advertising Agency",
+        "provider_homepage": "www.wpp.com"
     },
     {
-        "provider": "Belcenter",
-        "service": "IP based network services",
-        "type": "Technology service provider",
-        "provider_homepage": "www.belcenter.be"
-    },
-    {
-        "provider": "BICS",
-        "service": "International communications enabler, global voice carrier, mobile data services",
-        "type": "Technology service provider",
-        "provider_homepage": "www.bics.com"
-    },
-    {
-        "provider": "Citymesh",
-        "service": "Development and management of large-scale wireless networks (WiFi, IoT, 4G, 5G)",
-        "type": "Technology service provider",
-        "provider_homepage": "www.citymesh.com"
-    },
-    {
-        "provider": "Colt Technology Services",
-        "service": "Digital infrastructure and network services",
-        "type": "Technology service provider",
-        "provider_homepage": "www.colt.net"
-    },
-    {
-        "provider": "Cybernet",
-        "service": "Internet connections and services, VoIP telephony, hosting, computer equipment",
-        "type": "Technology and equipment supplier",
-        "provider_homepage": "www.cybernet.be"
-    },
-    {
-        "provider": "Codit",
-        "service": "Data-driven cloud solutions",
-        "type": "Technology service provider",
+        "provider": "Springbok",
+        "service": "Performance marketing initiatives",
+        "type": "Marketing Agency",
         "provider_homepage": null
     },
     {
-        "provider": "ClearMedia",
-        "service": "Cloud, cybersecurity and digital workplace solutions",
-        "type": "Technology service provider",
+        "provider": "FamousGrey",
+        "service": "Strategic and creative partner, ecosystem leader",
+        "type": "Advertising Agency",
+        "provider_homepage": "famousgrey.com"
+    },
+    {
+        "provider": "Maxus (Group M)",
+        "service": "Media partner",
+        "type": "Media Agency",
         "provider_homepage": null
     },
     {
-        "provider": "Davinsi Labs",
-        "service": "Cybersecurity and operational intelligence",
-        "type": "Technology service provider",
+        "provider": "Prophets",
+        "service": "Digital creative agency",
+        "type": "Digital Agency",
         "provider_homepage": null
     },
     {
-        "provider": "Constructel Belgium",
-        "service": "Installation of optical fiber",
-        "type": "Contractor",
-        "provider_homepage": "constructelvisabeira.com"
-    },
-    {
-        "provider": "H. Essers",
-        "service": "Logistics and delivery services",
-        "type": "Contractor",
+        "provider": "Altavia Act",
+        "service": "Responsible for points of sale and packaging",
+        "type": "Marketing Agency",
         "provider_homepage": null
     },
     {
-        "provider": "Nokia",
-        "service": "Network equipment",
-        "type": "Equipment supplier",
-        "provider_homepage": null
+        "provider": "Coast",
+        "service": "Branding agency, created convergent design strategy & guidelines, new naming strategy and a diversity of communication offers",
+        "type": "Branding Agency",
+        "provider_homepage": "coast-agency.com"
     },
     {
-        "provider": "Ericsson",
-        "service": "Network equipment",
-        "type": "Equipment supplier",
-        "provider_homepage": null
+        "provider": "desiRED",
+        "service": "Training for professional video creation on smartphones, coaching and training for internal communication and branding teams on TikTok",
+        "type": "Digital Strategy & Communication Agency",
+        "provider_homepage": "desired.be"
     },
     {
-        "provider": "Unifiber",
-        "service": "Fiber optic solutions",
-        "type": "Equipment supplier",
-        "provider_homepage": null
+        "provider": "Franke Media",
+        "service": "Closed User Group for Proximus+ app users, offering discounts and promotions",
+        "type": "Affiliate Marketing",
+        "provider_homepage": "frankemedia.nl"
     },
     {
-        "provider": "Broadcom",
-        "service": "Cloud and network solutions",
-        "type": "Technology service provider",
-        "provider_homepage": "broadcom.com"
+        "provider": "Strobus Infosoft",
+        "service": "Digital AdBoard APP-on-Cloud for displaying commercials, promotions, and offers",
+        "type": "Technology Service Provider",
+        "provider_homepage": "strobusinfosoft.com"
     },
     {
-        "provider": "Source Ray",
-        "service": "Portable X-Ray machine manufacturer",
-        "type": "Equipment supplier",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Sedecal/TXR",
-        "service": "Portable X-Ray machine manufacturer",
-        "type": "Equipment supplier",
-        "provider_homepage": null
-    },
-    {
-        "provider": "MinXRay",
-        "service": "Portable X-Ray machine manufacturer",
-        "type": "Equipment supplier",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Poskom",
-        "service": "Portable X-Ray machine manufacturer",
-        "type": "Equipment supplier",
+        "provider": "Digipolitans",
+        "service": "Consultancy for data-driven, automated, always-on, and end-to-end digital marketing",
+        "type": "Consultancy",
         "provider_homepage": null
     }
 ]

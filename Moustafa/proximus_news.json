@@ -1,42 +1,37 @@
 [
     {
-        "subject": "Scarlet Mobile Plan Update",
-        "overview": "Scarlet, a subsidiary of Proximus, has increased the data volumes on its mobile plans without raising prices, effective January 8, 2025.",
-        "source": "proximus.com"
+        "subject": "Proximus to Relocate Headquarters to Tour & Taxis",
+        "overview": "Proximus has selected Nextensa to develop its new headquarters at the Tour & Taxis site in Brussels. This move includes the sale of Proximus' current towers at the Brussels North Station to Nextensa. The final contracts are expected to be signed by the second quarter of 2025, with the relocation of employees scheduled for the first half of 2027 and the full campus operational by the end of the first half of 2029. This move is part of Proximus's strategy to enhance digital ecosystems and create a sustainable work environment.",
+        "source": "Tipranks.com, GlobeNewswire, BX1"
     },
     {
-        "subject": "Proximus Shareholding Transparency",
-        "overview": "Proximus has issued multiple transparency declarations regarding its shareholding, with the most recent one on December 23, 2024.",
-        "source": "proximus.com"
+        "subject": "Proximus Creates Proximus Global",
+        "overview": "Proximus is integrating its international divisions under a single umbrella called Proximus Global. This new unit, valued at approximately \u20ac3.1 billion, will include BICS, Telesign, and Route Mobile. The move aims to consolidate Proximus' international activities and strengthen its position as a global digital communications leader.",
+        "source": "lightreading.com, Proximus.com"
     },
     {
-        "subject": "Cargo Sailboat Supply Chain Test",
-        "overview": "Proximus and Sagemcom are testing the use of cargo sailboats in their supply chain, as announced on December 19, 2024.",
-        "source": "proximus.com"
+        "subject": "Proximus Extends Revolving Credit Facility",
+        "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This renewal provides the company with financial flexibility and ensures a solid liquidity position.",
+        "source": "Proximus.com"
     },
     {
-        "subject": "New Headquarters Development",
-        "overview": "Proximus has selected Nextensa to negotiate the development of its new headquarters in Brussels, including the sale of its current towers and a potential new office at the Tour & Taxis site. This follows a previous deal falling through due to rising costs. The aim is to reduce office space due to increased remote work and to finance the FTTH rollout. The final agreement is expected in Q2 2025, with the new offices ready by the first half of 2029.",
-        "source": "telecompaper.com, tipranks.com"
+        "subject": "Proximus Fiber Network Outperforms Competition",
+        "overview": "Studies by nPerf and Ookla have shown that Proximus' fiber network outperforms its competitors in terms of speed and performance. This recognition highlights the quality and reliability of Proximus' fiber infrastructure.",
+        "source": "Proximus.com, MarketScreener"
     },
     {
-        "subject": "Proximus Global Formation",
-        "overview": "Proximus is integrating its international subsidiaries BICS, Telesign, and Route Mobile under a new entity called Proximus Global, valued at approximately \u20ac3.1 billion. This move aims to streamline operations, leverage global presence, and drive growth in digital communications. This is a strategic move as other incumbents are focusing on their home markets.",
-        "source": "mobileeurope.co.uk, techzine.eu, uctoday.com, lightreading.com"
+        "subject": "New Offer at Scarlet",
+        "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer providing more data at the same price. This initiative aims to provide customers with more value and enhance their mobile experience.",
+        "source": "Proximus.com"
     },
     {
-        "subject": "Proximus Refinances Credit Facility",
-        "overview": "Proximus has refinanced its EUR 700 million Revolving Credit Facility with a pool of banks. The renewed facility has a 5-year tenor with two 1-year extension options and includes a framework to link credit margin to ESG targets.",
-        "source": "marketscreener.com"
+        "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
+        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain. This initiative is part of Proximus' commitment to sustainability and exploring eco-friendly transportation options.",
+        "source": "Proximus.com, MarketScreener"
     },
     {
-        "subject": "Microsoft Strategic Partnership",
-        "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions, leveraging their respective expertise. This partnership will also strengthen Microsoft's use of Proximus' CPaaS & DI products.",
+        "subject": "Microsoft and Proximus Announce Strategic Partnership",
+        "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership, with Microsoft strengthening its use of Proximus' CPaaS & DI products.",
         "source": "thecyberexpress.com"
-    },
-    {
-        "subject": "Fiber Network Recognition",
-        "overview": "Proximus' fiber network has been recognized by nPerf and Ookla for its superior speed and performance compared to competitors.",
-        "source": "proximus.com"
     }
 ]

@@ -7,9 +7,51 @@
         "email_address": "guillaume.boutin@proximus.be"
     },
     {
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Corporate Affairs",
+        "email_address": "ben.appel@proximus.be"
+    },
+    {
+        "first_name": "Jim",
+        "family_name": "Casteele",
+        "role": "Consumer Market Lead",
+        "department": "Consumer Market",
+        "email_address": "jim.casteele@proximus.be"
+    },
+    {
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Enterprise Market",
+        "email_address": "anne-sophie.lotgering@proximus.be"
+    },
+    {
+        "first_name": "Antonietta",
+        "family_name": "Mastroianni",
+        "role": "Digital & IT Lead",
+        "department": "Digital & IT",
+        "email_address": "antonietta.mastroianni@proximus.be"
+    },
+    {
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Finance Lead",
+        "department": "Finance",
+        "email_address": "mark.reid@proximus.be"
+    },
+    {
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Network & Wholesale",
+        "email_address": "geert.standaert@proximus.be"
+    },
+    {
         "first_name": "Stefaan",
         "family_name": "De Clerck",
-        "role": "Chairman of the Board",
+        "role": "Chairman of the Proximus Board",
         "department": "Board of Directors",
         "email_address": "stefaan.declerck@proximus.be"
     },
@@ -25,7 +67,7 @@
         "family_name": "Coune",
         "role": "Independent director",
         "department": "Board of Directors",
-        "email_address": "c\u00e9cile.coune@proximus.be"
+        "email_address": "cecile.coune@proximus.be"
     },
     {
         "first_name": "Karel",
@@ -39,7 +81,7 @@
         "family_name": "de Mahieu",
         "role": "Director",
         "department": "Board of Directors",
-        "email_address": "b\u00e9atrice.demahieu@proximus.be"
+        "email_address": "beatrice.demahieu@proximus.be"
     },
     {
         "first_name": "Martin",
@@ -77,48 +119,6 @@
         "email_address": "joachim.sonne@proximus.be"
     },
     {
-        "first_name": "Mark",
-        "family_name": "Reid",
-        "role": "Finance Lead",
-        "department": "Finance",
-        "email_address": "mark.reid@proximus.be"
-    },
-    {
-        "first_name": "Jim",
-        "family_name": "Casteele",
-        "role": "Consumer Market Lead",
-        "department": "Consumer Market",
-        "email_address": "jim.casteele@proximus.be"
-    },
-    {
-        "first_name": "Antonietta",
-        "family_name": "Mastroianni",
-        "role": "Digital & IT Lead",
-        "department": "Digital & IT",
-        "email_address": "antonietta.mastroianni@proximus.be"
-    },
-    {
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Network & Wholesale Lead",
-        "department": "Network & Wholesale",
-        "email_address": "geert.standaert@proximus.be"
-    },
-    {
-        "first_name": "Ben",
-        "family_name": "Appel",
-        "role": "Corporate Affairs Lead",
-        "department": "Corporate Affairs",
-        "email_address": "ben.appel@proximus.be"
-    },
-    {
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Enterprise IT Services & Segments Lead",
-        "department": "Enterprise Market",
-        "email_address": "anne-sophie.lotgering@proximus.be"
-    },
-    {
         "first_name": "Renaud",
         "family_name": "Tilmans",
         "role": "Customer Operations Lead",
@@ -150,14 +150,14 @@
         "first_name": "Jason",
         "family_name": "Vanherrewegge",
         "role": "Chief Editor",
-        "department": "Editorial",
+        "department": "Communications",
         "email_address": "jason.vanherrewegge@proximus.be"
     },
     {
         "first_name": "Geert",
         "family_name": "Kelchtermans",
         "role": "VP Small & Medium Enterprises - Tribe Lead",
-        "department": "Small & Medium Enterprises",
+        "department": "Sales",
         "email_address": "geert.kelchtermans@proximus.be"
     },
     {
@@ -178,7 +178,7 @@
         "first_name": "Thomas",
         "family_name": "Vanherk",
         "role": "Team Lead ICT Pricing & Costing",
-        "department": "ICT Pricing & Costing",
+        "department": "ICT",
         "email_address": "thomas.vanherk@proximus.be"
     },
     {

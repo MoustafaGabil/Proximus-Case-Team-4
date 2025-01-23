@@ -1,95 +1,63 @@
 [
     {
-        "provider": "BICS",
-        "department": "Executive Management",
+        "provider": "Coast",
+        "department": "Brand Strategy",
         "subdivision": [
-            "Chief Executive Officer",
-            "Chief Financial Officer",
-            "Chief Strategy & Business Development Officer"
+            "Research & Analysis",
+            "Stakeholder interviews",
+            "On-site visits",
+            "Customer interviews",
+            "Competition Benchmark & Trend analysis",
+            "Communication SWOT analysis",
+            "Brand strategy workshop",
+            "Vision, Mission & Value",
+            "Brand positioning & Brand activation plan"
         ],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
+        "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
+        "phone": "+32 2 340 27 60",
+        "vat": null
     },
     {
-        "provider": "BICS",
-        "department": "Finance",
+        "provider": "Coast",
+        "department": "Brand Identity",
         "subdivision": [
-            "Finance Transformation",
-            "Revenue Enterprise Sales",
-            "Revenue Telco Sales"
+            "Naming, brand nomenclature & architecture",
+            "Brand identity concepts",
+            "Graphic and visual system",
+            "Logotype development or refresh",
+            "Font design",
+            "Visual and imagery style",
+            "Brand book - guidelines",
+            "Verbal system",
+            "Tone of voice",
+            "Copywriting",
+            "Tagline",
+            "Motion design",
+            "Website strategy & design",
+            "Social Media playbook"
         ],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
+        "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
+        "phone": "+32 2 340 27 60",
+        "vat": null
     },
     {
-        "provider": "BICS",
-        "department": "Technology and Information",
+        "provider": "Coast",
+        "department": "Brand Activation",
         "subdivision": [
-            "Architecture & IT Solution Development",
-            "Architecture & Solution Development"
+            "Print Design",
+            "Stationary",
+            "Brochures & Books",
+            "Packaging design",
+            "Digital design",
+            "Social Media campaigns",
+            "Website design",
+            "Campaigns",
+            "Retail design & flow",
+            "Hospitality design & flow",
+            "Signage design & flow"
         ],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Customer Service Operations",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Legal Affairs",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Regional Operations",
-        "subdivision": [
-            "Middle East & Africa"
-        ],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Business Operations",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Enterprise Business & Market Development",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Human Resources & Transformation",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
-    },
-    {
-        "provider": "BICS",
-        "department": "Products & Solutions",
-        "subdivision": [],
-        "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
-        "phone": "+32 2 547 52 10",
-        "vat": "BE 0866 977 981"
+        "address": "264 Avenue Van Volxem Brussels 1190 Belgium",
+        "phone": "+32 2 340 27 60",
+        "vat": null
     }
 ]
