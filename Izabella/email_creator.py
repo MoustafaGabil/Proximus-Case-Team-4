@@ -2,6 +2,7 @@ import os
 import json
 import re
 import requests
+from datetime import datetime, timedelta
 from dotenv import load_dotenv
 from google import generativeai as genai
 import random as rd
@@ -188,6 +189,33 @@ class EmailGenerator:
         
         return response.text
 
+
+    def pick_random_date(self):
+        # Define the time range
+        start_hour = 9  # 9 AM
+        end_hour = 16   # 4 PM (exclusive)
+
+        # Get the current date
+        today = datetime.now()
+
+        # Generate a list of valid weekdays (Monday to Friday) within 7 days
+        valid_days = []
+        for i in range(1, 8):
+            candidate_date = today + timedelta(days=i)
+            if candidate_date.weekday() < 5:  # 0=Monday, 4=Friday
+                valid_days.append(candidate_date)
+
+        # Pick a random day from the valid weekdays
+        random_day = rd.choice(valid_days)
+
+        # Randomly choose an hour between 9 AM and 4 PM
+        random_hour = rd.randint(start_hour, end_hour - 1)
+
+        # Combine the random day and hour into a datetime object
+        random_date = random_day.replace(hour=random_hour, minute=0, second=0, microsecond=0)
+
+        return random_date
+
     def generate_prompt(self, template, schema, company_name):
         """Helper to generate prompt based on template."""
         return template.format(company_name=company_name, schema=json.dumps(schema))
@@ -216,12 +244,13 @@ class EmailGenerator:
         return service_emails
 
     def generate_events_emails(self, provider, provider_departments, company_name, random_employee, random_event):
+        random_date = self.pick_random_date() # Generate a random date
 
         schema = self.config.get("schemas", {}).get("provider_email")
         prompt = f"""
         {provider} is a service provider of {company_name}. {provider} has these {provider_departments}.
         Write some tailored emails based on the role of {random_employee['role']} about an event that is organized by {provider}. 
-        The event is {random_event} and is geared towards {random_employee['role']}.
+        The event is {random_event} and is geared towards {random_employee['role']}. The event will take place {random_date.strftime('%A %d %B at %H hour')}.
         Do not include urgent in the subject of the email. State that the spots available are limited and urgent action is required.
         The receiver of the email is {random_employee['name']} and should be in {random_employee['language']}. Address the receiver formal and by his last name.
         The email signature should contain the first name, family name, role and the company name of one of the employees of {provider}. 
