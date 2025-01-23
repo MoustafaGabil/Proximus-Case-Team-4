@@ -16,16 +16,16 @@
     {
         "first_name": "Caroline",
         "family_name": "Basyn",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors",
         "email_address": "caroline.basyn@proximus.be"
     },
     {
         "first_name": "C\u00e9cile",
         "family_name": "Coune",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors",
-        "email_address": "cecile.coune@proximus.be"
+        "email_address": "c\u00e9cile.coune@proximus.be"
     },
     {
         "first_name": "Karel",
@@ -39,12 +39,12 @@
         "family_name": "de Mahieu",
         "role": "Director",
         "department": "Board of Directors",
-        "email_address": "beatrice.demahieu@proximus.be"
+        "email_address": "b\u00e9atrice.demahieu@proximus.be"
     },
     {
         "first_name": "Martin",
         "family_name": "De Prycker",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors",
         "email_address": "martin.deprycker@proximus.be"
     },
@@ -65,23 +65,23 @@
     {
         "first_name": "Catherine",
         "family_name": "Rutten",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors",
         "email_address": "catherine.rutten@proximus.be"
     },
     {
         "first_name": "Joachim",
         "family_name": "Sonne",
-        "role": "Independent director",
+        "role": "Independent Director",
         "department": "Board of Directors",
         "email_address": "joachim.sonne@proximus.be"
     },
     {
-        "first_name": "Mark",
-        "family_name": "Reid",
-        "role": "Finance Lead",
-        "department": "Finance",
-        "email_address": "mark.reid@proximus.be"
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Corporate Affairs",
+        "email_address": "ben.appel@proximus.be"
     },
     {
         "first_name": "Jim",
@@ -105,6 +105,13 @@
         "email_address": "antonietta.mastroianni@proximus.be"
     },
     {
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Finance Lead",
+        "department": "Finance",
+        "email_address": "mark.reid@proximus.be"
+    },
+    {
         "first_name": "Geert",
         "family_name": "Standaert",
         "role": "Network & Wholesale Lead",
@@ -112,11 +119,11 @@
         "email_address": "geert.standaert@proximus.be"
     },
     {
-        "first_name": "Ben",
-        "family_name": "Appel",
-        "role": "Corporate Affairs Lead",
-        "department": "Corporate Affairs",
-        "email_address": "ben.appel@proximus.be"
+        "first_name": "Jan",
+        "family_name": "Van Acoleyen",
+        "role": "Chief Human Resources Officer",
+        "department": "Human Capital",
+        "email_address": "jan.vanacoleyen@proximus.be"
     },
     {
         "first_name": "Renaud",
@@ -124,13 +131,6 @@
         "role": "Customer Operations Lead",
         "department": "Customer Operations",
         "email_address": "renaud.tilmans@proximus.be"
-    },
-    {
-        "first_name": "Jan",
-        "family_name": "Van Acoleyen",
-        "role": "Chief Human Resources Officer",
-        "department": "Human Capital",
-        "email_address": "jan.vanacoleyen@proximus.be"
     },
     {
         "first_name": "Karl",
@@ -150,7 +150,7 @@
         "first_name": "Jason",
         "family_name": "Vanherrewegge",
         "role": "Chief Editor",
-        "department": "Communications",
+        "department": "Editorial",
         "email_address": "jason.vanherrewegge@proximus.be"
     },
     {

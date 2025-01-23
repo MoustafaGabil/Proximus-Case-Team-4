@@ -1,47 +1,63 @@
 [
     {
-        "provider": "K-Force",
-        "department": "Information and Communication Technology Services",
+        "provider": "Accenture",
+        "department": "Strategy",
         "subdivision": [
-            "Cloud Solutions",
-            "IT Security",
-            "Networking and Hardware",
-            "Microsoft 365 Development",
-            "Web Design and Marketing"
+            "Corporate Finance",
+            "Mergers & Acquisitions",
+            "Operating Model Strategy",
+            "Sales & Marketing Strategy",
+            "Strategic Cost Reduction",
+            "Strategic Planning & Growth"
         ],
-        "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
-        "phone": "+32 2 380 23 32",
-        "vat": "BE 0831.425.897"
+        "address": "Rue Picard 11/100, 1000 Bruxelles",
+        "phone": "+3222267211",
+        "vat": "BE0438675669"
     },
     {
-        "provider": "K-Force",
-        "department": "Telephony and Internet Services",
+        "provider": "Accenture",
+        "department": "Finance & Enterprise Performance",
         "subdivision": [
-            "Mobile Telephony",
-            "Cloud Telephony",
-            "Fiber Internet"
+            "Finance Operations",
+            "Enterprise Performance Management"
         ],
-        "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
-        "phone": "+32 2 380 23 32",
-        "vat": "BE 0831.425.897"
+        "address": "Rue Picard 11/100, 1000 Bruxelles",
+        "phone": "+3222267211",
+        "vat": "BE0438675669"
     },
     {
-        "provider": "K-Force",
-        "department": "Training",
-        "subdivision": [
-            "Training Sessions",
-            "Knowledge Base"
-        ],
-        "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
-        "phone": "+32 2 380 23 32",
-        "vat": "BE 0831.425.897"
-    },
-    {
-        "provider": "K-Force",
-        "department": "Helpdesk",
+        "provider": "Accenture",
+        "department": "Talent & Organization",
         "subdivision": [],
-        "address": "Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgium",
-        "phone": "+32 2 380 23 32",
-        "vat": "BE 0831.425.897"
+        "address": "Rue Picard 11/100, 1000 Bruxelles",
+        "phone": "+3222267211",
+        "vat": "BE0438675669"
+    },
+    {
+        "provider": "Accenture",
+        "department": "Capabilities",
+        "subdivision": [
+            "Cloud",
+            "Cybersecurity",
+            "Data and Artificial Intelligence",
+            "Digital Engineering and Manufacturing",
+            "Emerging Technology",
+            "Ecosystem Partners",
+            "Finance and Risk Management",
+            "Infrastructure and Capital Projects",
+            "Learning",
+            "Marketing and Experience",
+            "Metaverse",
+            "Sales and Commerce",
+            "Strategic Managed Services",
+            "Strategy",
+            "Supply Chain",
+            "Sustainability",
+            "Talent and Organization",
+            "Technology Transformation"
+        ],
+        "address": "Rue Picard 11/100, 1000 Bruxelles",
+        "phone": "+3222267211",
+        "vat": "BE0438675669"
     }
 ]

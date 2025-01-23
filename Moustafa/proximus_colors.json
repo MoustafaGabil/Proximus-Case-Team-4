@@ -1,6 +1,6 @@
 [
     {
-        "color_name_1": "Primary Purple",
+        "color_name_1": "Proximus Purple",
         "hex_code_1": "#5C2D91",
         "rgb_code_1": [
             92,
@@ -25,10 +25,5 @@
             0,
             0
         ]
-    },
-    {
-        "color_name_4": "Proximus Red",
-        "hex_code_4": null,
-        "rgb_code_4": null
     }
 ]

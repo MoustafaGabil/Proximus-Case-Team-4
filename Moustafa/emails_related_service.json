@@ -1,29 +1,44 @@
 [
     {
-        "subject": "Dringende update: Beveiligingsrisico in Proximus telefonie",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "We hebben een kritiek beveiligingsrisico ontdekt in de telefonie-infrastructuur van Proximus die onmiddellijke aandacht vereist. Deze kwestie kan de integriteit en de veiligheid van uw communicatiekanalen in gevaar brengen. \n\nHet is van groot belang dat we dit probleem zo snel mogelijk aanpakken. Daarom vragen we u vriendelijk om de details van het risico en de benodigde acties te bekijken via de onderstaande link. De link leidt u naar een document waarin alles wordt uitgelegd. We verzoeken u om dit document te bekijken voor <strong>Vrijdag 26 Januari om 17:00</strong>. \n\nUw snelle reactie is cruciaal om verdere risico's te voorkomen. Als u vragen heeft of hulp nodig heeft, aarzel dan niet om contact met ons op te nemen.",
-        "email_sign_fullname": "Thomas De Bruyne",
-        "email_sign_role": "IT Consultant",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Bekijk direct"
+        "subject": "URGENT: Digital TV Platform Analysis Requires Immediate Review",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>We've identified a critical issue in our analysis of the Next Generation Digital TV Platform that requires your immediate attention. Our team at Accenture has uncovered inconsistencies in the current marketing strategy alignment with the platform's new capabilities.</p><p>These discrepancies are directly impacting our ability to effectively market the platform to our target audience, potentially leading to missed opportunities and decreased customer engagement. It's crucial that we rectify this immediately to avoid any further impact on the launch timeline and market penetration.</p><p>Please review the detailed report available through the link below. We need your feedback and input by <strong>Thursday 30 January at 10:00</strong> to ensure we can make the necessary adjustments swiftly. Your prompt response is essential to the success of this project.</p>",
+        "email_sign_fullname": "John Smith",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Review Now",
+        "call_to_action_color": [
+            255,
+            0,
+            0
+        ]
     },
     {
-        "subject": "Belangrijke beveiligingswaarschuwing: Proximus telefonie",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "We hebben vastgesteld dat er een potentieel beveiligingslek is in het Proximus telefoniesysteem. Dit lek kan leiden tot ongewenste toegang en mogelijk gevoelige data in gevaar brengen. We willen u er dringend van op de hoogte brengen om de nodige voorzorgsmaatregelen te treffen. \n\nOm de impact te minimaliseren en uw systemen te beschermen, hebben we een gedetailleerde risicoanalyse en actieplan opgesteld. Dit document is beschikbaar via de onderstaande link. We adviseren u ten zeerste om deze informatie voor <strong>Dinsdag 30 Januari om 12:00</strong> te bekijken. \n\nUw medewerking is essentieel voor de beveiliging van uw communicatie infrastructuur. Neem contact met ons op als u nog vragen of opmerkingen heeft.",
-        "email_sign_fullname": "Thomas De Bruyne",
-        "email_sign_role": "IT Consultant",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Lees nu"
+        "subject": "Critical: Marketing Strategy Adjustment Needed for Digital TV Platform",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>A vital update regarding the Next Generation Digital TV Platform requires your urgent action. Our recent consultation has highlighted a misalignment between the current marketing messaging and the platform\u2019s user experience, leading to potential confusion among our customer base.</p><p>This misalignment could significantly hamper our launch success and overall marketing effectiveness. We must align the marketing strategy with the user experience as quickly as possible to guarantee a smooth rollout and positive reception from our customers. </p><p>Please access the document through the link provided below which outlines the required changes, and give us your feedback and input by <strong>Friday 31 January at 14:00</strong>. Your immediate attention is vital for a successful launch.</p>",
+        "email_sign_fullname": "John Smith",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Check Now",
+        "call_to_action_color": [
+            255,
+            165,
+            0
+        ]
     },
     {
-        "subject": "Onmiddellijke actie vereist: Beveiligingslek in Proximus telefonie",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "Er is een urgent beveiligingslek ontdekt in het Proximus telefonie systeem dat onmiddellijke actie vereist. Dit lek kan aanzienlijke gevolgen hebben voor de veiligheid van uw bedrijf en de communicatie van uw organisatie. \n\nWe hebben een uitgebreid overzicht van het probleem en de noodzakelijke stappen die moeten worden genomen voorbereid. Deze informatie is essentieel om de situatie zo snel mogelijk onder controle te krijgen. Het document is toegankelijk via de onderstaande link. We verzoeken u vriendelijk om dit document te bekijken voor <strong>Maandag 29 Januari om 16:00</strong>. \n\nUw prompt handelen is van cruciaal belang om de veiligheid van uw Proximus-telefonie te waarborgen. Als u vragen heeft, neem dan onmiddellijk contact met ons op.",
-        "email_sign_fullname": "Thomas De Bruyne",
-        "email_sign_role": "IT Consultant",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Handel snel"
+        "subject": "Immediate Action Required: Digital TV Platform Marketing Strategy Update",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>This is an urgent request concerning the marketing strategy for the Next Generation Digital TV Platform. Our consulting team at Accenture has found that the current strategy does not fully leverage the innovative features of the new platform, and the time to adjust is now.</p><p>This lack of alignment is causing delays in reaching our key demographic, potentially resulting in lower adoption rates and missed revenue targets. Immediate adjustments are needed to ensure the marketing efforts resonate with our audience and drive desired results.</p><p>The detailed adjustment plan is ready for your review and is accessible through the link below. Please give us your feedback by <strong>Monday 3 February at 09:00</strong> so we can swiftly implement the necessary changes. Your prompt attention to this matter is critical.</p>",
+        "email_sign_fullname": "John Smith",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Act Fast",
+        "call_to_action_color": [
+            255,
+            69,
+            0
+        ]
     }
 ]

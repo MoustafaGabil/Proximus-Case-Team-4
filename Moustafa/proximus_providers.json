@@ -1,38 +1,44 @@
 [
     {
-        "provider": "AUSY BELGIUM / Data Flow",
-        "service": "Troubleshooting, customer support & maintenance",
-        "type": "Datacenter Operations",
-        "provider_homepage": null
-    },
-    {
-        "provider": "Infosys",
-        "service": "Standardizing processes on the ServiceNow platform and transforming customer service management (CSM) operations.",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.infosys.com/"
-    },
-    {
-        "provider": "Anywhere365",
-        "service": "Provides solutions for managing customer interactions, including contact center solutions.",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://anywhere365.io/"
+        "provider": "Accenture",
+        "service": "Consulting on Next Generation Digital TV Platform",
+        "type": "Technology Consulting",
+        "provider_homepage": "accenture.com"
     },
     {
         "provider": "Tech Mahindra",
-        "service": "Designing and building a technology platform for next-generation connectivity offerings.",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.techmahindra.com/"
+        "service": "Design and build a technology platform 'Tech Hub'",
+        "type": "Digital Transformation and Consulting",
+        "provider_homepage": "techmahindra.com"
     },
     {
-        "provider": "Accenture",
-        "service": "Development of a next-generation digital TV platform.",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.accenture.com/"
+        "provider": "Infosys",
+        "service": "IT transformation project",
+        "type": "IT Services and Consulting",
+        "provider_homepage": "infosys.com"
     },
     {
-        "provider": "K-Force",
-        "service": "Telephony and internet services, assisting in making the right choices for business customers.",
-        "type": "Proximus Business Partner",
-        "provider_homepage": "https://k-force.be/"
+        "provider": "Tata Consulting Services Belgium",
+        "service": "Operations and Service Maintenance",
+        "type": "IT Consulting",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Agile Partner",
+        "service": "Support in digital transformation, IT development, agile assistance and innovation",
+        "type": "IT Consulting",
+        "provider_homepage": null
+    },
+    {
+        "provider": "Proximus NXT",
+        "service": "Cloud, ICT and convergent telecom services",
+        "type": "IT Consulting",
+        "provider_homepage": "proximusnxt.be"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "service": "Tailored solutions for SMEs, including internet, telephony, mobile, and cybersecurity",
+        "type": "ICT and Telecom Consulting",
+        "provider_homepage": "proximus.be"
     }
 ]

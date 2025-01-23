@@ -1,13 +1,21 @@
 [
     {
-        "provider": "K-Force",
-        "color_name_1": "Orange",
-        "hex_code_1": null,
-        "rgb_code_1": null
+        "provider": "Accenture",
+        "color_name_1": "Purple",
+        "hex_code_1": "#a100ff",
+        "rgb_code_1": [
+            161,
+            0,
+            255
+        ]
     },
     {
-        "color_name_2": "Blue",
-        "hex_code_2": null,
-        "rgb_code_2": null
+        "color_name_2": "Black",
+        "hex_code_2": "#000000",
+        "rgb_code_2": [
+            0,
+            0,
+            0
+        ]
     }
 ]

@@ -1,26 +1,82 @@
 [
     {
-        "provider": "K-Force",
-        "first_name": "Kurt",
-        "family_name": "Everaerts",
-        "role": "Owner",
-        "department": "Management",
-        "email_address": "kurt.everaerts@k-force.be"
+        "provider": "Accenture",
+        "first_name": "Kristof",
+        "family_name": "Lambert",
+        "role": "Country Managing Director",
+        "department": "Financial Services",
+        "email_address": "kristof.lambert@accenture.be"
     },
     {
-        "provider": "K-Force",
-        "first_name": "Fabien",
-        "family_name": "Meersman",
-        "role": "Technical Manager",
-        "department": "Technical",
-        "email_address": "fabien.meersman@k-force.be"
+        "provider": "Accenture",
+        "first_name": "Bart",
+        "family_name": "De Ridder",
+        "role": "Intelligent Platform Services Lead",
+        "department": "France and the Benelux",
+        "email_address": "bart.deridder@accenture.be"
     },
     {
-        "provider": "K-Force",
-        "first_name": "Kaj",
-        "family_name": "Van Langendonck",
-        "role": "Sales Manager",
-        "department": "Sales",
-        "email_address": "kaj.vanlangendonck@k-force.be"
+        "provider": "Accenture",
+        "first_name": "Jean-Marc",
+        "family_name": "Ollagnier",
+        "role": "Chairman",
+        "department": "EMEA",
+        "email_address": "jean-marc.ollagnier@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Bhaskar",
+        "family_name": "Ghosh",
+        "role": "Chief Strategy And Innovation",
+        "department": "Strategy and Innovation",
+        "email_address": "bhaskar.ghosh@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Julie",
+        "family_name": "Sweet",
+        "role": "CEO",
+        "department": "Executive Leadership",
+        "email_address": "julie.sweet@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Jack",
+        "family_name": "Azagury",
+        "role": "Group Chief Executive",
+        "department": "Strategy",
+        "email_address": "jack.azagury@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Joel",
+        "family_name": "Unruch",
+        "role": "General Counsel, Secretary & C",
+        "department": "Legal",
+        "email_address": "joel.unruch@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "John",
+        "family_name": "Walsh",
+        "role": "COO",
+        "department": "Operations",
+        "email_address": "john.walsh@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Leonardo",
+        "family_name": "Framil",
+        "role": "CEO \u2013 Growth Markets",
+        "department": "Growth Markets",
+        "email_address": "leonardo.framil@accenture.be"
+    },
+    {
+        "provider": "Accenture",
+        "first_name": "Paul",
+        "family_name": "Daugherty",
+        "role": "Senior Technology Advisor",
+        "department": "Technology",
+        "email_address": "paul.daugherty@accenture.be"
     }
 ]

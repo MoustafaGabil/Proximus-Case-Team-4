@@ -1,29 +1,44 @@
 [
     {
-        "subject": "Exclusieve Cybersecurity Workshop voor Proximus Specialisten",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "We nodigen u graag uit voor een exclusieve workshop, speciaal ontworpen voor cybersecurity specialisten zoals uzelf. K-Force, als Proximus Business Partner, organiseert deze sessie om dieper in te gaan op de nieuwste bedreigingen en verdedigingsstrategie\u00ebn.\n\nDeze hands-on workshop vindt plaats op <strong>Vrijdag 24 Januari om 13:00</strong> in onze kantoren te <strong>Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgi\u00eb</strong>. Er zijn slechts een beperkt aantal plaatsen beschikbaar, dus uw snelle actie is vereist om uw deelname te verzekeren.\n\nWe hebben een boeiend programma samengesteld met praktijkgerichte oefeningen die u direct kunt toepassen in uw dagelijkse werkzaamheden. Meer details over de inhoud van de workshop vindt u in de bijgevoegde documenten. We kijken ernaar uit u te verwelkomen!",
-        "email_sign_fullname": "Thomas De Wever",
-        "email_sign_role": "Account Manager",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Reserveer nu"
+        "subject": "Exclusive Invitation: Digital TV Platform Conference for Marketing Specialists",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>We are excited to invite you to an exclusive conference focused on the Next Generation Digital TV Platform, specifically tailored for Marketing Specialists like yourself. This is a unique opportunity to gain insights and strategies that can elevate your marketing initiatives.</p><p>The conference will be held at our headquarters located at <strong>Rue Picard 11/100, 1000 Bruxelles</strong> on <strong>Wednesday 29 January at 10:00</strong>.</p><p> Given the high interest and limited spots, we encourage you to secure your place as soon as possible by clicking the link below. Don't miss this chance to connect with industry leaders and enhance your expertise.</p>",
+        "email_sign_fullname": "Frederik De Smet",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Register Now",
+        "call_to_action_color": [
+            255,
+            69,
+            0
+        ]
     },
     {
-        "subject": "Cybersecurity Workshops: Beperkte Plaatsen voor Proximus Experts",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "Als cybersecurity specialist bij Proximus bent u constant op zoek naar manieren om uw vaardigheden te verbeteren en bij te blijven met de laatste trends. Daarom nodigt K-Force u uit voor een exclusieve workshop, specifiek gericht op uw expertisegebied.\n\nDe workshop is gepland op <strong>Vrijdag 24 Januari om 13:00</strong> en zal plaatsvinden op <strong>Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgi\u00eb</strong>. Omdat de beschikbare plaatsen beperkt zijn, is het belangrijk dat u snel handelt. Mis deze kans niet om uw kennis te verrijken en te netwerken met collega's uit de sector.\n\nKlik op de onderstaande link om de agenda te bekijken en uw plaats te reserveren. Wacht niet te lang, want de plaatsen zijn zeer gewild!",
-        "email_sign_fullname": "Thomas De Wever",
-        "email_sign_role": "Account Manager",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Bekijk details"
+        "subject": "Limited Seats: Digital TV Marketing Conference - Secure Your Spot Now",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>We're reaching out to offer you a special invitation to our upcoming conference on the Next Generation Digital TV Platform, designed specifically for Marketing Specialists. This event is focused on the cutting-edge strategies and tools that can propel your marketing campaigns forward.</p><p>The conference will take place at <strong>Rue Picard 11/100, 1000 Bruxelles</strong> on <strong>Wednesday 29 January at 10:00</strong>. Due to the limited seating, we urge you to register without delay.</p><p>Take immediate action to guarantee your participation. The registration link is provided below, make sure to confirm your attendance.</p>",
+        "email_sign_fullname": "Frederik De Smet",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Claim Seat",
+        "call_to_action_color": [
+            255,
+            165,
+            0
+        ]
     },
     {
-        "subject": "Mis deze Cybersecurity Workshop niet",
-        "addressing_the_receiver": "Geachte heer Vandenberg,",
-        "body": "K-Force nodigt u graag uit voor een essenti\u00eble workshop gericht op cybersecurity professionals. Als gewaardeerde cybersecurity specialist van Proximus, bent u ongetwijfeld op zoek naar mogelijkheden om uw expertise te verdiepen en up-to-date te blijven met de laatste ontwikkelingen. Deze workshop is ontworpen om u hierbij te helpen.\n\nDe workshop vindt plaats op <strong>Vrijdag 24 Januari om 13:00</strong> in onze locatie op <strong>Waterloosesteenweg 33, 1640 Sint-Genesius-Rode, Belgi\u00eb</strong>. Wees er snel bij, want het aantal plaatsen is beperkt en de vraag is groot.\n\nWe hebben een programma samengesteld dat zowel diepgaande theoretische inzichten als praktische vaardigheden omvat. De link hieronder leidt u naar alle details over de workshop. Wacht niet te lang, verzeker nu uw plek!",
-        "email_sign_fullname": "Thomas De Wever",
-        "email_sign_role": "Account Manager",
-        "email_sign_company": "K-Force",
-        "call_to_action_text": "Schrijf in"
+        "subject": "Don't Miss Out: Digital TV Platform Marketing Conference",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "<p>We are contacting you to present an unmissable opportunity: a dedicated conference focused on the Next Generation Digital TV Platform, especially curated for Marketing Specialists. This is your chance to explore new marketing horizons and strategies.</p><p> The conference is scheduled for <strong>Wednesday 29 January at 10:00</strong>, and will be held at our main office: <strong>Rue Picard 11/100, 1000 Bruxelles</strong>. </p><p>Due to the limited capacity, immediate action is required to secure your attendance. Please use the link below to finalize your registration and ensure your participation.</p>",
+        "email_sign_fullname": "Frederik De Smet",
+        "email_sign_role": "Technology Consultant",
+        "email_sign_company": "Accenture",
+        "call_to_action_text": "Confirm Now",
+        "call_to_action_color": [
+            255,
+            0,
+            0
+        ]
     }
 ]
