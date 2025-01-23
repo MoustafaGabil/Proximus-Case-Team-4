@@ -2,8 +2,8 @@
     {
         "department": "Consumer Business Unit",
         "subdivision": [
-            "Residential Customers",
-            "Small Businesses"
+            "Residential",
+            "Small and Medium Enterprises"
         ],
         "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
@@ -12,19 +12,8 @@
     {
         "department": "Enterprise Business Unit",
         "subdivision": [
-            "Large Enterprises",
-            "Public Sector",
+            "Corporate and Public Sector",
             "Wholesale"
-        ],
-        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-        "phone": "+32 2 202 41 11",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "department": "International Business Unit",
-        "subdivision": [
-            "BICS (Belgacom International Carrier Services)",
-            "TeleSign"
         ],
         "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",
@@ -42,53 +31,15 @@
         "vat": "BE 0202.239.951"
     },
     {
-        "department": "Human Resources",
+        "department": "Staff and Support Functions",
         "subdivision": [
-            "Talent Acquisition",
-            "Learning and Development",
-            "Compensation and Benefits"
-        ],
-        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-        "phone": "+32 2 202 41 11",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "department": "Finance",
-        "subdivision": [
-            "Accounting",
-            "Controlling",
-            "Treasury"
-        ],
-        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-        "phone": "+32 2 202 41 11",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "department": "Legal and Regulatory Affairs",
-        "subdivision": [
-            "Legal Counsel",
-            "Regulatory Compliance"
-        ],
-        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-        "phone": "+32 2 202 41 11",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "department": "Corporate Affairs",
-        "subdivision": [
+            "Human Resources",
+            "Finance",
+            "Legal",
             "Communications",
-            "Public Relations",
-            "Sustainability"
-        ],
-        "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-        "phone": "+32 2 202 41 11",
-        "vat": "BE 0202.239.951"
-    },
-    {
-        "department": "Procurement",
-        "subdivision": [
-            "Sourcing",
-            "Supplier Management"
+            "Strategy",
+            "Transformation",
+            "Procurement"
         ],
         "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
         "phone": "+32 2 202 41 11",

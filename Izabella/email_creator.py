@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 from google import generativeai as genai
 import random as rd
 from tavily import TavilyClient
+from generatecontent import DataBlender
 
 
 class GeminiConfig:
@@ -31,6 +32,7 @@ class GeminiConfig:
             The email signature should contain the first name, family name, role and the company name of one of the employees of {provider}.
             Do not include the link in the body of the email, as it will be implemented separately and placed below the text body,
             refer to it in the text body where it is placed. Just plain text in the body, nothing to include anymore.
+            Give also suitable color for the call to action button based on the subject of the email in rgb.
             Create also a call to action text that is limited to maximum 3 words but do not include it in the body.
             """,
             "temperature": 1,
@@ -50,6 +52,8 @@ class GeminiConfig:
                     "email_sign_fullname": "str",
                     "email_sign_role": "str",
                     "email_sign_company": "str",
+                    "call_to_action_text":"str",
+                    "call_to_action_color":"list[int]",
                     "receiver_full_name": "str"
                 }
             }
@@ -385,9 +389,34 @@ class EmailGenerator:
         with open(output_file, 'w') as file:
             json.dump(emails, file, indent=4)
         print(f"Emails saved to {output_file}")
-        
-        
-        
+                                                    
+
+
+
+    def merge_emails(self, input_dir, output_file, files_to_merge):
+        """
+        Scala pliki JSON z określonego katalogu wejściowego do jednego pliku wyjściowego.
+
+        """
+        # Przechowaj oryginalną listę plików do scalenia
+        merged_data = files_to_merge.copy()
+    
+        # Wczytaj dodatkowe pliki z katalogu
+        for filename in os.listdir(input_dir):
+            if filename.endswith('.json') and filename not in merged_data:
+                file_path = os.path.join(input_dir, filename)
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        additional_data = json.load(f)
+                        # Rozszerz listę tylko jeśli wczytane dane nie są None
+                        if additional_data:
+                            merged_data.extend(additional_data)
+                except json.JSONDecodeError:
+                    print(f"Błąd podczas wczytywania pliku {filename}")
+    
+        # Zapisz scalone dane do pliku wyjściowego
+        with open(os.path.join(input_dir, output_file), 'w', encoding='utf-8') as f:
+            json.dump(merged_data, f, indent=4, ensure_ascii=False)
 class LogoFetcher:
     def __init__(self, output_dir='output/logos'):
         """Initialize LogoFetcher with output directory."""
@@ -489,3 +518,229 @@ class LogoFetcher:
         except Exception as e:
             print(f"Error processing JSON: {e}")
             return {}
+
+class EmailTemplateGenerator:
+    def __init__(self, json_dir, blend_provider_data):
+        self.json_dir = json_dir
+        self.blended_data_file = blend_provider_data
+        self.blended_data = self._load_json(blend_provider_data)
+    
+    def _load_json(self, file_path):
+        """Load a JSON file and return its content."""
+        if os.path.exists(file_path):
+            with open(file_path, 'r', encoding='utf-8') as file:
+                return json.load(file)
+        else:
+            raise FileNotFoundError(f"File {file_path} not found.")
+    
+    def _get_provider_info(self, provider_data):
+        """Extract provider-specific information."""
+        general_info = provider_data.get('general', {})
+        provider = general_info.get('provider') or 'BICS'
+        departments = provider_data.get('departments', [])
+        address = (departments[0].get('address') if departments else None) or 'Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium'
+        depart = (departments[0].get('department') if departments else None) or 'IT development'
+        phone = (departments[0].get('phone') if departments else None) or '+32 2 547 52 10'
+        vat = (departments[0].get('vat') if departments else None) or 'BE 0866 977 981'
+        return provider, address, depart, phone, vat
+
+    def _process_color(self, color_info):
+        """Process the color information."""
+        color_name = color_info.get('rgb_code_1') or [28, 151, 212]
+        if isinstance(color_name, list):
+            brightness_factor = 0.8
+            color_name = [int(value * brightness_factor) for value in color_name]
+            color_name = f"rgb{tuple(color_name)}"
+        return color_name
+
+    def generate_emails(self, specific_files):
+        """Generate email templates for specified JSON files."""
+        for filename in specific_files:
+            file_path = os.path.join(self.json_dir, filename)
+            if not os.path.exists(file_path):
+                print(f"File {file_path} does not exist. Skipping...")
+                continue
+            
+            email_data = self._load_json(file_path)
+            for email in email_data:
+                self._generate_email_template(email)
+    
+    def _generate_email_template(self, email):
+        """Generate an HTML email template."""
+        subject = email["subject"]
+        email_body = email["body"]
+        sender_name = email["email_sign_fullname"]
+        sender_role = email["email_sign_role"]
+        company_name = email["email_sign_company"]
+        receiver_name = email["addressing_the_receiver"]
+        cta = email["call_to_action_text"]
+        cta_color = email["call_to_action_color"]
+        cta_color = f"rgb{tuple(cta_color)}" if isinstance(cta_color, list) else cta_color
+        
+        fake_link = "https://example.com"
+        provider_data = next(iter(self.blended_data.values()))  # Example: using the first provider
+        provider, address, depart, phone, vat = self._get_provider_info(provider_data)
+        color_name = self._process_color(provider_data.get('color', {}))
+        
+        html_content = f"""
+                <!DOCTYPE html>
+                <html lang="en">
+                <head>
+                    <meta charset="UTF-8">
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                    <title>{subject}</title>
+                    <style>
+                        body {{
+                            font-family: Arial, sans-serif;
+                            background-color: #f4f4f4;
+                            margin: 0;
+                            padding: 0;
+                        }}
+                        .email-container {{
+                            width: 600px;
+                            margin: 20px auto;
+                            background-color: #fff;
+                            border: 1px solid #ddd;
+                            border-radius: 10px;
+                            padding: 20px;
+                        }}
+                        .email-header {{
+                            background-color: {color_name};
+                            color: #fff;
+                            padding: 10px 0;
+                            text-align: center;
+                        }}
+                        .email-header img {{
+                            width: 120px;
+                            margin-bottom: 10px;
+                        }}
+                        .email-header h1 {{
+                            font-size: 24px;
+                            font-weight: bold;
+                            margin: 0;
+                        }}
+                        .email-content {{
+                            font-size: 16px;
+                            color: #333;
+                            margin-top: 20px;
+                        }}
+                        .cta-button {{
+                            display: inline-block;
+                            padding: 10px 20px;
+                            background-color: {cta_color};
+                            color: white;
+                            text-align: center;
+                            font-weight: bold;
+                            border-radius: 5px;
+                            text-decoration: none;
+                            margin-top: 20px;
+                        }}
+                        .cta-button:hover {{
+                            background-color: {color_name};
+                        }}
+                        .email-footer {{
+                            font-size: 14px;
+                            color: #777;
+                            text-align: center;
+                            margin-top: 20px;
+                            border-top: 1px solid #ddd;
+                            padding-top: 20px;
+                        }}
+                        .email-footer a {{
+                            color: {color_name};
+                            text-decoration: none;
+                        }}
+                        .social-icons {{
+                            margin-top: 10px;
+                            text-align: center;
+                        }}
+                        .social-icons a {{
+                            margin: 0 10px;
+                            display: inline-block;
+                        }}
+                        .social-icons img {{
+                            width: 24px;
+                            height: 24px;
+                        }}
+                        .additional-footer {{
+                            font-size: 12px;
+                            color: #333;
+                            background-color: #d3d3d3; /* Gray background color */
+                            text-align: center;
+                            padding: 10px;
+                            border-top: 1px solid #ccc;
+                            border-radius: 0 0 10px 10px;
+                            margin-top: 10px;
+                        }}
+                    </style>
+                </head>
+                <body>
+                    <div class="email-container">
+                        <div class="email-header">
+                            <img src="" alt="">    
+                            <h1>{subject}</h1>
+                        </div>
+                        <div class="email-content">
+                            <h2>{receiver_name}</h2>
+                            <p>{email_body}</p>  <!-- Use the dynamically generated email body here -->
+                            <a href="{fake_link}" class="cta-button">{cta}</a>
+                            
+                            <!-- Signature Directly Integrated -->
+                            <p style="margin-top: 20px;">Best regards,</p>
+                            <p style="margin: 5px 0;"><strong>{sender_name}</strong></p>
+                            <p style="margin: 5px 0;">{sender_role}</p>
+                            <p style="margin: 5px 0;">{company_name}</p>
+                        </div>
+                        <div class="email-footer">
+                            <p><strong>{depart}</strong></p>
+                            <p>Email: support@{provider.lower().replace(' ', '')}.be | Phone: {phone}</p>
+                            <p>Visit our website: <a href="{fake_link}">www.{provider.lower().replace(' ', '')}.com</a></p>
+                            <div class="social-icons">
+                                <a href={fake_link}>
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Faceb
+                                </a>
+                                <a href={fake_link}>
+                                    <img src="https://www.svgrepo.com/show/452123/twitter.svg" alt="Twitter">
+                                </a>
+                                <a href={fake_link}>
+                                    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
+                                </a>
+                            </div>
+                        </div>
+                        <div class="additional-footer">
+                            <p>Please be aware that this email and its links include data about your individual profile. 
+                            In order to avoid that third parties can access your personal data, 
+                            you should not forward this email and the links contained in it.</p>
+                            <p><strong>© 2025 The {provider} Belgium n.v./s.a.</strong></p>
+                            <p>{address}<br>KBO/BCE {vat} (RPR/RPM Brussel/Bruxelles)</p>
+                            <p>
+                                <a href={fake_link}>Terms of use</a> - 
+                                <a href={fake_link}>Privacy policy</a> - 
+                                <a href={fake_link}>Contact us</a>
+                            </p>
+                            <!-- Container for logo and QR code -->
+                            <div class="unsubscribe-container" style="text-align: center; margin-top: 20px; font-size: 12px; color: #555;">
+                                <p>If you no longer wish to receive notifications, you can 
+                                    <a href="{fake_link}" style="color: #007BFF; text-decoration: none;">unsubscribe here</a>.
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </body>
+                """
+
+        # Save the email to an HTML file
+        os.makedirs('samples', exist_ok=True)
+        sanitized_subject = re.sub(r'[\/:*?"<>|]', '_', subject)
+        filename = f"{receiver_name}_phishing_email_{sanitized_subject}.html"
+        file_path = os.path.join('samples', filename)
+
+        with open(file_path, "w", encoding="utf-8") as file:
+            file.write(html_content)
+
+    def run(self, specific_files):
+        """Run the full email generation process."""
+        self.generate_emails(specific_files)
+        print("Email templates generated successfully!")
+
+

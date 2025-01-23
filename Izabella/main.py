@@ -1,7 +1,7 @@
 import os
 import json
 from generatecontent import ReportManager, ProviderManager, GeminiConnector, DataBlender
-from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider, LogoFetcher
+from email_creator import EmailGenerator, GeminiConnectorEmails, DataProvider, LogoFetcher, EmailTemplateGenerator
 #from gophish_manager import GophishCampaignManager
 
 
@@ -113,7 +113,12 @@ def main():
     # Save the emails to a file
     email_generator.save_emails_to_file(news_emails, output_dir=output_directory, email_type="news_emails")
 
-    print("Emails have been successfully generated and saved.")
+    # Save all emails to a file
+    # input_dir = "Izabella\\output\\generatecontent"
+    # output_filename = "generated_emails.json"
+    # files_to_merge = ["events.json", "issues.json", "services.json", "news.json"]
+    # email_generator.merge_emails(input_dir, output_filename, files_to_merge)
+    # print("Emails have been successfully generated and saved.")      
 
     # Initialize LogoFetcher
     logo_fetcher = LogoFetcher(output_dir=output_directory)
@@ -134,7 +139,20 @@ def main():
     print("Additional logos saved:", provider_logos)
 
 
+    # Define the directories
+    json_dir = "Izabella\\output\\generatecontent"  # Directory where your input JSON files are located
+    output_dir = "Izabella\\output\\generatecontent"  # Directory where blended data and emails will be saved
 
+    generator = EmailTemplateGenerator(
+        json_dir="Izabella\\output\\generatecontent",
+        blend_provider_data="Izabella\\output\\generatecontent\\blend_provider_data.json"
+    )
+    generator.run([
+        "events_emails.json",
+        "issues_emails.json",
+        "news_emails.json",
+        "services_emails.json"
+    ])      
 #    Initialize Gophish campaign manager
     # print("\nInitializing Gophish campaign...")
     # gophish_manager = GophishCampaignManager()

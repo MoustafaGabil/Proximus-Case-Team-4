@@ -420,7 +420,8 @@ class DataBlender:
             if data:
                 blended_data[data_key] = data
 
-        output_file = os.path.join(self.output_dir, f"{provider_name}_blended_data.json")
+        output_file = os.path.join(self.output_dir, f"blend_provider_data.json")
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
         with open(output_file, 'w') as f:
             json.dump(blended_data, f, indent=4)
         

@@ -1,68 +1,62 @@
 [
     {
         "provider": "Ericsson",
-        "service": "5G network infrastructure and related services",
+        "service": "5G Network Infrastructure",
         "type": "Technology Provider",
         "provider_homepage": "https://www.ericsson.com/"
     },
     {
         "provider": "Nokia",
-        "service": "Fixed and mobile network equipment and software",
+        "service": "Fixed Network Infrastructure",
         "type": "Technology Provider",
         "provider_homepage": "https://www.nokia.com/"
     },
     {
         "provider": "Accenture",
-        "service": "Consulting, technology and outsourcing services",
-        "type": "Technology Service Provider",
+        "service": "Consulting and Technology Services",
+        "type": "Consulting",
         "provider_homepage": "https://www.accenture.com/"
     },
     {
-        "provider": "Capgemini",
-        "service": "IT services and consulting",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.capgemini.com/"
-    },
-    {
-        "provider": "Infosys",
-        "service": "IT services and consulting",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.infosys.com/"
-    },
-    {
         "provider": "Telenet",
-        "service": "Wholesale access to cable network infrastructure",
-        "type": "Infrastructure Provider",
+        "service": "Wholesale Network Access",
+        "type": "Telecommunications",
         "provider_homepage": "https://www.telenet.be/"
     },
     {
+        "provider": "Cegeka",
+        "service": "IT Solutions and Services",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.cegeka.com/"
+    },
+    {
         "provider": "Microsoft",
-        "service": "Cloud services, software and technology",
+        "service": "Cloud Services (Azure), Software",
         "type": "Technology Provider",
         "provider_homepage": "https://www.microsoft.com/"
     },
     {
-        "provider": "Google",
-        "service": "Cloud services and technology",
-        "type": "Technology Provider",
-        "provider_homepage": "https://www.google.com/"
-    },
-    {
-        "provider": "Amazon Web Services (AWS)",
-        "service": "Cloud computing services",
-        "type": "Technology Provider",
-        "provider_homepage": "https://aws.amazon.com/"
-    },
-    {
         "provider": "SAP",
-        "service": "Enterprise software solutions",
+        "service": "Enterprise Resource Planning (ERP) Software",
         "type": "Technology Provider",
         "provider_homepage": "https://www.sap.com/"
     },
     {
-        "provider": "Salesforce",
-        "service": "Customer relationship management (CRM) software",
+        "provider": "Capgemini",
+        "service": "IT Services and Consulting",
+        "type": "Consulting",
+        "provider_homepage": "https://www.capgemini.com/"
+    },
+    {
+        "provider": "Deloitte",
+        "service": "Consulting and Advisory Services",
+        "type": "Consulting",
+        "provider_homepage": "https://www.deloitte.com/"
+    },
+    {
+        "provider": "Atos",
+        "service": "Digital Transformation Services",
         "type": "Technology Provider",
-        "provider_homepage": "https://www.salesforce.com/"
+        "provider_homepage": "https://atos.net/"
     }
 ]

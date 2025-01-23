@@ -1,13 +1,13 @@
 [
     {
-        "color_name_1": "Proximus Purple",
-        "hex_code_1": "#660099",
+        "color_name_1": "Purple",
+        "hex_code_1": "#663399",
         "rgb_code_1": [
             102,
-            0,
+            51,
             153
         ],
-        "color_name_2": "Proximus White",
+        "color_name_2": "White",
         "hex_code_2": "#FFFFFF",
         "rgb_code_2": [
             255,

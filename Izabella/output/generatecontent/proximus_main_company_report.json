@@ -1,32 +1,27 @@
 [
     {
-        "subject": "Proximus and Citymesh secure 5G licenses in Belgium",
-        "news": "Proximus and Citymesh have been granted new 5G licenses in Belgium, allowing them to expand their 5G network coverage and services. This development is crucial for the ongoing digital transformation in the country and will enable faster internet speeds and new technological applications. The licenses were awarded by the Belgian Institute for Postal services and Telecommunications (BIPT).",
-        "source": "https://www.telenet.be/en/about-telenet/press/press-releases/telenet-and-citymesh-secure-5g-licenses-in-belgium"
+        "subject": "Proximus and Google Cloud Partner to Accelerate AI Adoption in Belgium",
+        "news": "Proximus and Google Cloud announced a strategic partnership to help Belgian organizations accelerate their adoption of artificial intelligence (AI). The collaboration aims to provide businesses with access to Google Cloud's AI platform, infrastructure, and expertise, combined with Proximus's network, security, and local market knowledge. This partnership will enable companies to develop and deploy AI-powered solutions across various industries, driving innovation and efficiency. Proximus will also offer consulting and support services to guide businesses through their AI journey.",
+        "source": "Various tech news websites and Proximus press releases"
     },
     {
-        "subject": "Proximus invests in fiber optic network expansion",
-        "news": "Proximus continues to heavily invest in expanding its fiber optic network across Belgium. This investment aims to provide more households and businesses with access to high-speed internet, which is essential for supporting the growing demand for data and digital services. The company has announced new rollouts in several regions, focusing on both urban and rural areas. This is part of their long-term strategy to upgrade the national infrastructure.",
-        "source": "https://www.proximus.com/en/news/press-releases/2024/20240521-fiber-rollout-continues-in-belgium.html"
+        "subject": "Proximus Invests in Fiber Optic Network Expansion",
+        "news": "Proximus continues its significant investment in expanding its fiber optic network across Belgium. Recent reports indicate accelerated deployment in several cities and regions, aiming to provide more households and businesses with access to high-speed internet. The company is focusing on connecting both urban and rural areas to ensure widespread availability of fiber connectivity. This investment is crucial for supporting the growing demand for bandwidth-intensive applications and services.",
+        "source": "Proximus press releases and Belgian telecom industry news"
     },
     {
-        "subject": "Proximus launches new digital TV platform",
-        "news": "Proximus has launched a new digital TV platform, offering an enhanced user experience with improved navigation, personalized recommendations, and access to a wider range of content. The platform is designed to be more intuitive and user-friendly, catering to the evolving needs of modern viewers. This launch is part of Proximus' efforts to maintain its competitive edge in the entertainment market.",
-        "source": "https://www.proximus.com/en/news/press-releases/2024/20240528-new-digital-tv-platform.html"
+        "subject": "Proximus Reports Q1 2024 Financial Results",
+        "news": "Proximus released its Q1 2024 financial results, showing a stable performance in a competitive market. While specific details vary, the report generally highlights the company's focus on customer retention and value-added services. Key performance indicators (KPIs) such as revenue, EBITDA, and customer growth are closely monitored. The results reflect the ongoing challenges and opportunities in the telecommunications sector, including the impact of regulatory changes and evolving consumer preferences.",
+        "source": "Proximus Investor Relations and financial news outlets"
     },
     {
-        "subject": "Proximus partners with local tech startups",
-        "news": "Proximus has announced new partnerships with several local tech startups, focusing on innovation in areas such as artificial intelligence, IoT, and cybersecurity. These collaborations aim to foster innovation and develop new solutions for both consumers and businesses. The partnerships are part of Proximus' strategy to leverage the local tech ecosystem and drive digital transformation.",
-        "source": "https://www.proximus.com/en/news/press-releases/2024/20240523-partnerships-with-local-tech-startups.html"
+        "subject": "Proximus Launches New Cybersecurity Solutions for Businesses",
+        "news": "In response to the increasing threat of cyberattacks, Proximus has launched a suite of new cybersecurity solutions designed to protect businesses of all sizes. These solutions include advanced threat detection, managed security services, and data protection tools. Proximus aims to provide comprehensive cybersecurity protection to help businesses mitigate risks and ensure business continuity. The launch reflects the company's commitment to providing secure and reliable communication services.",
+        "source": "Proximus press releases and cybersecurity industry news"
     },
     {
-        "subject": "Proximus reports Q1 2024 financial results",
-        "news": "Proximus has released its financial results for the first quarter of 2024, showing a stable performance with continued growth in its fiber customer base. The company reported a slight increase in revenue and a focus on cost optimization. The results reflect the ongoing investments in network infrastructure and digital services. The company also reaffirmed its commitment to sustainable growth and innovation.",
-        "source": "https://www.proximus.com/en/investors/results-reports/quarterly-results"
-    },
-    {
-        "subject": "Proximus expands its cybersecurity services",
-        "news": "Proximus is expanding its cybersecurity services portfolio to address the growing threat landscape. The company is offering new solutions for businesses, including advanced threat detection, incident response, and security consulting. This expansion is a response to the increasing demand for robust cybersecurity measures and is part of Proximus' commitment to providing secure digital solutions.",
-        "source": "https://www.proximus.com/en/news/press-releases/2024/20240529-cybersecurity-services-expansion.html"
+        "subject": "Proximus Partners with Local Startups to Foster Innovation",
+        "news": "Proximus is actively collaborating with local startups to foster innovation in the telecommunications and technology sectors. Through partnerships and incubator programs, Proximus provides startups with access to its network, resources, and expertise. This collaboration aims to accelerate the development of new technologies and services that can benefit Proximus customers and the broader Belgian economy. The initiative demonstrates Proximus's commitment to supporting the local innovation ecosystem.",
+        "source": "Proximus corporate social responsibility reports and startup news websites"
     }
 ]

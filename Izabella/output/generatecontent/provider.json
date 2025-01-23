@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Microsoft",
-        "service": "Cloud services, software and technology",
+        "provider": "Atos",
+        "service": "Digital Transformation Services",
         "type": "Technology Provider",
-        "provider_homepage": "https://www.microsoft.com/"
+        "provider_homepage": "https://atos.net/"
     }
 ]
