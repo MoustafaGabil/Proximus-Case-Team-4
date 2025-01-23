@@ -1,127 +1,196 @@
 {
-    "RSCA Mobile": {
+    "BICS": {
         "general": {
-            "provider": "RSCA Mobile",
-            "service": "Mobile virtual network operator",
-            "type": "MVNO",
-            "provider_homepage": null
+            "provider": "BICS",
+            "service": "International communications enabler, global voice carrier, mobile data services",
+            "type": "Technology service provider",
+            "provider_homepage": "www.bics.com"
         },
         "employee": [
             {
-                "provider": "RSCA Mobile",
-                "first_name": "David",
-                "family_name": "Hubert",
-                "role": "Manager",
-                "department": "Coaching Staff",
-                "email_address": "david.hubert@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Surash",
+                "family_name": "Patel",
+                "role": "Managing Director",
+                "department": "Leadership",
+                "email_address": "surash.patel@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Roel",
-                "family_name": "Cl\u00e9ment",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "roel.cl\u00e9ment@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "C\u00e9dric",
+                "family_name": "Grandjean",
+                "role": "Chief Financial Officer",
+                "department": "Finance",
+                "email_address": "cedric.grandjean@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Jan",
-                "family_name": "Michaelsen",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "jan.michaelsen@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Divya",
+                "family_name": "Ghai Wakankar",
+                "role": "VP Strategy and Corporate Development",
+                "department": "Strategy",
+                "email_address": "divya.ghaiwakankar@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Jonathan",
-                "family_name": "Alves",
-                "role": "Assistant Manager",
-                "department": "Coaching Staff",
-                "email_address": "jonathan.alves@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Joeri",
+                "family_name": "Veldeman",
+                "role": "VP People & Transformation",
+                "department": "Human Resources",
+                "email_address": "joeri.veldeman@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Justin",
-                "family_name": "Merz",
-                "role": "Goalkeeping Coach",
-                "department": "Coaching Staff",
-                "email_address": "justin.merz@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Jorn",
+                "family_name": "Vercamert",
+                "role": "VP Customer Solutions & Products",
+                "department": "Customer Solutions",
+                "email_address": "jorn.vercamert@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Olivier",
-                "family_name": "Renard",
-                "role": "Sporting Director",
-                "department": "Management",
-                "email_address": "olivier.renard@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Mika\u00ebl",
+                "family_name": "Schachne",
+                "role": "Chief Revenue Officer Enterprise Sales",
+                "department": "Sales",
+                "email_address": "mikael.schachne@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Marc",
-                "family_name": "Coucke",
-                "role": "Owner",
-                "department": "Board of Directors",
-                "email_address": "marc.coucke@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Sophie",
+                "family_name": "Greffier",
+                "role": "Chief Revenue Officer Telco Sales",
+                "department": "Sales",
+                "email_address": "sophie.greffier@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Roger",
-                "family_name": "Vanden Stock",
-                "role": "Honorary President",
-                "department": "Board of Directors",
-                "email_address": "roger.vandenstock@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Talia",
+                "family_name": "Goldstein",
+                "role": "VP Business Operations",
+                "department": "Operations",
+                "email_address": "talia.goldstein@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Jasper",
-                "family_name": "Wouters",
-                "role": "Scout",
-                "department": "Scouting",
-                "email_address": "jasper.wouters@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Yaunese",
+                "family_name": "Aazibou",
+                "role": "Chief Technology & Customer Service",
+                "department": "Technology",
+                "email_address": "yaunese.aazibou@bics.be"
             },
             {
-                "provider": "RSCA Mobile",
-                "first_name": "Luc",
-                "family_name": "Vanden Bossche",
-                "role": "Head of Medical",
-                "department": "Medical department",
-                "email_address": "luc.vandenbossche@rscamobile.be"
-            },
-            {
-                "provider": "RSCA Mobile",
-                "first_name": "Henk",
-                "family_name": "Mariman",
-                "role": "Academy Manager",
-                "department": "Youth",
-                "email_address": "henk.mariman@rscamobile.be"
+                "provider": "BICS",
+                "first_name": "Matteo",
+                "family_name": "Gatta",
+                "role": "CEO",
+                "department": "Leadership",
+                "email_address": "matteo.gatta@bics.be"
             }
         ],
         "color": {
-            "provider": "RSCA Mobile",
-            "color_name_1": "Purple",
-            "hex_code_1": null,
-            "rgb_code_1": null
+            "provider": "BICS",
+            "color_name_1": "Blue",
+            "hex_code_1": "#1C97D4",
+            "rgb_code_1": [
+                28,
+                151,
+                212
+            ]
         },
         "departments": [
             {
-                "provider": "RSCA Mobile",
-                "department": "Mobile Application",
+                "provider": "BICS",
+                "department": "Executive Management",
                 "subdivision": [
-                    "Ticket Management",
-                    "Membership Management",
-                    "Season Ticket Management",
-                    "Match Highlights",
-                    "RSCA Futures Content",
-                    "RSCA Women Content",
-                    "Social Media Content",
-                    "Match Statistics",
-                    "Live Updates",
-                    "Mauve TV Integration",
-                    "Quizzes",
-                    "Polls",
-                    "Online Shop"
+                    "Chief Executive Officer",
+                    "Chief Financial Officer",
+                    "Chief Strategy & Business Development Officer"
                 ],
-                "address": "Royal Sporting Club Anderlecht, Theo Verbeecklaan 2, B-1070 Brussels"
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Finance",
+                "subdivision": [
+                    "Finance Transformation",
+                    "Revenue Enterprise Sales",
+                    "Revenue Telco Sales"
+                ],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Technology and Information",
+                "subdivision": [
+                    "Architecture & IT Solution Development",
+                    "Architecture & Solution Development"
+                ],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Customer Service Operations",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Legal Affairs",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Regional Operations",
+                "subdivision": [
+                    "Middle East & Africa"
+                ],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Business Operations",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Enterprise Business & Market Development",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Human Resources & Transformation",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
+            },
+            {
+                "provider": "BICS",
+                "department": "Products & Solutions",
+                "subdivision": [],
+                "address": "Boulevard du Roi Albert II, 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 547 52 10",
+                "vat": "BE 0866 977 981"
             }
         ]
     }

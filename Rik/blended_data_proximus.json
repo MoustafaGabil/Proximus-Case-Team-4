@@ -34,63 +34,63 @@
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Consumer Market",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Enterprise Market",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Corporate Affairs",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
-            "department": "Network and Wholesale",
+            "department": "Network & Wholesale",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Customer Operations",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Human Capital",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
-            "department": "Digital and Information Technology",
+            "department": "Digital & IT",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         },
         {
             "department": "Finance",
             "subdivision": [],
             "address": "Boulevard du Roi Albert II, 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
+            "vat": "BE 0202239951"
         }
     ],
     "employees": [
@@ -100,76 +100,6 @@
             "role": "Chief Executive Officer",
             "department": "CEO's department",
             "email_address": "guillaume.boutin@proximus.be"
-        },
-        {
-            "first_name": "Stefaan",
-            "family_name": "De Clerck",
-            "role": "Chairman of the Board",
-            "department": "Board of Directors",
-            "email_address": "stefaan.declerck@proximus.be"
-        },
-        {
-            "first_name": "Caroline",
-            "family_name": "Basyn",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "caroline.basyn@proximus.be"
-        },
-        {
-            "first_name": "C\u00e9cile",
-            "family_name": "Coune",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "c\u00e9cile.coune@proximus.be"
-        },
-        {
-            "first_name": "Karel",
-            "family_name": "De Gucht",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "karel.degucht@proximus.be"
-        },
-        {
-            "first_name": "B\u00e9atrice",
-            "family_name": "de Mahieu",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "b\u00e9atrice.demahieu@proximus.be"
-        },
-        {
-            "first_name": "Martin",
-            "family_name": "De Prycker",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "martin.deprycker@proximus.be"
-        },
-        {
-            "first_name": "Audrey",
-            "family_name": "Hanard",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "audrey.hanard@proximus.be"
-        },
-        {
-            "first_name": "Ibrahim",
-            "family_name": "Ouassari",
-            "role": "Director",
-            "department": "Board of Directors",
-            "email_address": "ibrahim.ouassari@proximus.be"
-        },
-        {
-            "first_name": "Catherine",
-            "family_name": "Rutten",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "catherine.rutten@proximus.be"
-        },
-        {
-            "first_name": "Joachim",
-            "family_name": "Sonne",
-            "role": "Independent director",
-            "department": "Board of Directors",
-            "email_address": "joachim.sonne@proximus.be"
         },
         {
             "first_name": "Ben",
@@ -214,11 +144,74 @@
             "email_address": "geert.standaert@proximus.be"
         },
         {
-            "first_name": "Renaud",
-            "family_name": "Tilmans",
-            "role": "Customer Operations Lead",
-            "department": "Customer Operations",
-            "email_address": "renaud.tilmans@proximus.be"
+            "first_name": "Stefaan",
+            "family_name": "De Clerck",
+            "role": "Chairman of the Board",
+            "department": "Board of Directors",
+            "email_address": "stefaan.declerck@proximus.be"
+        },
+        {
+            "first_name": "Caroline",
+            "family_name": "Basyn",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "caroline.basyn@proximus.be"
+        },
+        {
+            "first_name": "C\u00e9cile",
+            "family_name": "Coune",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "cecile.coune@proximus.be"
+        },
+        {
+            "first_name": "Karel",
+            "family_name": "De Gucht",
+            "role": "Director",
+            "department": "Board of Directors",
+            "email_address": "karel.degucht@proximus.be"
+        },
+        {
+            "first_name": "B\u00e9atrice",
+            "family_name": "de Mahieu",
+            "role": "Director",
+            "department": "Board of Directors",
+            "email_address": "beatrice.demahieu@proximus.be"
+        },
+        {
+            "first_name": "Martin",
+            "family_name": "De Prycker",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "martin.deprycker@proximus.be"
+        },
+        {
+            "first_name": "Audrey",
+            "family_name": "Hanard",
+            "role": "Director",
+            "department": "Board of Directors",
+            "email_address": "audrey.hanard@proximus.be"
+        },
+        {
+            "first_name": "Ibrahim",
+            "family_name": "Ouassari",
+            "role": "Director",
+            "department": "Board of Directors",
+            "email_address": "ibrahim.ouassari@proximus.be"
+        },
+        {
+            "first_name": "Catherine",
+            "family_name": "Rutten",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "catherine.rutten@proximus.be"
+        },
+        {
+            "first_name": "Joachim",
+            "family_name": "Sonne",
+            "role": "Independent director",
+            "department": "Board of Directors",
+            "email_address": "joachim.sonne@proximus.be"
         },
         {
             "first_name": "Jan",
@@ -228,9 +221,16 @@
             "email_address": "jan.vanacoleyen@proximus.be"
         },
         {
+            "first_name": "Renaud",
+            "family_name": "Tilmans",
+            "role": "Customer Operations Lead",
+            "department": "Customer Operations",
+            "email_address": "renaud.tilmans@proximus.be"
+        },
+        {
             "first_name": "Karl",
             "family_name": "Cuveele",
-            "role": "Managing Director Proximus Real Estate - Connectimmo",
+            "role": "Managing Director Proximus Real Estate",
             "department": "Real Estate",
             "email_address": "karl.cuveele@proximus.be"
         },
@@ -238,7 +238,7 @@
             "first_name": "Jacques",
             "family_name": "Ruckert",
             "role": "Chief Solutions & Innovation Officer",
-            "department": "Solutions & Innovation",
+            "department": "Innovation",
             "email_address": "jacques.ruckert@proximus.be"
         },
         {
@@ -252,7 +252,7 @@
             "first_name": "Geert",
             "family_name": "Kelchtermans",
             "role": "VP Small & Medium Enterprises - Tribe Lead",
-            "department": "Small & Medium Enterprises",
+            "department": "Sales",
             "email_address": "geert.kelchtermans@proximus.be"
         },
         {
@@ -266,14 +266,14 @@
             "first_name": "Sebastien",
             "family_name": "Evrard",
             "role": "Center Of Excellence Lead - Pricing & Promotions",
-            "department": "Pricing & Promotions",
+            "department": "Pricing",
             "email_address": "sebastien.evrard@proximus.be"
         },
         {
             "first_name": "Thomas",
             "family_name": "Vanherk",
             "role": "Team Lead ICT Pricing & Costing",
-            "department": "ICT Pricing & Costing",
+            "department": "Pricing",
             "email_address": "thomas.vanherk@proximus.be"
         },
         {
@@ -287,7 +287,7 @@
             "first_name": "Olivier",
             "family_name": "Crucq",
             "role": "Director Commercial & Marketing Chapter Area",
-            "department": "Commercial & Marketing",
+            "department": "Marketing",
             "email_address": "olivier.crucq@proximus.be"
         },
         {
@@ -308,234 +308,107 @@
             "first_name": "Igor",
             "family_name": "Makedonsky",
             "role": "Director Group Legal & Insurance - General Counsel",
-            "department": "Legal & Insurance",
+            "department": "Legal",
             "email_address": "igor.makedonsky@proximus.be"
-        },
-        {
-            "first_name": "Agn\u00e8s",
-            "family_name": "Touraine",
-            "role": "Candidate Board Member",
-            "department": "Board of Directors",
-            "email_address": "agn\u00e8s.touraine@proximus.be"
-        },
-        {
-            "first_name": "Catherine",
-            "family_name": "Vandenborre",
-            "role": "Candidate Board Member",
-            "department": "Board of Directors",
-            "email_address": "catherine.vandenborre@proximus.be"
         }
     ],
     "news": [
         {
-            "subject": "Proximus Creates Proximus Global",
-            "overview": "Proximus Group is consolidating its international activities by creating Proximus Global. This new entity will integrate BICS, Telesign, and Route Mobile under a single umbrella, aiming to streamline operations and drive global growth. Proximus Global is valued at approximately \u20ac3.1 billion in equity.",
-            "source": "Mobile Europe, Light Reading, Route Mobile, TelecomTV"
+            "subject": "Proximus Refinances Credit Facility",
+            "overview": "Proximus has refinanced its EUR 700 million credit facility with a group of Belgian and international banks. This new 5-year loan replaces a previous credit line from 2020 that was never used. The new facility provides financial flexibility and ensures a stable liquidity position for the company. There is also an option to link the interest rate to ESG targets. This refinancing comes amid a possible downgrade in Proximus' credit ratings by Standard & Poor's.",
+            "source": "Telecompaper"
         },
         {
-            "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-            "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain. This initiative highlights Proximus' commitment to sustainable practices.",
+            "subject": "Proximus Negotiates New HQ Building",
+            "overview": "Proximus has entered into exclusive negotiations with Nextensa for the sale of its current headquarters in Brussels and the development of a new office at the Tour & Taxis site. This follows a failed sale-leaseback deal with Immobel. Proximus aims to reduce its office footprint due to more staff working remotely. The move to the new location is expected in the first half of 2027, with the new offices ready by the first half of 2029. Proximus will likely need interim office space.",
+            "source": "Telecompaper, tipranks.com, globenewswire.com, bx1.be"
+        },
+        {
+            "subject": "Proximus Fiber Network Recognition",
+            "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its speed and performance, outperforming the competition.",
             "source": "proximus.com"
         },
         {
-            "subject": "Scarlet Offers More Data at Same Price",
-            "overview": "Scarlet, a subsidiary of Proximus, is offering increased data volumes on its mobile plans without raising prices. This new offer is part of Scarlet's strategy to provide more value to its customers.",
+            "subject": "Scarlet New Year Offer",
+            "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer for 2025, providing increased data volumes on its mobile plans at no extra cost.",
             "source": "proximus.com"
         },
         {
-            "subject": "Proximus Fiber Network Recognized for Performance",
-            "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its superior speed and performance compared to competitors. This highlights the company's investment in high-quality network infrastructure.",
-            "source": "proximus.com"
+            "subject": "Proximus Global Creation",
+            "overview": "Proximus has created Proximus Global, an entity that will encompass its international activities, including BICS, Telesign, and Route Mobile. This new unit is valued at around \u20ac3.1 billion in equity.",
+            "source": "lightreading.com, proximus.com"
         },
         {
-            "subject": "Proximus Extends Maturity of Revolving Credit Facility",
-            "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This move provides the company with continued financial flexibility.",
-            "source": "marketscreener.com"
+            "subject": "Microsoft and Proximus Strategic Partnership",
+            "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This partnership will allow both companies to leverage their expertise and product leadership, and will strengthen Microsoft's use of Proximus' CPaaS & DI product suites.",
+            "source": "thecyberexpress.com"
         },
         {
-            "subject": "Proximus Sells Luxembourg Towers",
-            "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac110 million. This sale is part of Proximus' asset divestment plan.",
-            "source": "marketscreener.com, Data Center Dynamics"
-        },
-        {
-            "subject": "Proximus to Sell Be-Mobile",
-            "overview": "Proximus is reportedly planning to sell its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. This move is part of a broader plan to free up \u20ac500 million for investments in fiber optics.",
-            "source": "Data Center Dynamics"
-        },
-        {
-            "subject": "Proximus and Microsoft Announce Strategic Partnership",
-            "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership.",
-            "source": "The Cyber Express"
+            "subject": "Infosys and Proximus Strategic Collaboration",
+            "overview": "Infosys and Proximus Group have strengthened their strategic collaboration to help unlock new business opportunities.",
+            "source": "infosys.com"
         }
     ],
     "providers": [
         {
             "provider": "Tech Mahindra",
-            "service": "Design and build a technology platform called 'Tech Hub'",
-            "type": "Technology Service Provider",
+            "service": "Strategic partnership to design and build a technology platform ('Tech Hub') for next-generation connectivity offerings.",
+            "type": "Consulting and Technology Services",
             "provider_homepage": "https://www.techmahindra.com/"
         },
         {
-            "provider": "Comviva",
-            "service": "Provides the BlueMarble platform for the 'Tech Hub'",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
+            "provider": "Proximus NXT",
+            "service": "IT solutions & services tailored to enterprises, focusing on designing, building and delivering exceptional IT solutions & services.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://thinknxt.be/"
         },
         {
-            "provider": "BICS",
-            "service": "International communications enabler, global voice carrier, and provider of mobile data services",
-            "type": "Telecommunications",
-            "provider_homepage": "https://www.bics.com/"
-        },
-        {
-            "provider": "Telesign",
-            "service": "Specializes in communication platforms and digital identity",
-            "type": "Telecommunications",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Be-Mobile",
-            "service": "Smart mobility solutions",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "ClearMedia",
-            "service": "Cloud, cybersecurity, and digital workplace solutions",
-            "type": "Technology Service Provider",
+            "provider": "Agile Partner",
+            "service": "IT development, agile assistance and innovation, supporting companies in their adaptation to the cloud at all levels: strategy, change and project management, software and infrastructure.",
+            "type": "Consulting and IT Services",
             "provider_homepage": null
         },
         {
             "provider": "Codit",
-            "service": "Microsoft Azure cloud solutions",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
+            "service": "Supports customers in realizing their ambitions with tailored Microsoft Azure cloud solutions.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://www.codit.eu/"
         },
         {
-            "provider": "Davinsi Labs",
-            "service": "Cybersecurity and operational intelligence",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
+            "provider": "Proximus Counsel",
+            "service": "Provides highly specialised legal advice, consulting for fundamental decisions and strategic management tasks in a law firm, and personal coaching.",
+            "type": "Legal and Management Consulting",
+            "provider_homepage": "https://proximuscounsel.com/"
         },
         {
-            "provider": "Proximus Spearit",
-            "service": "IT partner",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Telindus",
-            "service": "Telecommunication services, ICT infrastructure, multi-cloud, digital finance solutions, cybersecurity, business applications, managed services and training services",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Nokia",
-            "service": "Vendor partnership",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.nokia.com/"
-        },
-        {
-            "provider": "Ericsson",
-            "service": "Vendor partnership",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.ericsson.com/"
-        },
-        {
-            "provider": "Unifiber",
-            "service": "Vendor partnership",
-            "type": "Technology Service Provider",
+            "provider": "ClearMedia",
+            "service": "Provides cloud, cybersecurity and digital workplace solutions, services and products tailored to the (S)ME market through an indirect channel of local IT partners.",
+            "type": "Consulting and IT Services",
             "provider_homepage": null
         },
         {
             "provider": "Infosys",
-            "service": "Vendor partnership",
-            "type": "Technology Service Provider",
+            "service": "Vendor partnership for IT and telecommunications services.",
+            "type": "Technology Services",
             "provider_homepage": "https://www.infosys.com/"
         },
         {
-            "provider": "Citymesh",
-            "service": "B2B telecom operator specializing in wireless networks",
-            "type": "Telecommunications",
-            "provider_homepage": "https://www.citymesh.com/"
-        },
-        {
-            "provider": "Destiny",
-            "service": "Secure cloud communication solutions",
-            "type": "Telecommunications",
+            "provider": "Telindus",
+            "service": "Provides information and communications technology services, offering telecom and ICT solutions including consulting, integration, management and outsourcing.",
+            "type": "Consulting and IT Services",
             "provider_homepage": null
         },
         {
-            "provider": "Sewan",
-            "service": "International telecom carrier offering fixed and mobile voice, cloud services, and internet access",
-            "type": "Telecommunications",
-            "provider_homepage": null
+            "provider": "Proximus Business Partners",
+            "service": "Certified local experts in ICT and telecom, offering tailored solutions for SMEs, including analysis of needs and development of personalized solutions for internet, telephony, mobile, and cybersecurity.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://www.proximus.be/"
         },
         {
-            "provider": "Belcenter",
-            "service": "B2B telco player operating an IP based network",
-            "type": "Telecommunications",
-            "provider_homepage": "https://www.belcenter.be/"
-        },
-        {
-            "provider": "Colt Technology Services",
-            "service": "Global digital infrastructure company offering digital connectivity",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.colt.net/"
-        },
-        {
-            "provider": "Comsave",
-            "service": "E-commerce platform for internet and last-mile access services",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Scarlet",
-            "service": "Subsidiary company using Proximus' infrastructure for services",
-            "type": "Telecommunications",
-            "provider_homepage": "https://www.scarlet.be/"
-        },
-        {
-            "provider": "Telenet",
-            "service": "Provider of converged connected entertainment and business solutions",
-            "type": "Telecommunications",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Yoin",
-            "service": "Independent telecom provider specializing in mobile and internet",
-            "type": "Telecommunications",
-            "provider_homepage": null
-        },
-        {
-            "provider": "Broadcom",
-            "service": "Provides cloud services",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.broadcom.com/"
-        },
-        {
-            "provider": "Clerk Chat",
-            "service": "Streamlines customer communication through real-time messaging",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://clerk.chat/"
-        },
-        {
-            "provider": "VMware",
-            "service": "Provides Hosted Private Cloud services",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "MySQL AB",
-            "service": "Technology partner",
-            "type": "Technology Service Provider",
-            "provider_homepage": null
-        },
-        {
-            "provider": "AUSY BELGIUM / Data Flow",
-            "service": "Datacenter Operations, Troubleshooting, customer support & maintenance",
-            "type": "Contractor",
-            "provider_homepage": null
+            "provider": "Proximus HR",
+            "service": "Provides HR Consulting services.",
+            "type": "HR Consulting",
+            "provider_homepage": "https://proximushr.com/"
         }
     ]
 }

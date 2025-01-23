@@ -1,8 +1,8 @@
 [
     {
-        "provider": "PwC",
-        "service": "Consulting services, including audit and tax",
+        "provider": "Deloitte",
+        "service": "Consulting services, including strategy and risk management",
         "type": "Consulting Service Provider",
-        "provider_homepage": "https://www.pwc.com/"
+        "provider_homepage": "https://www2.deloitte.com/"
     }
 ]

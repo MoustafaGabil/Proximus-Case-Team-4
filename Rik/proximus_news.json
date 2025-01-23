@@ -1,42 +1,37 @@
 [
     {
-        "subject": "Proximus Creates Proximus Global",
-        "overview": "Proximus Group is consolidating its international activities by creating Proximus Global. This new entity will integrate BICS, Telesign, and Route Mobile under a single umbrella, aiming to streamline operations and drive global growth. Proximus Global is valued at approximately \u20ac3.1 billion in equity.",
-        "source": "Mobile Europe, Light Reading, Route Mobile, TelecomTV"
+        "subject": "Proximus Refinances Credit Facility",
+        "overview": "Proximus has refinanced its EUR 700 million credit facility with a group of Belgian and international banks. This new 5-year loan replaces a previous credit line from 2020 that was never used. The new facility provides financial flexibility and ensures a stable liquidity position for the company. There is also an option to link the interest rate to ESG targets. This refinancing comes amid a possible downgrade in Proximus' credit ratings by Standard & Poor's.",
+        "source": "Telecompaper"
     },
     {
-        "subject": "Proximus and Sagemcom Test Cargo Sailboat in Supply Chain",
-        "overview": "Proximus and Sagemcom are testing the use of a cargo sailboat in their supply chain. This initiative highlights Proximus' commitment to sustainable practices.",
+        "subject": "Proximus Negotiates New HQ Building",
+        "overview": "Proximus has entered into exclusive negotiations with Nextensa for the sale of its current headquarters in Brussels and the development of a new office at the Tour & Taxis site. This follows a failed sale-leaseback deal with Immobel. Proximus aims to reduce its office footprint due to more staff working remotely. The move to the new location is expected in the first half of 2027, with the new offices ready by the first half of 2029. Proximus will likely need interim office space.",
+        "source": "Telecompaper, tipranks.com, globenewswire.com, bx1.be"
+    },
+    {
+        "subject": "Proximus Fiber Network Recognition",
+        "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its speed and performance, outperforming the competition.",
         "source": "proximus.com"
     },
     {
-        "subject": "Scarlet Offers More Data at Same Price",
-        "overview": "Scarlet, a subsidiary of Proximus, is offering increased data volumes on its mobile plans without raising prices. This new offer is part of Scarlet's strategy to provide more value to its customers.",
+        "subject": "Scarlet New Year Offer",
+        "overview": "Scarlet, a subsidiary of Proximus, has launched a new offer for 2025, providing increased data volumes on its mobile plans at no extra cost.",
         "source": "proximus.com"
     },
     {
-        "subject": "Proximus Fiber Network Recognized for Performance",
-        "overview": "Proximus' fiber network has received recognition from nPerf and Ookla for its superior speed and performance compared to competitors. This highlights the company's investment in high-quality network infrastructure.",
-        "source": "proximus.com"
+        "subject": "Proximus Global Creation",
+        "overview": "Proximus has created Proximus Global, an entity that will encompass its international activities, including BICS, Telesign, and Route Mobile. This new unit is valued at around \u20ac3.1 billion in equity.",
+        "source": "lightreading.com, proximus.com"
     },
     {
-        "subject": "Proximus Extends Maturity of Revolving Credit Facility",
-        "overview": "Proximus has successfully extended the maturity of its EUR 700 million Revolving Credit Facility. This move provides the company with continued financial flexibility.",
-        "source": "marketscreener.com"
+        "subject": "Microsoft and Proximus Strategic Partnership",
+        "overview": "Microsoft and Proximus have announced a 5-year strategic partnership to enhance cloud and AI solutions. This partnership will allow both companies to leverage their expertise and product leadership, and will strengthen Microsoft's use of Proximus' CPaaS & DI product suites.",
+        "source": "thecyberexpress.com"
     },
     {
-        "subject": "Proximus Sells Luxembourg Towers",
-        "overview": "Proximus has sold its mobile tower assets in Luxembourg to InfraRed Capital Partners for approximately \u20ac110 million. This sale is part of Proximus' asset divestment plan.",
-        "source": "marketscreener.com, Data Center Dynamics"
-    },
-    {
-        "subject": "Proximus to Sell Be-Mobile",
-        "overview": "Proximus is reportedly planning to sell its mobility subsidiary, Be-Mobile, to fund its fiber optic cable rollout. This move is part of a broader plan to free up \u20ac500 million for investments in fiber optics.",
-        "source": "Data Center Dynamics"
-    },
-    {
-        "subject": "Proximus and Microsoft Announce Strategic Partnership",
-        "overview": "Proximus and Microsoft have announced a 5-year strategic partnership to enhance cloud and AI solutions. This collaboration will allow both companies to leverage their expertise and product leadership.",
-        "source": "The Cyber Express"
+        "subject": "Infosys and Proximus Strategic Collaboration",
+        "overview": "Infosys and Proximus Group have strengthened their strategic collaboration to help unlock new business opportunities.",
+        "source": "infosys.com"
     }
 ]

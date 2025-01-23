@@ -7,48 +7,6 @@
         "email_address": "guillaume.boutin@proximus.be"
     },
     {
-        "first_name": "Ben",
-        "family_name": "Appel",
-        "role": "Corporate Affairs Lead",
-        "department": "Corporate Affairs",
-        "email_address": "ben.appel@proximus.be"
-    },
-    {
-        "first_name": "Jim",
-        "family_name": "Casteele",
-        "role": "Consumer Market Lead",
-        "department": "Consumer Market",
-        "email_address": "jim.casteele@proximus.be"
-    },
-    {
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Enterprise IT Services & Segments Lead",
-        "department": "Enterprise Market",
-        "email_address": "anne-sophie.lotgering@proximus.be"
-    },
-    {
-        "first_name": "Antonietta",
-        "family_name": "Mastroianni",
-        "role": "Digital & IT Lead",
-        "department": "Digital & IT",
-        "email_address": "antonietta.mastroianni@proximus.be"
-    },
-    {
-        "first_name": "Mark",
-        "family_name": "Reid",
-        "role": "Finance Lead",
-        "department": "Finance",
-        "email_address": "mark.reid@proximus.be"
-    },
-    {
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Network & Wholesale Lead",
-        "department": "Network & Wholesale",
-        "email_address": "geert.standaert@proximus.be"
-    },
-    {
         "first_name": "Stefaan",
         "family_name": "De Clerck",
         "role": "Chairman of the Board",
@@ -67,7 +25,7 @@
         "family_name": "Coune",
         "role": "Independent director",
         "department": "Board of Directors",
-        "email_address": "cecile.coune@proximus.be"
+        "email_address": "c\u00e9cile.coune@proximus.be"
     },
     {
         "first_name": "Karel",
@@ -81,7 +39,7 @@
         "family_name": "de Mahieu",
         "role": "Director",
         "department": "Board of Directors",
-        "email_address": "beatrice.demahieu@proximus.be"
+        "email_address": "b\u00e9atrice.demahieu@proximus.be"
     },
     {
         "first_name": "Martin",
@@ -119,11 +77,46 @@
         "email_address": "joachim.sonne@proximus.be"
     },
     {
-        "first_name": "Jan",
-        "family_name": "Van Acoleyen",
-        "role": "Chief Human Resources Officer",
-        "department": "Human Capital",
-        "email_address": "jan.vanacoleyen@proximus.be"
+        "first_name": "Mark",
+        "family_name": "Reid",
+        "role": "Finance Lead",
+        "department": "Finance",
+        "email_address": "mark.reid@proximus.be"
+    },
+    {
+        "first_name": "Jim",
+        "family_name": "Casteele",
+        "role": "Consumer Market Lead",
+        "department": "Consumer Market",
+        "email_address": "jim.casteele@proximus.be"
+    },
+    {
+        "first_name": "Antonietta",
+        "family_name": "Mastroianni",
+        "role": "Digital & IT Lead",
+        "department": "Digital & IT",
+        "email_address": "antonietta.mastroianni@proximus.be"
+    },
+    {
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Network & Wholesale Lead",
+        "department": "Network & Wholesale",
+        "email_address": "geert.standaert@proximus.be"
+    },
+    {
+        "first_name": "Ben",
+        "family_name": "Appel",
+        "role": "Corporate Affairs Lead",
+        "department": "Corporate Affairs",
+        "email_address": "ben.appel@proximus.be"
+    },
+    {
+        "first_name": "Anne-Sophie",
+        "family_name": "Lotgering",
+        "role": "Enterprise IT Services & Segments Lead",
+        "department": "Enterprise Market",
+        "email_address": "anne-sophie.lotgering@proximus.be"
     },
     {
         "first_name": "Renaud",
@@ -133,9 +126,16 @@
         "email_address": "renaud.tilmans@proximus.be"
     },
     {
+        "first_name": "Jan",
+        "family_name": "Van Acoleyen",
+        "role": "Chief Human Resources Officer",
+        "department": "Human Capital",
+        "email_address": "jan.vanacoleyen@proximus.be"
+    },
+    {
         "first_name": "Karl",
         "family_name": "Cuveele",
-        "role": "Managing Director Proximus Real Estate",
+        "role": "Managing Director Proximus Real Estate - Connectimmo",
         "department": "Real Estate",
         "email_address": "karl.cuveele@proximus.be"
     },
@@ -143,7 +143,7 @@
         "first_name": "Jacques",
         "family_name": "Ruckert",
         "role": "Chief Solutions & Innovation Officer",
-        "department": "Innovation",
+        "department": "Solutions & Innovation",
         "email_address": "jacques.ruckert@proximus.be"
     },
     {
@@ -157,7 +157,7 @@
         "first_name": "Geert",
         "family_name": "Kelchtermans",
         "role": "VP Small & Medium Enterprises - Tribe Lead",
-        "department": "Sales",
+        "department": "Small & Medium Enterprises",
         "email_address": "geert.kelchtermans@proximus.be"
     },
     {
@@ -171,14 +171,14 @@
         "first_name": "Sebastien",
         "family_name": "Evrard",
         "role": "Center Of Excellence Lead - Pricing & Promotions",
-        "department": "Pricing",
+        "department": "Pricing & Promotions",
         "email_address": "sebastien.evrard@proximus.be"
     },
     {
         "first_name": "Thomas",
         "family_name": "Vanherk",
         "role": "Team Lead ICT Pricing & Costing",
-        "department": "Pricing",
+        "department": "ICT Pricing & Costing",
         "email_address": "thomas.vanherk@proximus.be"
     },
     {
@@ -192,7 +192,7 @@
         "first_name": "Olivier",
         "family_name": "Crucq",
         "role": "Director Commercial & Marketing Chapter Area",
-        "department": "Marketing",
+        "department": "Commercial & Marketing",
         "email_address": "olivier.crucq@proximus.be"
     },
     {
@@ -213,7 +213,7 @@
         "first_name": "Igor",
         "family_name": "Makedonsky",
         "role": "Director Group Legal & Insurance - General Counsel",
-        "department": "Legal",
+        "department": "Legal & Insurance",
         "email_address": "igor.makedonsky@proximus.be"
     }
 ]

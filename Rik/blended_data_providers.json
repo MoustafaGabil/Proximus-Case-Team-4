@@ -1,95 +1,286 @@
 {
-    "Clerk Chat": {
+    "Proximus Business Partners": {
         "general": {
-            "provider": "Clerk Chat",
-            "service": "Streamlines customer communication through real-time messaging",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://clerk.chat/"
+            "provider": "Proximus Business Partners",
+            "service": "Certified local experts in ICT and telecom, offering tailored solutions for SMEs, including analysis of needs and development of personalized solutions for internet, telephony, mobile, and cybersecurity.",
+            "type": "Consulting and IT Services",
+            "provider_homepage": "https://www.proximus.be/"
         },
         "employee": [
             {
-                "provider": "Clerk Chat",
-                "first_name": "Alexander",
-                "family_name": "Haque",
-                "role": "co-founder and CEO",
-                "department": "Executive",
-                "email_address": "alexander.haque@clerk.chat.be"
+                "provider": "Proximus Business Partners",
+                "first_name": "Guillaume",
+                "family_name": "Boutin",
+                "role": "Chief Executive Officer",
+                "department": "Leadership",
+                "email_address": "guillaume.boutin@proximusbusinesspartners.be"
             },
             {
-                "provider": "Clerk Chat",
-                "first_name": "Igor",
-                "family_name": "Boshoer",
-                "role": "co-founder and CTO",
-                "department": "Executive",
-                "email_address": "igor.boshoer@clerk.chat.be"
+                "provider": "Proximus Business Partners",
+                "first_name": "Mark",
+                "family_name": "Reid",
+                "role": "Finance Lead",
+                "department": "Finance",
+                "email_address": "mark.reid@proximusbusinesspartners.be"
             },
             {
-                "provider": "Clerk Chat",
-                "first_name": "Ximena",
-                "family_name": "De Spain",
-                "role": "Employee",
-                "department": "General",
-                "email_address": "ximena.despain@clerk.chat.be"
+                "provider": "Proximus Business Partners",
+                "first_name": "Anne-Sophie",
+                "family_name": "Lotgering",
+                "role": "Enterprise IT Services & Segments Lead",
+                "department": "Enterprise IT",
+                "email_address": "anne-sophie.lotgering@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Antonietta",
+                "family_name": "Mastroianni",
+                "role": "Digital & IT Lead",
+                "department": "Digital & IT",
+                "email_address": "antonietta.mastroianni@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Geert",
+                "family_name": "Standaert",
+                "role": "Network & Wholesale Lead",
+                "department": "Network & Wholesale",
+                "email_address": "geert.standaert@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Dirk",
+                "family_name": "Lybaert",
+                "role": "Secretary General",
+                "department": "General Management",
+                "email_address": "dirk.lybaert@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Stefaan",
+                "family_name": "De Clerck",
+                "role": "Chairman of the Board",
+                "department": "Board of Directors",
+                "email_address": "stefaan.declerck@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Catherine",
+                "family_name": "Rutten",
+                "role": "Independent Director",
+                "department": "Board of Directors",
+                "email_address": "catherine.rutten@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Joachim",
+                "family_name": "Sonne",
+                "role": "Independent Director",
+                "department": "Board of Directors",
+                "email_address": "joachim.sonne@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Martin",
+                "family_name": "De Prycker",
+                "role": "Independent Director",
+                "department": "Board of Directors",
+                "email_address": "martin.deprycker@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Catherine",
+                "family_name": "Vandenborre",
+                "role": "Independent Director",
+                "department": "Board of Directors",
+                "email_address": "catherine.vandenborre@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "C\u00e9cile",
+                "family_name": "Coune",
+                "role": "Independent Director",
+                "department": "Board of Directors",
+                "email_address": "cecile.coune@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "B\u00e9atrice",
+                "family_name": "De Mahieu",
+                "role": "Director",
+                "department": "Board of Directors",
+                "email_address": "beatrice.demahieu@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Audrey",
+                "family_name": "Hanard",
+                "role": "Director",
+                "department": "Board of Directors",
+                "email_address": "audrey.hanard@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Claire",
+                "family_name": "Tillekaerts",
+                "role": "Director",
+                "department": "Board of Directors",
+                "email_address": "claire.tillekaerts@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Ibrahim",
+                "family_name": "Ouassari",
+                "role": "Director",
+                "department": "Board of Directors",
+                "email_address": "ibrahim.ouassari@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Karel",
+                "family_name": "De Gucht",
+                "role": "Director",
+                "department": "Board of Directors",
+                "email_address": "karel.degucht@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Renaud",
+                "family_name": "Tilmans",
+                "role": "Chief Customer Operations Officer",
+                "department": "Customer Operations",
+                "email_address": "renaud.tilmans@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Nancy",
+                "family_name": "Goossens",
+                "role": "Director of Investor Relations",
+                "department": "Investor Relations",
+                "email_address": "nancy.goossens@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Jan",
+                "family_name": "Van Acoleyen",
+                "role": "Human Capital Lead",
+                "department": "Human Resources",
+                "email_address": "jan.vanacoleyen@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Alex",
+                "family_name": "Lorette",
+                "role": "Head of Telecom Solutions Department",
+                "department": "Telecom Solutions",
+                "email_address": "alex.lorette@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Peter",
+                "family_name": "Van den broeck",
+                "role": "Account Manager",
+                "department": "Sales",
+                "email_address": "peter.vandenbroeck@proximusbusinesspartners.be"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "first_name": "Stijn",
+                "family_name": "Bogaerts",
+                "role": "Smart Building & Retail Expert",
+                "department": "Smart Building & Retail",
+                "email_address": "stijn.bogaerts@proximusbusinesspartners.be"
             }
         ],
         "color": {
-            "provider": "Clerk Chat",
-            "color_name_1": "Purple",
-            "hex_code_1": "#8a0eef",
+            "provider": "Proximus Business Partners",
+            "color_name_1": "Primary Purple",
+            "hex_code_1": "#5C2D91",
             "rgb_code_1": [
-                138,
-                14,
-                239
+                92,
+                45,
+                145
+            ],
+            "color_name_2": "White",
+            "hex_code_2": "#FFFFFF",
+            "rgb_code_2": [
+                255,
+                255,
+                255
             ]
         },
         "departments": [
             {
-                "provider": "Clerk Chat",
-                "department": "Executive Leadership",
-                "subdivision": [
-                    "Board of Directors"
-                ],
-                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-                "phone": null,
-                "vat": null
-            },
-            {
-                "provider": "Clerk Chat",
-                "department": "Engineering",
-                "subdivision": [
-                    "Frontend Engineering",
-                    "Backend Engineering",
-                    "Machine Learning Engineering"
-                ],
-                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-                "phone": null,
-                "vat": null
-            },
-            {
-                "provider": "Clerk Chat",
-                "department": "Product",
-                "subdivision": [
-                    "Product Management"
-                ],
-                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-                "phone": null,
-                "vat": null
-            },
-            {
-                "provider": "Clerk Chat",
-                "department": "Sales",
+                "provider": "Proximus Business Partners",
+                "department": "CEO's Department",
                 "subdivision": [],
-                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-                "phone": null,
-                "vat": null
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
             },
             {
-                "provider": "Clerk Chat",
-                "department": "Support",
+                "provider": "Proximus Business Partners",
+                "department": "Consumer Market",
                 "subdivision": [],
-                "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-                "phone": null,
-                "vat": null
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Enterprise Market",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Corporate Affairs",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Network & Wholesale",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Customer Operations",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Human Capital",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Digital & IT",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
+            },
+            {
+                "provider": "Proximus Business Partners",
+                "department": "Finance",
+                "subdivision": [],
+                "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+                "phone": "+32 2 205 4000",
+                "vat": "BE 0202.239.951"
             }
         ]
     }

@@ -1,50 +1,74 @@
 [
     {
-        "provider": "Clerk Chat",
-        "department": "Executive Leadership",
-        "subdivision": [
-            "Board of Directors"
-        ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Engineering",
-        "subdivision": [
-            "Frontend Engineering",
-            "Backend Engineering",
-            "Machine Learning Engineering"
-        ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Product",
-        "subdivision": [
-            "Product Management"
-        ],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
-    },
-    {
-        "provider": "Clerk Chat",
-        "department": "Sales",
+        "provider": "Proximus Business Partners",
+        "department": "CEO's Department",
         "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     },
     {
-        "provider": "Clerk Chat",
-        "department": "Support",
+        "provider": "Proximus Business Partners",
+        "department": "Consumer Market",
         "subdivision": [],
-        "address": "201 Spear Street, Floor 6, San Francisco, CA 94105, United States",
-        "phone": null,
-        "vat": null
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Enterprise Market",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Corporate Affairs",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Network & Wholesale",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Customer Operations",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Human Capital",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Digital & IT",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
+    },
+    {
+        "provider": "Proximus Business Partners",
+        "department": "Finance",
+        "subdivision": [],
+        "address": "Koning Albert II-laan 27, B-1030 Brussels, Belgium",
+        "phone": "+32 2 205 4000",
+        "vat": "BE 0202.239.951"
     }
 ]

@@ -1,26 +1,29 @@
 [
     {
-        "subject": "Belangrijke contractbreukmelding met betrekking tot Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nEr is een kritiek probleem aan het licht gekomen met betrekking tot de contractuele overeenkomst tussen Proximus en Clerk Chat, specifiek op het gebied van data-analyse. De details van deze schending zijn gedocumenteerd in het bijgevoegde document. Het is van cruciaal belang dat u dit onmiddellijk onderzoekt.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Immediate Action Required: Security Risk Assessment for Marketing Campaigns",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "It has come to our attention that there's a potential security vulnerability affecting some of our marketing campaign materials. This could expose sensitive data and compromise our communication efforts. We need your immediate attention to address this issue and ensure the security of our marketing assets. Please access the link below to review the details of the risk and the recommended actions. We must resolve this before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "John Doe",
+        "email_sign_role": "Consultant",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Review Now"
     },
     {
-        "subject": "Onmiddellijke actie vereist: Contractbreuk in Data Analyse",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een ernstige contractbreuk vastgesteld die uw aandacht vereist. Dit heeft directe gevolgen voor onze data-analyse processen. We vragen u dringend het bijgevoegde document te bekijken voor alle details en de volgende stappen. \n\nHoogachtend,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Urgent: Marketing Security Protocol Update Needed",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "We've identified a gap in our current marketing security protocols that requires your immediate review. This issue, if not addressed quickly, could pose a significant risk to our campaign integrity and data protection. Please follow the link below for detailed instructions and updated guidelines. Your prompt action is crucial to safeguard our marketing activities, and we need this resolved before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "Jane Smith",
+        "email_sign_role": "IT Security Analyst",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Check Details"
     },
     {
-        "subject": "Data Analyse Contractbreuk: Uw onmiddellijke aandacht is vereist",
-        "body": "Geachte mevrouw Declercq,\n\nWe hebben een contractbreuk met betrekking tot data-analyse ontdekt. Het document dat hieronder is bijgevoegd, bevat alle details. We vragen u dit zo snel mogelijk te bekijken.\n\nMet vriendelijke groet,",
-        "email_sign_fullname": "Alex Thompson",
-        "email_sign_role": "Data Security Officer",
-        "email_sign_company": "Clerk Chat",
-        "receiver_full_name": "Marie Declercq"
+        "subject": "Critical: Marketing Campaign Security Alert",
+        "addressing_the_receiver": "Dear Emma Wouters,",
+        "body": "There's an urgent security matter concerning our marketing campaigns that requires your immediate attention. A potential breach could lead to unauthorized access to sensitive campaign information. To understand the scope of the problem and the necessary steps to mitigate it, please use the link provided. Your swift action is vital to prevent any further damage. This needs to be addressed before Monday, January 27th at 15:00.",
+        "email_sign_fullname": "Peter Jones",
+        "email_sign_role": "Cybersecurity Expert",
+        "email_sign_company": "Proximus Business Partners",
+        "call_to_action_text": "Act Fast"
     }
 ]

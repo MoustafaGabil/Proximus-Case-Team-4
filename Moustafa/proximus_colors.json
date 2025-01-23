@@ -1,13 +1,14 @@
 [
     {
-        "provider": "Proximus Business Partners",
         "color_name_1": "Primary Purple",
         "hex_code_1": "#5C2D91",
         "rgb_code_1": [
             92,
             45,
             145
-        ],
+        ]
+    },
+    {
         "color_name_2": "White",
         "hex_code_2": "#FFFFFF",
         "rgb_code_2": [
@@ -17,18 +18,9 @@
         ]
     },
     {
-        "color_name_1": "Secondary Purple",
-        "hex_code_1": "#7D57A7",
-        "rgb_code_1": [
-            125,
-            87,
-            167
-        ]
-    },
-    {
-        "color_name_1": "Black",
-        "hex_code_1": "#000000",
-        "rgb_code_1": [
+        "color_name_3": "Black",
+        "hex_code_3": "#000000",
+        "rgb_code_3": [
             0,
             0,
             0
