@@ -1,23 +1,36 @@
 [
     {
-        "service_emails_template": {
-            "email_subject": "Dringende kwestie: Beveiligingsrisico in Proximus IT-infrastructuur",
-            "email_body": "Geachte heer Vandenberg,\n\nIk schrijf u vandaag met een dringende kwestie die onmiddellijke aandacht vereist. Ons team heeft een significant beveiligingsrisico ontdekt binnen de IT-infrastructuur van Proximus, specifiek met betrekking tot de diensten die wij leveren. Dit risico kan leiden tot een datalek en de integriteit van de systemen van Proximus in gevaar brengen.\n\nDe details van dit beveiligingsrisico zijn te vinden in de bijgevoegde link. Het is van cruciaal belang dat we dit probleem zo snel mogelijk aanpakken om mogelijke schade te voorkomen. We verzoeken u dan ook om dit met de hoogste prioriteit te behandelen.\n\nWe staan klaar om samen met uw team te werken aan een snelle en effectieve oplossing. We kijken uit naar uw spoedige reactie.\n\nMet vriendelijke groet,\n\n[Link]",
-            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
-        }
-    },
-    {
-        "service_emails_template": {
-            "email_subject": "Dringende kwestie: Kwetsbaarheid in Proximus Enterprise Market",
-            "email_body": "Geachte heer Vandenberg,\n\nIk neem contact met u op in verband met een kritieke beveiligingskwetsbaarheid die we hebben ge\u00efdentificeerd in de Enterprise Market-diensten van Proximus, die door Deloitte worden geleverd. Deze kwetsbaarheid vormt een ernstig risico voor de gegevensbeveiliging en de continu\u00efteit van de dienstverlening.\n\nDe volledige details van deze kwetsbaarheid, inclusief de mogelijke impact en de aanbevolen stappen, zijn te vinden in de link hieronder. Het is van het grootste belang dat we onmiddellijk actie ondernemen om dit risico te minimaliseren en de veiligheid van de systemen van Proximus te waarborgen.\n\nWe zijn bereid om nauw met u samen te werken om dit probleem zo snel mogelijk op te lossen. We verzoeken u om dit met de hoogste prioriteit te behandelen.\n\nMet vriendelijke groet,\n\n[Link]",
-            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
-        }
-    },
-    {
-        "service_emails_template": {
-            "email_subject": "Dringende kwestie: Beveiligingslek in Proximus Consumer Market",
-            "email_body": "Geachte heer Vandenberg,\n\nIk schrijf u vandaag met een dringende kwestie die onmiddellijke aandacht vereist. Ons team heeft een significant beveiligingslek ontdekt binnen de Consumer Market-diensten van Proximus, die door Deloitte worden geleverd. Dit lek kan leiden tot een datalek en de integriteit van de systemen van Proximus in gevaar brengen.\n\nDe details van dit beveiligingslek zijn te vinden in de bijgevoegde link. Het is van cruciaal belang dat we dit probleem zo snel mogelijk aanpakken om mogelijke schade te voorkomen. We verzoeken u dan ook om dit met de hoogste prioriteit te behandelen.\n\nWe staan klaar om samen met uw team te werken aan een snelle en effectieve oplossing. We kijken uit naar uw spoedige reactie.\n\nMet vriendelijke groet,\n\n[Link]",
-            "email_signature": "Thomas De Smet\nCybersecurity Specialist\nDeloitte"
-        }
+        "service_emails_template": [
+            {
+                "email_type": "Urgent Issue Notification",
+                "recipient_role": "Marketing Specialist",
+                "subject": "Urgent: Critical Service Disruption Affecting Proximus Consumer Market",
+                "body": "Dear Marketing Specialist,\n\nI am writing to you today with an urgent matter regarding a critical service disruption impacting Proximus' Consumer Market. Our Microsoft service, [Specific Service Name, e.g., 'Azure-powered customer portal'], is currently experiencing [Specific Issue, e.g., 'intermittent outages and slow loading times']. This is directly affecting Proximus' ability to [Specific Impact, e.g., 'provide a seamless online experience for their customers and manage their subscriptions effectively'].\n\nThe impact of this issue is significant. Proximus customers are experiencing [Specific Customer Impact, e.g., 'frustration, difficulty accessing their accounts, and potential loss of trust in the service']. This directly translates to [Specific Business Impact, e.g., 'a negative impact on customer satisfaction scores, potential churn, and a decrease in online transactions'].\n\nWe understand the importance of a reliable service for Proximus and their customers. Therefore, we need to address this issue immediately. We are currently working to identify the root cause and implement a solution. However, we need your support in [Specific Request, e.g., 'communicating this issue to the relevant Proximus teams and ensuring they are aware of the severity of the situation'].\n\nWe will keep you updated on our progress. Please do not hesitate to reach out if you have any questions or require further information.\n\nSincerely,\n[Your Name/Team Name]\nMicrosoft"
+            },
+            {
+                "email_type": "Follow-up on Urgent Issue",
+                "recipient_role": "Marketing Specialist",
+                "subject": "Follow-up: Critical Service Disruption Affecting Proximus Consumer Market",
+                "body": "Dear Marketing Specialist,\n\nThis email is a follow-up to our previous communication regarding the critical service disruption affecting Proximus' Consumer Market. As a reminder, the issue with our [Specific Service Name, e.g., 'Azure-powered customer portal'] is causing [Specific Issue, e.g., 'intermittent outages and slow loading times'], which is impacting Proximus' ability to [Specific Impact, e.g., 'provide a seamless online experience for their customers'].\n\nWe want to provide you with an update on our progress. Our technical team has identified [Specific Progress, e.g., 'the root cause of the issue and is currently implementing a fix']. We anticipate that the service will be fully restored by [Estimated Time of Resolution].\n\nIn the meantime, we urge you to continue to [Specific Request, e.g., 'keep Proximus informed of the situation and manage customer expectations']. We understand that this disruption is causing inconvenience, and we are working diligently to resolve it as quickly as possible.\n\nWe will send another update once the service is fully restored. Please do not hesitate to reach out if you have any questions.\n\nSincerely,\n[Your Name/Team Name]\nMicrosoft"
+            },
+            {
+                "email_type": "Resolution Confirmation",
+                "recipient_role": "Marketing Specialist",
+                "subject": "Resolution: Service Disruption Affecting Proximus Consumer Market",
+                "body": "Dear Marketing Specialist,\n\nWe are pleased to inform you that the service disruption affecting Proximus' Consumer Market has been resolved. The issue with our [Specific Service Name, e.g., 'Azure-powered customer portal'] has been addressed, and the service is now fully operational.\n\nWe understand the impact this disruption had on Proximus and their customers, and we appreciate your patience and cooperation throughout this process. We have taken steps to prevent similar issues from occurring in the future.\n\nWe would like to thank you for your support in managing this situation. Please let us know if you have any further questions or concerns.\n\nSincerely,\n[Your Name/Team Name]\nMicrosoft"
+            },
+            {
+                "email_type": "Urgent Issue Notification - IT Infrastructure",
+                "recipient_role": "Marketing Specialist",
+                "subject": "Urgent: Critical Service Degradation Affecting Proximus IT Infrastructure",
+                "body": "Dear Marketing Specialist,\n\nI am writing to you today regarding a critical service degradation impacting Proximus' IT Infrastructure. Our Microsoft service, [Specific Service Name, e.g., 'Azure Active Directory integration'], is currently experiencing [Specific Issue, e.g., 'performance issues and latency']. This is directly affecting Proximus' ability to [Specific Impact, e.g., 'manage their internal systems and ensure smooth operations'].\n\nThe impact of this issue is significant. Proximus employees are experiencing [Specific Employee Impact, e.g., 'difficulty accessing critical applications and resources, leading to reduced productivity']. This directly translates to [Specific Business Impact, e.g., 'potential delays in service delivery and increased operational costs'].\n\nWe understand the importance of a stable IT infrastructure for Proximus. Therefore, we need to address this issue immediately. We are currently working to identify the root cause and implement a solution. However, we need your support in [Specific Request, e.g., 'communicating this issue to the relevant Proximus IT teams and ensuring they are aware of the severity of the situation'].\n\nWe will keep you updated on our progress. Please do not hesitate to reach out if you have any questions or require further information.\n\nSincerely,\n[Your Name/Team Name]\nMicrosoft"
+            },
+            {
+                "email_type": "Urgent Issue Notification - Enterprise Market",
+                "recipient_role": "Marketing Specialist",
+                "subject": "Urgent: Critical Service Disruption Affecting Proximus Enterprise Market",
+                "body": "Dear Marketing Specialist,\n\nI am writing to you today with an urgent matter regarding a critical service disruption impacting Proximus' Enterprise Market. Our Microsoft service, [Specific Service Name, e.g., 'Microsoft 365 Business Suite'], is currently experiencing [Specific Issue, e.g., 'intermittent access issues and data synchronization problems']. This is directly affecting Proximus' ability to [Specific Impact, e.g., 'provide reliable communication and collaboration tools to their enterprise clients'].\n\nThe impact of this issue is significant. Proximus' enterprise clients are experiencing [Specific Client Impact, e.g., 'disruptions in their daily operations, communication breakdowns, and potential data loss']. This directly translates to [Specific Business Impact, e.g., 'a negative impact on Proximus' reputation, potential contract breaches, and loss of business'].\n\nWe understand the importance of a reliable service for Proximus and their enterprise clients. Therefore, we need to address this issue immediately. We are currently working to identify the root cause and implement a solution. However, we need your support in [Specific Request, e.g., 'communicating this issue to the relevant Proximus teams and ensuring they are aware of the severity of the situation'].\n\nWe will keep you updated on our progress. Please do not hesitate to reach out if you have any questions or require further information.\n\nSincerely,\n[Your Name/Team Name]\nMicrosoft"
+            }
+        ]
     }
 ]

@@ -1,33 +1,33 @@
 [
     {
         "provider": "Ericsson",
-        "service": "5G network equipment and solutions",
-        "type": "Technology Service Provider",
+        "service": "5G network infrastructure and related services",
+        "type": "Technology Provider",
         "provider_homepage": "https://www.ericsson.com/"
     },
     {
         "provider": "Nokia",
-        "service": "5G network equipment and solutions",
-        "type": "Technology Service Provider",
+        "service": "Fixed and mobile network equipment and software",
+        "type": "Technology Provider",
         "provider_homepage": "https://www.nokia.com/"
     },
     {
         "provider": "Accenture",
-        "service": "Digital transformation services, IT consulting",
+        "service": "Consulting, technology and outsourcing services",
         "type": "Technology Service Provider",
         "provider_homepage": "https://www.accenture.com/"
     },
     {
-        "provider": "Infosys",
-        "service": "IT services, consulting, and business solutions",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.infosys.com/"
-    },
-    {
         "provider": "Capgemini",
-        "service": "IT services, consulting, and digital transformation",
+        "service": "IT services and consulting",
         "type": "Technology Service Provider",
         "provider_homepage": "https://www.capgemini.com/"
+    },
+    {
+        "provider": "Infosys",
+        "service": "IT services and consulting",
+        "type": "Technology Service Provider",
+        "provider_homepage": "https://www.infosys.com/"
     },
     {
         "provider": "Telenet",
@@ -36,27 +36,33 @@
         "provider_homepage": "https://www.telenet.be/"
     },
     {
-        "provider": "Citymesh",
-        "service": "Private 5G network solutions",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.citymesh.com/"
+        "provider": "Microsoft",
+        "service": "Cloud services, software and technology",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.microsoft.com/"
     },
     {
-        "provider": "Deloitte",
-        "service": "Consulting services, including strategy and risk management",
-        "type": "Consulting Service Provider",
-        "provider_homepage": "https://www2.deloitte.com/"
+        "provider": "Google",
+        "service": "Cloud services and technology",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.google.com/"
     },
     {
-        "provider": "PwC",
-        "service": "Consulting services, including audit and tax",
-        "type": "Consulting Service Provider",
-        "provider_homepage": "https://www.pwc.com/"
+        "provider": "Amazon Web Services (AWS)",
+        "service": "Cloud computing services",
+        "type": "Technology Provider",
+        "provider_homepage": "https://aws.amazon.com/"
     },
     {
-        "provider": "Huawei",
-        "service": "Network equipment",
-        "type": "Technology Service Provider",
-        "provider_homepage": "https://www.huawei.com/"
+        "provider": "SAP",
+        "service": "Enterprise software solutions",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.sap.com/"
+    },
+    {
+        "provider": "Salesforce",
+        "service": "Customer relationship management (CRM) software",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.salesforce.com/"
     }
 ]

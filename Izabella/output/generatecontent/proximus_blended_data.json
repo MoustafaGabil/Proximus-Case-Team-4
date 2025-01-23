@@ -1,29 +1,34 @@
 {
     "general": [
         {
-            "subject": "Proximus and Orange Belgium Reach Agreement on Mobile Network Sharing",
-            "overview": "Proximus and Orange Belgium have finalized a long-term agreement to share their mobile network infrastructure. This deal, initially announced in 2019, will see the two companies operate a joint network, allowing them to reduce costs, improve network coverage, and accelerate the rollout of 5G technology across Belgium. The agreement covers the active mobile network equipment, including antennas and base stations, but excludes the core network. This collaboration is expected to enhance the quality of service for customers of both operators and contribute to a more efficient and sustainable telecommunications landscape in Belgium. The implementation of the agreement is expected to take several years.",
-            "source": "https://www.proximus.com/en/news/2024/20240528-proximus-orange-belgium-finalise-mobile-network-sharing-agreement.html"
+            "subject": "Proximus and Citymesh secure 5G licenses in Belgium",
+            "news": "Proximus and Citymesh have been granted new 5G licenses in Belgium, allowing them to expand their 5G network coverage and services. This development is crucial for the ongoing digital transformation in the country and will enable faster internet speeds and new technological applications. The licenses were awarded by the Belgian Institute for Postal services and Telecommunications (BIPT).",
+            "source": "https://www.telenet.be/en/about-telenet/press/press-releases/telenet-and-citymesh-secure-5g-licenses-in-belgium"
         },
         {
-            "subject": "Proximus Announces New CEO, Guillaume Boutin to Step Down",
-            "overview": "Proximus has announced that its current CEO, Guillaume Boutin, will be stepping down from his role. The company has initiated the search for a new CEO, and an interim CEO will be appointed to ensure a smooth transition. The departure of Boutin marks the end of his tenure, during which he oversaw significant strategic shifts and investments in the company's digital transformation. The company has not yet announced the reasons for his departure, but it is expected that the new CEO will continue to drive Proximus's growth and innovation in the telecommunications sector. The exact date of Boutin's departure and the appointment of the interim CEO will be communicated in due course.",
-            "source": "https://www.proximus.com/en/news/2024/20240524-proximus-ceo-guillaume-boutin-to-step-down.html"
+            "subject": "Proximus invests in fiber optic network expansion",
+            "news": "Proximus continues to heavily invest in expanding its fiber optic network across Belgium. This investment aims to provide more households and businesses with access to high-speed internet, which is essential for supporting the growing demand for data and digital services. The company has announced new rollouts in several regions, focusing on both urban and rural areas. This is part of their long-term strategy to upgrade the national infrastructure.",
+            "source": "https://www.proximus.com/en/news/press-releases/2024/20240521-fiber-rollout-continues-in-belgium.html"
         },
         {
-            "subject": "Proximus Reports Q1 2024 Results, Showing Stable Performance",
-            "overview": "Proximus released its financial results for the first quarter of 2024, indicating a stable performance despite a challenging market environment. The company reported a slight increase in revenue, driven by growth in its fiber optic and digital services segments. However, the traditional fixed-line business continues to face pressure. Proximus highlighted its ongoing investments in network infrastructure and digital transformation initiatives. The company also emphasized its commitment to customer satisfaction and innovation. The results reflect Proximus's efforts to adapt to the evolving telecommunications landscape and maintain its competitive position in the Belgian market. The full financial report provides detailed insights into the company's performance across various segments.",
-            "source": "https://www.proximus.com/en/investors/results-reports/quarterly-results.html"
+            "subject": "Proximus launches new digital TV platform",
+            "news": "Proximus has launched a new digital TV platform, offering an enhanced user experience with improved navigation, personalized recommendations, and access to a wider range of content. The platform is designed to be more intuitive and user-friendly, catering to the evolving needs of modern viewers. This launch is part of Proximus' efforts to maintain its competitive edge in the entertainment market.",
+            "source": "https://www.proximus.com/en/news/press-releases/2024/20240528-new-digital-tv-platform.html"
         },
         {
-            "subject": "Proximus Expands Fiber Optic Network Rollout in Multiple Regions",
-            "overview": "Proximus continues to expand its fiber optic network across Belgium, with recent announcements detailing new rollout plans in several regions. The company is actively working to connect more homes and businesses to its high-speed fiber network, aiming to provide faster and more reliable internet services. This expansion is part of Proximus's broader strategy to upgrade its infrastructure and meet the growing demand for high-bandwidth connectivity. The company is collaborating with local authorities and partners to ensure efficient and timely deployment of the fiber network. The expansion is expected to enhance the digital capabilities of the regions and support economic growth.",
-            "source": "https://www.proximus.com/en/news/2024/20240520-proximus-expands-fiber-optic-network-rollout.html"
+            "subject": "Proximus partners with local tech startups",
+            "news": "Proximus has announced new partnerships with several local tech startups, focusing on innovation in areas such as artificial intelligence, IoT, and cybersecurity. These collaborations aim to foster innovation and develop new solutions for both consumers and businesses. The partnerships are part of Proximus' strategy to leverage the local tech ecosystem and drive digital transformation.",
+            "source": "https://www.proximus.com/en/news/press-releases/2024/20240523-partnerships-with-local-tech-startups.html"
         },
         {
-            "subject": "Proximus Partners with Local Tech Startups to Drive Innovation",
-            "overview": "Proximus has announced new partnerships with several local tech startups, aiming to foster innovation and develop new digital solutions. The company is collaborating with these startups on various projects, including the development of new applications, services, and technologies. This initiative is part of Proximus's strategy to leverage the expertise of the startup ecosystem and accelerate its own innovation efforts. The partnerships are expected to bring fresh perspectives and cutting-edge technologies to Proximus's offerings, benefiting both the company and its customers. The collaborations also highlight Proximus's commitment to supporting the growth of the Belgian tech sector.",
-            "source": "https://www.proximus.com/en/news/2024/20240515-proximus-partners-with-local-tech-startups.html"
+            "subject": "Proximus reports Q1 2024 financial results",
+            "news": "Proximus has released its financial results for the first quarter of 2024, showing a stable performance with continued growth in its fiber customer base. The company reported a slight increase in revenue and a focus on cost optimization. The results reflect the ongoing investments in network infrastructure and digital services. The company also reaffirmed its commitment to sustainable growth and innovation.",
+            "source": "https://www.proximus.com/en/investors/results-reports/quarterly-results"
+        },
+        {
+            "subject": "Proximus expands its cybersecurity services",
+            "news": "Proximus is expanding its cybersecurity services portfolio to address the growing threat landscape. The company is offering new solutions for businesses, including advanced threat detection, incident response, and security consulting. This expansion is a response to the increasing demand for robust cybersecurity measures and is part of Proximus' commitment to providing secure digital solutions.",
+            "source": "https://www.proximus.com/en/news/press-releases/2024/20240529-cybersecurity-services-expansion.html"
         }
     ],
     "employees": [
@@ -35,39 +40,39 @@
             "email_address": "guillaume.boutin@proximus.be"
         },
         {
-            "first_name": "Anne-Sophie",
-            "family_name": "Lotgering",
-            "role": "Chief Enterprise Market Officer",
-            "department": "Enterprise Market",
-            "email_address": "anne-sophie.lotgering@proximus.be"
+            "first_name": "Anne",
+            "family_name": "Coisne",
+            "role": "Chief Corporate Affairs Officer",
+            "department": "Corporate Affairs",
+            "email_address": "anne.coisne@proximus.be"
         },
         {
             "first_name": "Jim",
             "family_name": "Castelijn",
-            "role": "Chief Technology Officer",
-            "department": "Technology",
+            "role": "Chief Financial Officer",
+            "department": "Finance",
             "email_address": "jim.castelijn@proximus.be"
         },
         {
-            "first_name": "Dirk",
-            "family_name": "Lybaert",
-            "role": "Chief Corporate Affairs Officer",
-            "department": "Corporate Affairs",
-            "email_address": "dirk.lybaert@proximus.be"
-        },
-        {
-            "first_name": "Antonietta",
-            "family_name": "Mastrogiacomo",
-            "role": "Chief Digital & IT Officer",
-            "department": "Digital & IT",
-            "email_address": "antonietta.mastrogiacomo@proximus.be"
+            "first_name": "Geert",
+            "family_name": "Standaert",
+            "role": "Chief Technology Officer",
+            "department": "Technology",
+            "email_address": "geert.standaert@proximus.be"
         },
         {
             "first_name": "Daniel",
             "family_name": "Kurgan",
-            "role": "Chief Financial Officer",
-            "department": "Finance",
+            "role": "Chief Enterprise Market Officer",
+            "department": "Enterprise Market",
             "email_address": "daniel.kurgan@proximus.be"
+        },
+        {
+            "first_name": "Dirk",
+            "family_name": "Lybaert",
+            "role": "Chief Transformation Officer",
+            "department": "Transformation",
+            "email_address": "dirk.lybaert@proximus.be"
         },
         {
             "first_name": "Sandrine",
@@ -77,128 +82,177 @@
             "email_address": "sandrine.devuyst@proximus.be"
         },
         {
-            "first_name": "Geert",
-            "family_name": "Standaert",
-            "role": "Chief Transformation Officer",
-            "department": "Transformation",
-            "email_address": "geert.standaert@proximus.be"
-        },
-        {
             "first_name": "Jan",
-            "family_name": "Ghiselinck",
-            "role": "Senior Vice President, Enterprise Solutions",
-            "department": "Enterprise Market",
-            "email_address": "jan.ghiselinck@proximus.be"
+            "family_name": "Goris",
+            "role": "Director Investor Relations",
+            "department": "Investor Relations",
+            "email_address": "jan.goris@proximus.be"
         },
         {
-            "first_name": "Isabelle",
-            "family_name": "Van Campenhoudt",
-            "role": "Senior Vice President, Customer Operations",
-            "department": "Customer Operations",
-            "email_address": "isabelle.vancampenhoudt@proximus.be"
+            "first_name": "Antonietta",
+            "family_name": "Mastrogiacomo",
+            "role": "Director Internal Audit",
+            "department": "Internal Audit",
+            "email_address": "antonietta.mastrogiacomo@proximus.be"
         },
         {
-            "first_name": "Frederic",
-            "family_name": "Lhostte",
-            "role": "Senior Vice President, Network Engineering & Operations",
-            "department": "Technology",
-            "email_address": "frederic.lhostte@proximus.be"
-        },
-        {
-            "first_name": "Olivier",
-            "family_name": "Vandermeersch",
-            "role": "Senior Vice President, Data & Analytics",
-            "department": "Digital & IT",
-            "email_address": "olivier.vandermeersch@proximus.be"
-        },
-        {
-            "first_name": "Bart",
-            "family_name": "Van Den Meersche",
-            "role": "Senior Vice President, Finance",
-            "department": "Finance",
-            "email_address": "bart.vandenmeersche@proximus.be"
-        },
-        {
-            "first_name": "Nathalie",
-            "family_name": "Vandecasteele",
-            "role": "Senior Vice President, Human Resources",
-            "department": "Human Resources",
-            "email_address": "nathalie.vandecasteele@proximus.be"
+            "first_name": "Renaud",
+            "family_name": "Tilmans",
+            "role": "Director Legal",
+            "department": "Legal",
+            "email_address": "renaud.tilmans@proximus.be"
         },
         {
             "first_name": "Koen",
             "family_name": "Van Gerven",
-            "role": "Senior Vice President, Transformation",
-            "department": "Transformation",
+            "role": "Director Procurement",
+            "department": "Procurement",
             "email_address": "koen.vangerven@proximus.be"
-        },
-        {
-            "first_name": "Stefaan",
-            "family_name": "De Clerck",
-            "role": "Senior Vice President, Legal & Regulatory Affairs",
-            "department": "Legal & Regulatory Affairs",
-            "email_address": "stefaan.declerk@proximus.be"
         },
         {
             "first_name": "Peter",
             "family_name": "Van den Abeele",
-            "role": "Senior Vice President, Procurement",
-            "department": "Procurement",
+            "role": "Director Real Estate",
+            "department": "Real Estate",
             "email_address": "peter.vandenabeele@proximus.be"
         },
         {
             "first_name": "Dominique",
             "family_name": "Leroy",
-            "role": "Senior Vice President, Internal Audit",
-            "department": "Internal Audit",
+            "role": "Director Corporate Security",
+            "department": "Corporate Security",
             "email_address": "dominique.leroy@proximus.be"
+        },
+        {
+            "first_name": "Barbara",
+            "family_name": "Van Den Haute",
+            "role": "Director Communications",
+            "department": "Communications",
+            "email_address": "barbara.vandenhaute@proximus.be"
         },
         {
             "first_name": "Wim",
             "family_name": "De Witte",
-            "role": "Senior Vice President, Corporate Security",
-            "department": "Corporate Security",
+            "role": "Director Data & Analytics",
+            "department": "Data & Analytics",
             "email_address": "wim.dewitte@proximus.be"
         },
         {
-            "first_name": "Katleen",
-            "family_name": "Vandeweyer",
-            "role": "Senior Vice President, Communications",
-            "department": "Communications",
-            "email_address": "katleen.vandeweyer@proximus.be"
+            "first_name": "Frederic",
+            "family_name": "Lhostte",
+            "role": "Director Network Engineering",
+            "department": "Network Engineering",
+            "email_address": "frederic.lhostte@proximus.be"
         },
         {
-            "first_name": "Ann",
-            "family_name": "Vanhecke",
-            "role": "Senior Vice President, Investor Relations",
-            "department": "Investor Relations",
-            "email_address": "ann.vanhecke@proximus.be"
+            "first_name": "Isabelle",
+            "family_name": "Van Campenhoudt",
+            "role": "Director Customer Operations",
+            "department": "Customer Operations",
+            "email_address": "isabelle.vancampenhoudt@proximus.be"
+        },
+        {
+            "first_name": "Olivier",
+            "family_name": "Vandermeersch",
+            "role": "Director IT Operations",
+            "department": "IT Operations",
+            "email_address": "olivier.vandermeersch@proximus.be"
+        },
+        {
+            "first_name": "Bart",
+            "family_name": "Van Obbergen",
+            "role": "Director Digital Channels",
+            "department": "Digital Channels",
+            "email_address": "bart.vanobbergen@proximus.be"
         },
         {
             "first_name": "Geert",
-            "family_name": "Bauwens",
-            "role": "Senior Vice President, Real Estate",
-            "department": "Real Estate",
-            "email_address": "geert.bauwens@proximus.be"
+            "family_name": "Van Mol",
+            "role": "Director Product Management",
+            "department": "Product Management",
+            "email_address": "geert.vanmol@proximus.be"
         },
         {
-            "first_name": "Rik",
-            "family_name": "Vandermeulen",
-            "role": "Senior Vice President, Strategy",
+            "first_name": "Stefaan",
+            "family_name": "De Clerck",
+            "role": "Director Sales",
+            "department": "Sales",
+            "email_address": "stefaan.declerk@proximus.be"
+        },
+        {
+            "first_name": "Ann",
+            "family_name": "Vermeulen",
+            "role": "Director Marketing",
+            "department": "Marketing",
+            "email_address": "ann.vermeulen@proximus.be"
+        },
+        {
+            "first_name": "Nathalie",
+            "family_name": "Vandecasteele",
+            "role": "Director Customer Experience",
+            "department": "Customer Experience",
+            "email_address": "nathalie.vandecasteele@proximus.be"
+        },
+        {
+            "first_name": "Marc",
+            "family_name": "Van den Broeck",
+            "role": "Director Business Development",
+            "department": "Business Development",
+            "email_address": "marc.vandenbroeck@proximus.be"
+        },
+        {
+            "first_name": "Filip",
+            "family_name": "Van Impe",
+            "role": "Director Innovation",
+            "department": "Innovation",
+            "email_address": "filip.vanimpe@proximus.be"
+        },
+        {
+            "first_name": "Sophie",
+            "family_name": "Vanderhaeghe",
+            "role": "Director Sustainability",
+            "department": "Sustainability",
+            "email_address": "sophie.vanderhaeghe@proximus.be"
+        },
+        {
+            "first_name": "Bart",
+            "family_name": "Van Durme",
+            "role": "Director Strategy",
             "department": "Strategy",
-            "email_address": "rik.vandermeulen@proximus.be"
+            "email_address": "bart.vandurme@proximus.be"
+        },
+        {
+            "first_name": "Frederic",
+            "family_name": "De Bosscher",
+            "role": "Director Program Management",
+            "department": "Program Management",
+            "email_address": "frederic.debosscher@proximus.be"
+        },
+        {
+            "first_name": "Christophe",
+            "family_name": "Van Camp",
+            "role": "Director Finance",
+            "department": "Finance",
+            "email_address": "christophe.vancamp@proximus.be"
+        },
+        {
+            "first_name": "Caroline",
+            "family_name": "Van den Berghe",
+            "role": "Director Human Resources",
+            "department": "Human Resources",
+            "email_address": "caroline.vandenberghe@proximus.be"
         }
     ],
     "colors": [
         {
-            "color_name_1": "Purple",
-            "hex_code_1": "#662E91",
+            "color_name_1": "Proximus Purple",
+            "hex_code_1": "#660099",
             "rgb_code_1": [
                 102,
-                46,
-                145
+                0,
+                153
             ],
-            "color_name_2": "White",
+            "color_name_2": "Proximus White",
             "hex_code_2": "#FFFFFF",
             "rgb_code_2": [
                 255,
@@ -211,8 +265,8 @@
         {
             "department": "Consumer Business Unit",
             "subdivision": [
-                "Residential",
-                "Small and Medium Businesses"
+                "Residential Customers",
+                "Small Businesses"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -230,23 +284,21 @@
             "vat": "BE 0202.239.951"
         },
         {
-            "department": "Technology",
+            "department": "International Business Unit",
             "subdivision": [
-                "Network Engineering",
-                "Information Technology",
-                "Innovation and Research"
+                "BICS (Belgacom International Carrier Services)",
+                "TeleSign"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
             "vat": "BE 0202.239.951"
         },
         {
-            "department": "Finance",
+            "department": "Technology",
             "subdivision": [
-                "Accounting",
-                "Controlling",
-                "Treasury",
-                "Investor Relations"
+                "Network Engineering",
+                "Information Technology",
+                "Innovation"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -257,8 +309,18 @@
             "subdivision": [
                 "Talent Acquisition",
                 "Learning and Development",
-                "Compensation and Benefits",
-                "Employee Relations"
+                "Compensation and Benefits"
+            ],
+            "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
+            "phone": "+32 2 202 41 11",
+            "vat": "BE 0202.239.951"
+        },
+        {
+            "department": "Finance",
+            "subdivision": [
+                "Accounting",
+                "Controlling",
+                "Treasury"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -268,8 +330,7 @@
             "department": "Legal and Regulatory Affairs",
             "subdivision": [
                 "Legal Counsel",
-                "Regulatory Compliance",
-                "Data Protection"
+                "Regulatory Compliance"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -280,8 +341,7 @@
             "subdivision": [
                 "Communications",
                 "Public Relations",
-                "Sustainability",
-                "Corporate Social Responsibility"
+                "Sustainability"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -291,31 +351,7 @@
             "department": "Procurement",
             "subdivision": [
                 "Sourcing",
-                "Supplier Management",
-                "Logistics"
-            ],
-            "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
-        },
-        {
-            "department": "Customer Operations",
-            "subdivision": [
-                "Customer Service",
-                "Order Management",
-                "Technical Support"
-            ],
-            "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
-            "phone": "+32 2 202 41 11",
-            "vat": "BE 0202.239.951"
-        },
-        {
-            "department": "Marketing",
-            "subdivision": [
-                "Brand Management",
-                "Product Marketing",
-                "Digital Marketing",
-                "Market Research"
+                "Supplier Management"
             ],
             "address": "Boulevard du Roi Albert II 27, 1030 Brussels, Belgium",
             "phone": "+32 2 202 41 11",
@@ -325,33 +361,33 @@
     "providers": [
         {
             "provider": "Ericsson",
-            "service": "5G network equipment and solutions",
-            "type": "Technology Service Provider",
+            "service": "5G network infrastructure and related services",
+            "type": "Technology Provider",
             "provider_homepage": "https://www.ericsson.com/"
         },
         {
             "provider": "Nokia",
-            "service": "5G network equipment and solutions",
-            "type": "Technology Service Provider",
+            "service": "Fixed and mobile network equipment and software",
+            "type": "Technology Provider",
             "provider_homepage": "https://www.nokia.com/"
         },
         {
             "provider": "Accenture",
-            "service": "Digital transformation services, IT consulting",
+            "service": "Consulting, technology and outsourcing services",
             "type": "Technology Service Provider",
             "provider_homepage": "https://www.accenture.com/"
         },
         {
-            "provider": "Infosys",
-            "service": "IT services, consulting, and business solutions",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.infosys.com/"
-        },
-        {
             "provider": "Capgemini",
-            "service": "IT services, consulting, and digital transformation",
+            "service": "IT services and consulting",
             "type": "Technology Service Provider",
             "provider_homepage": "https://www.capgemini.com/"
+        },
+        {
+            "provider": "Infosys",
+            "service": "IT services and consulting",
+            "type": "Technology Service Provider",
+            "provider_homepage": "https://www.infosys.com/"
         },
         {
             "provider": "Telenet",
@@ -360,28 +396,34 @@
             "provider_homepage": "https://www.telenet.be/"
         },
         {
-            "provider": "Citymesh",
-            "service": "Private 5G network solutions",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.citymesh.com/"
+            "provider": "Microsoft",
+            "service": "Cloud services, software and technology",
+            "type": "Technology Provider",
+            "provider_homepage": "https://www.microsoft.com/"
         },
         {
-            "provider": "Deloitte",
-            "service": "Consulting services, including strategy and risk management",
-            "type": "Consulting Service Provider",
-            "provider_homepage": "https://www2.deloitte.com/"
+            "provider": "Google",
+            "service": "Cloud services and technology",
+            "type": "Technology Provider",
+            "provider_homepage": "https://www.google.com/"
         },
         {
-            "provider": "PwC",
-            "service": "Consulting services, including audit and tax",
-            "type": "Consulting Service Provider",
-            "provider_homepage": "https://www.pwc.com/"
+            "provider": "Amazon Web Services (AWS)",
+            "service": "Cloud computing services",
+            "type": "Technology Provider",
+            "provider_homepage": "https://aws.amazon.com/"
         },
         {
-            "provider": "Huawei",
-            "service": "Network equipment",
-            "type": "Technology Service Provider",
-            "provider_homepage": "https://www.huawei.com/"
+            "provider": "SAP",
+            "service": "Enterprise software solutions",
+            "type": "Technology Provider",
+            "provider_homepage": "https://www.sap.com/"
+        },
+        {
+            "provider": "Salesforce",
+            "service": "Customer relationship management (CRM) software",
+            "type": "Technology Provider",
+            "provider_homepage": "https://www.salesforce.com/"
         }
     ]
 }

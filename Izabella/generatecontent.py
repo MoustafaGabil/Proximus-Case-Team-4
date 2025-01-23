@@ -8,7 +8,12 @@ import random as rd
 class GeminiConfig:
     """Class holding configuration settings"""
     DEFAULT_CONFIG = {
-        "system_instruction": "You are an analyst that conducts company research. You are given a company name, and you will work on a company report. You have access to Google Search to look up company news, updates, metrics, public records and linkedin pages to write research reports. When given a company name, identify key aspects to research, look up that information and then write an elaborate company report. Thoroughly plan your work in detail and steps, but avoid discussing it. Do not add any additional comments after finishing the report.",
+        "system_instruction": f"""You are an analyst that conducts company research. You are given a company name, and you will work on a company report. 
+        You have access to Google Search to look up company news, updates, metrics, public records and linkedin pages to write research reports. 
+        When given a company name, identify key aspects to research, look up that information and then write an elaborate company report. 
+        Focus on Belgian companies. Thoroughly plan your work in detail and steps, but avoid discussing it. 
+        Do not add any additional comments after finishing the report.""",
+        #"tools": "[Tool(google_search={})]",
         "temperature": 0,
         "maxOutputTokens": 8000,
         "top_p": 0.9,
@@ -23,7 +28,7 @@ class GeminiConfig:
         "schemas": {
             "main_company": {
                 "subject": "str",
-                "overview": "str",
+                "news": "str",
                 "source": "str"
             },
             "key_employees_roles":{
@@ -89,6 +94,7 @@ class GenerateContent:
         """Generate content using configuration settings."""
         # Create generation config
         generation_config = genai.types.GenerationConfig(
+            #tools=[Tool(google_search={})], 
             temperature=self.config.get("temperature", 0),
             top_p=self.config.get("top_p", 0.9),
             top_k=self.config.get("top_k", 5),
@@ -155,7 +161,7 @@ class GenerateContent:
         prompt = f"""
         Write a report about {company_name}
         The report should exclusively provide a detailed summary of the company's departments and their respective subdivisions, if any.
-        Include in the report the full address where the headquarter of the provider is located.
+        Include in the report the full address where the headquarter of the provider is located, the main phone number and vat number.
         Do not include abbreviations in the report.
         Provide a detailed list, specifying only verified and public information. Do not include speculative or incomplete details.
         Use this JSON schema: {json.dumps(schema)}
@@ -168,7 +174,8 @@ class GenerateContent:
         schema = self.config["schemas"]["colors"]
         prompt = f"""
         Write a report about {company_name}
-        The report should exclusively provide the main colors of Company's branding, including any official color codes such as HEX or RGB. Focus on company's logo and website.
+        The report should exclusively provide the main colors of Company's branding, including any official color codes such as HEX or RGB. 
+        Focus on the primary colors used in the company's logo and website.
         Do not include speculative colors and focus only on the main ones.
         Thoroughly plan your work in detail and steps, but avoid discussing it. Do not add any additional comments after finishing the report.
         Use this JSON schema: {json.dumps(schema)}
@@ -181,8 +188,10 @@ class GenerateContent:
         schema = self.config["schemas"]["providers"]
         prompt = f"""
         Write a report about {company_name}
-        List the main service providers of the company. Include any known suppliers, contractors, technology service providers, or any other third-part
-        Provide the names of the service providers, type and description of the services they provide to the company. Also include the providers homepa
+        List the main service providers of the company. Include any known suppliers, contractors, technology service providers, 
+        or any other third-part companies that the company relies on.
+        Provide the names of the service providers, type and description of the services they provide to the company. Also include the providers
+        homepage in the report, if you can't find it, don not include the provider in the report. 
         Use this JSON schema: {json.dumps(schema)}
         Return: list[providers]
         """
@@ -283,8 +292,12 @@ class ProviderManager:
         prompt = f"""
         Write a report about company {provider_name}. This company is a provider of {company_name}
         The report should only contain a comprehensive summary of the employees in the company.
-        The report should contain, the complete first name and family name, an email address with this structure "first name.family name@{provider_name}.be" (put it all in lower case), the role that they have within the company and the department that they make part of.
-        Do not include abbreviations in names, and exclude employees whose full first and last names cannot be found. Do not include employees of {company_name} in the report.
+        The report should contain, the complete first name and family name, an email address with this structure 
+        "first name.family name@{provider_name}.be" (put it all in lower case), the role that they have within the company 
+        and the department that they make part of.
+        Do not include abbreviations in names, and exclude employees whose full first and last names cannot be found.
+        Make sure the first and the last name contains more then 2 characters. 
+        Do not include employees of {company_name} in the report.
         Give me as much grounded names that you can find with your research and put them all in the report.
         Use this JSON schema: {json.dumps(schema)}
         Return: list[key_employees_roles_report]
@@ -296,8 +309,10 @@ class ProviderManager:
         schema = self.config["schemas"]["colors"]
         prompt = f"""
         Write a report about company {provider_name}. This company is a provider of {company_name}
-        The report should exclusively provide the main colors of Company's branding, including any official color codes such as HEX or RGB. Focus on the primary colors used in the company's logo and website.
+        The report should exclusively provide the main colors of Company's branding, including any official color codes such as HEX or RGB. 
+        Focus on the primary colors used in the company's logo and website.
         Do not include speculative colors and focus only on the main ones.
+        Thoroughly plan your work in detail and steps, but avoid discussing it. Do not add any additional comments after finishing the report.
         Use this JSON schema: {json.dumps(schema)}
         Return: list[provider_colors]
         """

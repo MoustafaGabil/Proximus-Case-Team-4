@@ -74,26 +74,44 @@ def main():
     email_generator.save_emails_to_file(service_emails, output_dir=output_directory, email_type="services_emails")
 
     # Generate events emails
-    random_event = data_provider.get_random_events()  
+    random_event = data_provider.get_random_events()
+    random_date = email_generator.pick_random_date()    
     events_emails = email_generator.generate_events_emails(
         provider=provider,
         provider_departments=provider_departments,
         company_name=company_name,
         random_employee=random_employee,
-        random_event=random_event
+        random_event=random_event,
+        random_date=random_date
     )
     email_generator.save_emails_to_file(events_emails, output_dir=output_directory, email_type="events_emails")
 
     # Generate issue emails
     random_issue = data_provider.get_random_issues() 
+    random_date= email_generator.pick_random_date()
     issues_emails = email_generator.generate_issue_emails(
         provider=provider,
         provider_departments=provider_departments,
         company_name=company_name,
         random_employee=random_employee,
-        random_issue=random_issue
+        random_issue=random_issue,
+        random_date=random_date
     )
     email_generator.save_emails_to_file(issues_emails, output_dir=output_directory, email_type="issues_emails")
+
+    # Generate news emails
+    news_file_path = os.path.join(output_directory, "proximus_main_company_report.json")
+    news = data_provider.get_random_news(news_file_path)
+    news_emails = email_generator.generate_news_email(
+        provider=provider,
+        company_name=company_name,
+        random_employee=random_employee,
+        news=news,
+        output_directory=output_directory
+    )
+
+    # Save the emails to a file
+    email_generator.save_emails_to_file(news_emails, output_dir=output_directory, email_type="news_emails")
 
     print("Emails have been successfully generated and saved.")
 

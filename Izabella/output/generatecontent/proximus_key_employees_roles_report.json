@@ -7,39 +7,39 @@
         "email_address": "guillaume.boutin@proximus.be"
     },
     {
-        "first_name": "Anne-Sophie",
-        "family_name": "Lotgering",
-        "role": "Chief Enterprise Market Officer",
-        "department": "Enterprise Market",
-        "email_address": "anne-sophie.lotgering@proximus.be"
+        "first_name": "Anne",
+        "family_name": "Coisne",
+        "role": "Chief Corporate Affairs Officer",
+        "department": "Corporate Affairs",
+        "email_address": "anne.coisne@proximus.be"
     },
     {
         "first_name": "Jim",
         "family_name": "Castelijn",
-        "role": "Chief Technology Officer",
-        "department": "Technology",
+        "role": "Chief Financial Officer",
+        "department": "Finance",
         "email_address": "jim.castelijn@proximus.be"
     },
     {
-        "first_name": "Dirk",
-        "family_name": "Lybaert",
-        "role": "Chief Corporate Affairs Officer",
-        "department": "Corporate Affairs",
-        "email_address": "dirk.lybaert@proximus.be"
-    },
-    {
-        "first_name": "Antonietta",
-        "family_name": "Mastrogiacomo",
-        "role": "Chief Digital & IT Officer",
-        "department": "Digital & IT",
-        "email_address": "antonietta.mastrogiacomo@proximus.be"
+        "first_name": "Geert",
+        "family_name": "Standaert",
+        "role": "Chief Technology Officer",
+        "department": "Technology",
+        "email_address": "geert.standaert@proximus.be"
     },
     {
         "first_name": "Daniel",
         "family_name": "Kurgan",
-        "role": "Chief Financial Officer",
-        "department": "Finance",
+        "role": "Chief Enterprise Market Officer",
+        "department": "Enterprise Market",
         "email_address": "daniel.kurgan@proximus.be"
+    },
+    {
+        "first_name": "Dirk",
+        "family_name": "Lybaert",
+        "role": "Chief Transformation Officer",
+        "department": "Transformation",
+        "email_address": "dirk.lybaert@proximus.be"
     },
     {
         "first_name": "Sandrine",
@@ -49,115 +49,164 @@
         "email_address": "sandrine.devuyst@proximus.be"
     },
     {
-        "first_name": "Geert",
-        "family_name": "Standaert",
-        "role": "Chief Transformation Officer",
-        "department": "Transformation",
-        "email_address": "geert.standaert@proximus.be"
-    },
-    {
         "first_name": "Jan",
-        "family_name": "Ghiselinck",
-        "role": "Senior Vice President, Enterprise Solutions",
-        "department": "Enterprise Market",
-        "email_address": "jan.ghiselinck@proximus.be"
+        "family_name": "Goris",
+        "role": "Director Investor Relations",
+        "department": "Investor Relations",
+        "email_address": "jan.goris@proximus.be"
     },
     {
-        "first_name": "Isabelle",
-        "family_name": "Van Campenhoudt",
-        "role": "Senior Vice President, Customer Operations",
-        "department": "Customer Operations",
-        "email_address": "isabelle.vancampenhoudt@proximus.be"
+        "first_name": "Antonietta",
+        "family_name": "Mastrogiacomo",
+        "role": "Director Internal Audit",
+        "department": "Internal Audit",
+        "email_address": "antonietta.mastrogiacomo@proximus.be"
     },
     {
-        "first_name": "Frederic",
-        "family_name": "Lhostte",
-        "role": "Senior Vice President, Network Engineering & Operations",
-        "department": "Technology",
-        "email_address": "frederic.lhostte@proximus.be"
-    },
-    {
-        "first_name": "Olivier",
-        "family_name": "Vandermeersch",
-        "role": "Senior Vice President, Data & Analytics",
-        "department": "Digital & IT",
-        "email_address": "olivier.vandermeersch@proximus.be"
-    },
-    {
-        "first_name": "Bart",
-        "family_name": "Van Den Meersche",
-        "role": "Senior Vice President, Finance",
-        "department": "Finance",
-        "email_address": "bart.vandenmeersche@proximus.be"
-    },
-    {
-        "first_name": "Nathalie",
-        "family_name": "Vandecasteele",
-        "role": "Senior Vice President, Human Resources",
-        "department": "Human Resources",
-        "email_address": "nathalie.vandecasteele@proximus.be"
+        "first_name": "Renaud",
+        "family_name": "Tilmans",
+        "role": "Director Legal",
+        "department": "Legal",
+        "email_address": "renaud.tilmans@proximus.be"
     },
     {
         "first_name": "Koen",
         "family_name": "Van Gerven",
-        "role": "Senior Vice President, Transformation",
-        "department": "Transformation",
+        "role": "Director Procurement",
+        "department": "Procurement",
         "email_address": "koen.vangerven@proximus.be"
-    },
-    {
-        "first_name": "Stefaan",
-        "family_name": "De Clerck",
-        "role": "Senior Vice President, Legal & Regulatory Affairs",
-        "department": "Legal & Regulatory Affairs",
-        "email_address": "stefaan.declerk@proximus.be"
     },
     {
         "first_name": "Peter",
         "family_name": "Van den Abeele",
-        "role": "Senior Vice President, Procurement",
-        "department": "Procurement",
+        "role": "Director Real Estate",
+        "department": "Real Estate",
         "email_address": "peter.vandenabeele@proximus.be"
     },
     {
         "first_name": "Dominique",
         "family_name": "Leroy",
-        "role": "Senior Vice President, Internal Audit",
-        "department": "Internal Audit",
+        "role": "Director Corporate Security",
+        "department": "Corporate Security",
         "email_address": "dominique.leroy@proximus.be"
+    },
+    {
+        "first_name": "Barbara",
+        "family_name": "Van Den Haute",
+        "role": "Director Communications",
+        "department": "Communications",
+        "email_address": "barbara.vandenhaute@proximus.be"
     },
     {
         "first_name": "Wim",
         "family_name": "De Witte",
-        "role": "Senior Vice President, Corporate Security",
-        "department": "Corporate Security",
+        "role": "Director Data & Analytics",
+        "department": "Data & Analytics",
         "email_address": "wim.dewitte@proximus.be"
     },
     {
-        "first_name": "Katleen",
-        "family_name": "Vandeweyer",
-        "role": "Senior Vice President, Communications",
-        "department": "Communications",
-        "email_address": "katleen.vandeweyer@proximus.be"
+        "first_name": "Frederic",
+        "family_name": "Lhostte",
+        "role": "Director Network Engineering",
+        "department": "Network Engineering",
+        "email_address": "frederic.lhostte@proximus.be"
     },
     {
-        "first_name": "Ann",
-        "family_name": "Vanhecke",
-        "role": "Senior Vice President, Investor Relations",
-        "department": "Investor Relations",
-        "email_address": "ann.vanhecke@proximus.be"
+        "first_name": "Isabelle",
+        "family_name": "Van Campenhoudt",
+        "role": "Director Customer Operations",
+        "department": "Customer Operations",
+        "email_address": "isabelle.vancampenhoudt@proximus.be"
+    },
+    {
+        "first_name": "Olivier",
+        "family_name": "Vandermeersch",
+        "role": "Director IT Operations",
+        "department": "IT Operations",
+        "email_address": "olivier.vandermeersch@proximus.be"
+    },
+    {
+        "first_name": "Bart",
+        "family_name": "Van Obbergen",
+        "role": "Director Digital Channels",
+        "department": "Digital Channels",
+        "email_address": "bart.vanobbergen@proximus.be"
     },
     {
         "first_name": "Geert",
-        "family_name": "Bauwens",
-        "role": "Senior Vice President, Real Estate",
-        "department": "Real Estate",
-        "email_address": "geert.bauwens@proximus.be"
+        "family_name": "Van Mol",
+        "role": "Director Product Management",
+        "department": "Product Management",
+        "email_address": "geert.vanmol@proximus.be"
     },
     {
-        "first_name": "Rik",
-        "family_name": "Vandermeulen",
-        "role": "Senior Vice President, Strategy",
+        "first_name": "Stefaan",
+        "family_name": "De Clerck",
+        "role": "Director Sales",
+        "department": "Sales",
+        "email_address": "stefaan.declerk@proximus.be"
+    },
+    {
+        "first_name": "Ann",
+        "family_name": "Vermeulen",
+        "role": "Director Marketing",
+        "department": "Marketing",
+        "email_address": "ann.vermeulen@proximus.be"
+    },
+    {
+        "first_name": "Nathalie",
+        "family_name": "Vandecasteele",
+        "role": "Director Customer Experience",
+        "department": "Customer Experience",
+        "email_address": "nathalie.vandecasteele@proximus.be"
+    },
+    {
+        "first_name": "Marc",
+        "family_name": "Van den Broeck",
+        "role": "Director Business Development",
+        "department": "Business Development",
+        "email_address": "marc.vandenbroeck@proximus.be"
+    },
+    {
+        "first_name": "Filip",
+        "family_name": "Van Impe",
+        "role": "Director Innovation",
+        "department": "Innovation",
+        "email_address": "filip.vanimpe@proximus.be"
+    },
+    {
+        "first_name": "Sophie",
+        "family_name": "Vanderhaeghe",
+        "role": "Director Sustainability",
+        "department": "Sustainability",
+        "email_address": "sophie.vanderhaeghe@proximus.be"
+    },
+    {
+        "first_name": "Bart",
+        "family_name": "Van Durme",
+        "role": "Director Strategy",
         "department": "Strategy",
-        "email_address": "rik.vandermeulen@proximus.be"
+        "email_address": "bart.vandurme@proximus.be"
+    },
+    {
+        "first_name": "Frederic",
+        "family_name": "De Bosscher",
+        "role": "Director Program Management",
+        "department": "Program Management",
+        "email_address": "frederic.debosscher@proximus.be"
+    },
+    {
+        "first_name": "Christophe",
+        "family_name": "Van Camp",
+        "role": "Director Finance",
+        "department": "Finance",
+        "email_address": "christophe.vancamp@proximus.be"
+    },
+    {
+        "first_name": "Caroline",
+        "family_name": "Van den Berghe",
+        "role": "Director Human Resources",
+        "department": "Human Resources",
+        "email_address": "caroline.vandenberghe@proximus.be"
     }
 ]

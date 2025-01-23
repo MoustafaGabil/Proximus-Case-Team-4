@@ -1,8 +1,8 @@
 [
     {
-        "provider": "Deloitte",
-        "service": "Consulting services, including strategy and risk management",
-        "type": "Consulting Service Provider",
-        "provider_homepage": "https://www2.deloitte.com/"
+        "provider": "Microsoft",
+        "service": "Cloud services, software and technology",
+        "type": "Technology Provider",
+        "provider_homepage": "https://www.microsoft.com/"
     }
 ]

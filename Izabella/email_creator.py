@@ -11,19 +11,27 @@ from tavily import TavilyClient
 
 class GeminiConfig:
     """Class holding configuration settings"""
-    def __init__(self, company_name: str, random_tone: str):
+    def __init__(self, company_name: str, random_tone: str, random_employee: str, provider:str):
         self.company_name = company_name
         self.random_tone = random_tone
+        self.random_employee = random_employee
         
         self.DEFAULT_CONFIG = {
             "system_instruction": f"""
             You are a skilled copywriter with a knack for creating emails that feel
             personal, relevant, urgent and engaging. Your task is to write emails to employees of
             {company_name} all while maintaining a tone that feels individual, tailored and professional. 
-            The email should appear to come from a relevant source. Encourage actions like clicking links or downloading attachments with a sense of urgency. Align the email subject with the sender's theme and message.
+            The email should appear to come from a relevant source. Encourage actions like clicking links or downloading attachments with a sense of urgency. 
+            Align the email subject with the sender's theme and message.
             Incorporate in your answer only complete emails.
-            Everything about the sender address, subject, and email body is focused on the recipient interacting with the link or attachment.
+            Everything about the sender address, subject, and email body is focused on the recipient interacting with the link.
+            If you encounter any characters as "/", "\", "-","_" replace them with an empty string. 
             The email should have a {random_tone} tone.
+            The receiver of the email is {random_employee['name']} and should be in {random_employee['language']}. Address the receiver formal and by his full name.
+            The email signature should contain the first name, family name, role and the company name of one of the employees of {provider}.
+            Do not include the link in the body of the email, as it will be implemented separately and placed below the text body,
+            refer to it in the text body where it is placed. Just plain text in the body, nothing to include anymore.
+            Create also a call to action text that is limited to maximum 3 words but do not include it in the body.
             """,
             "temperature": 1,
             "maxOutputTokens": 8000,
@@ -147,7 +155,29 @@ class DataProvider:
     def get_random_issues(self):
         """Get a random issue from urgent_provider_issues"""
         return rd.choice(self.urgent_provider_issues)
-
+    # 
+    def get_random_news(self, file_path):
+        """
+        
+        
+        """
+        try:
+            # 
+            with open(file_path, 'r', encoding='utf-8') as file:
+                news_data = json.load(file)
+            if isinstance(news_data, list):
+                return rd.choice(news_data)
+            elif isinstance(news_data, dict) and 'news' in news_data:
+                return news_data
+            else:
+                print("")
+                return None
+        except FileNotFoundError:
+            print(f"{file_path}")
+            return None
+        except json.JSONDecodeError:
+            print(f"{file_path}")
+            return None
 
 class EmailGenerator:
     def __init__(self, model, config):
@@ -226,11 +256,8 @@ class EmailGenerator:
         schema = self.config.get("schemas", {}).get("provider_email")
         prompt = f"""
         {provider} is a service provider of {company_name}. {provider} has these {provider_departments}.
-        Write some tailored emails based on the role of {random_employee['role']} about an urgent matter that needs to be solved related to {company_name} concerning a service that {provider} offers. Elaborate about the issue and point out why it needs to be solved as quickly as possible.
-        The receiver of the email is {random_employee['name']} and should be in {random_employee['language']}. Address the receiver formally and by their last name.
-        The email signature should contain the first name, family name, role, and the company name of one of the employees of {provider}.
-        Do not include the link in the body of the email, as it will be implemented separately and placed below the text body, refer to it in the text body where it is placed.
-        Just plain text in the body, nothing to include anymore.
+        Write some tailored emails based on the role of {random_employee['role']} about an urgent matter that needs to be solved related to {company_name} concerning a service that {provider} offers. 
+        Elaborate about the issue and point out why it needs to be solved as quickly as possible.
         Use this JSON schema: {json.dumps(schema)}
         Return: list[service_emails_template]
         """
@@ -243,7 +270,7 @@ class EmailGenerator:
         service_emails = json.loads(repaired_response)
         return service_emails
 
-    def generate_events_emails(self, provider, provider_departments, company_name, random_employee, random_event):
+    def generate_events_emails(self, provider, provider_departments, company_name, random_employee, random_event, random_date):
         random_date = self.pick_random_date() # Generate a random date
 
         schema = self.config.get("schemas", {}).get("provider_email")
@@ -252,11 +279,7 @@ class EmailGenerator:
         Write some tailored emails based on the role of {random_employee['role']} about an event that is organized by {provider}. 
         The event is {random_event} and is geared towards {random_employee['role']}. The event will take place {random_date.strftime('%A %d %B at %H hour')}.
         Do not include urgent in the subject of the email. State that the spots available are limited and urgent action is required.
-        The receiver of the email is {random_employee['name']} and should be in {random_employee['language']}. Address the receiver formal and by his last name.
-        The email signature should contain the first name, family name, role and the company name of one of the employees of {provider}. 
-        Do not include the link in the body of the email, as it will be implemented separately and placed below the text body, refer to it in the text body where it is placed.
-        Just plain text in the body, nothing to include anymore.
-        Use this JSON schema: {json.dumps(schema)}
+       Use this JSON schema: {json.dumps(schema)}
         Return: list[events_emails_template]
         """
         # Call the generate method with the constructed prompt
@@ -267,18 +290,14 @@ class EmailGenerator:
         events_emails = json.loads(repaired_response)
         return events_emails
     
-    def generate_issue_emails(self, provider, provider_departments, company_name, random_employee, random_issue):
+    def generate_issue_emails(self, provider, provider_departments, company_name, random_employee, random_issue, random_date):
 
         schema = self.config.get("schemas", {}).get("provider_email")
         prompt = f"""
         {provider} is a service provider of {company_name}. {provider} has these {provider_departments}.
         Write some tailored emails based on the role of {random_employee['role']} about an issue that {provider} have with {company_name}. 
-        The issue is {random_issue} and is related to {random_employee['role']}.
-        Do not include urgent in the subject of the email.
-        The receiver of the email is {random_employee['name']} and should be in {random_employee['language']}. Address the receiver formal and by his last name.
-        The email signature should contain the first name, family name, role and the company name of one of the employees of {provider}. 
-        Do not include the link in the body of the email, as it will be implemented separately and placed below the text body, refer to it in the text body where it is placed.
-        Just plain text in the body, nothing to include anymore.
+        The issue is {random_issue} and is related to {random_employee['role']}.  Elaborate about the issue.
+        The issue needs to be solved before {random_date.strftime('%A %d %B at %H hour')}
         Use this JSON schema: {json.dumps(schema)}
         Return: list[issue_emails_template]
         """
@@ -289,6 +308,40 @@ class EmailGenerator:
         repaired_response = self.repair_json_response(response_text)
         issues_emails = json.loads(repaired_response)
         return issues_emails
+    
+    def generate_news_email(self, provider, company_name, random_employee, news, output_directory):
+        
+        # Path to the JSON file
+        news_file_path = os.path.join(output_directory, "proximus_main_company_report.json")
+                
+        # Load the contents of the JSON file
+        try:
+            with open(news_file_path, "r", encoding="utf-8") as file:
+                report_data = json.load(file)
+        except FileNotFoundError:
+            raise FileNotFoundError(f"The file {news_file_path} was not found.")
+        except json.JSONDecodeError:
+            raise ValueError(f"The file {news_file_path} does not contain valid JSON.")
+        
+        # Extract the news content
+        news = news.get("news", "No news available.")
+                
+        schema = self.config.get("schemas", {}).get("provider_email")
+        prompt = f"""
+        {provider} is a service provider of {company_name}. Write some tailored emails based on the role of {random_employee['role']} about 
+        an business opportunity that {provider} can offer {company_name} regarding {news}.
+        The particular business opportunity is also closely related to {random_employee}.
+        Use this JSON schema: {json.dumps(schema)}
+        Return: list[events_emails_template]
+        """
+        # Call the generate method with the constructed prompt
+        response_text = self.generate(prompt)
+
+        # Repair and parse the response
+        repaired_response = self.repair_json_response(response_text)
+        news_emails = json.loads(repaired_response)
+        return news_emails
+
     
     def repair_json_response(self, response_text):
         """
