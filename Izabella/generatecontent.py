@@ -334,21 +334,21 @@ class ProviderManager:
                 # Generating a report on a key employee for a provider
                 print(f"Generating key employees roles report for provider: {provider_name}")
                 report = self.generate_key_employees_roles_for_provider(provider_name, company_name)
-                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name}_key_employees_roles.json")
+                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name.lower()}_key_employees_roles.json")
                 JSONHandler.save_json_from_string(report, output_path)
                 print(f"Key employees roles report saved to {output_path}")
 
                 # Generating a report on the providers main colors
                 print(f"Generating a report on the providers main colors: {provider_name}")
                 report = self.generate_colors_provider(provider_name, company_name)
-                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name}_main_colors.json")
+                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name.lower()}_main_colors.json")
                 JSONHandler.save_json_from_string(report, output_path)
                 print(f"Main colors report saved to {output_path}")
 
                 # Generating a report on the providers departments
                 print(f"Generating a report on the providers departments: {provider_name}")
                 report = self.generate_departments_provider(provider_name, company_name)
-                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name}_departments.json")
+                output_path = os.path.join(os.path.dirname(self.output_file), f"{provider_name.lower()}_departments.json")
                 JSONHandler.save_json_from_string(report, output_path)
                 print(f"Main colors report saved to {output_path}")
 

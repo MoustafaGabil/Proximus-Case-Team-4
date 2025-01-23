@@ -1,9 +1,11 @@
 import os
 import json
 import re
+import requests
 from dotenv import load_dotenv
 from google import generativeai as genai
 import random as rd
+from tavily import TavilyClient
 
 
 class GeminiConfig:
@@ -301,3 +303,107 @@ class EmailGenerator:
         with open(output_file, 'w') as file:
             json.dump(emails, file, indent=4)
         print(f"Emails saved to {output_file}")
+        
+        
+        
+class LogoFetcher:
+    def __init__(self, output_dir='output/logos'):
+        """Initialize LogoFetcher with output directory."""
+        os.makedirs(output_dir, exist_ok=True)
+        self.output_dir = output_dir
+        
+        load_dotenv()
+        self.tavily_api_key = os.getenv("TAVILY_API_KEY")
+        
+        if not self.tavily_api_key:
+            raise ValueError("TAVILY_API_KEY not found in .env file")
+        
+        self.tavily_client = TavilyClient(api_key=self.tavily_api_key)
+
+    def _get_logo_url(self, name):
+        """Internal method to fetch logo URL."""
+        try:
+            response = self.tavily_client.search(
+                f"{name} logo", 
+                include_images=True, 
+                include_image_descriptions=True
+            )
+            return response['images'][0]['url'] if response['images'] else None
+        except Exception as e:
+            print(f"Error searching logo for {name}: {e}")
+            return None
+
+    def get_logo(self, name, logo_type='company'):
+        """
+        General method to fetch and save logo.
+        
+        Args:
+            name (str): Name of entity
+            logo_type (str): Type of logo ('company' or 'provider')
+        
+        Returns:
+            str: Path to saved logo or None
+        """
+        logo_url = self._get_logo_url(name)
+        if not logo_url:
+            print(f"No logo found for {name}")
+            return None
+
+        try:
+            image_response = requests.get(logo_url)
+            if image_response.status_code != 200:
+                print(f"Failed to retrieve logo for {name}")
+                return None
+
+            file_extension = os.path.splitext(logo_url)[1] or '.png'
+            output_file = os.path.join(
+                self.output_dir, 
+                f"{logo_type}_{name.lower().replace(' ', '_')}{file_extension}"
+            )
+
+            with open(output_file, "wb") as file:
+                file.write(image_response.content)
+
+            print(f"Logo saved for {name} at {output_file}")
+            return output_file
+
+        except Exception as e:
+            print(f"Error saving logo for {name}: {e}")
+            return None
+
+    def get_company_logo(self, company_name):
+        """Fetch logo for a specific company."""
+        return self.get_logo(company_name, logo_type='company')
+
+    def get_provider_logo(self, provider_name):
+        """Fetch logo for a specific provider."""
+        return self.get_logo(provider_name, logo_type='provider')
+
+    def save_logos(self, provider_json_path):
+        """
+        Save logos for entities in a JSON file.
+        
+        Args:
+            provider_json_path (str): Path to JSON with provider/company names
+        
+        Returns:
+            dict: Mapping of names to logo paths
+        """
+        try:
+            with open(provider_json_path, 'r') as file:
+                data = json.load(file)
+            
+            logos = {}
+            entities = data if isinstance(data, list) else data.keys()
+            
+            for entity in entities:
+                name = entity.get('name', entity) if isinstance(entity, dict) else entity
+                logo_path = self.get_logo(name)
+                if logo_path:
+                    logos[name] = logo_path
+            
+            return logos
+        
+        except Exception as e:
+            print(f"Error processing JSON: {e}")
+            return {}

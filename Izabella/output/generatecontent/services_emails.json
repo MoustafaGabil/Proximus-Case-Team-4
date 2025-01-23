@@ -1,0 +1,23 @@
+[
+    {
+        "service_emails_template": {
+            "email_subject": "Urgent: Service Disruption Impacting Proximus Customers",
+            "email_body": "Dear Ms. Wouters,\n\nI hope this email finds you well.\n\nI am writing to you today regarding an urgent matter concerning a service provided by Huawei that is currently experiencing significant disruptions and is impacting Proximus customers. Specifically, the [mention specific service name, e.g., 'cloud storage service'] is facing [mention specific issue, e.g., 'intermittent outages and slow data transfer speeds'].\n\nThis issue is causing considerable inconvenience for Proximus users, leading to [mention consequences, e.g., 'data loss, service interruptions, and a negative impact on their overall experience']. The severity of the situation requires immediate attention to mitigate further damage and restore service stability as quickly as possible.\n\nWe have already initiated an internal investigation and are working diligently to identify the root cause and implement a solution. We are committed to resolving this issue with the utmost urgency and are prepared to collaborate closely with your team to ensure a swift and effective resolution. Please find the detailed technical report in the link below.\n\nWe appreciate your prompt attention to this critical matter and look forward to your swift response.\n\nSincerely,\n\nLi Wei\nService Delivery Manager\nHuawei",
+            "email_recipient": "Emma Wouters"
+        }
+    },
+    {
+        "service_emails_template": {
+            "email_subject": "Critical: Performance Degradation of Huawei Service for Proximus",
+            "email_body": "Dear Ms. Wouters,\n\nI trust this email reaches you in good health.\n\nI am reaching out to you today to address a critical issue regarding the performance of a Huawei service that is directly affecting Proximus customers. The [mention specific service name, e.g., 'network management platform'] is currently experiencing [mention specific issue, e.g., 'severe performance degradation, resulting in slow response times and frequent errors'].\n\nThis performance degradation is having a significant impact on Proximus's ability to deliver reliable services to its end-users, leading to [mention consequences, e.g., 'customer dissatisfaction, operational inefficiencies, and potential financial losses']. The situation is rapidly escalating and requires immediate action to prevent further disruption.\n\nOur technical teams are actively engaged in diagnosing the problem and implementing corrective measures. We are fully committed to resolving this issue as quickly as possible and are prepared to work closely with your team to ensure a seamless recovery. Please find the detailed analysis in the link below.\n\nWe urge you to treat this matter with the highest priority and look forward to your immediate cooperation.\n\nBest regards,\n\nLi Wei\nService Delivery Manager\nHuawei",
+            "email_recipient": "Emma Wouters"
+        }
+    },
+    {
+        "service_emails_template": {
+            "email_subject": "High Priority: Huawei Service Outage Affecting Proximus",
+            "email_body": "Dear Ms. Wouters,\n\nI hope this email finds you well.\n\nI am writing to you today to inform you of a high-priority issue concerning a complete outage of a Huawei service that is impacting Proximus customers. The [mention specific service name, e.g., 'data analytics platform'] is currently experiencing a [mention specific issue, e.g., 'complete service outage, rendering it inaccessible to all users'].\n\nThis outage is causing a major disruption to Proximus's operations, leading to [mention consequences, e.g., 'critical data loss, inability to monitor network performance, and a significant impact on customer service']. The situation is extremely urgent and requires immediate intervention to restore service functionality.\n\nOur engineering teams are working around the clock to identify the root cause and implement a solution. We are fully committed to resolving this issue as quickly as possible and are prepared to collaborate closely with your team to ensure a swift and effective recovery. Please find the detailed incident report in the link below.\n\nWe request your immediate attention to this critical matter and look forward to your prompt response.\n\nSincerely,\n\nLi Wei\nService Delivery Manager\nHuawei",
+            "email_recipient": "Emma Wouters"
+        }
+    }
+]

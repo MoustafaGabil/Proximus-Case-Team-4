@@ -1,0 +1,107 @@
+[
+    {
+        "first_name": "Steven",
+        "family_name": "Li",
+        "role": "Account Manager",
+        "department": "Sales",
+        "email_address": "steven.li@huawei.be"
+    },
+    {
+        "first_name": "Jeroen",
+        "family_name": "De Smet",
+        "role": "Solution Architect",
+        "department": "Technical",
+        "email_address": "jeroen.desmet@huawei.be"
+    },
+    {
+        "first_name": "Frederic",
+        "family_name": "Vandeput",
+        "role": "Key Account Manager",
+        "department": "Sales",
+        "email_address": "frederic.vandeput@huawei.be"
+    },
+    {
+        "first_name": "Bart",
+        "family_name": "Van Den Bosch",
+        "role": "Senior Solution Architect",
+        "department": "Technical",
+        "email_address": "bart.vandenbosch@huawei.be"
+    },
+    {
+        "first_name": "David",
+        "family_name": "Van Der Veken",
+        "role": "Sales Manager",
+        "department": "Sales",
+        "email_address": "david.vanderveken@huawei.be"
+    },
+    {
+        "first_name": "Wouter",
+        "family_name": "Van Der Veken",
+        "role": "Solution Architect",
+        "department": "Technical",
+        "email_address": "wouter.vanderveken@huawei.be"
+    },
+    {
+        "first_name": "Tom",
+        "family_name": "Van De Velde",
+        "role": "Senior Account Manager",
+        "department": "Sales",
+        "email_address": "tom.vandevelde@huawei.be"
+    },
+    {
+        "first_name": "Kevin",
+        "family_name": "De Bruyne",
+        "role": "Technical Support Engineer",
+        "department": "Technical",
+        "email_address": "kevin.debruyne@huawei.be"
+    },
+    {
+        "first_name": "Sofie",
+        "family_name": "De Clercq",
+        "role": "Marketing Manager",
+        "department": "Marketing",
+        "email_address": "sofie.declercq@huawei.be"
+    },
+    {
+        "first_name": "Peter",
+        "family_name": "Janssens",
+        "role": "Project Manager",
+        "department": "Project Management",
+        "email_address": "peter.janssens@huawei.be"
+    },
+    {
+        "first_name": "Liesbeth",
+        "family_name": "Peeters",
+        "role": "HR Manager",
+        "department": "Human Resources",
+        "email_address": "liesbeth.peeters@huawei.be"
+    },
+    {
+        "first_name": "Jan",
+        "family_name": "Willems",
+        "role": "Network Engineer",
+        "department": "Technical",
+        "email_address": "jan.willems@huawei.be"
+    },
+    {
+        "first_name": "Annelies",
+        "family_name": "Verstraeten",
+        "role": "Legal Counsel",
+        "department": "Legal",
+        "email_address": "annelies.verstraeten@huawei.be"
+    },
+    {
+        "first_name": "Dirk",
+        "family_name": "Martens",
+        "role": "Finance Manager",
+        "department": "Finance",
+        "email_address": "dirk.martens@huawei.be"
+    },
+    {
+        "first_name": "Evelien",
+        "family_name": "Van Camp",
+        "role": "Customer Service Representative",
+        "department": "Customer Service",
+        "email_address": "evelien.vancamp@huawei.be"
+    }
+]
