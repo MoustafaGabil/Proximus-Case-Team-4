@@ -82,7 +82,6 @@ SMTP_PASSWORD=your_password_here
 .
 ├── notebook.ipynb              # Main Jupyter Notebook for data collection, email generation, and Gophish interaction
 ├── train_LLM.ipynb             # Jupyter Notebook for training the custom LLM (optional)
-├── Proximus Project.md         # Initial project outline document
 ├── .env                        # Environment variables (API keys, SMTP credentials) - DO NOT COMMIT THIS FILE
 ├── proximus_news.json          # Example JSON output: Proximus news data
 ├── proximus_employees.json     # Example JSON output: Proximus employee data
@@ -140,6 +139,28 @@ SMTP_PASSWORD=your_password_here
 
 -  Keeping the README and documentation up to date as the project evolves or scales.
 
+## :sparkles:Fine-Tune GPT-2 for Domain-Specific Text Generation
+train_LLM.ipynb demonstrates a MVP for fine-tuning the GPT-2 language model to generate domain-specific text, such as phishing email simulations. The model was trained on a small dataset as part of the MVP design.
+
+The training process was conducted in Google Colab, leveraging its GPU capabilities to handle the computational demands. However, due to the free tier's limitations in GPU memory and RAM, the training process was constrained but still effective for demonstration purposes.
+
+#### The code includes:
+
+Preprocessing and tokenizing input text using a custom PyTorch Dataset class.
+Fine-tuning GPT-2 using the Hugging Face Transformers library with tailored training arguments.
+Implementation of a custom loss function and basic evaluation metrics.
+Saving the fine-tuned model to Google Drive for later use.
+You can adapt this code with your own dataset to fine-tune a language model that generates text in a style consistent with your domain-specific needs.
+
+#### Required Libraries:
+
+transformers
+torch
+pandas
+datasets
+This setup offers an accessible starting point for generating high-quality text tailored to specialized content requirements.
+
+
 ## :sparkles:Disclaimer
 
 This project is for educational and research purposes only.  Use it responsibly and ethically. Do not use it for illegal or malicious activities.  Phishing simulations should only be conducted with the explicit consent of the target organization.
@@ -159,3 +180,39 @@ Challenges and Improvements Section: Highlights potential issues and areas for f
 Important Disclaimer: Emphasizes the ethical considerations and responsible use of the project.
 
 Concise Language: Uses more direct and concise wording for better readability. Removed unnecessary introductory phrases.
+
+
+## :sparkles:Our team
+
+#### For more details, feel free to explore the repository and get in touch via GitHub issues.
+
+
+
+:crown:Rik: Team leader:
+- GitHub: https://github.com/ricosaxo
+- Linkedin: www.linkedin.com/in/rik-sas-456b7611/?trk=public-profile-join-page
+
+
+:crown:Yusra: repo manager
+- GitHub: https://github.com/yusra2323
+- Linkedin: www.linkedin.com/in/yusra-ali-9a3566308
+
+
+:crown:Mustafa:
+- GitHub: https://github.com/
+- Linkedin: www.linkedin.com/moustafa-gabil
+
+
+:crown:Izabella:
+- GitHub: https://github.com/IzaMacBor
+- Linkedin: www.linkedin.com/in/izabela-mac-borkowska-752b9a2b1
+
+
+:crown:Maarten:
+- GitHub: https://github.com/Mrtnwrnz
+- Linkedin: https://www.linkedin.com/in/maarten-w/
+
+
+:crown:Majid: 
+- GitHub: https://github.com/majidaskary
+- Linkedin: www.linkedin.com/in/majidaskary
