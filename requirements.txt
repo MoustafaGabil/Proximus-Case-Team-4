@@ -1,3 +1,8 @@
 google-genai
 python-dotenv
 gophish
+pandas
+transformers
+torch
+datasets
+google-colab
